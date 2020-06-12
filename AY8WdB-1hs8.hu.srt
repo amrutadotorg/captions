@@ -1,0 +1,4947 @@
+1
+00:00:08,060 --> 00:00:12,450
+Manapság, amikor az ember újságot olvas,
+
+2
+00:00:13,000 --> 00:00:15,640
+vagy másokkal találkozik,
+
+3
+00:00:15,740 --> 00:00:17,010
+azt lehet érezni,
+
+4
+00:00:18,460 --> 00:00:19,700
+hogy mindenki
+
+5
+00:00:21,680 --> 00:00:23,440
+egy katasztrófára,
+
+6
+00:00:25,290 --> 00:00:29,640
+vagy valamilyen megoldásra vár,
+
+7
+00:00:31,480 --> 00:00:33,260
+aminek be kell következnie.
+
+8
+00:00:36,330 --> 00:00:38,600
+Ez az érzés, ami felébred bennünk,
+
+9
+00:00:44,360 --> 00:00:46,590
+legbelülről fakad,
+
+10
+00:00:48,180 --> 00:00:50,930
+a tudatalattinkból származik,
+
+11
+00:00:51,490 --> 00:00:54,200
+mert a helyzet, amit magunk körül látunk,
+
+12
+00:00:57,120 --> 00:00:59,500
+nagyon veszélyesnek tűnik.
+
+13
+00:01:01,660 --> 00:01:07,920
+Nem arról van szó, hogy a pénzügyi gondjaink
+
+14
+00:01:11,080 --> 00:01:15,880
+vagy más hétköznapi problémák nyugtalanítanak bennünket,
+
+15
+00:01:18,480 --> 00:01:21,920
+hanem az zaklatja fel az embereket,
+
+16
+00:01:23,790 --> 00:01:27,510
+hogy olyanokká váltak,
+
+17
+00:01:31,320 --> 00:01:33,570
+mint a gépek.
+
+18
+00:01:36,890 --> 00:01:38,320
+Őrülten rohangálnak.
+
+19
+00:01:39,080 --> 00:01:41,090
+Reggeltől estig rohannak.
+
+20
+00:01:42,750 --> 00:01:44,380
+Nincs idejük egymásra.
+
+21
+00:01:46,820 --> 00:01:51,190
+Néha nincs érzékünk egymás megértéséhez,
+
+22
+00:01:55,250 --> 00:01:59,180
+és olyan, mintha mindnyájan érzéketlenné váltunk volna
+
+23
+00:02:00,920 --> 00:02:02,550
+a másik problémája iránt.
+
+24
+00:02:08,060 --> 00:02:09,280
+Emellett,
+
+25
+00:02:09,820 --> 00:02:11,430
+az intelligens,
+
+26
+00:02:14,160 --> 00:02:17,510
+szerető emberek úgy érzik,
+
+27
+00:02:21,300 --> 00:02:26,350
+a hatalmon lévő személyek
+
+28
+00:02:27,550 --> 00:02:29,390
+nem éreznek felelősséget
+
+29
+00:02:31,090 --> 00:02:33,550
+az egész emberiség iránt.
+
+30
+00:02:37,930 --> 00:02:42,450
+Továbbá, a szegénység
+
+31
+00:02:42,880 --> 00:02:45,670
+és egyéb anyagi jellegű problémák
+
+32
+00:02:46,350 --> 00:02:48,590
+még mindig túlságosan zavarnak bennünket.
+
+33
+00:02:48,900 --> 00:02:50,790
+Egyik oldalon ott a jólét,
+
+34
+00:02:51,080 --> 00:02:53,320
+másik oldalon a szegénység.
+
+35
+00:02:54,570 --> 00:03:01,490
+Egyik oldalon ott az élet tudományos megközelítése,
+
+36
+00:03:02,500 --> 00:03:06,860
+másik oldalon pedig amit a tudomány hozott létre,
+
+37
+00:03:07,190 --> 00:03:09,550
+pl. az atombomba és hasonlók.
+
+38
+00:03:09,950 --> 00:03:15,370
+Ezek mind egyfajta zűrzavart hoznak létre az elménkben.
+
+39
+00:03:17,370 --> 00:03:19,960
+Úgy tűnik, mindenki össze van zavarodva.
+
+40
+00:03:20,510 --> 00:03:22,080
+Az emberek nem tudják,
+
+41
+00:03:22,300 --> 00:03:25,350
+hogy amit tesznek az jó-e vagy rossz,
+
+42
+00:03:25,560 --> 00:03:29,330
+jó irányba mennek-e vagy rossz irányba?
+
+43
+00:03:30,530 --> 00:03:34,000
+Időnként nagyon felháborodunk, frusztráltnak érezzük magunkat,
+
+44
+00:03:36,210 --> 00:03:37,610
+és nem tudjuk,
+
+45
+00:03:37,890 --> 00:03:40,930
+mi végre vagyunk itt a földön.
+
+46
+00:03:41,830 --> 00:03:45,520
+Ha valaki meglátogatja a világunkat,
+
+47
+00:03:46,110 --> 00:03:49,790
+az első benyomása a zűrzavar lesz.
+
+48
+00:03:50,910 --> 00:03:53,490
+Az emberek teljesen össze vannak zavarodva,
+
+49
+00:03:54,540 --> 00:03:57,070
+és nagyon bizonytalanok,
+
+50
+00:03:57,300 --> 00:03:58,980
+rendkívül bizonytalanok.
+
+51
+00:03:59,310 --> 00:04:02,870
+A gazdagok azért bizonytalanok, mert túl sok pénzük van.
+
+52
+00:04:03,500 --> 00:04:06,540
+A szegények azért bizonytalanok, mert semennyi pénzük sincs.
+
+53
+00:04:10,440 --> 00:04:13,920
+Mindenféle bizonytalanságok működnek,
+
+54
+00:04:14,660 --> 00:04:23,010
+amelyek létrehoznak egy zavarodott világot.
+
+55
+00:04:26,840 --> 00:04:27,980
+Nézzük meg,
+
+56
+00:04:28,350 --> 00:04:30,200
+hogyan jutottunk el
+
+57
+00:04:31,960 --> 00:04:34,840
+az amőbától az emberi lények szintjére.
+
+58
+00:04:35,780 --> 00:04:38,120
+Emberi lények lettünk anélkül,
+
+59
+00:04:38,530 --> 00:04:41,010
+hogy bármit is megértettünk volna az egészből.
+
+60
+00:04:43,600 --> 00:04:46,640
+Hát nem kellene továbbfejlődnünk,
+
+61
+00:04:47,610 --> 00:04:49,540
+elérnünk valami magasztosabbat?
+
+62
+00:04:49,950 --> 00:04:52,950
+Nem kellene kikerülnünk ebből a zűrzavarból?
+
+63
+00:04:53,000 --> 00:04:55,990
+Vagy így kell végeznünk majd,
+
+64
+00:04:56,230 --> 00:04:58,590
+ezzel a zűrzavarral az elménkben?
+
+65
+00:05:01,090 --> 00:05:04,420
+Ez a zűrzavar bizonyos értelemben fontos.
+
+66
+00:05:05,410 --> 00:05:07,100
+Ha nincs zűrzavar,
+
+67
+00:05:07,230 --> 00:05:10,000
+nem fogunk megoldást keresni arra,
+
+68
+00:05:10,050 --> 00:05:11,750
+hogy kijussunk belőle,
+
+69
+00:05:12,000 --> 00:05:14,640
+és ezért érzik az emberek,
+
+70
+00:05:15,020 --> 00:05:18,480
+hogy valamilyen megoldásnak meg kell jelennie.
+
+71
+00:05:21,440 --> 00:05:23,200
+Azért vagyunk összezavarodva,
+
+72
+00:05:23,580 --> 00:05:25,890
+mert nincsenek abszolút értékeink.
+
+73
+00:05:26,310 --> 00:05:28,740
+Nem érezzük, mik az abszolút értékek.
+
+74
+00:05:29,240 --> 00:05:30,870
+Valaki azt mondja nekünk,
+
+75
+00:05:30,970 --> 00:05:32,870
+nagyon jó, ha becsületesek vagyunk,
+
+76
+00:05:33,320 --> 00:05:35,360
+de azt tapasztaljuk, hogy nem így van.
+
+77
+00:05:35,690 --> 00:05:38,040
+Nem éri meg nagyon becsületesnek lenni.
+
+78
+00:05:38,410 --> 00:05:39,720
+Egyesek az mondják,
+
+79
+00:05:39,990 --> 00:05:41,520
+legjobb odaadónak,
+
+80
+00:05:41,790 --> 00:05:47,280
+hűnek lenni, de nem, ez így nem működik.
+
+81
+00:05:51,210 --> 00:05:53,340
+De kell lennie valaminek,
+
+82
+00:05:53,610 --> 00:05:54,930
+ami eldönti,
+
+83
+00:05:55,180 --> 00:05:57,360
+igazunk van vagy tévedünk.
+
+84
+00:05:57,610 --> 00:05:59,880
+Ezt gondoljuk.
+
+85
+00:06:01,830 --> 00:06:03,690
+Így kell lennie,
+
+86
+00:06:05,070 --> 00:06:06,180
+mert végül is,
+
+87
+00:06:06,280 --> 00:06:08,960
+ez a világ annyi szeretettel
+
+88
+00:06:09,270 --> 00:06:11,860
+és gondoskodással lett megteremtve,
+
+89
+00:06:12,080 --> 00:06:13,740
+annyi gyengédséggel.
+
+90
+00:06:14,060 --> 00:06:16,240
+Egy orvos tudja,
+
+91
+00:06:16,460 --> 00:06:19,570
+milyen gyönyörűnek lettünk megteremtve belül,
+
+92
+00:06:19,800 --> 00:06:24,180
+hogyan alakított ki kapcsolatot minden egyes ideg egy érzéksejttel.
+
+93
+00:06:25,280 --> 00:06:27,570
+Hogyan lett az egész test megteremtve -
+
+94
+00:06:27,820 --> 00:06:33,600
+hogyan lettek a szemek ilyen precizitással létrehozva.
+
+95
+00:06:35,770 --> 00:06:39,490
+Rengeteg általunk megalkotott fényképezőgép van a világon,
+
+96
+00:06:39,930 --> 00:06:43,440
+de egyetlen egy sem hasonlítható össze a szemünkkel.
+
+97
+00:06:45,330 --> 00:06:48,300
+Micsoda fantasztikus gépezet lett létrehozva bennünk,
+
+98
+00:06:48,560 --> 00:06:50,540
+sok gondoskodással,
+
+99
+00:06:50,860 --> 00:06:53,140
+mások pedig el lettek vetve.
+
+100
+00:06:53,370 --> 00:06:56,350
+Sok minden kiesett az evolúciós folyamatból,
+
+101
+00:06:56,570 --> 00:06:59,210
+és akkor létrejött az ember,
+
+102
+00:06:59,400 --> 00:07:02,210
+az emberi lénynek a nagyszerű személyisége.
+
+103
+00:07:02,410 --> 00:07:04,940
+Mi célból?
+
+104
+00:07:05,130 --> 00:07:07,430
+Azért, hogy össze legyen zavarodva?
+
+105
+00:07:07,710 --> 00:07:09,000
+Hogy fel legyen háborodva?
+
+106
+00:07:09,190 --> 00:07:10,560
+Bizonytalan legyen?
+
+107
+00:07:10,720 --> 00:07:12,260
+Lehetséges ez?
+
+108
+00:07:14,380 --> 00:07:15,660
+Nem így van.
+
+109
+00:07:15,910 --> 00:07:17,100
+Nem lehet így.
+
+110
+00:07:17,450 --> 00:07:20,720
+Végül is, miért vagyunk mi emberek?
+
+111
+00:07:20,750 --> 00:07:22,560
+Istennek valamilyen szándéka volt,
+
+112
+00:07:22,710 --> 00:07:24,140
+amikor megteremtett minket,
+
+113
+00:07:24,240 --> 00:07:25,550
+semmi kétség efelől.
+
+114
+00:07:25,670 --> 00:07:27,590
+Okkal adott nekünk ilyen testet -
+
+115
+00:07:27,720 --> 00:07:30,190
+ezt a felegyenesedett testet.
+
+116
+00:07:31,530 --> 00:07:34,700
+Okkal teremtődött minden,
+
+117
+00:07:34,830 --> 00:07:37,290
+ami nekünk ma emberi lényeknek van.
+
+118
+00:07:38,480 --> 00:07:40,580
+Még a zűrzavar is, amint mondtam.
+
+119
+00:07:43,060 --> 00:07:46,650
+Most van itt a keresés ideje.
+
+120
+00:07:46,940 --> 00:07:49,000
+Emberek ezrei keresnek.
+
+121
+00:07:49,170 --> 00:07:51,790
+Elegük van abból, amit eddig csináltak
+
+122
+00:07:51,950 --> 00:07:53,440
+- elegük van belőle.
+
+123
+00:07:53,740 --> 00:07:55,320
+Nem divatból keresnek.
+
+124
+00:07:55,500 --> 00:07:57,000
+Sokan azt hiszik, ez egy divat,
+
+125
+00:07:57,110 --> 00:07:59,830
+egy elveszett fajnak, ennek vagy annak hiszik őket.
+
+126
+00:08:00,070 --> 00:08:01,180
+Ez nem igaz.
+
+127
+00:08:02,240 --> 00:08:03,930
+Még soha nem volt ennyi kereső,
+
+128
+00:08:04,100 --> 00:08:08,000
+mint manapság, és ők keresnek.
+
+129
+00:08:08,100 --> 00:08:09,100
+Meglehet,
+
+130
+00:08:09,200 --> 00:08:11,180
+hogy nem tudják mi az, amit keresnek,
+
+131
+00:08:11,390 --> 00:08:14,050
+de nincsenek megelégedve a dolgok állásával,
+
+132
+00:08:14,320 --> 00:08:17,550
+és valami magasabb rendűt keresnek.
+
+133
+00:08:19,690 --> 00:08:22,000
+És ez a magasabb rendű valami, az Abszolút.
+
+134
+00:08:22,380 --> 00:08:23,490
+Az Abszolút.
+
+135
+00:08:24,790 --> 00:08:27,170
+Ha ez a magasabb rendű valami az Abszolút,
+
+136
+00:08:27,370 --> 00:08:29,180
+minden mást hozzá kell viszonyítani.
+
+137
+00:08:31,070 --> 00:08:34,700
+Az Abszolút azt jelenti, minden más ehhez viszonyul.
+
+138
+00:08:34,840 --> 00:08:37,000
+Például, ha itt van egy méter,
+
+139
+00:08:37,280 --> 00:08:39,360
+és azt mondjuk ez itt öt méter,
+
+140
+00:08:39,520 --> 00:08:40,910
+az azt jelenti,
+
+141
+00:08:41,100 --> 00:08:47,350
+hogy ötszöröse a párizsi aranyrúdnak,
+
+142
+00:08:48,550 --> 00:08:50,410
+ami "a méter."
+
+143
+00:08:51,630 --> 00:08:54,560
+Mindent ehhez az Abszolúthoz kell viszonyítanunk,
+
+144
+00:08:55,520 --> 00:09:03,360
+és ez alapján mérjük a dolgokat.
+
+145
+00:09:05,000 --> 00:09:07,420
+Például, ha megnézzük a vallásokat,
+
+146
+00:09:07,930 --> 00:09:09,500
+oly sok vallás létezett már,
+
+147
+00:09:09,710 --> 00:09:11,170
+egyik a másikat követte.
+
+148
+00:09:14,120 --> 00:09:15,160
+Volt judaizmus,
+
+149
+00:09:15,460 --> 00:09:16,310
+kereszténység,
+
+150
+00:09:17,190 --> 00:09:18,010
+hinduizmus,
+
+151
+00:09:18,890 --> 00:09:19,760
+szikhizmus,
+
+152
+00:09:22,530 --> 00:09:23,520
+buddhizmus,
+
+153
+00:09:23,840 --> 00:09:24,850
+dzsáinizmus,
+
+154
+00:09:27,330 --> 00:09:28,200
+iszlám
+
+155
+00:09:28,610 --> 00:09:30,140
+- oly sok vallás.
+
+156
+00:09:31,670 --> 00:09:36,150
+Ezeknek mind az Abszolúthoz kell viszonyulniuk.
+
+157
+00:09:37,750 --> 00:09:39,340
+Meg kell tudnunk,
+
+158
+00:09:39,670 --> 00:09:42,200
+ezek egyenként hány "métert" alkotnak.
+
+159
+00:09:43,360 --> 00:09:46,070
+Hol a helyük az Abszolúthoz képest.
+
+160
+00:09:47,500 --> 00:09:50,460
+Nem lehet csupán annyi,
+
+161
+00:09:50,560 --> 00:09:53,030
+hogy pl. az emberek azt mondják:
+
+162
+00:09:53,170 --> 00:09:55,220
+"Ó mi elértük az Abszolútot.
+
+163
+00:09:55,870 --> 00:09:57,780
+Anyám, mi önmegvalósult lelkek vagyunk,
+
+164
+00:09:58,070 --> 00:09:59,380
+mi újjászülettünk."
+
+165
+00:09:59,650 --> 00:10:00,820
+És ezt honnan tudod?"
+
+166
+00:10:01,020 --> 00:10:03,350
+"Azért, mert egy fényt látok a fejemben."
+
+167
+00:10:03,690 --> 00:10:05,060
+Mit jelent ez?
+
+168
+00:10:06,080 --> 00:10:07,680
+Ez nem lehet az Abszolút,
+
+169
+00:10:07,880 --> 00:10:09,460
+amikor látod, hogy ott van a fény.
+
+170
+00:10:12,340 --> 00:10:15,120
+Ha elájulsz, akkor is láthatsz olyat,
+
+171
+00:10:15,580 --> 00:10:17,960
+mint egy kis rövidzárlatkor keletkező fény.
+
+172
+00:10:19,360 --> 00:10:20,560
+Mások azt mondják:
+
+173
+00:10:21,030 --> 00:10:22,660
+"Igen, én rendelkezem a tudással."
+
+174
+00:10:23,580 --> 00:10:25,420
+Hogyan? Mi az?"
+
+175
+00:10:26,760 --> 00:10:29,270
+"Azért Anyám, mert már nem gondolkodom többé."
+
+176
+00:10:30,280 --> 00:10:32,100
+Azt mondtam: "Bizonyára részeg vagy."
+
+177
+00:10:36,310 --> 00:10:39,670
+Mindent amit keresünk,
+
+178
+00:10:42,100 --> 00:10:45,460
+viszonyítanunk kell a többi dologhoz.
+
+179
+00:10:46,060 --> 00:10:48,900
+Máskülönben nem jelenik meg a megoldás.
+
+180
+00:10:49,000 --> 00:10:51,390
+Ahhoz, hogy megtaláljuk valaminek az abszolút értékét,
+
+181
+00:10:53,160 --> 00:10:57,920
+tudnunk kell, hogy semmi más nem létezik,
+
+182
+00:10:58,000 --> 00:10:59,610
+csak az Abszolút.
+
+183
+00:10:59,860 --> 00:11:02,630
+Az az egyetlen, az egy, az egység.
+
+184
+00:11:02,820 --> 00:11:05,820
+Nem lehet párhuzamot vonni vele.
+
+185
+00:11:12,450 --> 00:11:13,590
+Vannak emberek,
+
+186
+00:11:13,880 --> 00:11:15,490
+akik kinn az utcán ugrálnak,
+
+187
+00:11:15,800 --> 00:11:17,820
+és az mondják: "Mi megtaláltuk a Végsőt."
+
+188
+00:11:18,090 --> 00:11:19,660
+Akkor, miért ugráltok?
+
+189
+00:11:21,960 --> 00:11:23,410
+Ennek az Abszolútnak,
+
+190
+00:11:23,850 --> 00:11:28,840
+ha az evolúciós folyamat része,
+
+191
+00:11:29,630 --> 00:11:32,410
+a tudatosságotokban kell megjelennie.
+
+192
+00:11:35,610 --> 00:11:41,900
+Minden, amit az evolúciónk során értünk el,
+
+193
+00:11:42,220 --> 00:11:44,410
+a tudatosságunkban jelent meg.
+
+194
+00:11:45,410 --> 00:11:48,490
+Ez azt jelenti, hogy a tudatosságunk részévé kell válnia, a szerves részévé.
+
+195
+00:11:50,540 --> 00:11:52,950
+a szerves részévé.
+
+196
+00:11:53,550 --> 00:11:55,010
+Ahogy én látlak benneteket;
+
+197
+00:11:55,660 --> 00:11:56,840
+ahogy én látlak titeket,
+
+198
+00:11:57,130 --> 00:11:59,210
+úgy kell nektek is látnotok,
+
+199
+00:12:03,980 --> 00:12:06,220
+és ennek a fénynek a segítségével
+
+200
+00:12:06,320 --> 00:12:07,900
+meg kell tudnunk magyarázni
+
+201
+00:12:08,090 --> 00:12:09,840
+minden egyes dolgot.
+
+202
+00:12:10,370 --> 00:12:12,520
+Például, ha ebben a szobában sötét van,
+
+203
+00:12:15,910 --> 00:12:17,150
+és nem látlak titeket,
+
+204
+00:12:17,520 --> 00:12:19,010
+nem tudom ki hol ül,
+
+205
+00:12:19,440 --> 00:12:22,300
+ki milyen viszonyban van egymással.
+
+206
+00:12:24,610 --> 00:12:26,410
+De amikor kigyullad a fény,
+
+207
+00:12:26,510 --> 00:12:28,560
+azonnal tudjuk,
+
+208
+00:12:30,810 --> 00:12:33,630
+hogy ez az úr a harmadik a sorban,
+
+209
+00:12:33,890 --> 00:12:36,060
+az az úr az ötödik a sorban.
+
+210
+00:12:37,160 --> 00:12:41,510
+Emellett, tudjátok milyen az alakja,
+
+211
+00:12:41,680 --> 00:12:43,950
+milyen a színe annak az embernek.
+
+212
+00:12:44,250 --> 00:12:48,330
+Mindent, amit a szemeinken keresztül láthatunk,
+
+213
+00:12:49,750 --> 00:12:52,820
+akkor látjuk, amikor van fény.
+
+214
+00:12:54,780 --> 00:12:56,910
+De ez a fény nem elegendő,
+
+215
+00:12:57,350 --> 00:12:59,190
+mert ezzel már rendelkezünk,
+
+216
+00:13:00,570 --> 00:13:03,280
+a tudatosságunkba ezzel nem kerül be semmi több.
+
+217
+00:13:04,730 --> 00:13:06,530
+Egy olyan fényre gondoljunk,
+
+218
+00:13:08,170 --> 00:13:11,830
+ami teljes képet ad nekünk arról,
+
+219
+00:13:12,860 --> 00:13:15,800
+hogy mi a kapcsolat köztünk
+
+220
+00:13:16,310 --> 00:13:19,230
+és a Teremtőnk között.
+
+221
+00:13:20,570 --> 00:13:24,550
+Hogyan kapcsolódnak egymáshoz azok,
+
+222
+00:13:25,160 --> 00:13:26,740
+akik eljöttek erre a földre,
+
+223
+00:13:27,180 --> 00:13:29,440
+hogy elmagyarázzák nekünk ezt a kapcsolatot?
+
+224
+00:13:31,370 --> 00:13:34,650
+Hogyan viszonyulnak az emberek egymáshoz,
+
+225
+00:13:37,250 --> 00:13:38,410
+más országokhoz,
+
+226
+00:13:39,620 --> 00:13:40,800
+más emberekhez,
+
+227
+00:13:41,640 --> 00:13:43,050
+más arcokhoz,
+
+228
+00:13:43,330 --> 00:13:45,070
+fajokhoz és hitvallásokhoz?
+
+229
+00:13:46,270 --> 00:13:50,800
+Mi a kapcsolat ember és természet között?
+
+230
+00:13:54,410 --> 00:13:56,920
+Mi a kapcsolat ember
+
+231
+00:13:58,460 --> 00:14:00,890
+és az őt körülvevő elemek között?
+
+232
+00:14:01,950 --> 00:14:03,710
+Csak úgy lógunk a levegőben,
+
+233
+00:14:04,500 --> 00:14:05,670
+és nem tudjuk,
+
+234
+00:14:05,950 --> 00:14:08,840
+van-e bármiféle közünk a Naphoz.
+
+235
+00:14:10,320 --> 00:14:11,790
+A Nap ad nekünk fényt,
+
+236
+00:14:12,050 --> 00:14:13,290
+de mi a helyzet velünk?
+
+237
+00:14:13,530 --> 00:14:15,940
+Tudjuk-e irányítani a Napot, vagy nem?
+
+238
+00:14:17,590 --> 00:14:20,410
+Van-e bármiféle finom kapcsolat köztünk és közte,
+
+239
+00:14:20,670 --> 00:14:21,960
+vagy nincs?
+
+240
+00:14:24,580 --> 00:14:25,970
+Mindezeket a kapcsolatokat
+
+241
+00:14:26,190 --> 00:14:29,530
+ilyen abszolút megállapításokban kell megalapozni,
+
+242
+00:14:29,770 --> 00:14:31,800
+mert egyébként nem abszolútak.
+
+243
+00:14:32,470 --> 00:14:33,980
+Nem kellene megelégednünk
+
+244
+00:14:34,030 --> 00:14:36,380
+nagyon olcsó dolgokkal,
+
+245
+00:14:37,810 --> 00:14:39,450
+amiket pénzért meg tudunk venni.
+
+246
+00:14:40,330 --> 00:14:41,060
+Ezek olcsó dolgok
+
+247
+00:14:41,740 --> 00:14:43,530
+- azt hiszem ez a legolcsóbb dolog -
+
+248
+00:14:43,770 --> 00:14:45,970
+nagyon könnyű pénzzel megvenni valamit.
+
+249
+00:14:46,320 --> 00:14:47,920
+Az emberek mondhatják azt:
+
+250
+00:14:48,220 --> 00:14:49,530
+"Nincs pénzünk."
+
+251
+00:14:49,740 --> 00:14:51,000
+Nem ez a lényeg,
+
+252
+00:14:51,170 --> 00:14:52,850
+mert azok, akiknek van pénzük,
+
+253
+00:14:53,040 --> 00:14:54,490
+meg tudják venni.
+
+254
+00:14:54,710 --> 00:14:56,330
+Ennek olyasminek kell lenni,
+
+255
+00:14:56,590 --> 00:14:57,980
+ami pénzzel nem vehető meg.
+
+256
+00:14:58,160 --> 00:14:59,930
+Az emberek ezt nem értik.
+
+257
+00:15:00,120 --> 00:15:01,530
+Amikor először voltam Amerikában,
+
+258
+00:15:01,740 --> 00:15:02,670
+azt mondták:
+
+259
+00:15:02,840 --> 00:15:04,000
+"Anyám, hogy mondhatod azt,
+
+260
+00:15:04,140 --> 00:15:05,580
+hogy ezért nem lehet pénzt kérni?".
+
+261
+00:15:05,680 --> 00:15:06,780
+Képzeljétek csak el,
+
+262
+00:15:06,880 --> 00:15:07,940
+ez mennyire abszurd.
+
+263
+00:15:08,150 --> 00:15:09,110
+Nem tudtak megérteni
+
+264
+00:15:09,250 --> 00:15:10,240
+egy ilyen abszurd dolgot.
+
+265
+00:15:12,680 --> 00:15:14,820
+Nem fizethettek érte.
+
+266
+00:15:14,920 --> 00:15:17,830
+Nem rendelkezhettek felőle,
+
+267
+00:15:17,930 --> 00:15:19,000
+nem is irányíthatjátok.
+
+268
+00:15:19,100 --> 00:15:21,000
+Ha megtehetnétek, akkor azt jelentené,
+
+269
+00:15:21,190 --> 00:15:23,780
+egy ember alkotta dologról van szó.
+
+270
+00:15:24,850 --> 00:15:25,420
+Természetesnek,
+
+271
+00:15:25,520 --> 00:15:26,450
+spontánnak,
+
+272
+00:15:26,700 --> 00:15:28,110
+élőnek kell lennie,
+
+273
+00:15:28,960 --> 00:15:32,090
+mert az ember nem tud semmi élőt teremteni.
+
+274
+00:15:34,360 --> 00:15:36,090
+Máskülönben nem érdekelne titeket.
+
+275
+00:15:36,640 --> 00:15:37,320
+Azt mondanátok:
+
+276
+00:15:37,510 --> 00:15:39,560
+"Engem nem izgat, nem érdekel."
+
+277
+00:15:41,500 --> 00:15:43,580
+Így kellene lennie,
+
+278
+00:15:43,680 --> 00:15:47,570
+de túlságosan megelégszünk olyasmivel,
+
+279
+00:15:47,880 --> 00:15:55,000
+ami könnyen elérhető számunkra,
+
+280
+00:15:56,220 --> 00:15:59,510
+vagyis, amiért fizethetünk,
+
+281
+00:16:00,400 --> 00:16:02,530
+vagy amiről úgy hisszük,
+
+282
+00:16:02,730 --> 00:16:04,020
+ha fejre állunk,
+
+283
+00:16:04,280 --> 00:16:05,820
+akkor megkapjuk.
+
+284
+00:16:08,520 --> 00:16:10,120
+Megkérdeztem egy úriembertől,
+
+285
+00:16:10,390 --> 00:16:12,590
+aki minden nap fejen állt:
+
+286
+00:16:13,360 --> 00:16:15,640
+"Miért csinálja ezt?"
+
+287
+00:16:15,740 --> 00:16:17,350
+Azt mondta: "Keresem Istent."
+
+288
+00:16:18,760 --> 00:16:19,720
+Mire én: "Miből gondolja,
+
+289
+00:16:19,970 --> 00:16:21,130
+hogy, ha fejen áll,
+
+290
+00:16:21,510 --> 00:16:23,000
+akkor eljut Istenhez?"
+
+291
+00:16:23,160 --> 00:16:23,870
+Azt mondta:
+
+292
+00:16:23,970 --> 00:16:26,640
+"Azért, mert egyetlen állat sem tud fejen állni,
+
+293
+00:16:26,800 --> 00:16:28,530
+és azért, hogy magasabb szinten legyek,
+
+294
+00:16:28,690 --> 00:16:29,600
+arra gondoltam,
+
+295
+00:16:29,790 --> 00:16:31,630
+jó ötlet lenne fejen állni."
+
+296
+00:16:32,870 --> 00:16:34,140
+De ez nem így van.
+
+297
+00:16:34,250 --> 00:16:35,270
+Gondoljatok csak bele.
+
+298
+00:16:35,440 --> 00:16:38,320
+Ez csak valamiféle akrobata mutatvány.
+
+299
+00:16:39,670 --> 00:16:41,150
+Olyan sokan tudnak ilyet.
+
+300
+00:16:42,100 --> 00:16:44,350
+A cirkuszban az emberek mindenfélét csinálnak,
+
+301
+00:16:44,450 --> 00:16:45,430
+ha megnézitek,
+
+302
+00:16:45,640 --> 00:16:47,960
+meglepő, hogyan ugranak fel a lóra.
+
+303
+00:16:48,310 --> 00:16:49,900
+Nem könnyű megcsinálni.
+
+304
+00:16:50,090 --> 00:16:53,190
+Különböző technikákat sajátítanak el,
+
+305
+00:16:53,360 --> 00:16:55,550
+amik segítségével felugranak a lóra,
+
+306
+00:16:55,900 --> 00:16:58,370
+végigsétálnak egy vékony dróton,
+
+307
+00:16:58,750 --> 00:17:01,550
+mindenféléket tudnak csinálni,
+
+308
+00:17:02,950 --> 00:17:04,100
+de tényleg azt gondoljátok,
+
+309
+00:17:04,200 --> 00:17:06,300
+hogy ezek valamilyen isteni eredetű dolgok?
+
+310
+00:17:09,490 --> 00:17:15,970
+Ennek az abszolút pontnak spontánnak,
+
+311
+00:17:16,180 --> 00:17:17,670
+élőnek kell lennie.
+
+312
+00:17:17,890 --> 00:17:19,220
+A tudatosságunkban kell,
+
+313
+00:17:19,400 --> 00:17:20,690
+hogy megjelenjen.
+
+314
+00:17:20,870 --> 00:17:23,250
+Kifejezésre kell jutnia a tudatosságunkban,
+
+315
+00:17:23,970 --> 00:17:28,200
+és amikor a "tudatosság" szóról beszélünk,
+
+316
+00:17:29,550 --> 00:17:30,720
+meg kell értenünk,
+
+317
+00:17:31,020 --> 00:17:34,410
+hogy magát az emberi tudatosságot nem értettük meg.
+
+318
+00:17:40,660 --> 00:17:43,860
+Óriási a különbség köztünk
+
+319
+00:17:44,060 --> 00:17:46,110
+és az állatok között.
+
+320
+00:17:47,590 --> 00:17:48,850
+Óriási.
+
+321
+00:17:50,110 --> 00:17:52,080
+Ők sok mindent nem értenek.
+
+322
+00:17:52,410 --> 00:17:54,530
+Nem értik, mi az a szépség,
+
+323
+00:17:57,170 --> 00:17:59,850
+a biztosítás,
+
+324
+00:18:02,200 --> 00:18:03,650
+sokat nem értenek meg
+
+325
+00:18:04,030 --> 00:18:05,650
+ezek közül a fogalmak közül,
+
+326
+00:18:05,890 --> 00:18:07,330
+amiket felhalmoztunk.
+
+327
+00:18:10,540 --> 00:18:12,730
+Nagyon sok furcsa dolgot műveltünk,
+
+328
+00:18:12,980 --> 00:18:14,570
+amiket ők nem értenek meg.
+
+329
+00:18:17,550 --> 00:18:19,220
+Az emberek hasznosítani tudják
+
+330
+00:18:22,170 --> 00:18:24,690
+a természetet saját céljaikra,
+
+331
+00:18:25,520 --> 00:18:27,740
+használni tudják a természetet saját céljaikra.
+
+332
+00:18:28,780 --> 00:18:30,150
+Az állatok ezt nem tudják.
+
+333
+00:18:33,880 --> 00:18:35,200
+Ennek ellenére,
+
+334
+00:18:36,270 --> 00:18:37,730
+olyan erőtlennek,
+
+335
+00:18:38,460 --> 00:18:39,610
+gyámoltalannak
+
+336
+00:18:43,090 --> 00:18:47,240
+és magányosnak érezzük magunkat.
+
+337
+00:18:52,570 --> 00:18:57,210
+De ha ennek a teremtésnek van valami értelme,
+
+338
+00:18:57,730 --> 00:18:59,430
+akkor el kell jönnie annak a fénynek.
+
+339
+00:19:01,190 --> 00:19:03,940
+A fénynek működnie kell.
+
+340
+00:19:04,870 --> 00:19:06,020
+Működnie kell.
+
+341
+00:19:08,970 --> 00:19:09,870
+De most
+
+342
+00:19:11,060 --> 00:19:12,860
+- amint már elmondták nektek
+
+343
+00:19:13,030 --> 00:19:14,740
+korábban a Kundaliniről -
+
+344
+00:19:14,950 --> 00:19:16,530
+ez az eszköz,
+
+345
+00:19:16,720 --> 00:19:18,160
+bennetek van,
+
+346
+00:19:18,330 --> 00:19:20,940
+már ott van és vár.
+
+347
+00:19:21,290 --> 00:19:22,610
+Eljött az idő,
+
+348
+00:19:22,810 --> 00:19:24,530
+megértetek arra,
+
+349
+00:19:24,760 --> 00:19:26,650
+hogy megkapjátok az önmegvalósulásotokat.
+
+350
+00:19:27,110 --> 00:19:32,180
+Azért, mert az emberi elme megért rá,
+
+351
+00:19:32,930 --> 00:19:33,940
+mert kerestek,
+
+352
+00:19:34,170 --> 00:19:35,440
+mert már annyira érettek vagytok,
+
+353
+00:19:35,610 --> 00:19:37,450
+hogy nem tudtok meglenni nélküle.
+
+354
+00:19:38,790 --> 00:19:40,450
+Például, gyerekkorotokban
+
+355
+00:19:41,900 --> 00:19:43,610
+sok mindent nem értetek meg,
+
+356
+00:19:44,830 --> 00:19:46,150
+de utána felnőtök.
+
+357
+00:19:46,610 --> 00:19:48,160
+Felnőtök, és elérkeztek egy pontig,
+
+358
+00:19:49,560 --> 00:19:52,290
+amikor megértitek,
+
+359
+00:19:52,490 --> 00:19:53,900
+mi a házasság,
+
+360
+00:19:54,000 --> 00:19:55,710
+és akkor meg akartok házasodni.
+
+361
+00:19:56,270 --> 00:19:58,010
+Majd elértek addig a pontig,
+
+362
+00:19:58,170 --> 00:20:01,590
+amikor házat szeretnétek,
+
+363
+00:20:02,050 --> 00:20:04,710
+és akkor megpróbáltok házat venni.
+
+364
+00:20:05,970 --> 00:20:07,090
+De az az érettség,
+
+365
+00:20:07,290 --> 00:20:08,650
+amit majd elértek,
+
+366
+00:20:08,930 --> 00:20:10,770
+rendkívül finom,
+
+367
+00:20:12,070 --> 00:20:13,320
+sokoldalú,
+
+368
+00:20:15,490 --> 00:20:18,240
+benne foglaltatik az életnek számos aspektusa,
+
+369
+00:20:18,410 --> 00:20:20,340
+mondhatnám az összes.
+
+370
+00:20:21,490 --> 00:20:24,110
+Nem csak az egyik oldal érik meg.
+
+371
+00:20:30,320 --> 00:20:31,660
+Nem arról van szó,
+
+372
+00:20:32,120 --> 00:20:35,610
+hogy csak pár levél látszik
+
+373
+00:20:35,920 --> 00:20:39,830
+a növekvésben lévő fán.
+
+374
+00:20:40,710 --> 00:20:43,300
+Nem csak arról van szó,
+
+375
+00:20:43,600 --> 00:20:46,580
+hogy új ágakat hajt.
+
+376
+00:20:47,910 --> 00:20:49,240
+Nem arról van szó,
+
+377
+00:20:49,530 --> 00:20:52,800
+hogy sok virágot lehet majd látni rajta.
+
+378
+00:20:53,040 --> 00:20:55,200
+Arról van szó,
+
+379
+00:20:55,450 --> 00:20:57,400
+hogy a virágok annyira érettek már,
+
+380
+00:20:57,590 --> 00:21:00,000
+hogy gyümölccsé kell válniuk.
+
+381
+00:21:01,960 --> 00:21:03,340
+Ennek az érettségnek
+
+382
+00:21:03,560 --> 00:21:05,430
+a mi saját próbálkozásainkon
+
+383
+00:21:08,090 --> 00:21:12,290
+és tévedéseinken keresztül kell kialakulnia bennünk.
+
+384
+00:21:12,600 --> 00:21:14,440
+Az emberek így tanulnak.
+
+385
+00:21:14,830 --> 00:21:16,200
+Az állatok ugyanezt megtették
+
+386
+00:21:16,400 --> 00:21:18,030
+a saját evolúciójuk érdekében,
+
+387
+00:21:19,500 --> 00:21:21,120
+és az emberek is megtették
+
+388
+00:21:21,470 --> 00:21:26,330
+- próbálkoztak, hibáztak,
+
+389
+00:21:26,800 --> 00:21:30,250
+megpróbálták kijavítani a hibákat,
+
+390
+00:21:30,510 --> 00:21:31,690
+újra próbálkoztak,
+
+391
+00:21:31,930 --> 00:21:34,470
+majd ismét hibákat követtek el.
+
+392
+00:21:35,800 --> 00:21:38,480
+Így váltunk éretté.
+
+393
+00:21:39,720 --> 00:21:41,040
+Elérkeztünk ahhoz a stádiumhoz,
+
+394
+00:21:41,280 --> 00:21:43,280
+amikor megértjük
+
+395
+00:21:43,880 --> 00:21:46,610
+az egyensúly szépségét életünkben.
+
+396
+00:21:47,770 --> 00:21:50,040
+Megpróbáljuk egyensúlyba hozni magunkat,
+
+397
+00:21:53,010 --> 00:21:56,170
+és a bizonytalanságaink elmúlnak.
+
+398
+00:21:58,040 --> 00:22:00,240
+Természetesen ez egy
+
+399
+00:22:00,600 --> 00:22:02,470
+negatív tapasztalaton alapuló módszer,
+
+400
+00:22:03,010 --> 00:22:04,380
+de kihívás is,
+
+401
+00:22:04,690 --> 00:22:06,120
+próbára teszi az érettségeteket,
+
+402
+00:22:06,450 --> 00:22:08,850
+hogy érettek vagytok-e a vagy sem,
+
+403
+00:22:09,180 --> 00:22:12,400
+őszinte keresők vagytok vagy sem.
+
+404
+00:22:16,600 --> 00:22:20,680
+Az érettségeteket csak akkor lehet megítélni,
+
+405
+00:22:22,860 --> 00:22:25,980
+amikor már ott tartotok,
+
+406
+00:22:26,400 --> 00:22:28,360
+hogy gyümölccsé kell válnotok.
+
+407
+00:22:30,560 --> 00:22:32,400
+Gyümölccsé kell válnotok.
+
+408
+00:22:33,300 --> 00:22:35,220
+A Lélekké kell válnotok.
+
+409
+00:22:36,000 --> 00:22:37,840
+Ti a Lélek kell, hogy legyetek.
+
+410
+00:22:40,580 --> 00:22:42,150
+Újjá kell születnetek.
+
+411
+00:22:43,070 --> 00:22:44,440
+De ezt sokan elmondták.
+
+412
+00:22:46,920 --> 00:22:48,230
+Sokan mondják most is.
+
+413
+00:22:50,300 --> 00:22:54,680
+Azt mondják, ők már újjászülettek.
+
+414
+00:22:56,550 --> 00:22:57,880
+De mi a különbség?
+
+415
+00:23:02,450 --> 00:23:03,540
+A különbség az,
+
+416
+00:23:04,460 --> 00:23:08,440
+hogy az embernek kollektív tudatossága van,
+
+417
+00:23:09,610 --> 00:23:10,820
+azzá vált -
+
+418
+00:23:11,120 --> 00:23:12,560
+a folyamat a lényeg,
+
+419
+00:23:12,780 --> 00:23:13,830
+nem csak beszél róla,
+
+420
+00:23:14,120 --> 00:23:15,590
+nem csak mesél.
+
+421
+00:23:15,850 --> 00:23:18,480
+Az átalakulás a lényeg,
+
+422
+00:23:19,200 --> 00:23:24,450
+míg a másik ember csak hisz valamiben.
+
+423
+00:23:24,670 --> 00:23:26,910
+"Én hiszek."
+
+424
+00:23:27,200 --> 00:23:28,340
+Ki az az "én",
+
+425
+00:23:28,680 --> 00:23:30,010
+aki valamiben hisz?
+
+426
+00:23:38,330 --> 00:23:40,790
+Az az "én" hisz valamiben,
+
+427
+00:23:40,890 --> 00:23:45,150
+aki nem ismeri önmagát.
+
+428
+00:23:49,890 --> 00:24:00,010
+Egy hit önmagában nem igaz hit addig,
+
+429
+00:24:00,830 --> 00:24:05,730
+amíg nem része a tudatosságotoknak.
+
+430
+00:24:12,190 --> 00:24:13,670
+"Hiszek Istenben."
+
+431
+00:24:14,340 --> 00:24:15,780
+Sokan úgy beszélnek,
+
+432
+00:24:15,880 --> 00:24:17,170
+mintha szívességet tennének
+
+433
+00:24:17,490 --> 00:24:19,330
+Istennek azzal, hogy hisznek benne.
+
+434
+00:24:20,530 --> 00:24:21,770
+Mit jelent ez?
+
+435
+00:24:23,230 --> 00:24:24,210
+"Hiszek Istenben."
+
+436
+00:24:24,510 --> 00:24:25,270
+Rendben,
+
+437
+00:24:25,580 --> 00:24:28,310
+bizonyára egyensúlyban van az életed.
+
+438
+00:24:28,410 --> 00:24:31,520
+De csak úgy hinni?
+
+439
+00:24:32,050 --> 00:24:35,660
+Megkérdezhetnénk, miért higgyünk Istenben?
+
+440
+00:24:36,120 --> 00:24:37,020
+Miért kell,
+
+441
+00:24:37,240 --> 00:24:39,210
+hogy egyensúlyban legyen az életünk,
+
+442
+00:24:39,520 --> 00:24:42,440
+miért szükséges olyan életet élni,
+
+443
+00:24:42,610 --> 00:24:45,100
+ami úgymond, tisztességes?
+
+444
+00:24:47,690 --> 00:24:50,800
+Ezeknek az elképzeléseknek a rabjaivá válni - miért?
+
+445
+00:24:52,060 --> 00:24:53,930
+Feltehetünk ilyen kérdéseket,
+
+446
+00:24:54,130 --> 00:24:56,380
+és sokan fel is teszik ezt a kérdést.
+
+447
+00:25:01,880 --> 00:25:04,190
+Kiegyensúlyozottnak kell lennetek ahhoz,
+
+448
+00:25:04,400 --> 00:25:06,150
+hogy felemelkedjetek,
+
+449
+00:25:08,990 --> 00:25:12,170
+de emiatt a zűrzavar miatt
+
+450
+00:25:14,600 --> 00:25:15,810
+nem várhatunk el
+
+451
+00:25:16,030 --> 00:25:17,900
+egy teljesen kiegyensúlyozott életet,
+
+452
+00:25:18,180 --> 00:25:21,090
+mert úgy tűnik mindenki a sötétben tapogatódzik.
+
+453
+00:25:23,780 --> 00:25:25,570
+Nem hihetitek azt,
+
+454
+00:25:28,660 --> 00:25:30,490
+hogy az emberek
+
+455
+00:25:30,870 --> 00:25:33,270
+teljesen egyensúlyban vannak.
+
+456
+00:25:33,550 --> 00:25:37,150
+Egyszerűen nem gondolkodhattok így
+
+457
+00:25:39,090 --> 00:25:41,270
+- az helytelen lenne.
+
+458
+00:25:42,200 --> 00:25:44,870
+Meg kell lennie bennük az egyensúlynak,
+
+459
+00:25:45,190 --> 00:25:47,270
+és fel kell emelkedniük.
+
+460
+00:25:53,820 --> 00:25:58,670
+Az emberek sok mindent kipróbáltak,
+
+461
+00:25:59,120 --> 00:26:01,250
+hogy elérjék ezt az egyensúlyt.
+
+462
+00:26:01,350 --> 00:26:04,250
+Évezredek óta beszéltek a vallásról,
+
+463
+00:26:04,780 --> 00:26:06,580
+beszéltek a fenntartásról,
+
+464
+00:26:06,880 --> 00:26:08,370
+a tízparancsolatról,
+
+465
+00:26:08,470 --> 00:26:09,470
+erről meg arról,
+
+466
+00:26:10,130 --> 00:26:12,180
+semmi sem vált be nekik.
+
+467
+00:26:12,930 --> 00:26:15,920
+Mindenki kizökkent az egyensúlyából,
+
+468
+00:26:18,160 --> 00:26:21,310
+így most kell lennie egy módszernek,
+
+469
+00:26:21,590 --> 00:26:24,470
+ami automatikusan megadja nektek az egyensúlyt,
+
+470
+00:26:24,760 --> 00:26:27,320
+valamint a jó felemelkedést,
+
+471
+00:26:27,590 --> 00:26:32,470
+és szerencsés leszállást Isten Királyságába.
+
+472
+00:26:35,390 --> 00:26:37,060
+Ennek meg kell történnie.
+
+473
+00:26:38,080 --> 00:26:40,060
+Tény, hogy mindnyájan
+
+474
+00:26:40,350 --> 00:26:42,110
+ilyennek lettetek megalkotva,
+
+475
+00:26:42,400 --> 00:26:44,930
+de ne bennem higgyetek,
+
+476
+00:26:45,780 --> 00:26:46,670
+és abban sem,
+
+477
+00:26:46,930 --> 00:26:48,260
+amit mi mondunk,
+
+478
+00:26:48,530 --> 00:26:49,810
+mert megint az lesz, hogy
+
+479
+00:26:50,110 --> 00:26:51,530
+"Én hiszek Matajiban."
+
+480
+00:26:51,840 --> 00:26:53,370
+Sokan ennyivel beérik.
+
+481
+00:26:53,660 --> 00:26:55,120
+Hinnetek kell önmagatokban,
+
+482
+00:26:55,350 --> 00:26:56,510
+a Lelketekben,
+
+483
+00:26:56,750 --> 00:26:59,470
+azáltal, hogy megtapasztaljátok.
+
+484
+00:27:00,320 --> 00:27:02,290
+Ez egy dinamikus dolog,
+
+485
+00:27:02,500 --> 00:27:03,670
+ami meg kell,
+
+486
+00:27:03,890 --> 00:27:05,190
+hogy történjen bennetek.
+
+487
+00:27:05,490 --> 00:27:07,030
+Egy csodálatos dolog.
+
+488
+00:27:07,350 --> 00:27:10,890
+Ez nem valami mentális hit bennetek,
+
+489
+00:27:11,070 --> 00:27:12,370
+hogy ma kommunisták vagyunk,
+
+490
+00:27:12,590 --> 00:27:13,740
+holnap kapitalisták vagyunk,
+
+491
+00:27:14,000 --> 00:27:15,590
+harmadnap valami mások.
+
+492
+00:27:15,890 --> 00:27:17,890
+Valamivé kell válnunk,
+
+493
+00:27:18,100 --> 00:27:19,650
+ismét mondom: "valamivé válni",
+
+494
+00:27:19,940 --> 00:27:22,050
+valamivé változni.
+
+495
+00:27:25,100 --> 00:27:29,840
+És ez az átalakulás most van.
+
+496
+00:27:31,860 --> 00:27:33,350
+Eljött az idő.
+
+497
+00:27:34,370 --> 00:27:36,470
+Ez a feltámadás ideje.
+
+498
+00:27:36,930 --> 00:27:39,270
+Hiszitek vagy nem,
+
+499
+00:27:39,490 --> 00:27:41,940
+ez az utolsó ítélet.
+
+500
+00:27:42,350 --> 00:27:45,450
+Ez az idő nem jön el még egyszer.
+
+501
+00:27:47,920 --> 00:27:50,980
+Így leszünk megítélve.
+
+502
+00:27:52,720 --> 00:27:55,590
+Az érettségünk, az egyensúlyunk,
+
+503
+00:27:55,810 --> 00:27:57,510
+a képességeink alapján.
+
+504
+00:27:57,820 --> 00:28:00,110
+Sokan eljönnek az összejöveteleinkre,
+
+505
+00:28:01,690 --> 00:28:03,740
+páran megkapják az önmegvalósulást,
+
+506
+00:28:06,470 --> 00:28:07,900
+vagy sokan megkapják
+
+507
+00:28:08,240 --> 00:28:10,870
+- nem számít nekem, vagy bárki másnak,
+
+508
+00:28:11,130 --> 00:28:13,490
+vagy a Sahaja jógának, vagy nektek.
+
+509
+00:28:14,750 --> 00:28:19,800
+Ha az elvetett, éppen csírázó magok elvesznek,
+
+510
+00:28:20,050 --> 00:28:21,800
+akkor úgy vesznek el,
+
+511
+00:28:22,070 --> 00:28:24,280
+mintha ki sem csíráztak volna.
+
+512
+00:28:24,590 --> 00:28:26,350
+Nem növekednek.
+
+513
+00:28:29,430 --> 00:28:35,020
+Olyanok, mint bármelyik másik mag,
+
+514
+00:28:36,810 --> 00:28:39,880
+amit nem érintett meg az Isteni.
+
+515
+00:28:43,200 --> 00:28:45,550
+Még ha meg is kapjátok az önmegvalósulásotokat,
+
+516
+00:28:46,940 --> 00:28:49,910
+ami most elég könnyen elérhető az emberek számára
+
+517
+00:28:50,180 --> 00:28:51,690
+- ők erre lettek megteremtve,
+
+518
+00:28:52,030 --> 00:28:54,120
+mert az Isteni türelmetlenül várja,
+
+519
+00:28:54,370 --> 00:28:56,520
+a Teremtőtök türelmetlenül várja,
+
+520
+00:28:57,020 --> 00:28:58,990
+hogy megnyilvánulhasson -,
+
+521
+00:29:00,870 --> 00:29:08,300
+ám megalapozódni önmegvalósult lélekként nehéz.
+
+522
+00:29:09,630 --> 00:29:12,030
+Már az elején meg kell, hogy mondjam nektek
+
+523
+00:29:16,670 --> 00:29:18,340
+- ahhoz, hogy éretté váljatok,
+
+524
+00:29:19,790 --> 00:29:21,900
+meg kell értenetek önmagatokat.
+
+525
+00:29:22,180 --> 00:29:24,810
+Kell, hogy legyen önbecsülésetek.
+
+526
+00:29:24,910 --> 00:29:27,430
+Ha csak "shoppingolni" jöttetek ide
+
+527
+00:29:28,190 --> 00:29:30,410
+- "Rendben, hallgassuk meg Anyánkat is!" -
+
+528
+00:29:30,640 --> 00:29:32,430
+nem fog működni.
+
+529
+00:29:33,830 --> 00:29:36,230
+Csak akkor tudtok felemelkedni,
+
+530
+00:29:37,600 --> 00:29:40,070
+ha rátermett emberek vagytok.
+
+531
+00:29:40,990 --> 00:29:42,870
+Semmi másra nincs szükségetek.
+
+532
+00:29:43,140 --> 00:29:46,530
+Lehettek miniszterelnökök vagy királynők,
+
+533
+00:29:46,810 --> 00:29:49,560
+vagy akár szobalányok,
+
+534
+00:29:49,780 --> 00:29:52,440
+az Isteninek ez nem számít.
+
+535
+00:29:53,180 --> 00:29:54,270
+Lehettek szocialisták,
+
+536
+00:29:54,530 --> 00:29:56,020
+kommunisták vagy kapitalisták,
+
+537
+00:29:56,300 --> 00:29:57,830
+nem számít.
+
+538
+00:29:58,080 --> 00:29:59,000
+Lehet ilyen a bőrszínetek,
+
+539
+00:29:59,260 --> 00:30:01,830
+vagy olyan, nincs jelentősége.
+
+540
+00:30:02,590 --> 00:30:03,930
+De rendelkeznetek kell
+
+541
+00:30:04,210 --> 00:30:07,510
+az igaz kereső rátermettségével,
+
+542
+00:30:08,480 --> 00:30:10,020
+aki elég intelligens ahhoz,
+
+543
+00:30:10,220 --> 00:30:14,820
+hogy belássa, nem ezért jött erre a földre,
+
+544
+00:30:15,620 --> 00:30:17,990
+hogy csak úgy elpocsékolja az életét.
+
+545
+00:30:19,980 --> 00:30:21,980
+Ha sok műszert gyártasz,
+
+546
+00:30:22,790 --> 00:30:24,960
+de azoknak nincs semmi haszna,
+
+547
+00:30:25,400 --> 00:30:27,370
+nincsenek a hálózathoz kapcsolva,
+
+548
+00:30:27,590 --> 00:30:29,070
+nem jók semmire,
+
+549
+00:30:29,270 --> 00:30:31,240
+ha nagyon laza a kapcsolatuk,
+
+550
+00:30:31,460 --> 00:30:34,350
+Ő (a Teremtő) azt fogja mondani:
+
+551
+00:30:34,580 --> 00:30:36,020
+"Iktasd ki ezeket.
+
+552
+00:30:36,400 --> 00:30:38,350
+Zárd be ezt a gyárat.
+
+553
+00:30:38,590 --> 00:30:41,170
+Semmi értelme többet teremteni."
+
+554
+00:30:43,590 --> 00:30:47,270
+Csak azok, akik elég érettek,
+
+555
+00:30:48,670 --> 00:30:50,510
+akiknek van önbecsülésük
+
+556
+00:30:50,750 --> 00:30:53,190
+- meg fogtok lepődni, még a kor sem számít.
+
+557
+00:30:53,390 --> 00:30:55,910
+Láttam én nyolcvanéves embereket,
+
+558
+00:30:56,150 --> 00:30:58,250
+akik nagyon ostobák tudtak lenni,
+
+559
+00:30:58,490 --> 00:31:00,590
+és nagyon fiatalokat,
+
+560
+00:31:01,040 --> 00:31:03,180
+egész kicsi gyerekeket is,
+
+561
+00:31:03,480 --> 00:31:05,550
+akik nagyszerűek voltak.
+
+562
+00:31:05,790 --> 00:31:07,840
+Az ember belső tulajdonságai,
+
+563
+00:31:08,760 --> 00:31:13,280
+az érettsége az, ami számít a Sahaja jógában.
+
+564
+00:31:15,310 --> 00:31:20,130
+Tudom, elég nehéz megérteni,
+
+565
+00:31:21,250 --> 00:31:24,000
+miért van az, hogy ha ez "sahaja" (spontán),
+
+566
+00:31:24,100 --> 00:31:27,360
+ha ilyen könnyen felemelkedik bennünk a Kundalini,
+
+567
+00:31:27,590 --> 00:31:32,430
+mégis sok idő kell ahhoz, hogy megalapozódjunk.
+
+568
+00:31:34,350 --> 00:31:39,450
+Nem vagyunk egyszerű emberek.
+
+569
+00:31:40,050 --> 00:31:41,400
+Nem vagyunk azok,
+
+570
+00:31:41,620 --> 00:31:43,710
+nagyon bonyolultak vagyunk.
+
+571
+00:31:43,990 --> 00:31:46,380
+Az életünket nagyon sok
+
+572
+00:31:46,870 --> 00:31:49,900
+problémával tettük bonyolulttá.
+
+573
+00:31:52,960 --> 00:31:54,750
+A rák egy olyan betegség,
+
+574
+00:31:54,990 --> 00:31:56,970
+amit az orvosok nem tudnak megmagyarázni.
+
+575
+00:31:57,220 --> 00:31:59,270
+Mi a Sahaja jógában meg tudjuk magyarázni.
+
+576
+00:31:59,530 --> 00:32:01,780
+A szimpatikus idegrendszer
+
+577
+00:32:02,130 --> 00:32:04,160
+túlzott aktivitásából ered.
+
+578
+00:32:05,830 --> 00:32:07,250
+Ha mérsékelni tudjátok
+
+579
+00:32:08,640 --> 00:32:11,570
+a szimpatikus idegrendszer túlzott aktivitását,
+
+580
+00:32:13,120 --> 00:32:15,520
+gyógyítani tudjátok a rákot,
+
+581
+00:32:16,500 --> 00:32:17,590
+de például azok az emberek,
+
+582
+00:32:17,880 --> 00:32:19,560
+akik spiritisztákhoz járnak,
+
+583
+00:32:19,810 --> 00:32:21,520
+azok, akik hamis gurukhoz járnak,
+
+584
+00:32:21,800 --> 00:32:26,200
+azok akik fekete mágiával foglalkoznak,
+
+585
+00:32:29,880 --> 00:32:35,690
+és más egyéb negatív természetű tevékenységekkel,
+
+586
+00:32:36,020 --> 00:32:38,490
+szellemeket idéznek és hasonló
+
+587
+00:32:39,620 --> 00:32:41,570
+- azok hajlamosabbak rá.
+
+588
+00:32:44,320 --> 00:32:46,630
+Ők azok, akik igazán hajlamosak rá.
+
+589
+00:32:49,290 --> 00:32:51,380
+Ha egy ember őrült és elmebeteg,
+
+590
+00:32:54,210 --> 00:32:56,620
+a feleségénél vagy férjénél,
+
+591
+00:32:56,840 --> 00:33:00,640
+aki kapcsolatban él vele,
+
+592
+00:33:02,370 --> 00:33:05,550
+szklerózis multiplex alakulhat ki.
+
+593
+00:33:06,620 --> 00:33:08,000
+A Sahaja jóga képes gyógyítani
+
+594
+00:33:08,170 --> 00:33:10,220
+a szklerózis multiplexet.
+
+595
+00:33:18,080 --> 00:33:20,160
+Amit mi Muladhara csakrának nevezünk
+
+596
+00:33:20,400 --> 00:33:21,800
+- ha más csakrákkal együtt
+
+597
+00:33:22,030 --> 00:33:24,240
+ebben az energiaközpontban akadály van,
+
+598
+00:33:24,510 --> 00:33:26,300
+akkor kialakulhat a szklerózis multiplex.
+
+599
+00:33:26,560 --> 00:33:30,560
+Attól, hogy betörtünk ismeretlen területekre,
+
+600
+00:33:32,160 --> 00:33:35,400
+igazán bonyolulttá tettük magunkat.
+
+601
+00:33:35,630 --> 00:33:36,920
+A tudomány terén pedig
+
+602
+00:33:37,330 --> 00:33:40,160
+a másik végletbe mentünk azzal,
+
+603
+00:33:40,440 --> 00:33:43,090
+hogy azt hittük, mi alkottuk meg
+
+604
+00:33:44,420 --> 00:33:45,790
+magát a tudományt,
+
+605
+00:33:46,040 --> 00:33:48,420
+és létrehoztunk olyan problémákat, mint az atombomba.
+
+606
+00:33:48,600 --> 00:33:49,830
+Ezeket olyan tisztán látjuk,
+
+607
+00:33:50,000 --> 00:33:51,520
+de azt, hogy mit tettünk saját magunkkal
+
+608
+00:33:51,720 --> 00:33:53,370
+- azt nem látjuk.
+
+609
+00:33:53,680 --> 00:33:55,750
+Nem vagyunk egyszerű emberek.
+
+610
+00:33:57,300 --> 00:33:58,080
+Jézus azt mondta,
+
+611
+00:33:58,360 --> 00:33:59,700
+olyanok kell, hogy legyetek,
+
+612
+00:33:59,920 --> 00:34:01,260
+mint a gyerekek,
+
+613
+00:34:01,550 --> 00:34:05,000
+ha be akartok jutni Isten királyságába.
+
+614
+00:34:05,880 --> 00:34:08,120
+Rájöttem, hogy egyes emberek azt hitték,
+
+615
+00:34:09,940 --> 00:34:11,700
+ha elkezdenek olyan ruhákat viselni,
+
+616
+00:34:11,930 --> 00:34:13,160
+mint a primitív emberek,
+
+617
+00:34:13,360 --> 00:34:15,130
+akkor egyszerűvé válnak, mint a primitívek.
+
+618
+00:34:15,310 --> 00:34:16,830
+Nem fognak.
+
+619
+00:34:18,620 --> 00:34:19,740
+Az elméjük modern.
+
+620
+00:34:19,980 --> 00:34:21,370
+Hogyan válhatnának primitívvé?
+
+621
+00:34:21,620 --> 00:34:23,390
+Az agyuk állandóan gondolkodik,
+
+622
+00:34:23,650 --> 00:34:25,370
+gondolkodik, gondolkodik.
+
+623
+00:34:25,590 --> 00:34:27,160
+Minden percben, minden másodpercben,
+
+624
+00:34:27,440 --> 00:34:31,120
+a másodperc töredékében fellobban egy gondolat.
+
+625
+00:34:33,990 --> 00:34:35,400
+De a felemelkedés szempontjából
+
+626
+00:34:35,830 --> 00:34:37,610
+az sem túl jó,
+
+627
+00:34:37,960 --> 00:34:39,910
+ha az emberek primitívek.
+
+628
+00:34:40,220 --> 00:34:41,450
+Ez is egy téveszme.
+
+629
+00:34:41,730 --> 00:34:44,570
+Egyensúlyba kell, hogy kerüljetek egy ponton,
+
+630
+00:34:45,600 --> 00:34:51,410
+ahol már túlléptetek a kondícióitokon,
+
+631
+00:34:53,730 --> 00:34:56,450
+de még nem léptetek be az egóba,
+
+632
+00:34:58,600 --> 00:35:01,160
+és ez csak egy szűk kis terület.
+
+633
+00:35:04,020 --> 00:35:06,030
+Ha nem vagytok túl messze eltolódva
+
+634
+00:35:06,650 --> 00:35:09,680
+egyik vagy másik irányba,
+
+635
+00:35:10,230 --> 00:35:12,040
+akkor rendben van.
+
+636
+00:35:12,440 --> 00:35:15,480
+De ha túl messze vagytok a középponttól,
+
+637
+00:35:16,220 --> 00:35:18,450
+akkor beljebb kell benneteket hozni.
+
+638
+00:35:21,300 --> 00:35:25,640
+De ami a modern idők mellett szól az az,
+
+639
+00:35:26,320 --> 00:35:29,420
+hogy nagy keresők születtek ezen a Földön.
+
+640
+00:35:30,050 --> 00:35:32,580
+Persze, mint más emberek,
+
+641
+00:35:32,790 --> 00:35:34,850
+ők is bonyolulttá tették magukat.
+
+642
+00:35:35,300 --> 00:35:37,240
+Nem tartottak ki a saját személyiségük mellett,
+
+643
+00:35:37,430 --> 00:35:39,010
+a saját felfogásuk mellett.
+
+644
+00:35:39,450 --> 00:35:42,650
+Más emberekkel együtt bonyolulttá váltak.
+
+645
+00:35:45,330 --> 00:35:46,780
+Ha bármilyen divat jött,
+
+646
+00:35:47,000 --> 00:35:50,080
+bármi történt, ők követték,
+
+647
+00:35:50,260 --> 00:35:51,410
+politikusok lettek,
+
+648
+00:35:51,570 --> 00:35:57,010
+vagy a másik oldalon ilyen vagy olyan szektákhoz csapódtak,
+
+649
+00:35:57,250 --> 00:36:00,130
+mások "klubtagokká" váltak
+
+650
+00:36:00,400 --> 00:36:02,140
+- volt itt minden.
+
+651
+00:36:02,810 --> 00:36:05,500
+Nem tartották meg a saját személyiségüket olyannak,
+
+652
+00:36:05,720 --> 00:36:07,080
+amilyen volt.
+
+653
+00:36:10,030 --> 00:36:14,000
+Például Kabir Das azt mondta.......
+
+654
+00:36:14,580 --> 00:36:21,640
+"Megtartottam ezt a csadort a testemen
+
+655
+00:36:22,710 --> 00:36:24,860
+olyannak, amilyen volt."
+
+656
+00:36:29,910 --> 00:36:34,040
+Mi bepiszkoltuk, bonyolulttá tettük,
+
+657
+00:36:35,330 --> 00:36:37,640
+túl sok mindenbe beleakadt.
+
+658
+00:36:39,940 --> 00:36:41,580
+Egy nagy előnyünk van -
+
+659
+00:36:41,930 --> 00:36:43,650
+az, hogy nagy keresők vagytok,
+
+660
+00:36:43,830 --> 00:36:44,910
+nagyon nagy keresők,
+
+661
+00:36:45,170 --> 00:36:46,840
+akik nagyon régen születtek.
+
+662
+00:36:47,920 --> 00:36:49,240
+Ez egy óriási előny,
+
+663
+00:36:50,390 --> 00:36:52,730
+és a Sahaja jógát pontosan
+
+664
+00:36:53,070 --> 00:36:55,330
+a ti keresésetek hozta el ide a földre.
+
+665
+00:36:55,780 --> 00:36:57,300
+De van egy hátrány is,
+
+666
+00:36:57,930 --> 00:36:59,760
+mégpedig, hogy ezekben a modern időkben
+
+667
+00:36:59,990 --> 00:37:02,270
+túlbonyolítottuk magunkat.
+
+668
+00:37:02,520 --> 00:37:04,120
+Talán a zavarodottság miatt,
+
+669
+00:37:04,730 --> 00:37:06,630
+vagy talán az egónk miatt volt az,
+
+670
+00:37:06,950 --> 00:37:08,680
+hogy mindent ki akartunk próbálni,
+
+671
+00:37:13,630 --> 00:37:15,490
+és nem hallgattunk másokra,
+
+672
+00:37:16,610 --> 00:37:17,790
+és azt mondtuk:
+
+673
+00:37:18,300 --> 00:37:19,700
+"Mi a gond ezzel?"
+
+674
+00:37:20,070 --> 00:37:21,590
+Bármi legyen is az,
+
+675
+00:37:21,820 --> 00:37:23,490
+bonyolulttá tettük.
+
+676
+00:37:24,380 --> 00:37:27,330
+Azt sem tudjuk, milyen betegségek tenyésznek bennünk,
+
+677
+00:37:28,220 --> 00:37:31,650
+milyen a mentális állapotunk.
+
+678
+00:37:33,630 --> 00:37:35,740
+Azt sem tudjuk, mi van velünk.
+
+679
+00:37:37,350 --> 00:37:39,240
+Ilyen komplikáltak vagyunk.
+
+680
+00:37:42,610 --> 00:37:46,390
+Amikor a Kundalini felemelkedik,
+
+681
+00:37:46,660 --> 00:37:48,510
+és összekapcsolódtok az Istenivel,
+
+682
+00:37:50,800 --> 00:37:53,470
+rendbe hoz dolgokat.
+
+683
+00:37:55,820 --> 00:37:57,120
+Semmi kétség efelől,
+
+684
+00:37:57,390 --> 00:38:04,000
+de növekednetek kell vele.
+
+685
+00:38:07,500 --> 00:38:10,110
+Ha nem fejlődtök ezzel a felemelkedéssel,
+
+686
+00:38:12,110 --> 00:38:15,430
+akkor ez a gyenge kapcsolat,
+
+687
+00:38:15,650 --> 00:38:17,150
+amit megvalósítottatok,
+
+688
+00:38:17,390 --> 00:38:18,990
+ismét megszakad.
+
+689
+00:38:22,340 --> 00:38:24,860
+A gyökerek elértek a forrásig,
+
+690
+00:38:26,760 --> 00:38:30,150
+de a fának a tápanyagellátásnak megfelelően
+
+691
+00:38:31,610 --> 00:38:32,710
+kell növekednie,
+
+692
+00:38:32,890 --> 00:38:37,110
+megértve, hogy a gyökérnek is növekednie kell.
+
+693
+00:38:39,900 --> 00:38:42,590
+Így alapozzátok meg magatokat igazán,
+
+694
+00:38:43,990 --> 00:38:50,800
+és én könyörögve és nagyon alázatosan,
+
+695
+00:38:53,690 --> 00:38:56,430
+nagy aggodalommal kérlek benneteket,
+
+696
+00:38:57,800 --> 00:39:02,610
+ne legyetek kishitűek.
+
+697
+00:39:04,980 --> 00:39:07,410
+Már így is létrehoztatok egy problémát azzal,
+
+698
+00:39:07,740 --> 00:39:09,100
+hogy bűnösnek érzitek magatokat,
+
+699
+00:39:09,320 --> 00:39:13,240
+ezeknek a szörnyű pszichológusoknak köszönhetően,
+
+700
+00:39:13,660 --> 00:39:15,560
+akik elterjesztették ezeket az elképzeléseket.
+
+701
+00:39:16,010 --> 00:39:17,520
+Ne legyetek kishitűek.
+
+702
+00:39:18,090 --> 00:39:20,990
+Ti nagyszerű keresők vagytok,
+
+703
+00:39:21,760 --> 00:39:22,860
+semmi kétség efelől,
+
+704
+00:39:24,000 --> 00:39:26,780
+de vannak komplikációk, amik rendbe rakhatók.
+
+705
+00:39:27,140 --> 00:39:30,460
+Távolítsátok el magatokat a lényetektől,
+
+706
+00:39:31,140 --> 00:39:32,780
+és bizonyosodjatok meg arról,
+
+707
+00:39:33,280 --> 00:39:37,880
+hogy ez a Lélek a ti lényetek,
+
+708
+00:39:39,530 --> 00:39:41,220
+nem az, ami bonyolult.
+
+709
+00:39:42,180 --> 00:39:43,730
+Az csak kívül van,
+
+710
+00:39:44,490 --> 00:39:49,980
+és a Kundalini, a ti spirituális erőtök helyrehozhatja.
+
+711
+00:39:50,650 --> 00:39:53,750
+Kijavíthattok dolgokat, fel lesztek jogosítva rá.
+
+712
+00:39:55,460 --> 00:39:57,200
+A Sahaja jóga óriási erejű.
+
+713
+00:39:58,140 --> 00:40:00,190
+Azok, akik megalapozódtak benne,
+
+714
+00:40:01,270 --> 00:40:02,530
+nagyszerű emberek lettek.
+
+715
+00:40:04,980 --> 00:40:11,390
+Jól érzik magukat, nagyon boldog emberek,
+
+716
+00:40:12,940 --> 00:40:15,100
+olyan szép kapcsolatok vannak
+
+717
+00:40:15,630 --> 00:40:17,080
+- gyönyörűek.
+
+718
+00:40:17,540 --> 00:40:19,540
+Még ami Angliában van,
+
+719
+00:40:20,920 --> 00:40:24,300
+attól is nagyon boldog vagyok és meglepődtem.
+
+720
+00:40:25,100 --> 00:40:26,700
+Nem reméltem ennyit.
+
+721
+00:40:27,860 --> 00:40:29,770
+Van bennük együttérzés,
+
+722
+00:40:30,740 --> 00:40:33,670
+nem tudják élvezni az élet nektárját egyedül,
+
+723
+00:40:33,950 --> 00:40:36,500
+és azt akarják, hogy ti mind csatlakozzatok hozzájuk.
+
+724
+00:40:38,170 --> 00:40:39,580
+Segíteni tudnak nektek
+
+725
+00:40:39,860 --> 00:40:41,290
+nagyon alázatos módon,
+
+726
+00:40:41,520 --> 00:40:43,640
+ahogy nekik is segítettek.
+
+727
+00:40:45,320 --> 00:40:47,990
+Fokozatosan felépült,
+
+728
+00:40:50,770 --> 00:40:53,580
+és nektek meg kell értenetek,
+
+729
+00:40:55,220 --> 00:41:01,490
+hogy nagyon sok ember fog elveszni,
+
+730
+00:41:03,540 --> 00:41:06,250
+ha nem lép be Isten királyságába.
+
+731
+00:41:07,780 --> 00:41:10,500
+Ez a Sahaja jóga egyetlen célja.
+
+732
+00:41:13,490 --> 00:41:17,250
+Mint tudjátok, a téma olyan mérhetetlenül nagy,
+
+733
+00:41:17,900 --> 00:41:19,220
+a tudás olyan hatalmas,
+
+734
+00:41:21,070 --> 00:41:22,450
+hogy nincs vége.
+
+735
+00:41:23,710 --> 00:41:26,580
+Amikor megkapjátok az önmegvalósulást
+
+736
+00:41:26,850 --> 00:41:28,790
+- remélem most megkapjátok, ma
+
+737
+00:41:31,210 --> 00:41:34,150
+- és megalapozódtok, csodálkozni fogtok.
+
+738
+00:41:34,660 --> 00:41:39,530
+Ti magatok váltok minden tudás könyvtárává,
+
+739
+00:41:40,190 --> 00:41:42,170
+mert azzá az érzékeny lénnyé váltok,
+
+740
+00:41:42,380 --> 00:41:44,060
+ami tudást ad.
+
+741
+00:41:45,620 --> 00:41:47,380
+Elértek addig az abszolút pontig,
+
+742
+00:41:47,660 --> 00:41:50,100
+amiből minden tudás ered.
+
+743
+00:41:52,080 --> 00:41:53,320
+Fogjátok látni,
+
+744
+00:41:53,580 --> 00:41:55,520
+hogy mi az, ami tudás és mi az,
+
+745
+00:41:55,780 --> 00:41:57,060
+ami nem tudás.
+
+746
+00:41:57,400 --> 00:41:59,380
+Azonnal megváltozik számotokra
+
+747
+00:41:59,740 --> 00:42:01,330
+a dolgok fontossági sorrendje,
+
+748
+00:42:01,600 --> 00:42:03,730
+mert bennetek lesz a fény.
+
+749
+00:42:04,780 --> 00:42:06,100
+De, amint már említettem,
+
+750
+00:42:06,290 --> 00:42:07,560
+ez egy átalakulási folyamat.
+
+751
+00:42:07,790 --> 00:42:09,210
+Nem mondhatom egyszerűen azt,
+
+752
+00:42:09,420 --> 00:42:10,300
+hogy "Rendben,
+
+753
+00:42:10,580 --> 00:42:11,680
+önmegvalósult lelkek vagytok,
+
+754
+00:42:11,940 --> 00:42:12,840
+adjatok öt fontot,
+
+755
+00:42:12,940 --> 00:42:14,100
+aztán távozhattok."
+
+756
+00:42:14,260 --> 00:42:15,430
+Nem így működik,
+
+757
+00:42:15,620 --> 00:42:16,800
+meg kell, hogy mondjam nektek.
+
+758
+00:42:16,980 --> 00:42:18,450
+Tehetetlen vagyok abban,
+
+759
+00:42:18,680 --> 00:42:20,060
+hogy az emberekkel megértessem:
+
+760
+00:42:20,220 --> 00:42:22,060
+nem válhattok csak úgy önmegvalósult lelkekké,
+
+761
+00:42:22,220 --> 00:42:23,260
+nem kaphattok tanúsítványt,
+
+762
+00:42:23,420 --> 00:42:25,000
+ennek a valaminek meg kell történnie veletek,
+
+763
+00:42:25,140 --> 00:42:27,170
+a sajátotok kell, hogy legyen.
+
+764
+00:42:27,370 --> 00:42:30,380
+Nektek kell ezt irányítani,
+
+765
+00:42:30,520 --> 00:42:32,830
+nektek kell megtanulni kezelni,
+
+766
+00:42:32,980 --> 00:42:35,220
+a ti saját erőtöknek kell ezt kifejeznie.
+
+767
+00:42:35,400 --> 00:42:36,350
+Nem mondhatom azt:
+
+768
+00:42:36,540 --> 00:42:38,020
+"Rendben, kész!
+
+769
+00:42:38,200 --> 00:42:39,560
+Ti most tagjai vagytok a Sahaja jógának."
+
+770
+00:42:39,750 --> 00:42:41,550
+Nem lehettek azok.
+
+771
+00:42:42,360 --> 00:42:43,340
+Meg kell mondjam nektek,
+
+772
+00:42:43,510 --> 00:42:46,560
+ez az, amit meg kell értenetek.
+
+773
+00:42:46,770 --> 00:42:49,300
+Végtére is, értelmes emberek vagytok.
+
+774
+00:42:51,320 --> 00:42:52,520
+Nem követelhetitek.
+
+775
+00:42:55,620 --> 00:42:59,110
+Még ha sírtok is,
+
+776
+00:42:59,370 --> 00:43:00,750
+akkor sem tehetem meg.
+
+777
+00:43:00,920 --> 00:43:02,270
+Ennek meg kell történnie,
+
+778
+00:43:02,460 --> 00:43:04,130
+és amikor megtörténik,
+
+779
+00:43:04,300 --> 00:43:05,840
+ne vegyétek magától értetődőnek.
+
+780
+00:43:07,420 --> 00:43:08,210
+Vigyázzatok.
+
+781
+00:43:08,590 --> 00:43:09,550
+Azt kell, hogy mondjam,
+
+782
+00:43:09,770 --> 00:43:12,310
+láttam olyan embereket, akik eljönnek,
+
+783
+00:43:13,350 --> 00:43:14,310
+megkapják az önmegvalósulást,
+
+784
+00:43:14,600 --> 00:43:15,480
+és eltűnnek.
+
+785
+00:43:15,710 --> 00:43:21,750
+Öt év múlva ismét megjelennek, romokban, tönkremenve.
+
+786
+00:43:24,150 --> 00:43:26,600
+Ezt kerestétek összes eddigi életeteken keresztül,
+
+787
+00:43:30,170 --> 00:43:33,890
+és ez az, amit el kell érnetek.
+
+788
+00:43:34,860 --> 00:43:36,060
+Én csak azért vagyok itt,
+
+789
+00:43:36,740 --> 00:43:39,280
+hogy megadjam nektek, ami a tiétek.
+
+790
+00:43:41,250 --> 00:43:43,490
+És az sem az Enyém, hogy odaadhassam.
+
+791
+00:43:43,680 --> 00:43:44,950
+Bennetek van.
+
+792
+00:43:45,730 --> 00:43:49,190
+Egy gyertya meggyújthat egy másikat,
+
+793
+00:43:49,880 --> 00:43:52,290
+ennyi az egész, akár egy katalizátor.
+
+794
+00:43:52,890 --> 00:43:55,310
+Ne  hagyjátok, hogy az egótok fellázadjon:
+
+795
+00:43:55,560 --> 00:43:57,020
+"Miért Te, Anyám?"
+
+796
+00:43:57,560 --> 00:43:59,640
+Mindenekelőtt, ez egy hálátlan munka,
+
+797
+00:44:01,100 --> 00:44:02,740
+meg kell, hogy mondjam nektek.
+
+798
+00:44:05,440 --> 00:44:07,420
+Ezt a munkát nekem kell elvégezni.
+
+799
+00:44:09,770 --> 00:44:12,020
+Nem a köszönetért teszem.
+
+800
+00:44:13,250 --> 00:44:15,120
+Azért teszem, mert meg kell tennem,
+
+801
+00:44:15,340 --> 00:44:16,860
+ez az én természetem.
+
+802
+00:44:17,690 --> 00:44:19,620
+Nem tudok a természetem ellen cselekedni.
+
+803
+00:44:23,040 --> 00:44:24,830
+Köztetek és köztem nincs vita,
+
+804
+00:44:25,260 --> 00:44:26,680
+semmiképp sem.
+
+805
+00:44:28,640 --> 00:44:32,140
+Csak azért vagyok itt,
+
+806
+00:44:32,360 --> 00:44:34,310
+hogy megadjam nektek azt,
+
+807
+00:44:34,520 --> 00:44:36,370
+ami már a tiétek.
+
+808
+00:44:36,810 --> 00:44:38,060
+Nem fizethettek nekem,
+
+809
+00:44:39,370 --> 00:44:41,280
+ne érezzétek rosszul magatok emiatt.
+
+810
+00:44:43,270 --> 00:44:44,830
+Nem nyomhattok el engem,
+
+811
+00:44:45,130 --> 00:44:47,220
+ahogy én sem foglak elnyomni titeket.
+
+812
+00:44:47,980 --> 00:44:49,380
+Olyan ez a viszony,
+
+813
+00:44:50,910 --> 00:44:52,420
+mint a gyertyának,
+
+814
+00:44:53,220 --> 00:44:57,140
+vagy a lámpának a kézhez, amely tartja.
+
+815
+00:44:57,400 --> 00:45:00,170
+Csak segít nektek, hogy megtaláljátok az utat.
+
+816
+00:45:05,820 --> 00:45:13,900
+Remélem, hogy ezen modern elképzelések közepette
+
+817
+00:45:17,040 --> 00:45:24,310
+át tudom adni nektek ezt a furcsa dolgot,
+
+818
+00:45:25,500 --> 00:45:27,520
+ugyanis az emberek nem értik meg.
+
+819
+00:45:28,340 --> 00:45:29,550
+Megdöbbentem rajta, nem tudtam,
+
+820
+00:45:29,770 --> 00:45:31,010
+hogy ez így van.
+
+821
+00:45:31,240 --> 00:45:32,340
+Nem tudják megérteni,
+
+822
+00:45:32,560 --> 00:45:34,220
+hogy valami működhet pénz nélkül,
+
+823
+00:45:35,100 --> 00:45:38,070
+hogy létezik olyan, hogy magáért a szeretetért szeretni.
+
+824
+00:45:39,090 --> 00:45:41,270
+Mindenki valamiért szeret.
+
+825
+00:45:41,720 --> 00:45:43,650
+Nem tudnak megérteni egy olyan őrült nőt,
+
+826
+00:45:43,890 --> 00:45:46,340
+mint én, aki csak azért szeret, mert szeret.
+
+827
+00:45:46,700 --> 00:45:48,360
+Mert nem tehet másképp.
+
+828
+00:45:50,720 --> 00:45:52,750
+Az emberek nem hisznek ilyen emberekben.
+
+829
+00:45:53,060 --> 00:45:55,120
+El sem tudnak képzelni ilyet.
+
+830
+00:45:58,140 --> 00:46:00,550
+Pedig oly sok ember volt a múltban,
+
+831
+00:46:00,820 --> 00:46:03,170
+aki ezt megtette értetek,
+
+832
+00:46:04,850 --> 00:46:06,810
+s bár ők a történelem részei
+
+833
+00:46:07,430 --> 00:46:08,910
+- nem vesztek el.
+
+834
+00:46:09,270 --> 00:46:11,370
+Létezhetnek ilyen emberek,
+
+835
+00:46:11,970 --> 00:46:14,970
+és lehet, hogy ti is ilyenek lesztek hamarosan.
+
+836
+00:46:18,680 --> 00:46:21,230
+Ennek meg kell történnie mindnyájatokkal.
+
+837
+00:46:21,890 --> 00:46:23,470
+Nagyon szépen köszönöm!
+
+838
+00:46:26,330 --> 00:46:30,680
+Most szeretnék valamennyi időt szánni a kérdésekre,
+
+839
+00:46:30,840 --> 00:46:32,230
+de nem túl sokat;
+
+840
+00:46:33,050 --> 00:46:34,790
+és volt egy javaslat,
+
+841
+00:46:36,540 --> 00:46:39,690
+hogy ha az önmegvalósulást csak úgy megadom
+
+842
+00:46:41,110 --> 00:46:42,950
+- ami nekem valahogy könnyű -
+
+843
+00:46:44,790 --> 00:46:48,090
+akkor az emberek nem értékelik azt.
+
+844
+00:46:49,870 --> 00:46:53,250
+Két-három alkalom után kellene megadni.
+
+845
+00:46:54,730 --> 00:46:56,570
+Akkor jobban fogják értékelni,
+
+846
+00:46:56,880 --> 00:46:58,510
+mert azok az emberek,
+
+847
+00:46:58,710 --> 00:47:00,700
+akik nekem javaslatokat adnak, úgy gondolják,
+
+848
+00:47:00,870 --> 00:47:03,080
+hogy ők jobban értik az embereket,
+
+849
+00:47:03,600 --> 00:47:04,630
+mint Én.
+
+850
+00:47:04,830 --> 00:47:06,310
+Ha megkapják az önmegvalósulást,
+
+851
+00:47:06,520 --> 00:47:08,940
+egyszerűen csak elkezdenek lebegni a levegőben,
+
+852
+00:47:13,380 --> 00:47:15,590
+és nem akarnak semmit tenni érte,
+
+853
+00:47:16,300 --> 00:47:18,580
+amíg tényleg földet nem érnek.
+
+854
+00:47:22,590 --> 00:47:28,010
+De Én még mindig hiszek a ti józan eszetekben,
+
+855
+00:47:29,080 --> 00:47:32,630
+a bölcsességetekben, az önmagatok
+
+856
+00:47:32,730 --> 00:47:35,770
+és a Teremtőtök iránti becsületességetekben,
+
+857
+00:47:39,100 --> 00:47:42,860
+ezért még mindig úgy érzem,
+
+858
+00:47:42,940 --> 00:47:44,270
+hogy ma meg kellene kapnotok az önmegvalósulásotokat.
+
+859
+00:47:47,360 --> 00:47:48,450
+De ez nem azt jelenti,
+
+860
+00:47:48,800 --> 00:47:53,130
+nem foglalkoztok vele tovább.
+
+861
+00:47:56,640 --> 00:47:58,850
+Folytatnotok kell, tovább kell fejlesztenetek.
+
+862
+00:47:59,080 --> 00:48:01,540
+Ez nem azt jelenti, hogy fizetnetek kell érte,
+
+863
+00:48:01,970 --> 00:48:02,800
+vagy bármi ilyesmi.
+
+864
+00:48:03,020 --> 00:48:05,230
+Egyáltalán nem ezt jelenti.
+
+865
+00:48:06,720 --> 00:48:10,040
+Nem jelent többet mint megalapozni,
+
+866
+00:48:10,340 --> 00:48:12,990
+megérteni, mi ez, ami bennünk van.
+
+867
+00:48:13,330 --> 00:48:14,730
+Mi ez az erő?
+
+868
+00:48:16,330 --> 00:48:20,010
+Most feltehetnék a kérdéseiket. Igen?
+
+869
+00:48:21,060 --> 00:48:26,090
+Mikor tudta meg, hogy megvan Önben ez az erő, amit átadhat az embereknek?
+
+870
+00:48:26,270 --> 00:48:27,280
+Bennem?
+
+871
+00:48:27,490 --> 00:48:28,420
+Igen, Önben.
+
+872
+00:48:28,640 --> 00:48:30,420
+Régóta tudom.
+
+873
+00:48:30,610 --> 00:48:32,230
+Tudjátok, én nagyon öreg vagyok.
+
+874
+00:48:32,420 --> 00:48:33,820
+Ősi.
+
+875
+00:48:34,900 --> 00:48:37,670
+De elvből nem akarok sokat beszélni magamról.
+
+876
+00:48:38,050 --> 00:48:42,010
+Jobb, ha fokozatosan tudjátok meg,
+
+877
+00:48:43,250 --> 00:48:47,640
+mert ha mondok valamit, az embereknek nem tetszik.
+
+878
+00:48:48,890 --> 00:48:49,620
+Ez tény.
+
+879
+00:48:49,830 --> 00:48:52,530
+Vagyok, ami vagyok, de nem merem mondani.
+
+880
+00:48:52,890 --> 00:48:54,130
+Az embereknek nem tetszik.
+
+881
+00:48:54,810 --> 00:48:56,040
+Furcsa ez a világ.
+
+882
+00:48:59,320 --> 00:49:01,150
+Jobb, ha ti magatok tapasztaljátok meg
+
+883
+00:49:01,370 --> 00:49:02,950
+és ismertek meg engem.
+
+884
+00:49:03,160 --> 00:49:04,410
+Mit mondott Jézus?
+
+885
+00:49:04,960 --> 00:49:06,780
+Amit Ő mondott, az az abszolút igazság.
+
+886
+00:49:07,250 --> 00:49:10,130
+Azt mondta, Ő Isten fia.
+
+887
+00:49:10,290 --> 00:49:12,450
+Ezt megállapíthatjuk a Sahaja jóga által.
+
+888
+00:49:12,620 --> 00:49:14,610
+Tudni fogjátok, hogy Ő Isten fia volt.
+
+889
+00:49:15,050 --> 00:49:16,820
+Tényleg, úgy értem, az volt az igazság.
+
+890
+00:49:17,010 --> 00:49:18,230
+Amit mondott igaz volt.
+
+891
+00:49:18,690 --> 00:49:21,140
+Nem mondta volna, ha nem igaz.
+
+892
+00:49:31,220 --> 00:49:33,890
+Ezért keresztre feszítették.
+
+893
+00:49:34,310 --> 00:49:35,510
+Megkínozták.
+
+894
+00:49:36,130 --> 00:49:37,510
+Mit mondott Mohammed?
+
+895
+00:49:37,790 --> 00:49:39,030
+Mit mondott Guru Nanak?
+
+896
+00:49:41,590 --> 00:49:42,850
+Semmi bántót.
+
+897
+00:49:44,670 --> 00:49:46,400
+Csak olyat, ami segít nektek,
+
+898
+00:49:46,570 --> 00:49:49,030
+mert ők sokkal többet láttak, mint amennyit ti láttok.
+
+899
+00:49:50,230 --> 00:49:51,630
+De senkinek sem tetszett.
+
+900
+00:49:53,770 --> 00:49:55,460
+Ha egy haragos vak embernek azt mondod:
+
+901
+00:49:56,010 --> 00:49:59,440
+"Látom a piros színt, és a sárga színt, meg a kék színt."
+
+902
+00:49:59,770 --> 00:50:01,210
+-, meg fog ütni.
+
+903
+00:50:01,700 --> 00:50:03,260
+Egyszerűen nem bírja elviselni.
+
+904
+00:50:05,690 --> 00:50:07,690
+De nincs ebben felsőbbrendűség, vagy bármi....
+
+905
+00:50:07,970 --> 00:50:10,560
+Ez valami, ami bennetek van,
+
+906
+00:50:10,730 --> 00:50:12,590
+a ti sajátotok.
+
+907
+00:50:12,820 --> 00:50:14,210
+Ismét mondom: a tiétek.
+
+908
+00:50:18,770 --> 00:50:21,340
+Tehát magamról minél kevesebbet mondok, annál jobb.
+
+909
+00:50:23,650 --> 00:50:25,840
+Tegyük fel, hogy mondok valamit magamról,
+
+910
+00:50:26,030 --> 00:50:27,520
+miért is fogadnátok el azt?
+
+911
+00:50:27,740 --> 00:50:29,420
+Ha azt mondom: "Én vagyok a kormányzó.",
+
+912
+00:50:29,620 --> 00:50:30,970
+elfogadtok engem?
+
+913
+00:50:31,170 --> 00:50:32,450
+Nem fogtok.
+
+914
+00:50:32,650 --> 00:50:34,320
+Tudom, hogy nem fogtok.
+
+915
+00:50:34,940 --> 00:50:35,650
+Rendben.
+
+916
+00:50:35,970 --> 00:50:37,910
+Talán igen, de még akkor is,
+
+917
+00:50:38,070 --> 00:50:39,540
+ha elfogadtok, mi történik?
+
+918
+00:50:39,700 --> 00:50:41,320
+Nem kapjátok meg az önmegvalósulásotokat attól,
+
+919
+00:50:41,490 --> 00:50:43,180
+hogy elfogadjátok ezt a pozíciót.
+
+920
+00:50:43,330 --> 00:50:45,010
+Bármit is mondok, nem kell, hogy elfogadjátok,
+
+921
+00:50:45,150 --> 00:50:47,440
+de ne zárjátok el előle az elméteket.
+
+922
+00:50:47,610 --> 00:50:49,710
+Először kapjátok meg az önmegvalósulásotokat.
+
+923
+00:50:49,860 --> 00:50:51,760
+A kezeiteknek beszélniük kell,
+
+924
+00:50:52,090 --> 00:50:54,370
+és akkor tudni fogjátok, mi vagyok Én.
+
+925
+00:50:54,560 --> 00:50:56,520
+Ki vagyok Én? Honnan tudom mindezt?
+
+926
+00:50:56,930 --> 00:50:58,520
+Ti magatok tudni fogtok mindent rólam.
+
+927
+00:50:58,690 --> 00:51:03,550
+Rendben? Ezt megígérem.
+
+928
+00:51:06,680 --> 00:51:10,030
+Hogyan alapozódjunk meg?
+
+929
+00:51:14,240 --> 00:51:16,100
+Ezt majd elmondjuk nektek.
+
+930
+00:51:16,460 --> 00:51:19,030
+Először meg kell történnie az önmegvalósulásnak,
+
+931
+00:51:19,430 --> 00:51:22,160
+és utána fokozatosan elmondjuk nektek,
+
+932
+00:51:22,440 --> 00:51:24,530
+mert a kezeitek beszélni fognak.
+
+933
+00:51:24,730 --> 00:51:26,320
+Tudni fogjátok, mi történik veletek,
+
+934
+00:51:26,530 --> 00:51:27,520
+hol vannak a problémák,
+
+935
+00:51:27,730 --> 00:51:28,920
+mely energiaközpontokban.
+
+936
+00:51:29,090 --> 00:51:30,900
+Itt világosan látjátok, mik a problémák.
+
+937
+00:51:32,290 --> 00:51:34,110
+Tudni fogjátok mely csakrákban vannak akadályok,
+
+938
+00:51:34,430 --> 00:51:35,800
+mi az akadály,
+
+939
+00:51:36,480 --> 00:51:37,510
+hol van bennetek az akadály.
+
+940
+00:51:38,110 --> 00:51:39,220
+Azt is tudni fogjátok,
+
+941
+00:51:39,390 --> 00:51:41,170
+hogyan távolítsátok el az akadályt,
+
+942
+00:51:41,360 --> 00:51:42,410
+és azt is tudni fogjátok,
+
+943
+00:51:42,600 --> 00:51:44,530
+hogyan kell felemelni a Kundaliniteket.
+
+944
+00:51:45,050 --> 00:51:45,790
+Tudni fogjátok azt is,
+
+945
+00:51:45,960 --> 00:51:47,810
+hogyan kell önmegvalósulást adni másoknak.
+
+946
+00:51:47,980 --> 00:51:49,900
+Amint megkaptátok az önmegvalósulást,
+
+947
+00:51:50,040 --> 00:51:51,260
+gyógyíthattok embereket.
+
+948
+00:51:51,430 --> 00:51:53,210
+Azonnal elkezdhettek gyógyítani.
+
+949
+00:51:53,900 --> 00:51:55,940
+De ez nem nagy dolog.
+
+950
+00:51:57,830 --> 00:51:59,030
+Miután megalapozódtatok,
+
+951
+00:51:59,220 --> 00:52:00,780
+másoknak adhattok önmegvalósulást,
+
+952
+00:52:03,070 --> 00:52:04,150
+és hogyan alapozódjatok meg?
+
+953
+00:52:04,460 --> 00:52:05,630
+Minden el lesz mondva,
+
+954
+00:52:05,790 --> 00:52:09,610
+ismét ingyen, mert az egyetlen dolog,
+
+955
+00:52:09,820 --> 00:52:11,080
+ami itt működésben van,
+
+956
+00:52:11,300 --> 00:52:13,110
+az a gondoskodás, semmi más.
+
+957
+00:52:14,760 --> 00:52:15,960
+Hogyan alapozódjatok meg
+
+958
+00:52:16,130 --> 00:52:17,190
+- minden el lesz mondva.
+
+959
+00:52:17,400 --> 00:52:19,350
+Vannak például könyveink,
+
+960
+00:52:20,860 --> 00:52:22,990
+de nem adjuk azokat olyan embereknek,
+
+961
+00:52:23,360 --> 00:52:25,650
+akik még nem teljesen önmegvalósultak.
+
+962
+00:52:27,710 --> 00:52:30,860
+El kell jutnotok egyik szintről a másikra.
+
+963
+00:52:31,040 --> 00:52:34,710
+De ez nem olyan, mint egy szokványos tanfolyam.
+
+964
+00:52:34,970 --> 00:52:37,950
+Az élő dolgokban nincs tanfolyam,
+
+965
+00:52:38,570 --> 00:52:40,750
+de mint látjátok, először a mag kicsírázik,
+
+966
+00:52:40,920 --> 00:52:43,150
+utána palántává fejlődik,
+
+967
+00:52:43,510 --> 00:52:46,160
+majd megerősödik, és azután lesz belőle fa,
+
+968
+00:52:46,350 --> 00:52:47,930
+és növekszik rendesen.
+
+969
+00:52:49,300 --> 00:52:50,190
+Először védve van,
+
+970
+00:52:50,440 --> 00:52:53,160
+majd kikerül a természetbe.
+
+971
+00:52:53,350 --> 00:52:57,390
+Hasonlóképpen, ti is fokozatosan megalapozódtok,
+
+972
+00:52:59,070 --> 00:53:00,590
+és ti magatok tudni fogjátok,
+
+973
+00:53:00,780 --> 00:53:01,950
+hogy kezdtek megalapozódni.
+
+974
+00:53:02,150 --> 00:53:03,150
+Saját magatok fogjátok igazolni
+
+975
+00:53:03,340 --> 00:53:05,390
+- én nem kell, hogy mondjak bármit is.
+
+976
+00:53:06,010 --> 00:53:07,040
+Rendben?
+
+977
+00:53:09,280 --> 00:53:11,240
+Miután megkaptuk az önmegvalósulást,
+
+978
+00:53:11,440 --> 00:53:15,210
+kapcsolatban kell-e maradni és elmenni tréningre?
+
+979
+00:53:17,510 --> 00:53:18,660
+Nem, ez nem egy tréning,
+
+980
+00:53:18,870 --> 00:53:20,370
+de kapcsolatban kell maradnotok,
+
+981
+00:53:20,590 --> 00:53:22,800
+az Istenihez való kapcsolatotokat meg kell őriznetek,
+
+982
+00:53:23,190 --> 00:53:25,110
+és meg fogjátok ismerni az Istenit.
+
+983
+00:53:25,300 --> 00:53:27,100
+A kapcsolat kialakulását fogjátok érezni
+
+984
+00:53:27,720 --> 00:53:29,070
+a hűvös szellőn keresztül,
+
+985
+00:53:29,260 --> 00:53:31,510
+ami a kezeitekben fog áramolni azáltal,
+
+986
+00:53:31,900 --> 00:53:33,340
+hogy az ujjaitok érzékennyé válnak,
+
+987
+00:53:33,560 --> 00:53:36,000
+és érezni fogjátok, mely csakráitokban van akadály.
+
+988
+00:53:36,790 --> 00:53:39,470
+És ahhoz, hogy ezt a kapcsolatot fenntartsátok,
+
+989
+00:53:40,060 --> 00:53:42,030
+kapcsolatban kell lennetek azokkal az emberekkel,
+
+990
+00:53:42,310 --> 00:53:43,650
+akik tudnak erről.
+
+991
+00:53:44,510 --> 00:53:45,670
+Majd elmondják nektek,
+
+992
+00:53:45,840 --> 00:53:47,490
+ők hogyan csinálták.
+
+993
+00:53:48,590 --> 00:53:50,470
+Ezután ti magatok is végezhetitek
+
+994
+00:53:51,270 --> 00:53:52,560
+ezt a munkát önállóan.
+
+995
+00:53:52,790 --> 00:53:55,810
+Elmentem Vancouverbe,
+
+996
+00:53:56,830 --> 00:53:58,670
+és az emberek megkapták az önmegvalósulást.
+
+997
+00:54:00,360 --> 00:54:01,630
+Sok ember kapta meg.
+
+998
+00:54:02,580 --> 00:54:04,350
+Nem volt, aki elmondja nekik,
+
+999
+00:54:04,570 --> 00:54:06,550
+én pedig csak egy napra mentem oda.
+
+1000
+00:54:07,400 --> 00:54:09,560
+Ezért odaküldtünk valakit Ausztráliából,
+
+1001
+00:54:10,390 --> 00:54:13,180
+ő odament egyedül.
+
+1002
+00:54:15,400 --> 00:54:18,230
+Ez a hölgy létrehozott egy gyönyörű központot Vancouverben,
+
+1003
+00:54:18,890 --> 00:54:20,910
+és most már van Torontóban is.
+
+1004
+00:54:22,040 --> 00:54:23,310
+Egyetlen ember.
+
+1005
+00:54:24,040 --> 00:54:27,790
+Van egy ember, aki megkapta az önmegvalósulást,
+
+1006
+00:54:27,970 --> 00:54:29,810
+és aki legalább tízezer embernek
+
+1007
+00:54:30,010 --> 00:54:32,210
+megadta az önmegvalósulást Indiában.
+
+1008
+00:54:32,600 --> 00:54:35,790
+Először meg kell kapnotok az önmegvalósulásotokat,
+
+1009
+00:54:36,230 --> 00:54:37,950
+meg kell érnetek, meg kell alapozódnotok,
+
+1010
+00:54:38,120 --> 00:54:40,060
+és akkor ti is csinálhatjátok.
+
+1011
+00:54:40,230 --> 00:54:42,430
+Mesterré váltok, tökéletes mesterré,
+
+1012
+00:54:42,590 --> 00:54:44,390
+aki meg tudja ezt tenni.
+
+1013
+00:54:45,220 --> 00:54:47,150
+Minden képesség bennetek van.
+
+1014
+00:54:47,320 --> 00:54:48,730
+Nem tudjátok, mik vagytok,
+
+1015
+00:54:48,910 --> 00:54:51,080
+hogyan teremtett meg benneteket Isten ilyen gyönyörűen.
+
+1016
+00:54:55,610 --> 00:54:56,790
+Sokáig tart....?
+
+1017
+00:55:02,510 --> 00:55:04,850
+A másodperc töredéke is elég lehet.
+
+1018
+00:55:06,400 --> 00:55:07,830
+Ahhoz, hogy megalapozódjunk?
+
+1019
+00:55:08,120 --> 00:55:09,810
+Nem tart túl sokáig, nem hiszem.
+
+1020
+00:55:10,030 --> 00:55:11,370
+Tegnap is, ma is kérdezték tőlem,
+
+1021
+00:55:11,600 --> 00:55:12,620
+mennyi idő.
+
+1022
+00:55:12,840 --> 00:55:14,320
+Azt mondtam: "Maximum három hét."
+
+1023
+00:55:14,760 --> 00:55:16,000
+Ennyi kellene, hogy legyen.
+
+1024
+00:55:16,230 --> 00:55:17,690
+Önmegvalósulás után három hét kellene,
+
+1025
+00:55:17,910 --> 00:55:19,130
+hogy legyen a maximum,
+
+1026
+00:55:19,330 --> 00:55:20,920
+ami alatt megalapozódtok,
+
+1027
+00:55:21,110 --> 00:55:22,670
+az én eddigi megítélésem alapján.
+
+1028
+00:55:22,960 --> 00:55:25,470
+De kezdetben - nem kellene mondanom,
+
+1029
+00:55:26,480 --> 00:55:28,200
+mert ez felzaklathat benneteket -
+
+1030
+00:55:29,350 --> 00:55:31,390
+nekem valójában négy évig
+
+1031
+00:55:31,710 --> 00:55:33,610
+kellett küzdenem hat emberrel.
+
+1032
+00:55:35,520 --> 00:55:37,010
+Most már nem olyan nehéz.
+
+1033
+00:55:39,560 --> 00:55:41,410
+Most már egészen könnyen tudjuk kezelni
+
+1034
+00:55:41,610 --> 00:55:43,820
+a problémák különféle permutációit és kombinációit.
+
+1035
+00:55:44,110 --> 00:55:45,750
+Ne aggódjatok az idő miatt.
+
+1036
+00:55:47,390 --> 00:55:48,480
+Csak ne aggódjatok.
+
+1037
+00:55:48,770 --> 00:55:51,380
+Ez az időn túl van. Rendben?
+
+1038
+00:55:57,270 --> 00:55:59,140
+Mi India virága?
+
+1039
+00:55:59,840 --> 00:56:01,680
+Nem értettem.
+
+1040
+00:56:01,980 --> 00:56:09,540
+Az ereje? Mi a virága? Mi India virága?
+
+1041
+00:56:11,170 --> 00:56:19,760
+Hogy érti?
+
+1042
+00:56:20,800 --> 00:56:22,240
+(az illető betűzi.)
+
+1043
+00:56:23,770 --> 00:56:25,640
+Mi ez a kérdés?
+
+1044
+00:56:27,760 --> 00:56:31,120
+Én most itt nem indiaiként beszélek nektek.
+
+1045
+00:56:31,260 --> 00:56:32,920
+Ez egy téves elképzelés.
+
+1046
+00:56:33,640 --> 00:56:37,990
+A lótusz a virág, amit elfogadunk nemzeti virágunknak,
+
+1047
+00:56:38,170 --> 00:56:39,560
+de én itt nem vagyok indiai,
+
+1048
+00:56:39,710 --> 00:56:41,230
+brit vagyok, rendben?
+
+1049
+00:56:41,430 --> 00:56:43,060
+Teljes mértékben.
+
+1050
+00:56:47,700 --> 00:56:49,590
+Mi Anglia virága?
+
+1051
+00:56:50,820 --> 00:56:51,680
+"Rózsa."
+
+1052
+00:56:52,890 --> 00:56:56,210
+Ez téves, százszorszép  kellene, hogy legyen.
+
+1053
+00:57:04,270 --> 00:57:05,740
+Egy igen finom vonatkozásban kellene,
+
+1054
+00:57:05,990 --> 00:57:07,450
+hogy százszorszép legyen,
+
+1055
+00:57:08,470 --> 00:57:10,460
+mert Anglia az univerzum szíve,
+
+1056
+00:57:12,600 --> 00:57:14,950
+és a szívnek a helye a Sahasrara,
+
+1057
+00:57:15,830 --> 00:57:17,910
+és a Sahasrara nem olyan, mint a rózsa,
+
+1058
+00:57:18,710 --> 00:57:20,720
+hanem olyan, mint  a százszorszép.
+
+1059
+00:57:24,640 --> 00:57:28,590
+Észrevettetek valamit a százszorszépekkel kapcsolatban,
+
+1060
+00:57:28,870 --> 00:57:30,740
+amik mostanában nyílnak Angliában?
+
+1061
+00:57:30,990 --> 00:57:32,690
+Fantasztikus illatuk van.
+
+1062
+00:57:38,130 --> 00:57:40,420
+Talán azért a rózsa, mert volt a Rózsák Háborúja,
+
+1063
+00:57:40,670 --> 00:57:44,550
+vagy valami ilyesmi, de a rózsa nem a ti virágotok.
+
+1064
+00:57:49,030 --> 00:57:50,510
+Azt hiszem félreértették.
+
+1065
+00:57:53,860 --> 00:57:55,340
+Százszorszép mindenütt,
+
+1066
+00:57:55,570 --> 00:57:58,070
+mindenféle, minden fajta, minden színben
+
+1067
+00:57:58,320 --> 00:58:01,030
+- gyönyörűek. Rendben?
+
+1068
+00:58:12,020 --> 00:58:14,060
+Fel kell-e adni valamit ahhoz,
+
+1069
+00:58:14,380 --> 00:58:16,170
+hogy megkapjuk az önmegvalósulást?
+
+1070
+00:58:28,760 --> 00:58:30,130
+Nem, semmit.
+
+1071
+00:58:32,590 --> 00:58:36,310
+Azért adunk fel valamit, mert az az elképzelésünk,
+
+1072
+00:58:36,550 --> 00:58:38,440
+hogy valamibe kapaszkodunk, tudjátok.
+
+1073
+00:58:39,800 --> 00:58:41,870
+De amikor rájöttök, hogy semmihez sem kötődtök,
+
+1074
+00:58:42,110 --> 00:58:43,750
+akkor már fel is adtátok.
+
+1075
+00:58:45,870 --> 00:58:47,010
+Például, egyes emberek odajöttek hozzám,
+
+1076
+00:58:47,220 --> 00:58:48,230
+és azt mondták:
+
+1077
+00:58:48,450 --> 00:58:49,670
+"Anyám, Te családi életet élsz,
+
+1078
+00:58:49,920 --> 00:58:54,590
+hogy állíthatod azt, hogy valami közöd van az Istenihez.
+
+1079
+00:58:55,780 --> 00:58:56,690
+" Azt mondtam:"Miért?"
+
+1080
+00:58:57,190 --> 00:58:58,900
+Erre ő: "Miről mondtál le?"
+
+1081
+00:58:59,080 --> 00:59:00,900
+Én azt mondtam: "Ti miről mondtatok le?"
+
+1082
+00:59:01,030 --> 00:59:02,900
+Erre ők:" Mi lemondtunk a családunkról,
+
+1083
+00:59:03,080 --> 00:59:07,000
+lemondtunk szőnyegekről, házakról, erről, arról."
+
+1084
+00:59:07,440 --> 00:59:08,930
+Azt mondtam: "Valóban?
+
+1085
+00:59:09,550 --> 00:59:14,510
+El tudtok-e vinni valamit ebből a házból,
+
+1086
+00:59:15,130 --> 00:59:18,950
+ami egyenértékű Uratok Lótusz lábain lévő porral?
+
+1087
+00:59:22,350 --> 00:59:23,520
+Vigyetek el bármit."
+
+1088
+00:59:24,470 --> 00:59:26,940
+Nem találtak semmi ilyet, csak keresgéltek.
+
+1089
+00:59:27,150 --> 00:59:30,400
+Azt mondtam: "Legalább olyan kell, hogy legyen, mint az a por."
+
+1090
+00:59:34,140 --> 00:59:35,620
+Amikor nem ragaszkodtok semmihez,
+
+1091
+00:59:35,830 --> 00:59:37,760
+miről kellene lemondanotok?
+
+1092
+00:59:40,710 --> 00:59:45,170
+Az egész viselkedésetek ragaszkodások nélküli lesz.
+
+1093
+00:59:46,550 --> 00:59:48,180
+Nem adtok fel semmit,
+
+1094
+00:59:48,400 --> 00:59:50,030
+de véget ér, mint valami dráma.
+
+1095
+00:59:50,270 --> 00:59:52,210
+A drámában sírtok, sírtok,
+
+1096
+00:59:52,490 --> 00:59:54,480
+a hőssel együtt Napóleonná váltok,
+
+1097
+00:59:54,720 --> 00:59:56,030
+néha megöltök embereket,
+
+1098
+00:59:56,310 --> 00:59:59,270
+megveritek őket, majd hirtelen rájöttök,
+
+1099
+00:59:59,740 --> 01:00:00,580
+hogy a drámának vége.
+
+1100
+01:00:00,960 --> 01:00:02,100
+Ó Istenem!
+
+1101
+01:00:02,390 --> 01:00:05,070
+Én Napóleon szerepébe bújtam,
+
+1102
+01:00:07,270 --> 01:00:09,240
+miközben csak néztem a drámát.
+
+1103
+01:00:14,110 --> 01:00:17,480
+A "beleélés" mítosza automatikusan szertefoszlik, rendben?
+
+1104
+01:00:17,920 --> 01:00:19,450
+Szóval, nem adtok fel semmit.
+
+1105
+01:00:19,640 --> 01:00:21,470
+Egyszer csak ráeszméltek.
+
+1106
+01:00:22,790 --> 01:00:24,020
+Miről kellene lemondanotok?
+
+1107
+01:00:25,470 --> 01:00:28,680
+"Le kell-e mondani az alkoholról?
+
+1108
+01:00:34,360 --> 01:00:36,250
+Nem, soha! Mondtam én ilyet?
+
+1109
+01:00:37,000 --> 01:00:38,530
+Sajnálom.
+
+1110
+01:00:39,020 --> 01:00:40,060
+Ezt mondtam az előadásomban,
+
+1111
+01:00:40,210 --> 01:00:41,950
+hogy le kell mondanotok az alkoholról?
+
+1112
+01:00:45,080 --> 01:00:47,550
+Soha nem mondtam ezt, de megtörténik
+
+1113
+01:00:47,700 --> 01:00:49,740
+- egyszerűen leszoknak róla.
+
+1114
+01:00:50,170 --> 01:00:52,730
+Nem mondtam ezt. Rendben?
+
+1115
+01:00:54,770 --> 01:00:56,720
+Egyszerűen csak megtörténik.
+
+1116
+01:00:57,250 --> 01:00:59,000
+Nem mondok, soha nem mondok ilyet.
+
+1117
+01:01:00,780 --> 01:01:05,260
+Azt akarja mondani, hogy ha ilyet mondok,
+
+1118
+01:01:05,550 --> 01:01:07,630
+nem akarom, hogy önmegvalósultak legyetek?
+
+1119
+01:01:07,940 --> 01:01:10,100
+Soha nem mondtam: "Ne tegyétek!"
+
+1120
+01:01:10,450 --> 01:01:12,240
+Befejeztem a tízparancsolattal.
+
+1121
+01:01:12,910 --> 01:01:15,000
+Semmi. Egyszerűen csak megtörténik,
+
+1122
+01:01:15,220 --> 01:01:17,360
+ti magatok váltok a tízparancsolattá.
+
+1123
+01:01:19,210 --> 01:01:21,380
+Egyszerűen azzá váltok.
+
+1124
+01:01:22,310 --> 01:01:24,150
+Ezután, még ha kérnélek is benneteket rá,
+
+1125
+01:01:24,390 --> 01:01:26,580
+azt mondanátok: "Anyám, nem, nem, nem.",
+
+1126
+01:01:28,130 --> 01:01:30,610
+mert amikor megkaptátok a legmagasztosabbat,
+
+1127
+01:01:30,920 --> 01:01:32,140
+nem akartok semmi mást.
+
+1128
+01:01:32,350 --> 01:01:33,420
+Vajon miért iszunk?
+
+1129
+01:01:33,630 --> 01:01:35,630
+Mert végtelenül unjuk az életet.
+
+1130
+01:01:37,920 --> 01:01:38,760
+Nem azért iszunk,
+
+1131
+01:01:38,930 --> 01:01:41,620
+mert ipart akarunk űzni az ivászatból, ugye?
+
+1132
+01:01:42,140 --> 01:01:43,110
+Nem ezért iszunk.
+
+1133
+01:01:43,700 --> 01:01:45,460
+Azért iszunk, mert unjuk az életet,
+
+1134
+01:01:46,060 --> 01:01:49,520
+nem tudjuk, mit csináljunk, hogyan üssük el az időt.
+
+1135
+01:01:49,720 --> 01:01:51,120
+De ez az egész megváltozik.
+
+1136
+01:01:52,760 --> 01:01:54,060
+Annyira jól fogjátok érezni magatokat,
+
+1137
+01:01:54,180 --> 01:01:57,090
+hogy elfelejtitek, hogy ott van egy üveg.
+
+1138
+01:01:59,720 --> 01:02:00,960
+Nem, nem szoktam így mondani,
+
+1139
+01:02:01,800 --> 01:02:02,970
+semmiről sem kell lemondani,
+
+1140
+01:02:03,140 --> 01:02:05,870
+de ti magatok fogtok sok mindenről lemondani.
+
+1141
+01:02:06,030 --> 01:02:09,410
+Ismerek egy embert, aki olyan állapotban jött oda hozzám,
+
+1142
+01:02:09,590 --> 01:02:11,420
+amit nevezhetünk egyszerűen csak kómának.
+
+1143
+01:02:11,600 --> 01:02:13,330
+Aki mindenféle drogokat használt,
+
+1144
+01:02:13,530 --> 01:02:15,010
+mindent kipróbált.
+
+1145
+01:02:15,480 --> 01:02:17,240
+Nem is látott Engem, amikor odajött hozzám.
+
+1146
+01:02:18,760 --> 01:02:21,760
+Másnap automatikusan abbahagyta.
+
+1147
+01:02:22,600 --> 01:02:24,120
+Automatikusan.
+
+1148
+01:02:24,240 --> 01:02:25,270
+Nem mondtam neki.
+
+1149
+01:02:25,400 --> 01:02:27,000
+Mit lehet mondani egy embernek,
+
+1150
+01:02:27,190 --> 01:02:29,260
+aki ilyen állapotban van, aki nem is lát meg.
+
+1151
+01:02:29,510 --> 01:02:30,480
+Nem lehet hozzá beszélni.
+
+1152
+01:02:30,680 --> 01:02:32,040
+Nem hall meg Engem.
+
+1153
+01:02:33,000 --> 01:02:34,200
+De egyszerűen csak abbahagyta.
+
+1154
+01:02:36,370 --> 01:02:40,000
+Ezek mind annak az Abszolútnak az alternatívái,
+
+1155
+01:02:40,650 --> 01:02:42,780
+de amikor megtalálod a valóságot,
+
+1156
+01:02:42,940 --> 01:02:46,110
+automatikusan lemondasz ezekről az alternatívákról. Rendben.
+
+1157
+01:02:49,110 --> 01:02:52,990
+Sok időt kell eltölteni a rendszeres meditációval?
+
+1158
+01:02:57,230 --> 01:02:58,900
+Túl sokat aggódsz az idő miatt.
+
+1159
+01:02:59,930 --> 01:03:04,560
+Mi túl vagyunk az időn. Mi vagyunk az idő.
+
+1160
+01:03:05,920 --> 01:03:09,360
+Meddig kell meditálnia?
+
+1161
+01:03:10,370 --> 01:03:12,850
+Erről beszélek.
+
+1162
+01:03:19,100 --> 01:03:21,290
+Túl sokat aggódik az idő miatt.
+
+1163
+01:03:22,770 --> 01:03:25,170
+Most túllépsz az időn, meditációban vagy,
+
+1164
+01:03:25,870 --> 01:03:29,330
+nem, nem, meditációban vagy, gyermekem, állandóan.
+
+1165
+01:03:29,500 --> 01:03:30,890
+Az idő nem kérdés.
+
+1166
+01:03:31,050 --> 01:03:32,620
+Túllépsz az időn.
+
+1167
+01:03:44,500 --> 01:03:45,870
+Nem, nem, nem ez a lényeg,
+
+1168
+01:03:46,040 --> 01:03:48,350
+azt mondom, ne aggódj ilyen a dolgok miatt,
+
+1169
+01:03:48,580 --> 01:03:50,160
+ne légy futurista.
+
+1170
+01:03:50,490 --> 01:03:51,950
+Legyünk a jelenben.
+
+1171
+01:03:52,210 --> 01:03:53,970
+Először kapjátok meg az önmegvalósulásotokat,
+
+1172
+01:03:54,380 --> 01:03:57,140
+alapozódjatok meg lépésenként, rendben.
+
+1173
+01:03:57,450 --> 01:03:59,930
+Ne beszéljünk túl sokat a jövőről.
+
+1174
+01:04:00,260 --> 01:04:01,610
+A futurista emberek, mondom nektek,
+
+1175
+01:04:01,810 --> 01:04:04,230
+eléggé őrültek lehetnek, jobb, ha nem vagyunk futuristák.
+
+1176
+01:04:04,470 --> 01:04:05,800
+Elfelejtenek mindent a múltból,
+
+1177
+01:04:06,000 --> 01:04:07,320
+olyat is láttam, hogy néha az emberek
+
+1178
+01:04:07,580 --> 01:04:08,730
+még a saját nevüket is elfelejtik,
+
+1179
+01:04:08,970 --> 01:04:11,390
+mert annyira futuristák, hogy a jövőbeli nevükre gondolnak.
+
+1180
+01:04:11,810 --> 01:04:13,630
+A saját nevüket meg elfelejtették.
+
+1181
+01:04:14,050 --> 01:04:15,210
+Ezért ne legyünk futuristák,
+
+1182
+01:04:15,460 --> 01:04:16,630
+foglalkozzunk a jelennel.
+
+1183
+01:04:16,890 --> 01:04:18,250
+Most meg kell, hogy kapjátok az önmegvalósulásotokat,
+
+1184
+01:04:18,550 --> 01:04:20,020
+ne aggódjatok.
+
+1185
+01:04:22,050 --> 01:04:23,610
+Nem kell még az órátokat sem használni,
+
+1186
+01:04:23,820 --> 01:04:25,000
+az idő nem fontos.
+
+1187
+01:04:25,740 --> 01:04:30,630
+Ez a létezés ideje.
+
+1188
+01:04:35,970 --> 01:04:38,240
+Ez az örökkévaló idő, amiben mozogtok.
+
+1189
+01:04:39,790 --> 01:04:44,920
+Ez az idő nélküli, gondolatmentes tudatosság helye, rendben.
+
+1190
+01:04:48,290 --> 01:04:50,190
+Magatoknak kell megtapasztalni.
+
+1191
+01:04:50,450 --> 01:04:51,650
+Először kapjátok meg az önmegvalósulásotokat,
+
+1192
+01:04:51,920 --> 01:04:53,750
+helyezzétek erre a figyelmeteket.
+
+1193
+01:04:54,140 --> 01:04:55,850
+Sokan várnak erre.
+
+1194
+01:04:56,610 --> 01:04:59,860
+Gondoljatok erre, ne aggódjatok a jövő miatt,
+
+1195
+01:05:00,450 --> 01:05:02,110
+sem a vonat miatt, amit el kell érnetek,
+
+1196
+01:05:03,480 --> 01:05:04,360
+vagy bármi ilyesmi miatt.
+
+1197
+01:05:04,600 --> 01:05:06,070
+Csak legyetek a jelenben most,
+
+1198
+01:05:06,290 --> 01:05:08,330
+ez a fontos, mondom nektek,
+
+1199
+01:05:08,930 --> 01:05:12,250
+mert az önmegvalósulásotok sokkal fontosabb, mint bármi más.
+
+1200
+01:05:13,130 --> 01:05:15,010
+Szóval először kapjátok meg az önmegvalósulást,
+
+1201
+01:05:15,730 --> 01:05:18,570
+ez a legfontosabb, rendben?
+
+1202
+01:05:20,770 --> 01:05:22,190
+Akkor most nem lesz több kérdés.
+
+1203
+01:05:23,430 --> 01:05:26,600
+Még csak egy órát tölthetünk itt, ugye?
+
+1204
+01:05:30,610 --> 01:05:31,700
+Már megint az idő.
+
+1205
+01:05:32,520 --> 01:05:37,200
+A másodperc töredéke alatt is megtörténhet,
+
+1206
+01:05:37,510 --> 01:05:39,440
+de vannak komplikációk,
+
+1207
+01:05:39,810 --> 01:05:41,450
+és ez problémát jelenthet.
+
+1208
+01:05:42,830 --> 01:05:44,630
+Most, kérlek benneteket,
+
+1209
+01:05:45,400 --> 01:05:47,020
+tegyétek azt, amit mondok.
+
+1210
+01:05:47,210 --> 01:05:48,360
+Nem sok mindent kell tenni.
+
+1211
+01:05:48,620 --> 01:05:51,230
+Amint már említettem, ezek az ujjak érzékenyek kell,
+
+1212
+01:05:51,600 --> 01:05:53,840
+hogy legyenek, tegyük őket így.
+
+1213
+01:05:54,590 --> 01:05:58,990
+Nagyon nyugodtan, és üljetek kényelmesen.
+
+1214
+01:05:59,370 --> 01:06:00,980
+Ne legyen semmilyen feszültség:
+
+1215
+01:06:01,200 --> 01:06:02,990
+ne csináljatok semmit.
+
+1216
+01:06:03,270 --> 01:06:04,540
+Még egy kérésem van,
+
+1217
+01:06:04,840 --> 01:06:06,360
+hogy vegyétek le a cipőtöket.
+
+1218
+01:06:06,890 --> 01:06:08,850
+Remélem nem azonosultatok a cipőtökkel,
+
+1219
+01:06:09,540 --> 01:06:10,950
+ez is probléma lehet.
+
+1220
+01:06:11,290 --> 01:06:12,390
+Vegyétek le a cipőtöket,
+
+1221
+01:06:12,990 --> 01:06:15,030
+mert akkor jobban kapcsolódtok a Földanyához,
+
+1222
+01:06:15,580 --> 01:06:17,110
+ha nincs rajtatok a cipő.
+
+1223
+01:06:17,330 --> 01:06:18,500
+Ilyen nagyon egyszerű.
+
+1224
+01:06:18,700 --> 01:06:20,830
+Jó lenne, ha levennétek a cipőtöket,
+
+1225
+01:06:21,280 --> 01:06:22,960
+tegyétek mindkét lábatokat a földre,
+
+1226
+01:06:24,610 --> 01:06:26,080
+hadd érjenek a földhöz,
+
+1227
+01:06:26,300 --> 01:06:28,050
+még akkor is, ha szőnyeg vagy ilyesmi van ott,
+
+1228
+01:06:28,260 --> 01:06:29,850
+nem számít, de vegyétek le a cipőtöket.
+
+1229
+01:06:31,720 --> 01:06:33,100
+Tartsátok a kezeteket felém,
+
+1230
+01:06:33,790 --> 01:06:35,140
+csukjátok be a szemeteket,
+
+1231
+01:06:37,290 --> 01:06:39,170
+legyetek szívetekben alázatosak.
+
+1232
+01:06:39,820 --> 01:06:41,330
+Alázatosnak kell lennetek,
+
+1233
+01:06:41,900 --> 01:06:46,340
+nem követelhetitek, legyen a szívetekben alázat.
+
+1234
+01:06:47,340 --> 01:06:51,320
+A Kundalini mozgásából meg fogom tudni nektek mondani,
+
+1235
+01:06:51,580 --> 01:06:53,330
+hol van a probléma, hol van akadály,
+
+1236
+01:06:53,560 --> 01:06:55,910
+mit kell mondani, csak kövessétek,
+
+1237
+01:06:57,850 --> 01:06:59,310
+és javulni fog.
