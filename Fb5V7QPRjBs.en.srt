@@ -967,7 +967,7 @@ what are we going to achieve?
 208
 00:32:46,081 --> 00:32:53,051
 All sorts of complicated ideas come out
-of all this kind of a nonsensical thing
+of all this kind of a nonsensical thing,
 
 209
 00:32:55,357 --> 00:33:00,019
@@ -1539,7 +1539,7 @@ The ‘gauche’, correct.
 
 331
 00:48:58,867 --> 00:49:03,183
-Aand the right side started working.
+And the right side started working.
 
 332
 00:49:04,358 --> 00:49:08,036
