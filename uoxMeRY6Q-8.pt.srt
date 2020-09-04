@@ -2922,7 +2922,7 @@ Vocês são pessoas especiais. Então, se tiverem que enviar algo,
 
 725
 01:00:00,832 --> 01:00:04,715
-enviem para todas as crianças,
+enviem para todas as crianças, 
 mas não chocolates...
 
 726
