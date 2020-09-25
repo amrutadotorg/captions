@@ -1,3453 +1,3453 @@
 1
-00:00:00,445 --> 00:00:05,403
+00:00:03,545 --> 00:00:08,503
 Modern zamanların kargaşa zamanı olduğunun farkına varmalısınız.
 
 2
-00:00:06,445 --> 00:00:09,403
+00:00:09,545 --> 00:00:12,503
 Ne istediğinizi bilmiyorsunuz.
 
 3
-00:00:10,445 --> 00:00:14,403
+00:00:13,545 --> 00:00:17,503
 Ne sormak istediğinizi bilmiyorsunuz.
 
 4
-00:00:15,445 --> 00:00:21,403
+00:00:18,545 --> 00:00:24,503
 Yaptığınız şeyin doğru mu yanlış mı olduğunu bilmiyorsunuz.
 
 5
-00:00:22,862 --> 00:00:29,403
+00:00:25,962 --> 00:00:32,503
 Kargaşa gereklidir.   Kargaşa yoksa çaresiz değiliz.
 
 6
-00:00:30,445 --> 00:00:35,403
+00:00:33,545 --> 00:00:38,503
 Çaresizlik durumu olmadan arayış olmaz.
 
 7
-00:00:36,445 --> 00:00:42,403
+00:00:39,545 --> 00:00:45,503
 Kargaşa, yalnızca kişi belli bir  farkındalık
 
 8
-00:00:43,029 --> 00:00:49,070
+00:00:46,129 --> 00:00:52,170
 alanına ya da diyebiliriz ki bir farkındalık
 
 9
-00:00:49,279 --> 00:00:53,445
+00:00:52,379 --> 00:00:56,545
 derecesine ulaştığı zaman görülür hale gelir.
 
 10
-00:00:53,737 --> 00:00:57,820
+00:00:56,837 --> 00:01:00,920
 Örneğin, Musa'nın bu dünyaya geldiği
 
 11
-00:00:58,320 --> 00:01:01,820
+00:01:01,420 --> 00:01:04,920
 dönemde çaresizlik faklıydı.
 
 12
-00:01:02,237 --> 00:01:08,237
+00:01:05,337 --> 00:01:11,337
 Onlar kölelikten kurtulmak istiyorlardı.
 
 13
-00:01:09,486 --> 00:01:15,820
+00:01:12,586 --> 00:01:18,920
 Onların sahip olduğu anlayış farklıydı.
 
 14
-00:01:17,070 --> 00:01:22,195
+00:01:20,170 --> 00:01:25,295
 Bir toplumu, ondan en üst düzeyde
 
 15
-00:01:22,486 --> 00:01:31,611
+00:01:25,586 --> 00:01:34,711
 verim alacak şekilde nasıl organize edersiniz.
 
 16
-00:01:32,070 --> 00:01:33,820
+00:01:35,170 --> 00:01:36,920
 Ve bu acil bir durumdu.
 
 17
-00:01:35,987 --> 00:01:47,154
+00:01:39,087 --> 00:01:50,254
 O zamanın Yahudileri için çok riskli bir durumdu.
 
 18
-00:01:48,237 --> 00:01:53,029
+00:01:51,337 --> 00:01:56,129
 Pek çok ülkede, pek çok kuşakta bu oldu.
 
 19
-00:01:53,445 --> 00:01:59,820
+00:01:56,545 --> 00:02:02,920
 Son derece çaresiz hissettikleri bir noktaya geldiler.
 
 20
-00:02:00,195 --> 00:02:07,445
+00:02:03,295 --> 00:02:10,545
 İnsan köleliği o zamanlar açıkça ortadaydı.
 
 21
-00:02:07,653 --> 00:02:10,778
+00:02:10,753 --> 00:02:13,878
 Ama bundan önce insanlar kölelik için kötü hissetmediler
 
 22
-00:02:10,987 --> 00:02:13,737
+00:02:14,087 --> 00:02:16,837
 Kabul etmişlerdi.   Bunu bahşedilmiş bir şey sayıyorlardı.
 
 23
-00:02:14,195 --> 00:02:18,237
+00:02:17,295 --> 00:02:21,337
 Ve "Bu kölecilik ve biz artık buna sahip
 
 24
-00:02:18,403 --> 00:02:20,820
+00:02:21,503 --> 00:02:23,920
 olmak istemiyoruz" dedikleri bir zaman geldi.
 
 25
-00:02:23,862 --> 00:02:28,737
+00:02:26,962 --> 00:02:31,837
 Bir lider çıktı ve o lider onların adına bunu çözdü.
 
 26
-00:02:29,112 --> 00:02:34,154
+00:02:32,212 --> 00:02:37,254
 Bugün, bu modern zamanlarda  bizi her gün yiyen,
 
 27
-00:02:34,445 --> 00:02:37,361
+00:02:37,545 --> 00:02:40,461
 farkında olmadığımız kadar kendimizi tahrip eden
 
 28
-00:02:37,653 --> 00:02:39,778
+00:02:40,753 --> 00:02:42,878
 ve yok olduğumuz türde
 
 29
-00:02:39,987 --> 00:02:43,987
+00:02:43,087 --> 00:02:47,087
 çok süptil bir köleliğe sahibiz.
 
 30
-00:02:45,237 --> 00:02:50,528
+00:02:48,337 --> 00:02:53,628
 Bu yıkım pek çok farklı şekilde çalışıyor
 
 31
-00:02:51,112 --> 00:03:00,112
+00:02:54,212 --> 00:03:03,212
 ve bizler kendimizi gerçek için uyanmadığımız sürece
 
 32
-00:03:01,195 --> 00:03:07,695
+00:03:04,295 --> 00:03:10,795
 bu yaratılıştan geriye hiçbir şey kalmaması ihtimali var.
 
 33
-00:03:08,279 --> 00:03:11,528
+00:03:11,379 --> 00:03:14,628
 Büyük konuşmalar yapan insanlar var.
 
 34
-00:03:11,903 --> 00:03:15,237
+00:03:15,003 --> 00:03:18,337
 Birleşmiş Milletlerden ve tüm bu büyük,
 
 35
-00:03:15,403 --> 00:03:18,403
+00:03:18,503 --> 00:03:21,503
 büyük makamlardan insanlarla tanıştım.
 
 36
-00:03:18,778 --> 00:03:22,862
+00:03:21,878 --> 00:03:25,962
 Gelen yıkımdan, geleceğin şokundan
 
 37
-00:03:23,112 --> 00:03:24,320
+00:03:26,212 --> 00:03:27,420
 ve  bunun olacağından bahsederler,
 
 38
-00:03:24,528 --> 00:03:25,945
+00:03:27,628 --> 00:03:29,045
 yer ayırtırlar, büyük rezervasyonlar. Tartışırlar.
 
 39
-00:03:26,237 --> 00:03:27,737
+00:03:29,337 --> 00:03:30,837
 Sokakta otururlar, tartışacaklardır.
 
 40
-00:03:27,945 --> 00:03:29,987
+00:03:31,045 --> 00:03:33,087
 Bardalar, tartışıyorlar.
 
 41
-00:03:30,195 --> 00:03:32,154
+00:03:33,295 --> 00:03:35,254
 Partideler, tartışıyorlar.
 
 42
-00:03:32,862 --> 00:03:35,737
+00:03:35,962 --> 00:03:38,837
 Ama ne anlama geldiğini anlamazlar.
 
 43
-00:03:36,445 --> 00:03:41,695
+00:03:39,545 --> 00:03:44,795
 Bu yıkım daha önce hiç gerçekleşmemiş
 
 44
-00:03:41,903 --> 00:03:46,070
+00:03:45,003 --> 00:03:49,170
 olan bir yıkım.
 
 45
-00:03:47,029 --> 00:03:50,361
+00:03:50,129 --> 00:03:53,461
 Çünkü bu yıkım dışarıdan değil
 
 46
-00:03:50,653 --> 00:03:53,945
+00:03:53,753 --> 00:03:57,045
 içerden gelecektir.
 
 47
-00:03:54,279 --> 00:03:58,987
+00:03:57,379 --> 00:04:02,087
 Farkındalığımızda belli bir noktaya ulaştık
 
 48
-00:03:59,320 --> 00:04:04,820
+00:04:02,420 --> 00:04:07,920
 ve özümüzün kaynağına dokunmazsak
 
 49
-00:04:06,403 --> 00:04:10,029
+00:04:09,503 --> 00:04:13,129
 bu yıkım çalışacak.
 
 50
-00:04:10,320 --> 00:04:13,029
+00:04:13,420 --> 00:04:16,129
 Şimdi pek çok kişi için,  "Aman unut gitsin, unut,
 
 51
-00:04:13,029 --> 00:04:14,653
+00:04:16,129 --> 00:04:17,753
 göreceğiz. "
 
 52
-00:04:14,987 --> 00:04:17,154
+00:04:18,087 --> 00:04:20,254
 Bazıları şu fikirde,  "Tamam unut gitsin,  ne yıkımı?
 
 53
-00:04:17,528 --> 00:04:19,403
+00:04:20,628 --> 00:04:22,503
 Tamam, önemli değil,
 
 54
-00:04:19,820 --> 00:04:22,195
+00:04:22,920 --> 00:04:25,295
 yarın görürüz."
 
 55
-00:04:22,528 --> 00:04:26,279
+00:04:25,628 --> 00:04:29,379
 Bazılarının ise oturup beklediğini gördüm,
 
 56
-00:04:26,445 --> 00:04:30,570
+00:04:29,545 --> 00:04:33,670
 "Tanrıya şükür bir yıkım var, bu sayede bunların hepsi bitecek.
 
 57
-00:04:30,778 --> 00:04:32,112
+00:04:33,878 --> 00:04:35,212
 Kafamızı yormamıza gerek yok.
 
 58
-00:04:32,361 --> 00:04:35,070
+00:04:35,461 --> 00:04:38,170
 Tanrıya şükür vaat edilmiş bir yıkım var. "
 
 59
-00:04:37,279 --> 00:04:42,778
+00:04:40,379 --> 00:04:45,878
 Her ne yaklaşıma sahip olursanız olun,
 
 60
-00:04:43,320 --> 00:04:46,611
+00:04:46,420 --> 00:04:49,711
 bunların çok ciddi şeyler olduğunun farkına varmalısınız.
 
 61
-00:04:47,528 --> 00:04:52,570
+00:04:50,628 --> 00:04:55,670
 Yaratılış şimdi maksimum büyüme noktasına ulaştı.
 
 62
-00:04:52,778 --> 00:04:58,070
+00:04:55,878 --> 00:05:01,170
 Bu büyüme insanoğlu olarak ifade edildi.
 
 63
-00:04:58,445 --> 00:05:02,987
+00:05:01,545 --> 00:05:06,087
 Bu insanlar sahnedeki oyuncular.
 
 64
-00:05:03,445 --> 00:05:08,987
+00:05:06,545 --> 00:05:12,087
 Tüm doğa çalışıyor, bu yeni oluşum.
 
 65
-00:05:10,112 --> 00:05:14,611
+00:05:13,212 --> 00:05:17,711
 Şimdi başınıza gelmesi gereken tek şey
 
 66
-00:05:15,029 --> 00:05:20,737
+00:05:18,129 --> 00:05:23,837
 Tanrı ile bağlantıya geçmenizdir.
 
 67
-00:05:21,029 --> 00:05:24,528
+00:05:24,129 --> 00:05:27,628
 Bütün ile bağlantıya geçmelisiniz.
 
 68
-00:05:25,029 --> 00:05:32,778
+00:05:28,129 --> 00:05:35,878
 Kendi anlamınızı ve kendi amacınızı bilmelisiniz.
 
 69
-00:05:33,237 --> 00:05:41,987
+00:05:36,337 --> 00:05:45,087
 Bu size olduğunda o zaman diğer dünyadasınızdır.
 
 70
-00:05:42,320 --> 00:05:44,945
+00:05:45,420 --> 00:05:48,045
 Sizler bunun için yaratıldınız.
 
 71
-00:05:45,154 --> 00:05:47,154
+00:05:48,254 --> 00:05:50,254
 Sizler bir amaçla insan yapıldınız.
 
 72
-00:05:47,445 --> 00:05:48,237
+00:05:50,545 --> 00:05:51,337
 Düşünmeliyiz,
 
 73
-00:05:48,403 --> 00:05:51,778
+00:05:51,503 --> 00:05:54,878
 Bütün bilim adamları en azından şu soruyu sormalı: Neden?
 
 74
-00:05:52,112 --> 00:05:56,778
+00:05:55,212 --> 00:05:59,878
 Neden insan olarak yaratıldık?
 
 75
-00:05:57,112 --> 00:06:01,987
+00:06:00,212 --> 00:06:05,087
 Hayvan düzeyinden bu düzeye neden geldik, sebebi nedir?
 
 76
-00:06:02,361 --> 00:06:08,195
+00:06:05,461 --> 00:06:11,295
 Bu soru arayış içinde olan herkesin bilinçaltında var.
 
 77
-00:06:08,653 --> 00:06:12,987
+00:06:11,753 --> 00:06:16,087
 Bu yüzden dünyada bu kadar çok arayış içinde insan var.
 
 78
-00:06:13,361 --> 00:06:18,279
+00:06:16,461 --> 00:06:21,379
 Ve tüm bu insanlar neden burada olduğunu bulmaya çalışıyorlar.
 
 79
-00:06:18,778 --> 00:06:27,445
+00:06:21,878 --> 00:06:30,545
 Bazıları bazen maddi refahta bir cevap buluyor.
 
 80
-00:06:27,653 --> 00:06:31,195
+00:06:30,753 --> 00:06:34,295
 Örneğin bugünün grevlerine bakalım.  Demiryolları.
 
 81
-00:06:31,486 --> 00:06:37,528
+00:06:34,586 --> 00:06:40,628
 Pekala ama bu bütünün çok dar bir görüşüdür, çok dar.
 
 82
-00:06:37,903 --> 00:06:41,070
+00:06:41,003 --> 00:06:44,170
 Daha fazla mı para istiyorsunuz, tamam o zaman alın,
 
 83
-00:06:41,279 --> 00:06:42,778
+00:06:44,379 --> 00:06:45,878
 peki sonra?
 
 84
-00:06:43,154 --> 00:06:44,987
+00:06:46,254 --> 00:06:48,087
 Komünizmden bahsedenler var.
 
 85
-00:06:45,279 --> 00:06:47,403
+00:06:48,379 --> 00:06:50,503
 Moskova'da bulundum ve tekrar gidiyorum.
 
 86
-00:06:47,820 --> 00:06:48,611
+00:06:50,920 --> 00:06:51,711
 Yani onlara sorsanız şöyle diyeceklerdir,
 
 87
-00:06:48,903 --> 00:06:52,403
+00:06:52,003 --> 00:06:55,503
 "Hayır daha henüz neşeyi hissetmedik. "
 
 88
-00:06:52,695 --> 00:06:55,070
+00:06:55,795 --> 00:06:58,170
 Ben komünizme ya da demokrasiye karşı değilim.
 
 89
-00:06:55,361 --> 00:06:58,778
+00:06:58,461 --> 00:07:01,878
 Her ikisi de Benim için bir şaka gibi.
 
 90
-00:06:59,070 --> 00:07:03,029
+00:07:02,170 --> 00:07:06,129
 Siz ne komünist ne de demokratsınız.
 
 91
-00:07:03,361 --> 00:07:08,987
+00:07:06,461 --> 00:07:12,087
 Ancak aydınlanmadan sonra kendiliğinden her ikisi de olursunuz
 
 92
-00:07:09,279 --> 00:07:12,029
+00:07:12,379 --> 00:07:15,129
 çünkü sizin kapitalist ya da demokrat olma gücünüz yok,
 
 93
-00:07:12,320 --> 00:07:13,611
+00:07:15,420 --> 00:07:16,711
 sizin oy kullanma gücünüz yok.
 
 94
-00:07:13,903 --> 00:07:16,486
+00:07:17,003 --> 00:07:19,586
 Kendiniz hakkında hiçbir şey bilmiyorsunuz.
 Ne için oy kullanacaksınız?
 
 95
-00:07:16,695 --> 00:07:18,154
+00:07:19,795 --> 00:07:21,254
 Göremezsiniz ki?
 
 96
-00:07:18,320 --> 00:07:25,154
+00:07:21,420 --> 00:07:28,254
 Işığa sahip olmadığımız sürece,  göremediğimiz sürece,
 
 97
-00:07:25,486 --> 00:07:28,112
+00:07:28,586 --> 00:07:31,212
 ne için nasıl oy vereceğiz.
 
 98
-00:07:28,361 --> 00:07:32,029
+00:07:31,461 --> 00:07:35,129
 Örneğin biri için oy veriyoruz,  ne için?
 
 99
-00:07:32,320 --> 00:07:35,112
+00:07:35,420 --> 00:07:38,212
 "Oh! O iyi bir insan." Tamam.
 
 100
-00:07:35,486 --> 00:07:38,237
+00:07:38,586 --> 00:07:41,337
 Onun hakkında iyi olan şey nedir?
 
 101
-00:07:38,570 --> 00:07:40,987
+00:07:41,670 --> 00:07:44,087
 Onun iyi biri olduğunu nereden biliyorsunuz?
 
 102
-00:07:41,320 --> 00:07:44,403
+00:07:44,420 --> 00:07:47,503
 Kötü bir adam olmayacağını ne  biliyorsunuz?
 
 103
-00:07:44,695 --> 00:07:49,279
+00:07:47,795 --> 00:07:52,379
 Bugün hoş görünen, çok hoş bir insanın etrafına
 
 104
-00:07:49,570 --> 00:07:55,112
+00:07:52,670 --> 00:07:58,212
 yılanlar ve akrepler saçmayacağını söyleyebilir misiniz?
 
 105
-00:07:55,903 --> 00:07:59,320
+00:07:59,003 --> 00:08:02,420
 Dıştan çok güzel bir kişiliğe sahip gibi görünen birisi
 
 106
-00:07:59,611 --> 00:08:02,945
+00:08:02,711 --> 00:08:06,045
 korkunç bir kişiye dönüşebilir.
 
 107
-00:08:03,154 --> 00:08:05,987
+00:08:06,254 --> 00:08:09,087
 Birini yargılamanın mutlak bir yolu yoktur.
 
 108
-00:08:06,279 --> 00:08:10,279
+00:08:09,379 --> 00:08:13,379
 O zaman nasıl oy kullanacağız?
 
 109
-00:08:10,611 --> 00:08:16,237
+00:08:13,711 --> 00:08:19,337
 Eğer nasıl yargılayacağınızı bildiğinizi düşünüyorsanız
 
 110
-00:08:16,486 --> 00:08:20,778
+00:08:19,586 --> 00:08:23,878
 Bence hala öğrenmeniz gerekiyor.
 
 111
-00:08:21,320 --> 00:08:24,486
+00:08:24,420 --> 00:08:27,586
 Çünkü bir sürü hata yapana kadar "Ben bilmiyorum" u
 
 112
-00:08:24,695 --> 00:08:26,653
+00:08:27,795 --> 00:08:29,753
 kabul etmeyeceksiniz. Nokta budur.
 
 113
-00:08:26,945 --> 00:08:29,570
+00:08:30,045 --> 00:08:32,670
 "Ben bilmiyorum"  dediğiniz bu konuma bir kez ulaştığınızda,
 
 114
-00:08:29,903 --> 00:08:32,945
+00:08:33,003 --> 00:08:36,045
 İyi biri olduğunu söylüyorum ama bunu söyleyemem.
 
 115
-00:08:33,154 --> 00:08:35,029
+00:08:36,254 --> 00:08:38,129
 "Bu kişi hakkında emin değilim"  noktasına eriştiğiniz yerde,
 
 116
-00:08:35,237 --> 00:08:39,445
+00:08:38,337 --> 00:08:42,545
 emin olmadığınız noktada, eğer bir şeyler gerçekten güvenilir
 
 117
-00:08:39,778 --> 00:08:46,403
+00:08:42,878 --> 00:08:49,503
 ve dürüst ise şüphe olmaksızın bunu bilmek isteyeceksiniz.
 
 118
-00:08:47,279 --> 00:08:51,570
+00:08:50,379 --> 00:08:54,670
 Bizim dürüstlük anlayışımız ve her şey çok yüzeyseldir,
 
 119
-00:08:51,903 --> 00:08:53,778
+00:08:55,003 --> 00:08:56,878
 çok yüzeysel.
 
 120
-00:08:54,070 --> 00:08:56,528
+00:08:57,170 --> 00:08:59,628
 Bizim için dürüstlük,  bana beş pound verirsen,
 
 121
-00:08:56,820 --> 00:08:58,195
+00:08:59,920 --> 00:09:01,295
 o beş poundu sana geri vereceğim şeklindedir
 
 122
-00:08:58,361 --> 00:09:01,403
+00:09:01,461 --> 00:09:04,503
 bitti, tamam, dürüsttür.
 
 123
-00:09:01,737 --> 00:09:04,570
+00:09:04,837 --> 00:09:07,670
 Her şey çok yüzeysel,
 
 124
-00:09:04,903 --> 00:09:07,987
+00:09:08,003 --> 00:09:11,087
 işte bu yüzden hiçbir zaman tatmin olamıyoruz,
 
 125
-00:09:08,695 --> 00:09:13,653
+00:09:11,795 --> 00:09:16,753
 yüzde on ya da yirmi fazla ödeme alsanız bile
 
 126
-00:09:14,029 --> 00:09:15,778
+00:09:17,129 --> 00:09:18,878
 Mutlu olmayacaksınız.
 
 127
-00:09:16,070 --> 00:09:18,070
+00:09:19,170 --> 00:09:21,170
 Bana inanın.
 
 128
-00:09:18,279 --> 00:09:21,903
+00:09:21,379 --> 00:09:25,003
 Maddi şeyler bize mutluluk vermez. Asla.
 
 129
-00:09:22,320 --> 00:09:26,445
+00:09:25,420 --> 00:09:29,545
 Ama maddi şeylere ihtiyacımız yok demiyorum.
 
 130
-00:09:26,653 --> 00:09:28,862
+00:09:29,753 --> 00:09:31,962
 Evet, maddi şeylere ihtiyacımız var.
 
 131
-00:09:29,154 --> 00:09:38,903
+00:09:32,254 --> 00:09:42,003
 Ama maddi şey içinde nektar bulunduran bir kap gibidir.
 
 132
-00:09:39,279 --> 00:09:44,862
+00:09:42,379 --> 00:09:47,962
 Eğer susadıysanız boş bir kaptan içemezsiniz.
 
 133
-00:09:45,154 --> 00:09:49,195
+00:09:48,254 --> 00:09:52,295
 Altın bir kap olabilir,  ne önemi var,  sizin için ne fark eder?
 
 134
-00:09:49,486 --> 00:09:53,112
+00:09:52,586 --> 00:09:56,212
 Susuzluğunuzu gidermek için bir şeye ihtiyaç duyarsınız
 
 135
-00:09:53,445 --> 00:09:57,403
+00:09:56,545 --> 00:10:00,503
 ve bu susuzluk giderilmediği sürece
 
 136
-00:09:59,154 --> 00:10:01,112
+00:10:02,254 --> 00:10:04,212
 mutlu olmazsınız.
 
 137
-00:10:01,361 --> 00:10:03,695
+00:10:04,461 --> 00:10:06,795
 Ve bu susuzluk nedir?
 
 138
-00:10:04,361 --> 00:10:07,695
+00:10:07,461 --> 00:10:10,795
 Siz hala kendinizi tanımadınız.
 
 139
-00:10:08,070 --> 00:10:13,570
+00:10:11,170 --> 00:10:16,670
 Bu çok bilinçsiz bir susuzluktur.
 
 140
-00:10:13,778 --> 00:10:16,279
+00:10:16,878 --> 00:10:19,379
 Gelir ne aradığınızı bilmezsiniz,
 
 141
-00:10:16,486 --> 00:10:18,029
+00:10:19,586 --> 00:10:21,129
 neden mutsuz olduğunuzu bilmezsiniz
 
 142
-00:10:18,361 --> 00:10:20,112
+00:10:21,461 --> 00:10:23,212
 ne istediğinizi bilmezsiniz.
 
 143
-00:10:20,445 --> 00:10:24,820
+00:10:23,545 --> 00:10:27,920
 İşte bu çalışan bilinçdışıdır.
 
 144
-00:10:25,154 --> 00:10:29,029
+00:10:28,254 --> 00:10:32,129
 Ama artık ne olduğunuzu, ihtişamınızı,
 
 145
-00:10:29,403 --> 00:10:32,903
+00:10:32,503 --> 00:10:36,003
 yüceliğinizi ve güçlerinizi
 
 146
-00:10:33,195 --> 00:10:35,029
+00:10:36,295 --> 00:10:38,129
 bilmenizin zamanı geldi.
 
 147
-00:10:35,237 --> 00:10:37,820
+00:10:38,337 --> 00:10:40,920
 Hepsi içinizde yerleştirilmiştir.
 
 148
-00:10:38,445 --> 00:10:43,611
+00:10:41,545 --> 00:10:46,711
 Tüm bu büyüdüğünüz günlerde, evrimsel sürecinizde,
 
 149
-00:10:44,029 --> 00:10:48,737
+00:10:47,129 --> 00:10:51,837
 bütün bu şeyler gösterildiği gibi sizin içinize yerleştirildi.
 
 150
-00:10:49,029 --> 00:10:51,403
+00:10:52,129 --> 00:10:54,503
 Hepsi oradalar.
 
 151
-00:10:51,695 --> 00:10:55,737
+00:10:54,795 --> 00:10:58,837
 Aslında ben sadece bir katalizörüm, böyle diyebilirsiniz.
 
 152
-00:10:56,154 --> 00:10:59,653
+00:10:59,254 --> 00:11:02,753
 Sadece aydınlatılmış bir  mum.
 
 153
-00:10:59,987 --> 00:11:03,570
+00:11:03,087 --> 00:11:06,670
 Ve bu mum hazır olan diğerine (muma) dokunduğunda
 
 154
-00:11:03,778 --> 00:11:05,528
+00:11:06,878 --> 00:11:08,628
 diğeri de aydınlanır (yanmaya başlar).
 
 155
-00:11:05,737 --> 00:11:07,862
+00:11:08,837 --> 00:11:10,962
 Demek istiyorum ki siz ona büyük bir bilimsel isim verebilirsiniz,
 
 156
-00:11:08,070 --> 00:11:10,528
+00:11:11,170 --> 00:11:13,628
 Onlar donatılmış yükseltilmiş bir kişilik başlattılar gibi.
 
 157
-00:11:10,737 --> 00:11:12,237
+00:11:13,837 --> 00:11:15,337
 Ben anlamıyorum.
 
 158
-00:11:12,403 --> 00:11:13,820
+00:11:15,503 --> 00:11:16,920
 Benim için bu çok basit.
 
 159
-00:11:14,112 --> 00:11:15,862
+00:11:17,212 --> 00:11:18,962
 Bunun için hepimiz hazırız.
 
 160
-00:11:16,154 --> 00:11:19,862
+00:11:19,254 --> 00:11:22,962
 Ben sadece size dokunuyorum, siz aydınlanıyorsunuz ve ışığa
 
 161
-00:11:20,070 --> 00:11:23,279
+00:11:23,170 --> 00:11:26,379
 sahip oluyorsunuz. Siz birine dokunduğunuzda o da aydınlanıyor.
 
 162
-00:11:24,778 --> 00:11:27,820
+00:11:27,878 --> 00:11:30,920
 Şimdi  " Anne nasıl bu kadar basit olabilir?" diyebilirsiniz.
 
 163
-00:11:28,237 --> 00:11:30,486
+00:11:31,337 --> 00:11:33,586
 Pek çok insan bunu diyor. "Anne.  Sen çok sadesin,
 
 164
-00:11:30,820 --> 00:11:32,112
+00:11:33,920 --> 00:11:35,212
 bu nasıl olabilir?".
 
 165
-00:11:32,403 --> 00:11:35,279
+00:11:35,503 --> 00:11:38,379
 Ben sadece anlamıyorum, ne olması lazım, iki boynuz mu
 
 166
-00:11:35,653 --> 00:11:37,403
+00:11:38,753 --> 00:11:40,503
 ya da daha karmaşık hale getirmek için bir şey?
 
 167
-00:11:37,695 --> 00:11:40,987
+00:11:40,795 --> 00:11:44,087
 Yaşayan her şey en basit şeydir.
 
 168
-00:11:41,279 --> 00:11:43,737
+00:11:44,379 --> 00:11:46,837
 Yaşamın belirtisi budur.
 
 169
-00:11:44,112 --> 00:11:46,320
+00:11:47,212 --> 00:11:49,420
 Çiçeği gördünüz mü?
 
 170
-00:11:46,653 --> 00:11:50,528
+00:11:49,753 --> 00:11:53,628
 Bir çiçek yetiştirmek ne kadar kolaydır.
 
 171
-00:11:50,945 --> 00:11:52,737
+00:11:54,045 --> 00:11:55,837
 Sadece olur.
 
 172
-00:11:53,112 --> 00:11:58,987
+00:11:56,212 --> 00:12:02,087
 Biraz tohum alır,  ekersiniz ve bitkileriniz olur.
 
 173
-00:11:59,195 --> 00:12:03,070
+00:12:02,295 --> 00:12:06,170
 Ne kadar basittir.
 Hiç durup da nasıl olduğunu düşünür müyüz?
 
 174
-00:12:03,570 --> 00:12:06,403
+00:12:06,670 --> 00:12:09,503
 Eğer bunun hakkında düşünmeye başlarsanız çok karmaşık görünür.
 
 175
-00:12:06,695 --> 00:12:09,279
+00:12:09,795 --> 00:12:12,379
 Analiz etmeye başlarsanız, delirirsiniz.
 
 176
-00:12:09,570 --> 00:12:10,778
+00:12:12,670 --> 00:12:13,878
 Ama çok basittir.
 
 177
-00:12:10,987 --> 00:12:15,486
+00:12:14,087 --> 00:12:18,586
 Aynı şekilde bu oluşum da çok, çok kolay bir şeydir.
 
 178
-00:12:16,112 --> 00:12:18,445
+00:12:19,212 --> 00:12:21,545
 Adı Sahaja'dır.
 
 179
-00:12:18,653 --> 00:12:20,112
+00:12:21,753 --> 00:12:23,212
 Sahaja'nın  iki anlamı vardır. Sahaja basit demektir
 
 180
-00:12:20,695 --> 00:12:23,778
+00:12:23,795 --> 00:12:26,878
 ve aynı zamanda "sizinle doğan" anlamına gelir.
 
 181
-00:12:24,237 --> 00:12:28,112
+00:12:27,337 --> 00:12:31,212
 Sahaja basit bir şeydir çünkü sizinle doğmuştur.
 
 182
-00:12:28,445 --> 00:12:31,778
+00:12:31,545 --> 00:12:34,878
 Yani burnunuz sizinle doğdu, tamam, basit bir şey.
 
 183
-00:12:32,112 --> 00:12:33,570
+00:12:35,212 --> 00:12:36,670
 Nefes almak için herhangi bir şey yapmanıza,
 
 184
-00:12:33,778 --> 00:12:36,862
+00:12:36,878 --> 00:12:39,962
 bastırmanıza falan gerek yoktur.
 
 185
-00:12:37,154 --> 00:12:37,987
+00:12:40,254 --> 00:12:41,087
 Oradadır,
 
 186
-00:12:38,279 --> 00:12:43,070
+00:12:41,379 --> 00:12:46,170
 aynı şekilde bu içinize yerleştirilmiş süreç içinizde,
 
 187
-00:12:43,820 --> 00:12:45,112
+00:12:46,920 --> 00:12:48,212
 sadece orada işte.
 
 188
-00:12:45,361 --> 00:12:47,279
+00:12:48,461 --> 00:12:50,379
 Benim için kesinlikle basit
 
 189
-00:12:47,778 --> 00:12:52,237
+00:12:50,878 --> 00:12:55,337
 ve siz ona ulaşır ulaşmaz sizin için de basit olacak.
 
 190
-00:12:52,695 --> 00:12:56,653
+00:12:55,795 --> 00:12:59,753
 Bu yüzden çok kolay oluyor tartışmasını
 
 191
-00:12:58,778 --> 00:13:01,695
+00:13:01,878 --> 00:13:04,795
 kendim bir türlü anlayamıyorum.
 
 192
-00:13:01,903 --> 00:13:02,903
+00:13:05,003 --> 00:13:06,003
 Neden bir tartışma olmalı ki?
 
 193
-00:13:03,237 --> 00:13:05,528
+00:13:06,337 --> 00:13:08,628
 Şu şekilde yediğimizi farz edelim.
 
 194
-00:13:05,737 --> 00:13:08,320
+00:13:08,837 --> 00:13:11,420
 "Bu şekilde yemek neden basit?" diye neden soralım?
 
 195
-00:13:08,778 --> 00:13:14,070
+00:13:11,878 --> 00:13:17,170
 Çok basit, çünkü çok hayatidir, çok önemlidir.
 
 196
-00:13:14,320 --> 00:13:18,279
+00:13:17,420 --> 00:13:21,379
 Tüm hayati şeyler basittir ve kolayca ulaşılabilir,
 
 197
-00:13:18,695 --> 00:13:19,903
+00:13:21,795 --> 00:13:23,003
 tıpkı kendinizin nefes almanız gibi.
 
 198
-00:13:20,195 --> 00:13:22,029
+00:13:23,295 --> 00:13:25,129
 Eğer bunun için özel bir şey yapmanız gerekseydi
 
 199
-00:13:22,653 --> 00:13:25,528
+00:13:25,753 --> 00:13:28,628
 o zaman bu nefes almak mümkün değildi.
 
 200
-00:13:25,820 --> 00:13:28,279
+00:13:28,920 --> 00:13:31,379
 Kaç kişi hayatta kalırdı?
 
 201
-00:13:28,570 --> 00:13:32,112
+00:13:31,670 --> 00:13:35,212
 Şimdi bu basit şey,  bu basit metot
 
 202
-00:13:32,361 --> 00:13:36,778
+00:13:35,461 --> 00:13:39,878
 her yanı saran Tanrısal Gücün,
 
 203
-00:13:37,154 --> 00:13:39,403
+00:13:40,254 --> 00:13:42,503
 Kutsal Ruhun metodudur.
 
 204
-00:13:39,695 --> 00:13:43,112
+00:13:42,795 --> 00:13:46,212
 Her yanı saran Tanrısal Güç Shakti'dir,
 
 205
-00:13:43,279 --> 00:13:48,154
+00:13:46,379 --> 00:13:51,254
 bunu çalıştıran Ezeli Güç'tür.
 
 206
-00:13:48,945 --> 00:13:52,320
+00:13:52,045 --> 00:13:55,420
 Shakti'nin ne şekilde çalıştığının farkında mıyız?
 
 207
-00:13:53,070 --> 00:13:58,279
+00:13:56,170 --> 00:14:01,379
 Bir çiçeğin meyveye dönüşümünü hiç izliyor muyuz?
 
 208
-00:13:58,570 --> 00:14:00,445
+00:14:01,670 --> 00:14:03,545
 Bunu yapan kimdir?  Sadece tek bir çiçek değil,
 
 209
-00:14:00,903 --> 00:14:02,611
+00:14:04,003 --> 00:14:05,711
 görmüş olmalısınız
 
 210
-00:14:02,903 --> 00:14:05,112
+00:14:06,003 --> 00:14:08,212
 bu çiçeklerden milyonlarca ve  milyonlarcası, milyarlarca ve
 
 211
-00:14:05,361 --> 00:14:08,279
+00:14:08,461 --> 00:14:11,379
 milyarlarcası meyveye dönüşüyor
 
 212
-00:14:08,695 --> 00:14:11,154
+00:14:11,795 --> 00:14:14,254
 ve bunu kim yapıyor?  Asla düşünmüyoruz.
 
 213
-00:14:11,570 --> 00:14:13,778
+00:14:14,670 --> 00:14:16,878
 Bahşedilmiş olarak kabul ediyoruz.
 
 214
-00:14:14,070 --> 00:14:17,778
+00:14:17,170 --> 00:14:20,878
 Yaşayan her şey bu Tanrısal Güç tarafından yapılır.
 
 215
-00:14:18,154 --> 00:14:21,112
+00:14:21,254 --> 00:14:24,212
 İnsanoğlu yaşayan hiçbir şey yapamaz.
 
 216
-00:14:21,361 --> 00:14:23,653
+00:14:24,461 --> 00:14:26,753
 Yapabildikleri şey sadece ölüdür
 
 217
-00:14:23,945 --> 00:14:27,195
+00:14:27,045 --> 00:14:30,295
 tıpkı darbelerin öldürücü bir şey olması gibi..
 
 218
-00:14:28,070 --> 00:14:31,195
+00:14:31,170 --> 00:14:34,295
 Yapabildiğimiz şeyler örneğin ağaç öldüğünde ondan bir masa,
 
 219
-00:14:31,570 --> 00:14:33,154
+00:14:34,670 --> 00:14:36,254
 bir sandalye yapmaktır.
 
 220
-00:14:33,486 --> 00:14:35,486
+00:14:36,586 --> 00:14:38,586
 Siz sadece ölü bir iş yapıyorsunuz
 
 221
-00:14:35,695 --> 00:14:41,611
+00:14:38,795 --> 00:14:44,711
 ve bu öldürücü şey bize hükmediyor
 
 222
-00:14:41,903 --> 00:14:44,279
+00:14:45,003 --> 00:14:47,379
 çünkü alışkanlıklar oluşturuyoruz.
 
 223
-00:14:44,695 --> 00:14:46,486
+00:14:47,795 --> 00:14:49,586
 Alışkanlıklar oluşturuyoruz.
 
 224
-00:14:46,695 --> 00:14:50,903
+00:14:49,795 --> 00:14:54,003
 Bu alışkanlıklarla madde tepemize çıkıyor
 
 225
-00:14:51,195 --> 00:14:54,279
+00:14:54,295 --> 00:14:57,379
 ve titreşen şey, kaynak olan,
 
 226
-00:14:54,570 --> 00:15:02,195
+00:14:57,670 --> 00:15:05,295
 kontrol eden Ruh hareketsizleşiyor.
 
 227
-00:15:02,611 --> 00:15:11,486
+00:15:05,711 --> 00:15:14,586
 Bu uyuyan güç bir şekilde aydınlatıldığında
 
 228
-00:15:11,695 --> 00:15:15,862
+00:15:14,795 --> 00:15:18,962
 ve dikkatimiz aydınlandığında,
 
 229
-00:15:17,195 --> 00:15:20,403
+00:15:20,295 --> 00:15:23,503
 biz farklı bir insan oluruz, biz yogi oluruz.
 
 230
-00:15:21,154 --> 00:15:23,903
+00:15:24,254 --> 00:15:27,003
 Biz Tanrı ile bir olan birisi oluruz.
 
 231
-00:15:24,195 --> 00:15:26,653
+00:15:27,295 --> 00:15:29,753
 Bunun için tuhaf kıyafetler giymeniz gerekmiyor.
 
 232
-00:15:26,945 --> 00:15:29,070
+00:15:30,045 --> 00:15:32,170
 Ne tür kıyafet giydiğinizin bir önemi yok.
 
 233
-00:15:29,778 --> 00:15:32,987
+00:15:32,878 --> 00:15:36,087
 Saçınızı nasıl taradığınızın ya da
 
 234
-00:15:33,361 --> 00:15:35,486
+00:15:36,461 --> 00:15:38,586
 ne tür yemek yediğinizin bir önemi yok
 
 235
-00:15:35,695 --> 00:15:37,653
+00:15:38,795 --> 00:15:40,753
 O öylesine içsel bir şeydir ki
 
 236
-00:15:37,945 --> 00:15:42,154
+00:15:41,045 --> 00:15:45,254
 bu dışsal şeylerle hiçbir alakası yoktur.
 
 237
-00:15:42,486 --> 00:15:48,528
+00:15:45,586 --> 00:15:51,628
 Yardımseverlik ve başkalarına karşı iyi olmakla ilgili
 
 238
-00:15:48,903 --> 00:15:53,570
+00:15:52,003 --> 00:15:56,670
 bütün fikirlerimiz bile çok yüzeyseldir
 
 239
-00:15:54,279 --> 00:15:56,112
+00:15:57,379 --> 00:15:59,212
 Siz o olduğunuzda,
 
 240
-00:15:56,279 --> 00:16:01,029
+00:15:59,379 --> 00:16:04,129
 siz şefkat olduğunuzda,  siz sevgi olduğunuzda
 
 241
-00:16:01,695 --> 00:16:03,820
+00:16:04,795 --> 00:16:06,920
 o zaman kendinize hiçbir şey söylemenize gerek kalmaz.
 
 242
-00:16:04,029 --> 00:16:05,195
+00:16:07,129 --> 00:16:08,295
 Bununla tartışmanıza gerek kalmaz,
 
 243
-00:16:05,361 --> 00:16:08,987
+00:16:08,461 --> 00:16:12,087
 sadece olursunuz. O sadece akar. Şefkat akar ve eyleme geçer.
 
 244
-00:16:10,195 --> 00:16:11,862
+00:16:13,295 --> 00:16:14,962
 Bunun hakkında tartışmanıza gerek yoktur,
 
 245
-00:16:12,154 --> 00:16:13,445
+00:16:15,254 --> 00:16:16,545
 kendinize "Ben şefkatli olmalıyım,
 
 246
-00:16:13,653 --> 00:16:15,445
+00:16:16,753 --> 00:16:18,545
 iyi kalpli olmalıyım" demenize gerek kalmaz.
 
 247
-00:16:15,653 --> 00:16:17,653
+00:16:18,753 --> 00:16:20,753
 Sadece olursunuz.
 
 248
-00:16:19,361 --> 00:16:22,862
+00:16:22,461 --> 00:16:25,962
 İtalya'ya gitmiştim ve orada Sahaja Yogilerle
 
 249
-00:16:23,279 --> 00:16:25,695
+00:16:26,379 --> 00:16:28,795
 ilgilenen üç dört kişi vardı
 
 250
-00:16:26,154 --> 00:16:28,445
+00:16:29,254 --> 00:16:31,545
 ama "Biz Sahaja Yoga'ya katılmak istemiyoruz" dediler.
 
 251
-00:16:28,695 --> 00:16:29,403
+00:16:31,795 --> 00:16:32,503
 Ben de "Neden?" diye sordum.
 
 252
-00:16:29,778 --> 00:16:31,361
+00:16:32,878 --> 00:16:34,461
 "Çünkü bu insanlar sigara içmiyorlar" dediler.
 
 253
-00:16:31,653 --> 00:16:34,737
+00:16:34,753 --> 00:16:37,837
 "Ben asla onlara sigara içmeyin demedim.  Sorun onlara." dedim.
 
 254
-00:16:35,237 --> 00:16:36,862
+00:16:38,337 --> 00:16:39,962
 Ben asla "sigara içmeyin" demedim.
 
 255
-00:16:37,237 --> 00:16:44,778
+00:16:40,337 --> 00:16:47,878
 Sadece sorun.  "Sigara içiyor musunuz  ya da bıraktınız mı,
 
 256
-00:16:44,987 --> 00:16:48,737
+00:16:48,087 --> 00:16:51,837
 ya da Anne sizi bırakmanız için zorladı mı?".
 
 257
-00:16:49,029 --> 00:16:49,987
+00:16:52,129 --> 00:16:53,087
 Onlar "Hiçbir şekilde.
 
 258
-00:16:50,279 --> 00:16:53,403
+00:16:53,379 --> 00:16:56,503
 Biz paket paket sigara içerdik,
 
 259
-00:16:53,695 --> 00:16:55,945
+00:16:56,795 --> 00:16:59,045
 içki içerdik,  uyuşturucu müptelasıydık
 
 260
-00:16:56,653 --> 00:17:00,154
+00:16:59,753 --> 00:17:03,254
 ama bize bir şey oldu. Birden bıraktık. Nasıl bilmiyoruz,
 
 261
-00:17:00,653 --> 00:17:01,778
+00:17:03,753 --> 00:17:04,878
 çok basit.
 
 262
-00:17:02,237 --> 00:17:07,778
+00:17:05,337 --> 00:17:10,878
 Anne bize asla bir şey söylemedi, biz sadece böyle olduk.
 
 263
-00:17:08,237 --> 00:17:09,903
+00:17:11,337 --> 00:17:13,003
 Söyleyecek başka ne var?" dediler.
 
 264
-00:17:10,237 --> 00:17:11,029
+00:17:13,337 --> 00:17:14,129
 Demek istiyorum ki onu bir kez buldunuz mu,
 
 265
-00:17:11,237 --> 00:17:12,195
+00:17:14,337 --> 00:17:15,295
 bir kez ışığı gördünüz mü
 
 266
-00:17:12,570 --> 00:17:14,154
+00:17:15,670 --> 00:17:17,254
 artık sizi rahatsız edemez.
 
 267
-00:17:14,320 --> 00:17:16,653
+00:17:17,420 --> 00:17:19,753
 Farz edelim şurada bir ip gördünüz,
 
 268
-00:17:16,862 --> 00:17:18,778
+00:17:19,962 --> 00:17:21,878
 korkabilirsiniz, onu yılan zannedebilirsiniz
 
 269
-00:17:19,112 --> 00:17:21,611
+00:17:22,212 --> 00:17:24,711
 çünkü ışık yok, göremezsiniz.
 
 270
-00:17:21,903 --> 00:17:23,237
+00:17:25,003 --> 00:17:26,337
 Telaşla koşmaya başlayabilirsiniz,
 
 271
-00:17:23,528 --> 00:17:25,778
+00:17:26,628 --> 00:17:28,878
 tüm ev altüst olabilir
 
 272
-00:17:26,112 --> 00:17:28,195
+00:17:29,212 --> 00:17:31,295
 ama bir kez ışık oraya geldiğinde,
 "Oh! Bu bir ip" dersiniz. Tamam.
 
 273
-00:17:28,903 --> 00:17:32,403
+00:17:32,003 --> 00:17:35,503
 Böylece bütün korkular kaybolur çünkü siz onu gördünüz.
 
 274
-00:17:36,570 --> 00:17:43,195
+00:17:39,670 --> 00:17:46,295
 Tüm baskılar  kalkar. Tüm güçlükler kalkar.
 
 275
-00:17:43,653 --> 00:17:47,112
+00:17:46,753 --> 00:17:50,212
 Anormal olan her şey biter
 
 276
-00:17:47,361 --> 00:17:50,778
+00:17:50,461 --> 00:17:53,878
 ve siz tam anlamıyla normal bir insan olursunuz.
 
 277
-00:17:50,987 --> 00:17:54,070
+00:17:54,087 --> 00:17:57,170
 tamamiyle normal bir insan olursunuz.
 
 278
-00:17:54,320 --> 00:17:58,486
+00:17:57,420 --> 00:18:01,586
 İşte olmanız gereken budur.
 
 279
-00:17:58,820 --> 00:18:01,320
+00:18:01,920 --> 00:18:04,420
 Ama bundan çok,  çok daha fazlası vardır.
 
 280
-00:18:01,653 --> 00:18:05,528
+00:18:04,753 --> 00:18:08,628
 Bu sadece fiziksel sağlığa sahip olmanız anlamına gelmez.
 
 281
-00:18:05,820 --> 00:18:06,903
+00:18:08,920 --> 00:18:10,003
 Pek çok insan iyileşti.
 
 282
-00:18:07,112 --> 00:18:09,154
+00:18:10,212 --> 00:18:12,254
 Kanserin de iyileştiğini size söylemiş olmaları gerekir.
 
 283
-00:18:09,445 --> 00:18:10,653
+00:18:12,545 --> 00:18:13,753
 Evet, doğru kanser tedavi edildi.
 
 284
-00:18:11,361 --> 00:18:12,903
+00:18:14,461 --> 00:18:16,003
 Pek çok hastalık tedavi edildi,
 
 285
-00:18:14,445 --> 00:18:16,403
+00:18:17,545 --> 00:18:19,503
 zihinsel rahatsızlıklar iyileşti.
 
 286
-00:18:17,029 --> 00:18:19,486
+00:18:20,129 --> 00:18:22,586
 Korkunç gurulara gittiyseniz de iyileştiniz.
 
 287
-00:18:19,945 --> 00:18:24,237
+00:18:23,045 --> 00:18:27,337
 Tüm bunlar olur ama bunlarla bitmez,
 
 288
-00:18:24,403 --> 00:18:27,279
+00:18:27,503 --> 00:18:30,379
 Bu sadece onun kurtarıcı parçasıdır.
 
 289
-00:18:27,445 --> 00:18:29,611
+00:18:30,545 --> 00:18:32,711
 Siz bütün fiziksel,  zihinsel,  duygusal
 
 290
-00:18:29,945 --> 00:18:34,778
+00:18:33,045 --> 00:18:37,878
 sorunlarınızdan kurtulursunuz.
 
 291
-00:18:35,112 --> 00:18:44,653
+00:18:38,212 --> 00:18:47,753
 Ama bir diğer kısmı da siz kendiniz güç sahibi olursunuz.
 
 292
-00:18:44,945 --> 00:18:46,611
+00:18:48,045 --> 00:18:49,711
 Sizler peygamberler olursunuz.
 
 293
-00:18:46,903 --> 00:18:48,820
+00:18:50,003 --> 00:18:51,920
 "Tanrının çocukları peygamberler olacaklar".
 
 294
-00:18:49,029 --> 00:18:53,570
+00:18:52,129 --> 00:18:56,670
 Sizin yüce şairiniz William Blake böyle demiştir.
 
 295
-00:18:53,778 --> 00:18:58,112
+00:18:56,878 --> 00:19:01,212
 Tanrının çocukları peygamberler olacaklar ve başkalarını da
 
 296
-00:18:58,361 --> 00:19:02,029
+00:19:01,461 --> 00:19:05,129
 peygamber yapacak güçleri olacak.  İşaret budur.
 
 297
-00:19:02,237 --> 00:19:03,611
+00:19:05,337 --> 00:19:06,711
 O size işareti verdi.
 
 298
-00:19:03,945 --> 00:19:07,154
+00:19:07,045 --> 00:19:10,254
 Sizler peygamber olursunuz
 
 299
-00:19:07,445 --> 00:19:11,112
+00:19:10,545 --> 00:19:14,212
 Kendiniz bütün bunları yapacak güce sahip olursunuz.
 
 300
-00:19:11,279 --> 00:19:13,320
+00:19:14,379 --> 00:19:16,420
 Her birey bunu yapabilir.
 
 301
-00:19:13,528 --> 00:19:16,279
+00:19:16,628 --> 00:19:19,379
 Hatta küçük çocuklar bile yapabilir.
 
 302
-00:19:16,570 --> 00:19:18,903
+00:19:19,670 --> 00:19:22,003
 Küçük bir Olympia bile yapabilir.
 
 303
-00:19:21,778 --> 00:19:27,528
+00:19:24,878 --> 00:19:30,628
 Siz peygamber olduğunuzda onun hakkındaki her şeyi bilirsiniz;
 
 304
-00:19:28,903 --> 00:19:34,279
+00:19:32,003 --> 00:19:37,379
 ne yaptığınızı, nasıl yapmanız gerektiğini,
 
 305
-00:19:34,653 --> 00:19:36,528
+00:19:37,753 --> 00:19:39,628
 Kundaliniyi nasıl yükselteceğinizi,
 
 306
-00:19:36,987 --> 00:19:42,112
+00:19:40,087 --> 00:19:45,212
 hasta olan merkezleri nasıl geçeceğinizi,
 
 307
-00:19:42,403 --> 00:19:44,320
+00:19:45,503 --> 00:19:47,420
 nasıl orada tutacağınızı bilirsiniz.
 
 308
-00:19:44,528 --> 00:19:48,029
+00:19:47,628 --> 00:19:51,129
 Sizler tam anlamıyla usta olursunuz.
 
 309
-00:19:48,237 --> 00:19:50,237
+00:19:51,337 --> 00:19:53,337
 Şimdi peygamberler şöyleydi,  diyebiliriz ki
 
 310
-00:19:50,403 --> 00:19:52,528
+00:19:53,503 --> 00:19:55,628
 William Blake bir peygamberdi, tamam
 
 311
-00:19:52,737 --> 00:19:54,987
+00:19:55,837 --> 00:19:58,087
 O bir kahindi.  O bu geleceği gördü.
 
 312
-00:19:55,528 --> 00:19:59,445
+00:19:58,628 --> 00:20:02,545
 O şüphesiz Sahaja Yoga'ya olacak her şeyden bahsetti.
 
 313
-00:19:59,778 --> 00:20:01,112
+00:20:02,878 --> 00:20:04,212
 Şüphesiz.
 
 314
-00:20:01,279 --> 00:20:03,070
+00:20:04,379 --> 00:20:06,170
 Kaçının bunun farkında olduğunu bilmiyorum.
 
 315
-00:20:03,320 --> 00:20:07,279
+00:20:06,420 --> 00:20:10,379
 Çoğu onun bir kaçık olduğunu düşündü. Ona inanamadılar.
 
 316
-00:20:07,570 --> 00:20:10,987
+00:20:10,670 --> 00:20:14,087
 Tüm bu şeylerden bahsettiğinde, Kudüs'ün
 
 317
-00:20:12,945 --> 00:20:19,403
+00:20:16,045 --> 00:20:22,503
 İngiltere'nin yeşil toprağında kurulacağını söylediğinde
 
 318
-00:20:20,154 --> 00:20:23,611
+00:20:23,254 --> 00:20:26,711
 Kimse inanamadı. "Delirmiş olmalı" dediler.
 
 319
-00:20:24,279 --> 00:20:32,320
+00:20:27,379 --> 00:20:35,420
 Ama zamanı geldi.  Kudüs kurulacak.
 
 320
-00:20:32,611 --> 00:20:35,737
+00:20:35,711 --> 00:20:38,837
 İngiltere hakkında özel bir şey var
 
 321
-00:20:36,070 --> 00:20:42,279
+00:20:39,170 --> 00:20:45,379
 ve o yüzlerce yıl önce tüm açıklığıyla bütün resmi gördü.
 
 322
-00:20:44,611 --> 00:20:47,029
+00:20:47,711 --> 00:20:50,129
 Ama kimse onu anlamadı.  O bir peygamberdi,
 
 323
-00:20:47,528 --> 00:20:51,029
+00:20:50,628 --> 00:20:54,129
 kimse onun ne dediğini anlamadı.
 
 324
-00:20:53,611 --> 00:20:57,445
+00:20:56,711 --> 00:21:00,545
 Onu anlayanlar da akademik bir ilgi gösteriyordu
 
 325
-00:20:57,778 --> 00:21:01,070
+00:21:00,878 --> 00:21:04,170
 ve bazı insanlar da söylediklerinde ve açıkladıklarında
 
 326
-00:21:01,279 --> 00:21:04,778
+00:21:04,379 --> 00:21:07,878
 bir tür doğruluk olabileceğini hissetti.
 
 327
-00:21:05,320 --> 00:21:11,070
+00:21:08,420 --> 00:21:14,170
 O zaman siz bir peygamberden de ötesi olursunuz
 
 328
-00:21:11,279 --> 00:21:13,778
+00:21:14,379 --> 00:21:16,878
 çünkü geleceği görmekle ilgilenmektense
 
 329
-00:21:13,987 --> 00:21:16,653
+00:21:17,087 --> 00:21:19,753
 şu ana gelirsiniz.
 
 330
-00:21:17,070 --> 00:21:21,361
+00:21:20,170 --> 00:21:24,461
 Onların anlattıkları,  tadını çıkaramadıkları gelecek
 
 331
-00:21:21,570 --> 00:21:24,154
+00:21:24,670 --> 00:21:27,254
 sizin şu anınız
 
 332
-00:21:24,320 --> 00:21:28,320
+00:21:27,420 --> 00:21:31,420
 ve siz kendinizin efendisi olursunuz.
 
 333
-00:21:29,486 --> 00:21:33,195
+00:21:32,586 --> 00:21:36,295
 Tüm bu peygamberlerin bir büyük, büyük sorunu oldu.
 
 334
-00:21:33,486 --> 00:21:35,445
+00:21:36,586 --> 00:21:38,545
 Geçenlerde, Hindistan hakkında oldukça bilgili
 
 335
-00:21:35,737 --> 00:21:39,029
+00:21:38,837 --> 00:21:42,129
 bir büyükelçi ile konuşuyordum
 
 336
-00:21:39,320 --> 00:21:41,862
+00:21:42,420 --> 00:21:44,962
 ve Bana "en büyük sorun bu akılcılık ile
 
 337
-00:21:42,279 --> 00:21:48,778
+00:21:45,379 --> 00:21:51,878
 bu açıklamalar ile ne kadar uzağa gidebileceğimizdir" dedi.
 
 338
-00:21:49,195 --> 00:21:52,154
+00:21:52,295 --> 00:21:55,254
 Farz edin siz her yanı saran bir Güç var dediniz
 
 339
-00:21:52,320 --> 00:21:54,695
+00:21:55,420 --> 00:21:57,795
 onlar "Nasıl?  Nasıl inanalım?
 
 340
-00:21:55,029 --> 00:21:57,237
+00:21:58,129 --> 00:22:00,337
 Bu horoz ve boğa hikayesi.
 
 341
-00:21:57,611 --> 00:21:59,112
+00:22:00,711 --> 00:22:02,212
 Kanıtla bize" diyecekler.
 
 342
-00:21:59,570 --> 00:22:01,653
+00:22:02,670 --> 00:22:04,753
 Tartışarak tabi ki kanıtlayamazsınız
 
 343
-00:22:01,945 --> 00:22:04,653
+00:22:05,045 --> 00:22:07,753
 ama deneyimleyerek de kanıtlayamazsınız.
 
 344
-00:22:05,154 --> 00:22:06,820
+00:22:08,254 --> 00:22:09,920
 O zaman onlar vazgeçtiler,
 
 345
-00:22:07,029 --> 00:22:09,445
+00:22:10,129 --> 00:22:12,545
 tıpkı Adi Shankaracharya gibi, ulaştığı noktada,
 
 346
-00:22:09,820 --> 00:22:13,445
+00:22:12,920 --> 00:22:16,545
 Vivekachudamani ve tüm bu deityler hakkında yazdı
 
 347
-00:22:13,737 --> 00:22:17,029
+00:22:16,837 --> 00:22:20,129
 ve sonra bıraktı ve Anne'yi anlatmaya başladı.
 
 348
-00:22:17,279 --> 00:22:18,778
+00:22:20,379 --> 00:22:21,878
 "Bırakıyorum, hepsi bu" dedi
 
 349
-00:22:19,195 --> 00:22:21,695
+00:22:22,295 --> 00:22:24,795
 ve beyninin yumuşadığını söylerler
 
 350
-00:22:22,361 --> 00:22:24,737
+00:22:25,461 --> 00:22:27,837
 çünkü felsefeleri ile bir yere varamamıştı
 
 351
-00:22:24,945 --> 00:22:26,695
+00:22:28,045 --> 00:22:29,795
 ve Anne'ye övgüler düzmeye başladı.
 
 352
-00:22:26,903 --> 00:22:28,778
+00:22:30,003 --> 00:22:31,878
 "Bunun nesi yanlış?  dedi.
 
 353
-00:22:29,070 --> 00:22:32,154
+00:22:32,170 --> 00:22:35,254
 Aynı şey İncil ve Kuran ile de olur,
 
 354
-00:22:32,361 --> 00:22:34,070
+00:22:35,461 --> 00:22:37,170
 insanların düşündüğü her şey için geçerlidir.
 
 355
-00:22:34,279 --> 00:22:38,195
+00:22:37,379 --> 00:22:41,295
 Ya onları inançla veya  körükörüne izlersiniz,
 
 356
-00:22:38,486 --> 00:22:42,570
+00:22:41,586 --> 00:22:45,670
 sorgulamadan sadece her dediklerini kabul eder,
 
 357
-00:22:42,945 --> 00:22:45,778
+00:22:46,045 --> 00:22:48,878
 fanatiklere dönüşür,  birbirinizi öldürür, ölürsünüz,
 
 358
-00:22:46,070 --> 00:22:49,445
+00:22:49,170 --> 00:22:52,545
 o zaman tamam
 
 359
-00:22:49,820 --> 00:22:53,320
+00:22:52,920 --> 00:22:56,420
 ya da sadece vazgeçersiniz.  Komünist olursunuz,
 
 360
-00:22:53,611 --> 00:22:56,279
+00:22:56,711 --> 00:22:59,379
 Tanrı yok.
 
 361
-00:22:56,611 --> 00:22:58,862
+00:22:59,711 --> 00:23:01,962
 Eğer beyninizi canlı tutmanız gerekiyorsa
 
 362
-00:22:59,070 --> 00:23:00,570
+00:23:02,170 --> 00:23:03,670
 o zaman en iyisi bütün dinlerden umudunuzu kesip
 
 363
-00:23:00,778 --> 00:23:01,945
+00:23:03,878 --> 00:23:05,045
 "hepsi saçmalık" demektir.
 
 364
-00:23:02,154 --> 00:23:03,945
+00:23:05,254 --> 00:23:07,045
 Bu kiliselerden dolayı Hıristiyanlık ümitsiz durumda,
 
 365
-00:23:04,154 --> 00:23:07,862
+00:23:07,254 --> 00:23:10,962
 İslam da bağnazlık yüzünden işe yaramaz durumda.
 
 366
-00:23:08,070 --> 00:23:10,154
+00:23:11,170 --> 00:23:13,254
 Şunun bunun yüzünden işe yaramaz durumda olan
 
 367
-00:23:10,695 --> 00:23:15,070
+00:23:13,795 --> 00:23:18,170
 Hinduizm ise bir başka saçmalıktır.
 
 368
-00:23:15,279 --> 00:23:18,445
+00:23:18,379 --> 00:23:21,545
 Çünkü bu seviyede böyle görünüyor.
 
 369
-00:23:18,653 --> 00:23:21,320
+00:23:21,753 --> 00:23:24,420
 Bu noktada, bu şekilde belirir.
 
 370
-00:23:21,611 --> 00:23:23,903
+00:23:24,711 --> 00:23:27,003
 Anlamı yok,  saçmalık.
 
 371
-00:23:24,403 --> 00:23:27,320
+00:23:27,503 --> 00:23:30,420
 Bu kör inancı insanlar kabul edemez.
 
 372
-00:23:27,611 --> 00:23:29,154
+00:23:30,711 --> 00:23:32,254
 Bilim adamları "Bu kör inanç de ne?
 
 373
-00:23:29,320 --> 00:23:32,570
+00:23:32,420 --> 00:23:35,670
 Biz aya gittik,  hepsi aynı şey.  Orada ne var?
 
 374
-00:23:32,862 --> 00:23:34,570
+00:23:35,962 --> 00:23:37,670
 Aya gittik, orada asla Tanrıya rastlamadık.
 
 375
-00:23:34,778 --> 00:23:36,361
+00:23:37,878 --> 00:23:39,461
 Tanrı hakkında ne konuşuyorsun?
 
 376
-00:23:36,695 --> 00:23:38,987
+00:23:39,795 --> 00:23:42,087
 Tanrının var olduğuna nasıl inanalım?" derler.
 
 377
-00:23:39,695 --> 00:23:44,237
+00:23:42,795 --> 00:23:47,337
 Ama, şimdi Tanrının varlığını kanıtlamamız gerek.
 
 378
-00:23:44,611 --> 00:23:50,820
+00:23:47,711 --> 00:23:53,920
 Bu Her yanı saran Gücün varlığını ispatlamamız lazım.
 
 379
-00:23:51,279 --> 00:23:55,945
+00:23:54,379 --> 00:23:59,045
 İçinizde bulunan bu Ruhun varlığını kanıtlamamız gerek.
 
 380
-00:23:56,279 --> 00:23:58,778
+00:23:59,379 --> 00:24:01,878
 İspatlanması gerek.  Gerçekleştirilmesi gerekiyor
 
 381
-00:24:00,195 --> 00:24:02,070
+00:24:03,295 --> 00:24:05,170
 ki böylece tartışmalar sona ersin.
 
 382
-00:24:02,361 --> 00:24:05,820
+00:24:05,461 --> 00:24:08,920
 Tartışarak kişi buna ulaşamaz.
 
 383
-00:24:06,279 --> 00:24:11,237
+00:24:09,379 --> 00:24:14,337
 Kör inanç ile kişi ulaşamaz.
 
 384
-00:24:11,528 --> 00:24:13,528
+00:24:14,628 --> 00:24:16,628
 Akılcılık bunu yapamaz
 
 385
-00:24:13,945 --> 00:24:18,029
+00:24:17,045 --> 00:24:21,129
 ya da bu duygusal bağlılık sizi oraya götürmez.
 
 386
-00:24:18,279 --> 00:24:20,653
+00:24:21,379 --> 00:24:23,753
 Sizi gerçekten bu yapacak olan
 
 387
-00:24:21,154 --> 00:24:26,903
+00:24:24,254 --> 00:24:30,003
 şey "gerçekleştirme" dir.
 
 388
-00:24:27,403 --> 00:24:30,945
+00:24:30,503 --> 00:24:34,045
 Gerçek,
 
 389
-00:24:31,695 --> 00:24:38,653
+00:24:34,795 --> 00:24:41,753
 merkezi sinir sisteminizde ifade edilen gerçek,
 
 390
-00:24:38,945 --> 00:24:42,154
+00:24:42,045 --> 00:24:45,254
 işte sizi ikna edecek olan odur.
 
 391
-00:24:42,320 --> 00:24:43,611
+00:24:45,420 --> 00:24:46,711
 Ama bu ikna için değildir.
 
 392
-00:24:43,820 --> 00:24:47,903
+00:24:46,920 --> 00:24:51,003
 Farz edelim ikna olmadınız bu Tanrıyı ilgilendirmez.
 
 393
-00:24:48,195 --> 00:24:50,945
+00:24:51,295 --> 00:24:54,045
 Bu insanlar şöyle diyordu,  "Anne senin posterlerini astığımızda
 
 394
-00:24:51,154 --> 00:24:53,361
+00:24:54,254 --> 00:24:56,461
 bu insanlar Sizi tanıyorlar,  Senin orada olduğunu biliyorlar.
 
 395
-00:24:53,570 --> 00:24:55,653
+00:24:56,670 --> 00:24:58,753
 Ben de "Tamam,  iyi.
 
 396
-00:24:56,695 --> 00:24:59,361
+00:24:59,795 --> 00:25:02,461
 Siz onlara haber verdiniz,  mesajı ilettiniz.
 
 397
-00:24:59,737 --> 00:25:05,445
+00:25:02,837 --> 00:25:08,545
 Şimdi eğer gelirlerse iyi". Bizim işimiz bu,  bilgilendirmek.
 
 398
-00:25:06,070 --> 00:25:10,112
+00:25:09,170 --> 00:25:13,212
 Eğer gelirlerse,  aydınlanmalarını alırlarsa iyi, güzel.
 
 399
-00:25:10,403 --> 00:25:14,486
+00:25:13,503 --> 00:25:17,586
 Eğer kendilerini derinleşirtirirlerse, hatta daha iyi.
 
 400
-00:25:14,695 --> 00:25:17,945
+00:25:17,795 --> 00:25:21,045
 Bunun için çok çalışacağız ama bunu zorlayamayız. Zorlayamayız.
 
 401
-00:25:18,279 --> 00:25:22,778
+00:25:21,379 --> 00:25:25,878
 Sizi etkilemek için yapay yollara başvuramayız.
 
 402
-00:25:23,070 --> 00:25:26,570
+00:25:26,170 --> 00:25:29,670
 Bunun için bir sirk taşıyamayacağımız gibi.
 
 403
-00:25:26,862 --> 00:25:31,279
+00:25:29,962 --> 00:25:34,379
 Önemini anlamak için kendi hassasiyetinize sahip olmanız gerek.
 
 404
-00:25:31,445 --> 00:25:35,528
+00:25:34,545 --> 00:25:38,628
 ve kendi saf zekanız bunun, o şey olduğunu söylemeli.
 
 405
-00:25:35,737 --> 00:25:38,445
+00:25:38,837 --> 00:25:41,545
 Aksi takdirde  ayaklarınıza kapanıp  "Oh! Lütfen"  demeyiz,
 
 406
-00:25:39,486 --> 00:25:41,112
+00:25:42,586 --> 00:25:44,212
 yalvarmayız,
 
 407
-00:25:41,279 --> 00:25:45,237
+00:25:44,379 --> 00:25:48,337
 ne de size verilmiş olan özgürlüğünüzü ihlal etmeyiz
 
 408
-00:25:45,486 --> 00:25:53,029
+00:25:48,586 --> 00:25:56,129
 Bu sizin kendi özgürlüğünüz ve yükselişiniz kendi başarınız
 
 409
-00:25:53,279 --> 00:26:02,279
+00:25:56,379 --> 00:26:05,379
 çünkü sizler zirvesiniz,  bu yaradılışın zirvesisiniz.
 
 410
-00:26:02,445 --> 00:26:04,611
+00:26:05,545 --> 00:26:07,711
 Kimse sizi bunu yapmaya zorlayamaz.
 
 411
-00:26:04,820 --> 00:26:06,486
+00:26:07,920 --> 00:26:09,586
 Eğer cehenneme gitmek istiyorsanız, tamam,
 
 412
-00:26:06,695 --> 00:26:09,361
+00:26:09,795 --> 00:26:12,461
 iki uzun atlayış yapın ve aşağı gidebilirsiniz.
 
 413
-00:26:09,653 --> 00:26:15,695
+00:26:12,753 --> 00:26:18,795
 Eğer cennete gitmek isterseniz tabii bu da mümkündür.
 
 414
-00:26:16,070 --> 00:26:20,195
+00:26:19,170 --> 00:26:23,295
 Yani burada olduğumuz sürenin,
 
 415
-00:26:20,361 --> 00:26:24,029
+00:26:23,461 --> 00:26:27,129
 ne kadar belirsiz,  ne kadar önemli olduğunun
 
 416
-00:26:24,279 --> 00:26:30,154
+00:26:27,379 --> 00:26:33,254
 ve uzun zamandır beklediğimizin farkında değiliz.
 
 417
-00:26:31,361 --> 00:26:43,279
+00:26:34,461 --> 00:26:46,379
 Yaratılışın en önemli zamanı insanların
 
 418
-00:26:43,486 --> 00:26:48,320
+00:26:46,586 --> 00:26:51,420
 arayış içinde olduğu bugündür
 
 419
-00:26:48,611 --> 00:26:55,070
+00:26:51,711 --> 00:26:58,170
 ve Sahaja Yoga kendini kitlesel düzeyde  göstermekte.
 
 420
-00:26:55,403 --> 00:27:02,029
+00:26:58,503 --> 00:27:05,129
 Bu çok talihli bir şey, çağlar boyu arayış içinde olan sizlerin
 
 421
-00:27:02,403 --> 00:27:04,154
+00:27:05,503 --> 00:27:07,254
 burada toplanmış olması
 
 422
-00:27:04,403 --> 00:27:12,070
+00:27:07,503 --> 00:27:15,170
 ve Sahaja Yoga'nın size Tanrının bir kutsaması olarak gelmesi
 
 423
-00:27:12,279 --> 00:27:15,820
+00:27:15,379 --> 00:27:18,920
 çünkü Tanrı, kendini ifade etmek için sabırsız.
 
 424
-00:27:16,195 --> 00:27:22,653
+00:27:19,295 --> 00:27:25,753
 Ama Bana gelen insanlar farklı düzeylerdeler.
 
 425
-00:27:22,862 --> 00:27:26,945
+00:27:25,962 --> 00:27:30,045
 Bazıları sıradan bazıları tam anlamıyla tabandalar.
 
 426
-00:27:27,237 --> 00:27:30,195
+00:27:30,337 --> 00:27:33,295
 Tamamen tabanda olanlar şöyle diyeceklerdir, "Anne ya benim işim?
 
 427
-00:27:30,361 --> 00:27:31,987
+00:27:33,461 --> 00:27:35,087
 Ben onun için başvuruda bulundum,
 
 428
-00:27:32,195 --> 00:27:35,445
+00:27:35,295 --> 00:27:38,545
 belki biraz daha iyi bir şey. "
 
 429
-00:27:35,737 --> 00:27:38,987
+00:27:38,837 --> 00:27:42,087
 Ya da bazıları, "Anne,  ben hasta değilim...şu, bu" diyecektir.
 
 430
-00:27:39,195 --> 00:27:45,070
+00:27:42,295 --> 00:27:48,170
 Tamam, bu da yapılabilir.
 
 431
-00:27:45,279 --> 00:27:51,320
+00:27:48,379 --> 00:27:54,420
 Ama çok yüksek bir düzeyde olanlar,
 
 432
-00:27:51,528 --> 00:27:53,279
+00:27:54,628 --> 00:27:56,379
 sorunları ne olursa olsun,
 
 433
-00:27:53,486 --> 00:27:56,403
+00:27:56,586 --> 00:27:59,503
 sözümona günah olarak şu ana kadar ne yapmış olurlarsa olsunlar
 
 434
-00:27:56,611 --> 00:27:59,154
+00:27:59,711 --> 00:28:02,254
 hepsi tamamen affedilir,  Bana inanın.
 
 435
-00:27:59,528 --> 00:28:02,237
+00:28:02,628 --> 00:28:05,337
 Suçlu hissetmeye hiç gerek yok.
 
 436
-00:28:02,403 --> 00:28:04,320
+00:28:05,503 --> 00:28:07,420
 Sahaja Yogada kişinin söylemesi gereken ilk mantra
 
 437
-00:28:04,528 --> 00:28:07,611
+00:28:07,628 --> 00:28:10,711
 "Anne ben suçlu değilim, " demektir,  en az üç kez.
 
 438
-00:28:07,903 --> 00:28:11,945
+00:28:11,003 --> 00:28:15,045
 Anlaşılması gereken şey buna hazır olduğunuzdur,
 
 439
-00:28:12,279 --> 00:28:16,070
+00:28:15,379 --> 00:28:19,170
 siz bunun için yüceltildiniz ve onu almalısınız.
 
 440
-00:28:16,279 --> 00:28:17,570
+00:28:19,379 --> 00:28:20,670
 Diyemezsiniz ki,
 
 441
-00:28:18,112 --> 00:28:25,237
+00:28:21,212 --> 00:28:28,337
 "Ben ne yaptım?  Kendi adıma bir sürü hata yaptım. "
 
 442
-00:28:25,528 --> 00:28:27,737
+00:28:28,628 --> 00:28:30,837
 Bu şekilde değil.
 
 443
-00:28:28,320 --> 00:28:30,528
+00:28:31,420 --> 00:28:33,628
 Ben burada bir bankacı gibiyim.
 
 444
-00:28:30,528 --> 00:28:34,862
+00:28:33,628 --> 00:28:37,962
 Çeklerinizi bozmak durumundayım ve siz de şüphesiz alacaksınız.
 
 445
-00:28:35,195 --> 00:28:39,154
+00:28:38,295 --> 00:28:42,254
 Bankada ne kadar paranız olduğunu bilmiyorsunuz değil mi?
 
 446
-00:28:39,903 --> 00:28:43,862
+00:28:43,003 --> 00:28:46,962
 Ben biliyorum,  o yüzden siz kendinizi yargılamayın.
 
 447
-00:28:44,070 --> 00:28:47,570
+00:28:47,170 --> 00:28:50,670
 Yargılamayı bana bırakın.
 
 448
-00:28:48,195 --> 00:28:50,987
+00:28:51,295 --> 00:28:54,087
 O benim yargılamam ve olduğu zaman
 
 449
-00:28:51,195 --> 00:28:52,862
+00:28:54,295 --> 00:28:55,962
 eğer saf zekaya sahipseniz bunun
 
 450
-00:28:53,195 --> 00:28:55,403
+00:28:56,295 --> 00:28:58,503
 ne olduğunu anlayacaksınız
 
 451
-00:28:55,737 --> 00:28:57,862
+00:28:58,837 --> 00:29:00,962
 ve onu içinizde yerleştireceksiniz.
 
 452
-00:28:58,195 --> 00:28:59,445
+00:29:01,295 --> 00:29:02,545
 Tabi ki bunun için bir ödeme yapamazsınız.
 
 453
-00:28:59,653 --> 00:29:01,070
+00:29:02,753 --> 00:29:04,170
 Yani bence tüm bunlar saçma fikirler.
 
 454
-00:29:01,279 --> 00:29:03,737
+00:29:04,379 --> 00:29:06,837
 "Bunun için para verebiliriz.  Ne kadar süre oturmamız gerekiyor?
 
 455
-00:29:04,070 --> 00:29:05,403
+00:29:07,170 --> 00:29:08,503
 Bir organizasyon olmalı" gibi.
 
 456
-00:29:05,611 --> 00:29:07,987
+00:29:08,711 --> 00:29:11,087
 Bizim bir organizasyonumuz yok bunu çok iyi biliyorsunuz.
 
 457
-00:29:08,195 --> 00:29:11,361
+00:29:11,295 --> 00:29:14,461
 Tanrıyı organize edemezsiniz.   Bu tür şeyleri organize edemeyiz.
 
 458
-00:29:11,737 --> 00:29:17,737
+00:29:14,837 --> 00:29:20,837
 Üyelik sistemimiz bile yok,  hiçbir şekilde.
 
 459
-00:29:17,945 --> 00:29:19,445
+00:29:21,045 --> 00:29:22,545
 Tabi ki isimlerinizin bir listesini tutuyoruz
 
 460
-00:29:19,653 --> 00:29:23,154
+00:29:22,753 --> 00:29:26,254
 programlarımız olduğunda sizi haberdar etmek için
 
 461
-00:29:23,445 --> 00:29:24,820
+00:29:26,545 --> 00:29:27,920
 ama bu farklı bir şey.
 
 462
-00:29:25,195 --> 00:29:27,611
+00:29:28,295 --> 00:29:30,711
 Dahası,  Sahaja Yogada
 
 463
-00:29:27,987 --> 00:29:33,361
+00:29:31,087 --> 00:29:36,461
 herkese tüm şeyler açıklanmaz, izah edilmez.
 
 464
-00:29:33,653 --> 00:29:37,237
+00:29:36,753 --> 00:29:40,337
 Önce aydınlanma verilir,
 
 465
-00:29:37,737 --> 00:29:40,486
+00:29:40,837 --> 00:29:43,586
 sonra ne kadar ilerideler diye bakılırlar
 
 466
-00:29:40,778 --> 00:29:46,987
+00:29:43,878 --> 00:29:50,087
 ve zamanla büyüdüklerinde daha yüksek gerçeklere ulaşırlar.
 
 467
-00:29:47,195 --> 00:29:49,237
+00:29:50,295 --> 00:29:52,337
 Çünkü bazen şok olabilirler,
 
 468
-00:29:49,403 --> 00:29:52,528
+00:29:52,503 --> 00:29:55,628
 Gerçeği taşımak kolay değildir,  bazen çok zordur.
 
 469
-00:29:52,903 --> 00:29:57,653
+00:29:56,003 --> 00:30:00,753
 Bir keresinde onlara İsa'nın öğrettikleriyle
 
 470
-00:29:57,862 --> 00:30:02,486
+00:30:00,962 --> 00:30:05,586
 Krishna'nın söyledikleri arasında
 
 471
-00:30:02,778 --> 00:30:08,070
+00:30:05,878 --> 00:30:11,170
 bir fark yok demiştim.
 
 472
-00:30:08,320 --> 00:30:15,029
+00:30:11,420 --> 00:30:18,129
 Aksi olarak, Krishna dedi ki,  sizler yok edilemezsiniz,
 
 473
-00:30:15,237 --> 00:30:17,945
+00:30:18,337 --> 00:30:21,045
 Ruh hiçbir şey tarafından  yok edilemez dedi
 
 474
-00:30:18,528 --> 00:30:20,987
+00:30:21,628 --> 00:30:24,087
 ve İsa bunu ispatladı.
 
 475
-00:30:21,320 --> 00:30:25,403
+00:30:24,420 --> 00:30:28,503
 Ve bütün Hindular nerdeyse beni öldürecekti. Buna katlanamadılar.
 
 476
-00:30:25,737 --> 00:30:28,528
+00:30:28,837 --> 00:30:31,628
 Fakat Krishna hakkında bir şey söylesem,
 
 477
-00:30:28,903 --> 00:30:33,361
+00:30:32,003 --> 00:30:36,461
 bütün Hıristiyanlar beni eleştirmeye başlarlar,
 
 478
-00:30:33,653 --> 00:30:35,737
+00:30:36,753 --> 00:30:38,837
 o yüzden bu büyük bir problem.
 
 479
-00:30:36,029 --> 00:30:39,070
+00:30:39,129 --> 00:30:42,170
 Onlara Krishna hakkında bir şey söylediğinizde
 
 480
-00:30:39,279 --> 00:30:40,653
+00:30:42,379 --> 00:30:43,753
 Hıristiyanların hoşuna gitmez
 
 481
-00:30:40,862 --> 00:30:45,279
+00:30:43,962 --> 00:30:48,379
 ve İsa hakkında konuştuğunuzda da Hinduların hoşuna gitmez.
 
 482
-00:30:45,653 --> 00:30:51,611
+00:30:48,753 --> 00:30:54,711
 Sikhism hakkında konuştuğunuzda Müslümanlar hoşlanmaz
 
 483
-00:30:51,778 --> 00:30:56,695
+00:30:54,878 --> 00:30:59,795
 ve Muhammed'den bahsettiğinizde Sikh'ler hoşlanmaz.
 
 484
-00:30:56,987 --> 00:30:59,695
+00:31:00,087 --> 00:31:02,795
 Ben hiç kimseyi memnun etmek için burada değilim.
 
 485
-00:30:59,987 --> 00:31:02,237
+00:31:03,087 --> 00:31:05,337
 Ben onlar hakkındaki gerçeği,
 
 486
-00:31:02,528 --> 00:31:03,695
+00:31:05,628 --> 00:31:06,795
 hepsinin bir olduğunu, aptal ve budalalar
 
 487
-00:31:03,903 --> 00:31:07,361
+00:31:07,003 --> 00:31:10,461
 gibi birbirlerinizle savaştığınızı söylemek için buradayım.
 
 488
-00:31:07,862 --> 00:31:14,237
+00:31:10,962 --> 00:31:17,337
 Aralarında hiçbir fark yok.  Hepsi bir.  Tamamen bir.
 
 489
-00:31:14,611 --> 00:31:18,695
+00:31:17,711 --> 00:31:21,795
 Aralarında öyle bir uyum,  öyle bir anlayış var ki
 
 490
-00:31:18,987 --> 00:31:20,486
+00:31:22,087 --> 00:31:23,586
 onları birbirinden ayıramazsınız,
 
 491
-00:31:20,778 --> 00:31:24,486
+00:31:23,878 --> 00:31:27,586
 ayın, ay ışığı ile  ve güneşin günışığıyla
 
 492
-00:31:24,695 --> 00:31:26,611
+00:31:27,795 --> 00:31:29,711
 bir olduğu gibi birler.
 
 493
-00:31:26,903 --> 00:31:28,862
+00:31:30,003 --> 00:31:31,962
 Sadece cehaletimizden dolayı
 
 494
-00:31:29,070 --> 00:31:33,445
+00:31:32,170 --> 00:31:36,545
 onlara karşı böyle bir suçlamada bulunuyoruz
 
 495
-00:31:33,653 --> 00:31:36,903
+00:31:36,753 --> 00:31:40,003
 ve Sahaja Yoganın kendisi ile bunu anlayacaksınız.
 
 496
-00:31:37,112 --> 00:31:40,945
+00:31:40,212 --> 00:31:44,045
 Bu farkındalığınızın yükselmesi ile kanıtlanacak.
 
 497
-00:31:41,279 --> 00:31:43,862
+00:31:44,379 --> 00:31:46,962
 Kundalininiz sayesinde bu kanıtlanacak,
 
 498
-00:31:44,070 --> 00:31:46,695
+00:31:47,170 --> 00:31:49,795
 Ben her ne söylüyorsam bilimsel olarak kanıtlanacak
 
 499
-00:31:47,195 --> 00:31:50,070
+00:31:50,295 --> 00:31:53,170
 çünkü Kundalini yükseldiği zaman, bu durur,
 
 500
-00:31:50,528 --> 00:31:55,528
+00:31:53,628 --> 00:31:58,628
 sizler mistik fikirlerinizin ötesine geçmek zorundasınız
 
 501
-00:31:55,737 --> 00:31:57,112
+00:31:58,837 --> 00:32:00,212
 yoksa o yükselmeyecektir.
 
 502
-00:31:57,279 --> 00:32:01,737
+00:32:00,379 --> 00:32:04,837
 Siz, zamanla söylediklerimin doğru olduğunu öğreneceksiniz.
 
 503
-00:32:02,112 --> 00:32:05,778
+00:32:05,212 --> 00:32:08,878
 Hz. Muhammed Saab hakkında ne söylüyorsam gerçektir
 
 504
-00:32:05,987 --> 00:32:07,570
+00:32:09,087 --> 00:32:10,670
 ve bunu öğreneceksiniz.
 
 505
-00:32:07,987 --> 00:32:12,653
+00:32:11,087 --> 00:32:15,753
 Yeterli miktarda savaşımız oldu, yeterince saçmalık yaşadık.
 
 506
-00:32:12,862 --> 00:32:15,361
+00:32:15,962 --> 00:32:18,461
 Şimdi ne olduğunu görün,
 
 507
-00:32:16,279 --> 00:32:20,154
+00:32:19,379 --> 00:32:23,254
 İsrailliler Filistinlileri öldürüyor ve tüm bu şeyler.
 
 508
-00:32:20,403 --> 00:32:25,029
+00:32:23,503 --> 00:32:28,129
 Öldürerek onların Tanrıya ulaşabileceklerini düşünüyor musunuz?
 
 509
-00:32:28,987 --> 00:32:34,279
+00:32:32,087 --> 00:32:37,379
 Bu sahte fikirlerin hepsinin gitmesi lazım.
 
 510
-00:32:34,653 --> 00:32:40,486
+00:32:37,753 --> 00:32:43,586
 Bizim evrensel varlıklar olmamız lazım.  Olun.  Siz bu olun.
 
 511
-00:32:40,778 --> 00:32:43,945
+00:32:43,878 --> 00:32:47,045
 Birisi ister Hindu,  ister Müslüman,  ister Hıristiyan olsun
 
 512
-00:32:44,237 --> 00:32:45,737
+00:32:47,337 --> 00:32:48,837
 veya herhangi bir şey,  evrensel bir varlık olduğunuzda
 
 513
-00:32:45,945 --> 00:32:49,112
+00:32:49,045 --> 00:32:52,212
 siz o kişinin nerde olduğunu parmak uçlarınızda hissedebilirsiniz.
 
 514
-00:32:49,279 --> 00:32:56,486
+00:32:52,379 --> 00:32:59,586
 İsa,  "Elleriniz konuşacak, Elleriniz konuşacak" dedi.
 
 515
-00:32:58,445 --> 00:33:01,903
+00:33:01,545 --> 00:33:05,003
 Hiçbir kutsal yazıya meydan okumamız gerekmiyor,
 
 516
-00:33:02,112 --> 00:33:07,070
+00:33:05,212 --> 00:33:10,170
 anlatılan her şeyin içindeki ışığı görmeliyiz,
 
 517
-00:33:07,528 --> 00:33:13,070
+00:33:10,628 --> 00:33:16,170
 bizi ayıran şey aslında birleştiren etkendir.
 
 518
-00:33:13,320 --> 00:33:16,486
+00:33:16,420 --> 00:33:19,586
 Çeşitlilik içimizde öyle güzel bir bütünlüğe sahip ki
 
 519
-00:33:16,778 --> 00:33:19,695
+00:33:19,878 --> 00:33:22,795
 ama bu sadece Kundalininin yükselişi ile görülebilir.
 
 520
-00:33:20,029 --> 00:33:21,361
+00:33:23,129 --> 00:33:24,461
 Kaçış yolu yok.
 
 521
-00:33:21,653 --> 00:33:24,945
+00:33:24,753 --> 00:33:28,045
 Çünkü Kundalini yükseldiğinde bütünleşme gerçekleşir.
 
 522
-00:33:25,237 --> 00:33:29,695
+00:33:28,337 --> 00:33:32,795
 ve siz onu gerçek bir deneyim olarak görmeye başlarsınız.
 
 523
-00:33:33,320 --> 00:33:37,862
+00:33:36,420 --> 00:33:40,962
 Umarım söylediklerimi anlamışsınızdır.
 
 524
-00:33:38,154 --> 00:33:40,320
+00:33:41,254 --> 00:33:43,420
 Fakat tartışmalar size aydınlanma veremez,
 
 525
-00:33:40,528 --> 00:33:42,154
+00:33:43,628 --> 00:33:45,254
 bunun gerçekleşmesi lazım.
 
 526
-00:33:43,237 --> 00:33:46,237
+00:33:46,337 --> 00:33:49,337
 Veliaht prens ya da bir kral ya da
 
 527
-00:33:46,695 --> 00:33:50,070
+00:33:49,795 --> 00:33:53,170
 herhangi bir şey olabilirsiniz fark etmez.
 
 528
-00:33:51,528 --> 00:33:53,486
+00:33:54,628 --> 00:33:56,586
 Hiç fark etmez.
 
 529
-00:33:53,778 --> 00:33:56,695
+00:33:56,878 --> 00:33:59,795
 Gerçekleşmesi gereken şey sizin kişisel olayınızdır.
 
 530
-00:33:56,903 --> 00:33:58,987
+00:34:00,003 --> 00:34:02,087
 Bu sizin içinizdeki kişisel Annenizdir.
 
 531
-00:33:59,403 --> 00:34:01,987
+00:34:02,503 --> 00:34:05,087
 Bu bahsettiğim şey Ruhtur.
 
 532
-00:34:03,695 --> 00:34:07,361
+00:34:06,795 --> 00:34:10,461
 Sadece ritüalizm ile Tanrıya ulaşamazsınız,
 
 533
-00:34:07,653 --> 00:34:10,112
+00:34:10,753 --> 00:34:13,212
 Tanrı ile bağlantıda olmanız gerekiyor.
 
 534
-00:34:10,528 --> 00:34:14,528
+00:34:13,628 --> 00:34:17,628
 Dünya üzerinde yaşayan, anlayan ve düşünen bütün insanların
 
 535
-00:34:14,862 --> 00:34:16,862
+00:34:17,962 --> 00:34:19,962
 bilmesi gereken çok önemli bir nokta var;
 
 536
-00:34:17,070 --> 00:34:23,361
+00:34:20,170 --> 00:34:26,461
 gerçekleştirebileceğimiz bir doğrunun olması gerekiyor.
 
 537
-00:34:23,653 --> 00:34:26,737
+00:34:26,753 --> 00:34:29,837
 Bütün dinler ve kitaplar tarafından vaat edildi
 
 538
-00:34:27,112 --> 00:34:30,611
+00:34:30,212 --> 00:34:33,711
 ve bunun olması gerekiyor.
 
 539
-00:34:31,154 --> 00:34:34,195
+00:34:34,254 --> 00:34:37,295
 Tanrı hepinizi kutsasın.
 
 540
-00:34:34,653 --> 00:34:37,154
+00:34:37,753 --> 00:34:40,254
 Eğer mümkünse sizlerden bazı sorular almak istiyorum.
 
 541
-00:34:37,445 --> 00:34:40,361
+00:34:40,545 --> 00:34:43,461
 Cevaplamaya çalışacağım.
 
 542
-00:34:40,778 --> 00:34:45,154
+00:34:43,878 --> 00:34:48,254
 Lütfen Bana soru sorun,  bu iyi bir fikir.
 
 543
-00:34:45,653 --> 00:34:47,778
+00:34:48,753 --> 00:34:50,878
 Tekrar, geç geldiğim için özür diliyorum
 
 544
-00:34:47,987 --> 00:34:54,486
+00:34:51,087 --> 00:34:57,586
 ama trafik sıkışıklığı yüzünden olduğunu anlamalısınız.
 
 545
-00:34:59,279 --> 00:35:00,403
+00:35:02,379 --> 00:35:03,503
 Evet Lütfen.
 
 546
-00:35:00,695 --> 00:35:05,154
+00:35:03,795 --> 00:35:08,254
 Yoganızı, Hatha Yoga ve Raja Yoga ile karşılaştırabilir misiniz?
 
 547
-00:35:05,695 --> 00:35:09,403
+00:35:08,795 --> 00:35:12,503
 Oh! Size bunu anlatacağım.
 
 548
-00:35:17,445 --> 00:35:23,403
+00:35:20,545 --> 00:35:26,503
 Bu çok iyi bir soru.  Bu Hatha Yoga ve Raja Yoga hakkında.
 
 549
-00:35:23,778 --> 00:35:28,653
+00:35:26,878 --> 00:35:31,753
 Modern Hatha Yoga, benim anlamadığım bir şey,
 
 550
-00:35:29,112 --> 00:35:33,154
+00:35:32,212 --> 00:35:36,254
 ama Patanjali Shastra,  "Ha Tha" hakkında yazmış olan kişi,
 
 551
-00:35:33,653 --> 00:35:36,778
+00:35:36,753 --> 00:35:39,878
 Ha ve Tha,  bunların size daha önce anlatılmış olması lazım,
 
 552
-00:35:36,987 --> 00:35:40,279
+00:35:40,087 --> 00:35:43,379
 şu iki nadiden başka bir şey değil.
 
 553
-00:35:40,445 --> 00:35:46,528
+00:35:43,545 --> 00:35:49,628
 Astangalar vardır ve bunu yazan Patanjali'ye göre
 
 554
-00:35:46,820 --> 00:35:49,903
+00:35:49,920 --> 00:35:53,003
 onlar da Hatha Yoganın sekiz yönü anlamına gelir.
 
 555
-00:35:50,112 --> 00:35:53,445
+00:35:53,212 --> 00:35:56,545
 En önemlisi ve ezeli olanı,
 
 556
-00:35:53,653 --> 00:35:56,528
+00:35:56,753 --> 00:35:59,628
 ilk astanga yani Ishwara Prahnidhana'dır,
 
 557
-00:35:56,737 --> 00:36:00,403
+00:35:59,837 --> 00:36:03,503
 Tanrı'nın içinizde yerleşmesi demektir.
 
 558
-00:36:00,695 --> 00:36:02,820
+00:36:03,795 --> 00:36:05,920
 Şimdi bizim yaptığımız şu akrobatik şeyler içinde
 
 559
-00:36:03,029 --> 00:36:05,154
+00:36:06,129 --> 00:36:08,254
 Tanrı ile ilgili hiçbir fikrimiz yok,
 
 560
-00:36:05,320 --> 00:36:08,112
+00:36:08,420 --> 00:36:11,212
 hiç bundan konuşmayız,  unut, unut Tanrıyı,
 
 561
-00:36:08,279 --> 00:36:09,528
+00:36:11,379 --> 00:36:12,628
 sadece incelmeliyiz, hepsi bu.
 
 562
-00:36:10,528 --> 00:36:14,279
+00:36:13,628 --> 00:36:17,379
 Çünkü hepsi aktör ve aktris olmak istiyor.
 
 563
-00:36:14,653 --> 00:36:16,070
+00:36:17,753 --> 00:36:19,170
 Yogi olmak istemiyorlar.
 
 564
-00:36:17,320 --> 00:36:20,112
+00:36:20,420 --> 00:36:23,212
 Farklı bir stil.
 
 565
-00:36:21,653 --> 00:36:26,195
+00:36:24,753 --> 00:36:29,295
 Bu Ishwara Prahnidhana idi, önce aydınlanmanızı almalısınız.
 
 566
-00:36:26,653 --> 00:36:30,528
+00:36:29,753 --> 00:36:33,628
 Bu sekizinden bir tanesi Yama Niyama'dır.
 
 567
-00:36:31,903 --> 00:36:35,279
+00:36:35,003 --> 00:36:38,379
 Niyama'da, Kundalininin nerede olduğuna bağlı olarak
 
 568
-00:36:35,570 --> 00:36:39,029
+00:36:38,670 --> 00:36:42,129
 yapılan tek bir fiziksel alıştırma vardır,
 
 569
-00:36:39,237 --> 00:36:41,112
+00:36:42,337 --> 00:36:44,212
 Hatha Yogayı da bir şekilde  kullanırız.
 
 570
-00:36:41,279 --> 00:36:44,070
+00:36:44,379 --> 00:36:47,170
 Farz edelim Kundalini fiziksel bir sorun nedeniyle belli bir
 
 571
-00:36:44,445 --> 00:36:46,195
+00:36:47,545 --> 00:36:49,295
 çakrada belli bir noktada durdu,
 
 572
-00:36:46,528 --> 00:36:51,737
+00:36:49,628 --> 00:36:54,837
 o zaman gerekli olan  birkaç asana uygularız ya da
 
 573
-00:36:52,695 --> 00:36:55,070
+00:36:55,795 --> 00:36:58,170
 birkaç alıştırma yaparız.
 
 574
-00:36:55,361 --> 00:36:57,611
+00:36:58,461 --> 00:37:00,711
 Ama bu farklı bir şeydir.
 
 575
-00:36:57,945 --> 00:37:00,154
+00:37:01,045 --> 00:37:03,254
 Modern Hatha Yoga şöyledir:
 
 576
-00:37:00,528 --> 00:37:04,403
+00:37:03,628 --> 00:37:07,503
 Farz edelim Londra'dan Birmingham'a gelmem gerekli, tamam.
 
 577
-00:37:05,695 --> 00:37:10,903
+00:37:08,795 --> 00:37:14,003
 arabamı çalıştırmam, bir şey yapmam,
 
 578
-00:37:11,361 --> 00:37:14,195
+00:37:14,461 --> 00:37:17,295
 orada durarak, statik, onu sağa sola çeviririm
 
 579
-00:37:14,445 --> 00:37:17,195
+00:37:17,545 --> 00:37:20,295
 ve Brimingham'a geldiğimi düşünürüm.
 
 580
-00:37:17,486 --> 00:37:19,862
+00:37:20,586 --> 00:37:22,962
 Sadece haritam varsa sağa giderim, sola giderim, bu gibi şeyler.
 
 581
-00:37:20,570 --> 00:37:22,945
+00:37:23,670 --> 00:37:26,045
 Daha kötüsü şöyle
 
 582
-00:37:23,154 --> 00:37:26,361
+00:37:26,254 --> 00:37:29,461
 bir örnek vereyim ne hastalığınız olduğunu bilmeden
 
 583
-00:37:26,570 --> 00:37:29,778
+00:37:29,670 --> 00:37:32,878
 bütün ilaçları almak gibi bir şeydir.
 
 584
-00:37:30,279 --> 00:37:33,778
+00:37:33,379 --> 00:37:36,878
 Gelişigüzel,  ayırt etme olmaksızın.
 
 585
-00:37:34,445 --> 00:37:36,653
+00:37:37,545 --> 00:37:39,753
 Bu öğretmenlerin hiçbiri aydınlanma almamıştır.
 
 586
-00:37:36,945 --> 00:37:38,903
+00:37:40,045 --> 00:37:42,003
 Öyleyse Hatha Yoganın önemini nasıl anlayacaklar,
 
 587
-00:37:39,237 --> 00:37:40,320
+00:37:42,337 --> 00:37:43,420
 Ben anlamıyorum.
 
 588
-00:37:40,653 --> 00:37:44,737
+00:37:43,753 --> 00:37:47,837
 Hindistan'da Guru aydınlanmış bir ruhtur.
 
 589
-00:37:45,029 --> 00:37:47,154
+00:37:48,129 --> 00:37:50,254
 Müslüman olabilir,  Hindu olabilir,  herhangi biri olabilir
 
 590
-00:37:47,445 --> 00:37:51,195
+00:37:50,545 --> 00:37:54,295
 ama başlamak için aydınlanmış bir ruh olması gerekir.
 
 591
-00:37:51,486 --> 00:37:53,737
+00:37:54,586 --> 00:37:56,837
 Brahmin aydınlanmış ruhtur.
 
 592
-00:37:54,070 --> 00:37:57,778
+00:37:57,170 --> 00:38:00,878
 Ama bugünlerde Brahminleri evinize aşçı olarak tutabilirsiniz.
 
 593
-00:38:00,570 --> 00:38:05,528
+00:38:03,670 --> 00:38:08,628
 Yani bugünün tüm Hatha Yoga kavramı tamamen yapaydır.
 
 594
-00:38:05,820 --> 00:38:08,112
+00:38:08,920 --> 00:38:11,212
 Ve Raja Yoga,
 
 595
-00:38:08,570 --> 00:38:13,403
+00:38:11,670 --> 00:38:16,503
 Şimdi anladınız ki Hatha Yoga bir şey...
 
 596
-00:38:14,070 --> 00:38:17,528
+00:38:17,170 --> 00:38:20,628
 Hatha Yoga'nın başlangıcı  Sahaja Yoga
 
 597
-00:38:17,820 --> 00:38:19,029
+00:38:20,920 --> 00:38:22,129
 yerleştiğinde başlar.
 
 598
-00:38:19,320 --> 00:38:21,570
+00:38:22,420 --> 00:38:24,670
 Ama Hatha Yoga tamamlayıcı bir şeydir, ikincildir.
 
 599
-00:38:21,945 --> 00:38:23,903
+00:38:25,045 --> 00:38:27,003
 Ne zaman ihtiyacımız olursa,  bir  kısmını kullanırız.
 
 600
-00:38:24,320 --> 00:38:28,862
+00:38:27,420 --> 00:38:31,962
 Nerede bunun bir parçasına ihtiyacımız olursa, kullanırız
 
 601
-00:38:29,154 --> 00:38:30,862
+00:38:32,254 --> 00:38:33,962
 Şimdi ikinci kısım Raja Yogadır.
 
 602
-00:38:31,237 --> 00:38:34,445
+00:38:34,337 --> 00:38:37,545
 Raja Yoga insanların sahip olduğu bir başka yanlış anlamadır.
 
 603
-00:38:34,778 --> 00:38:38,903
+00:38:37,878 --> 00:38:42,003
 Kundalini yükseldiği zaman, bakın, kundalininin buradan,
 
 604
-00:38:39,195 --> 00:38:42,695
+00:38:42,295 --> 00:38:45,795
 yukarıya doğru, yükselmesi meydana gelen muazzam bir olaydır.
 
 605
-00:38:43,154 --> 00:38:46,570
+00:38:46,254 --> 00:38:49,670
 Bu yerçekiminin işi değildir,  yukarı doğru yükselir.
 
 606
-00:38:46,903 --> 00:38:50,403
+00:38:50,003 --> 00:38:53,503
 Öyleyse bunun olması için bir şeylerin meydana gelmesi gerek.
 
 607
-00:38:50,570 --> 00:38:53,445
+00:38:53,670 --> 00:38:56,545
 Örneğin, şu gördüğünüz yerden yükseldiğinde,
 
 608
-00:38:53,820 --> 00:38:55,403
+00:38:56,920 --> 00:38:58,503
 ikinci merkezi geçtiğinde
 
 609
-00:38:55,695 --> 00:39:01,154
+00:38:58,795 --> 00:39:04,254
 orada bir tür, bir tür büyüme olur
 
 610
-00:39:01,320 --> 00:39:03,528
+00:39:04,420 --> 00:39:06,628
 ve böylece Kundalini düşmez.
 
 611
-00:39:03,820 --> 00:39:05,653
+00:39:06,920 --> 00:39:08,753
 Buna 'bhanda'lar denir.
 
 612
-00:39:05,945 --> 00:39:09,737
+00:39:09,045 --> 00:39:12,837
 Bu bhandalar ya da bu artış ile
 
 613
-00:39:10,029 --> 00:39:13,237
+00:39:13,129 --> 00:39:16,337
 daha da yükselir ve onları kapatmaya başlar.
 
 614
-00:39:13,570 --> 00:39:17,903
+00:39:16,670 --> 00:39:21,003
 Vishuddi çakraya doğru gelir
 
 615
-00:39:18,279 --> 00:39:22,987
+00:39:21,379 --> 00:39:26,087
 ve orada bütün enerjinin açığa çıkması gerekir.
 
 616
-00:39:23,320 --> 00:39:26,528
+00:39:26,420 --> 00:39:29,628
 Böylece bir "cachery" gerçekleşir yani dil biraz oynar.
 
 617
-00:39:26,820 --> 00:39:28,737
+00:39:29,920 --> 00:39:31,837
 Ama bir şey hissetmezsiniz. O kadar hızlı ki.
 
 618
-00:39:29,070 --> 00:39:31,653
+00:39:32,170 --> 00:39:34,753
 Ama çok hızlı olduğundan siz hissedemezsiniz.
 
 619
-00:39:32,029 --> 00:39:34,445
+00:39:35,129 --> 00:39:37,545
 Yani buna benzer başka bir benzetme yapamam.
 
 620
-00:39:34,778 --> 00:39:38,029
+00:39:37,878 --> 00:39:41,129
 "Concorde" deseniz bile yani bu konuda bir şey hissedersiniz,
 
 621
-00:39:38,320 --> 00:39:41,778
+00:39:41,420 --> 00:39:44,878
 ama varsayalım ki eğer bir uçağınız varsa sadece ona binersiniz
 
 622
-00:39:41,987 --> 00:39:43,528
+00:39:45,087 --> 00:39:46,628
 ve siz oradasınız.
 
 623
-00:39:43,820 --> 00:39:47,528
+00:39:46,920 --> 00:39:50,628
 Kundalini saniyenin küçük bir diliminde atar.
 
 624
-00:39:47,820 --> 00:39:49,653
+00:39:50,920 --> 00:39:52,753
 Yani bunların hiçbirini hissetmezsiniz.
 
 625
-00:39:49,862 --> 00:39:52,279
+00:39:52,962 --> 00:39:55,379
 Dünyanın çok büyük olması ve sizin onun
 
 626
-00:39:52,445 --> 00:39:54,903
+00:39:55,545 --> 00:39:58,003
 yuvarlak olduğunu görememeniz gibi bir şeydir.
 
 627
-00:39:55,237 --> 00:39:58,903
+00:39:58,337 --> 00:40:02,003
 Dairenin çevresi, gördüğünüz şeye kıyasla çok küçüktür
 
 628
-00:39:59,112 --> 00:40:00,403
+00:40:02,212 --> 00:40:03,503
 ve siz daireyi göremezsiniz.
 
 629
-00:40:00,695 --> 00:40:06,154
+00:40:03,795 --> 00:40:09,254
 Aynı şekilde Sahaja Yoga öyle çabuk bir Kundalini
 
 630
-00:40:07,070 --> 00:40:08,403
+00:40:10,170 --> 00:40:11,503
 yükseltme metodudur ki
 
 631
-00:40:08,695 --> 00:40:10,112
+00:40:11,795 --> 00:40:13,212
 başka metot yoktur.
 
 632
-00:40:10,361 --> 00:40:12,778
+00:40:13,461 --> 00:40:15,878
 Ama bugünün Sahaja Yogası öyle hızlıdır ki
 
 633
-00:40:13,237 --> 00:40:16,029
+00:40:16,337 --> 00:40:19,129
 hiçbir şey hissetmezsiniz fakat olur,
 
 634
-00:40:16,320 --> 00:40:18,570
+00:40:19,420 --> 00:40:21,670
 gözleriniz irileşir.
 
 635
-00:40:18,903 --> 00:40:21,570
+00:40:22,003 --> 00:40:24,670
 Ama ben bu Raja Yogiler denen çılgın insanları gördüm-
 
 636
-00:40:21,945 --> 00:40:24,862
+00:40:25,045 --> 00:40:27,962
 gözbebeklerini büyütmek için gözlerine atropin bile koyarlar
 
 637
-00:40:25,154 --> 00:40:26,903
+00:40:28,254 --> 00:40:30,003
 çünkü gözbebeklerinizin irileşmesi gerektiği söylenir.
 
 638
-00:40:27,279 --> 00:40:29,570
+00:40:30,379 --> 00:40:32,670
 Dillerini kesip geriye iterler.
 
 639
-00:40:29,903 --> 00:40:32,112
+00:40:33,003 --> 00:40:35,212
 Amerika'da bir tanesi vardı,
 
 640
-00:40:32,445 --> 00:40:34,445
+00:40:35,545 --> 00:40:37,545
 insanların dillerini kesiyordu,
 
 641
-00:40:34,820 --> 00:40:36,070
+00:40:37,920 --> 00:40:39,170
 dillerini sallarlardı.
 
 642
-00:40:36,279 --> 00:40:39,112
+00:40:39,379 --> 00:40:42,212
 Bugün bile bu gurunun etkilediği dilleri
 
 643
-00:40:39,445 --> 00:40:41,403
+00:40:42,545 --> 00:40:44,503
 şu şekilde sallanan insanlar var
 
 644
-00:40:41,695 --> 00:40:43,528
+00:40:44,795 --> 00:40:46,628
 ve dillerini geriye iterlerdi.
 
 645
-00:40:43,945 --> 00:40:46,029
+00:40:47,045 --> 00:40:49,129
 Bütün bu hileleri yaparak Kundaliniyi
 
 646
-00:40:46,237 --> 00:40:48,862
+00:40:49,337 --> 00:40:51,962
 yükselteceğinizi mi söylemek istiyorsunuz?
 
 647
-00:40:49,570 --> 00:40:51,154
+00:40:52,670 --> 00:40:54,254
 Kimileri kendi şeylerini muhafaza ediyorlar,
 
 648
-00:40:51,486 --> 00:40:52,778
+00:40:54,586 --> 00:40:55,878
 yapılması gereken hiçbir şey yok.
 
 649
-00:40:53,279 --> 00:40:58,403
+00:40:56,379 --> 00:41:01,503
 Bu kendiliğindendir.  Çabasızdır.
 
 650
-00:40:58,820 --> 00:41:02,320
+00:41:01,920 --> 00:41:05,420
 Tanrının sevgi dolu özeni içersindedir.
 
 651
-00:41:02,611 --> 00:41:05,445
+00:41:05,711 --> 00:41:08,545
 Niye değmeyen bir şey için boyunlarınızı kırmak istiyorsunuz?
 
 652
-00:41:05,820 --> 00:41:09,029
+00:41:08,920 --> 00:41:12,129
 Ne gereği var?
 
 653
-00:41:09,570 --> 00:41:12,528
+00:41:12,670 --> 00:41:15,628
 Önceleri şöyle düşünürdüm
 
 654
-00:41:12,903 --> 00:41:15,195
+00:41:16,003 --> 00:41:18,295
 "tıpkı annelerini etkilemeye çalışan çocuklar gibiler.
 
 655
-00:41:15,570 --> 00:41:17,445
+00:41:18,670 --> 00:41:20,545
 Sadece annelerinin dikkatini çekmek için
 
 656
-00:41:17,737 --> 00:41:19,653
+00:41:20,837 --> 00:41:22,753
 tüm bu tantraları  yapıyorlar", sadece dikkat çekmek için.
 
 657
-00:41:20,029 --> 00:41:22,320
+00:41:23,129 --> 00:41:25,420
 Ama şimdi bu konuda çok ciddi olduklarını düşünüyorum.
 
 658
-00:41:22,737 --> 00:41:26,195
+00:41:25,837 --> 00:41:29,295
 Çok şaşırtıcı.  Yani bu noktaya kadar gidiyorsunuz,
 
 659
-00:41:26,611 --> 00:41:29,320
+00:41:29,711 --> 00:41:32,420
 çakralarınızı mahvediyorsunuz.
 
 660
-00:41:29,737 --> 00:41:38,903
+00:41:32,837 --> 00:41:42,003
 İyi ve kötü bir Sahaja Yogi olarak
 
 661
-00:41:39,611 --> 00:41:43,570
+00:41:42,711 --> 00:41:46,670
 Sahaja Yogadaki konumunuzu zedeliyor.
 
 662
-00:41:43,903 --> 00:41:45,695
+00:41:47,003 --> 00:41:48,795
 Bunu çabucak alan,  kendini o noktada tutan
 
 663
-00:41:46,070 --> 00:41:50,570
+00:41:49,170 --> 00:41:53,670
 ve ustalaşan bir Sahaja Yogi çok hızlı büyüyen birisidir
 
 664
-00:41:50,903 --> 00:41:55,528
+00:41:54,003 --> 00:41:58,628
 ve çakralarını mahvetmiş kimsenin ise dikkate ihtiyacı vardır
 
 665
-00:41:55,903 --> 00:41:59,695
+00:41:59,003 --> 00:42:02,795
 ya da onları iyileştirmek için
 
 666
-00:42:00,195 --> 00:42:03,237
+00:42:03,295 --> 00:42:06,337
 çok uğraşması gerekir.
 
 667
-00:42:05,070 --> 00:42:10,403
+00:42:08,170 --> 00:42:13,503
 Tüm bu fikirler aydınlanmanızı aldığınızda berraklaşacaktır
 
 668
-00:42:13,445 --> 00:42:16,195
+00:42:16,545 --> 00:42:19,295
 tamam mı? Tanrı sizi kutsasın.
 
 669
-00:42:16,486 --> 00:42:20,029
+00:42:19,586 --> 00:42:23,129
 Bhagavad Gita ve Patanjali'nin 8 Ashtangası yardım edebilir mi?
 
 670
-00:42:20,237 --> 00:42:22,653
+00:42:23,337 --> 00:42:25,753
 O nedir? Bhagavad Gita ve ?
 
 671
-00:42:22,945 --> 00:42:25,570
+00:42:26,045 --> 00:42:28,670
 Patanjali yardım edebilir mi?
 
 672
-00:42:25,903 --> 00:42:29,195
+00:42:29,003 --> 00:42:32,295
 Sekiz?  Hayır, çünkü aydınlanmadığınız sürece.
 
 673
-00:42:29,361 --> 00:42:32,237
+00:42:32,461 --> 00:42:35,337
 Size söylüyorum.  Farz edin şimdi şöyle:
 
 674
-00:42:32,486 --> 00:42:35,070
+00:42:35,586 --> 00:42:38,170
 arabanızı çalıştırmadan önce onu sağa ya da sola çevirmeniz
 
 675
-00:42:35,486 --> 00:42:37,154
+00:42:38,586 --> 00:42:40,254
 sonra da arabayı çalıştırmanız
 
 676
-00:42:37,445 --> 00:42:40,695
+00:42:40,545 --> 00:42:43,795
 sizi Birmingham'a getirir mi?  Boşa gider.
 
 677
-00:42:40,903 --> 00:42:43,820
+00:42:44,003 --> 00:42:46,920
 Öncelikle, belki de tekerlekleriniz patlatmış bile olabilir.
 
 678
-00:42:47,570 --> 00:42:52,112
+00:42:50,670 --> 00:42:55,212
 Ama endişelenmeyin, söylemeliyim ki endişelenecek bir şey yok,
 
 679
-00:42:53,029 --> 00:42:55,029
+00:42:56,129 --> 00:42:58,129
 tamam mı?
 
 680
-00:42:55,570 --> 00:42:58,320
+00:42:58,670 --> 00:43:01,420
 Tanrı sizi kutsasın.  Tanrı sizi kutsasın.
 
 681
-00:42:59,029 --> 00:43:02,403
+00:43:02,129 --> 00:43:05,503
 Bakın ben kimseyi suçlamıyorum veya kendinizi kötü hissetmeyin.
 
 682
-00:43:02,695 --> 00:43:05,486
+00:43:05,795 --> 00:43:08,586
 Çünkü biliyorsunuz, neticede sizler arayış içindeki insanlarsınız,
 
 683
-00:43:05,903 --> 00:43:06,653
+00:43:09,003 --> 00:43:09,753
 Nasıl bileceksiniz?
 
 684
-00:43:07,195 --> 00:43:09,570
+00:43:10,295 --> 00:43:12,670
 Hepiniz arayış içindeki insanlarsınız. Nasıl bileceksiniz?
 
 685
-00:43:09,778 --> 00:43:10,945
+00:43:12,878 --> 00:43:14,045
 Bu insanlar bir sürü kitap yazıyorlar.
 
 686
-00:43:11,154 --> 00:43:13,778
+00:43:14,254 --> 00:43:16,878
 Kitap yazmak kolaydır,  öyle değil mi? Bugünlerde bunda ne var?
 
 687
-00:43:14,070 --> 00:43:15,528
+00:43:17,170 --> 00:43:18,628
 Paranız varsa her şeyi yazabilirsiniz.
 
 688
-00:43:15,820 --> 00:43:19,237
+00:43:18,920 --> 00:43:22,337
 Ne yazmak istiyorsanız, her şeyi basabilirsiniz.
 
 689
-00:43:19,737 --> 00:43:22,445
+00:43:22,837 --> 00:43:25,545
 Yazmak için ne lazım ki?
 
 690
-00:43:22,945 --> 00:43:26,070
+00:43:26,045 --> 00:43:29,170
 Şu ana kadar hiçbir şey yazmamış tek kişi benim.
 
 691
-00:43:26,945 --> 00:43:29,361
+00:43:30,045 --> 00:43:32,461
 Benim hakkımda ya da Sahaja Yoga hakkında yazanlar var,
 
 692
-00:43:29,695 --> 00:43:30,528
+00:43:32,795 --> 00:43:33,628
 bu ayrı bir sorun.
 
 693
-00:43:30,820 --> 00:43:34,112
+00:43:33,920 --> 00:43:37,212
 Ben henüz hiçbir şey yazmadım.
 
 694
-00:43:34,611 --> 00:43:36,486
+00:43:37,711 --> 00:43:39,586
 İsa hiçbir şey yazmadı.
 
 695
-00:43:36,695 --> 00:43:37,737
+00:43:39,795 --> 00:43:40,837
 Shri Krishna asla hiçbir şey yazmadı.
 
 696
-00:43:37,903 --> 00:43:39,237
+00:43:41,003 --> 00:43:42,337
 Rama asla hiçbir şey yazmadı.
 
 697
-00:43:39,695 --> 00:43:42,279
+00:43:42,795 --> 00:43:45,379
 Ama Benim yazmam gerekecek sanırım.
 
 698
-00:43:42,611 --> 00:43:44,195
+00:43:45,711 --> 00:43:47,295
 Bir şey yazmıştım ve insanlar
 
 699
-00:43:44,195 --> 00:43:45,695
+00:43:47,295 --> 00:43:48,795
 "Anne yazdığın şeyi okur okumaz
 
 700
-00:43:45,987 --> 00:43:48,486
+00:43:49,087 --> 00:43:51,586
 düşüncesiz konuma geçiyoruz" dediler.
 
 701
-00:43:48,695 --> 00:43:50,361
+00:43:51,795 --> 00:43:53,461
 Öyleyse ne yapmalı?
 
 702
-00:43:54,987 --> 00:43:59,653
+00:43:58,087 --> 00:44:02,753
 Tamam.  Bir sonraki soru nedir lütfen? Çok iyi bir soruydu.
 
 703
-00:44:00,528 --> 00:44:05,653
+00:44:03,628 --> 00:44:08,753
 Bir sonraki?  Beş dakika daha.
 
 704
-00:44:12,737 --> 00:44:13,778
+00:44:15,837 --> 00:44:16,878
 Evet?
 
 705
-00:44:14,070 --> 00:44:18,945
+00:44:17,170 --> 00:44:22,045
 Tanrı ile bağlantıya geçtiğimizde Ona soru sorabilir miyiz?
 
 706
-00:44:19,361 --> 00:44:19,945
+00:44:22,461 --> 00:44:23,045
 Yapabilir miyiz ...?
 
 707
-00:44:20,279 --> 00:44:22,570
+00:44:23,379 --> 00:44:25,670
 Bağlantıda olduğunuzda Tanrı'ya bir soru sorabilir misiniz?
 
 708
-00:44:22,862 --> 00:44:24,070
+00:44:25,962 --> 00:44:27,170
 Evet
 
 709
-00:44:24,361 --> 00:44:26,361
+00:44:27,461 --> 00:44:29,461
 Onunla bağlantıda olduğunuzda Tanrı'ya soru sorabilir misiniz?
 
 710
-00:44:26,570 --> 00:44:27,486
+00:44:29,670 --> 00:44:30,586
 Evet.  Tabi ki! Tabi ki!
 
 711
-00:44:27,695 --> 00:44:30,361
+00:44:30,795 --> 00:44:33,461
 Şimdi, çünkü siz bağlantıdasınız.
 
 712
-00:44:30,570 --> 00:44:33,570
+00:44:33,670 --> 00:44:36,670
 Öyleyse ellerinizi Tanrıya doğru uzatın
 
 713
-00:44:33,862 --> 00:44:36,778
+00:44:36,962 --> 00:44:39,878
 ve sorun,  "Bir Tanrı var mı?".
 
 714
-00:44:37,361 --> 00:44:41,154
+00:44:40,461 --> 00:44:44,254
 Böyle bir soru sorduğunuzda
 inanılmaz vibrasyonlar akacaktır.
 
 715
-00:44:41,486 --> 00:44:44,778
+00:44:44,586 --> 00:44:47,878
 Sadece bu değil
 
 716
-00:44:45,361 --> 00:44:49,820
+00:44:48,461 --> 00:44:52,920
 mesela babanızın nasıl olduğunu sormak istiyorsunuz.
 
 717
-00:44:50,029 --> 00:44:54,154
+00:44:53,129 --> 00:44:57,254
 Farz edelim o burada değil.
 
 718
-00:44:54,320 --> 00:44:56,695
+00:44:57,420 --> 00:44:59,795
 Şurada bir yerde bir yanma hissedeceksiniz.
 
 719
-00:44:56,987 --> 00:44:58,611
+00:45:00,087 --> 00:45:01,711
 Bunlar onun merkezleridir.
 
 720
-00:44:58,945 --> 00:45:01,112
+00:45:02,045 --> 00:45:04,212
 Anında hangi merkezin tıkalı olduğunu bilirsiniz
 
 721
-00:45:01,279 --> 00:45:02,820
+00:45:04,379 --> 00:45:05,920
 ve şifreyi çözmeyi biliyorsanız
 
 722
-00:45:03,029 --> 00:45:06,279
+00:45:06,129 --> 00:45:09,379
 anında ne problemi olduğunu da bilirsiniz.
 
 723
-00:45:06,486 --> 00:45:08,361
+00:45:09,586 --> 00:45:11,461
 Herkes hakkında bu şekilde bilgi alabilirsiniz,
 
 724
-00:45:08,737 --> 00:45:11,945
+00:45:11,837 --> 00:45:15,045
 sadece Tanrı hakkında değil,
 kendiniz ve başkaları hakkında da.
 
 725
-00:45:12,279 --> 00:45:15,945
+00:45:15,379 --> 00:45:19,045
 Kolektif Bilincin parçası olmak bu demektir.
 
 726
-00:45:16,154 --> 00:45:19,570
+00:45:19,254 --> 00:45:22,670
 Sonra siz evrensel bir varlık olursunuz.
 
 727
-00:45:19,945 --> 00:45:23,945
+00:45:23,045 --> 00:45:27,045
 Ve sizi gördüğüm gibi Tanrıyı görebilecek miyiz?
 
 728
-00:45:24,987 --> 00:45:27,945
+00:45:28,087 --> 00:45:31,045
 Bu Tanrıyı görmek değil.  Bugünün konusu bu değil.
 
 729
-00:45:28,279 --> 00:45:31,486
+00:45:31,379 --> 00:45:34,586
 Görmek ne olursa olsun var olmamaktır.
 
 730
-00:45:31,695 --> 00:45:32,528
+00:45:34,795 --> 00:45:35,628
 Farkı görebiliyor musunuz?
 
 731
-00:45:32,737 --> 00:45:35,070
+00:45:35,837 --> 00:45:38,170
 Evet şimdi siz, adınız nedir lütfen?
 
 732
-00:45:35,279 --> 00:45:36,279
+00:45:38,379 --> 00:45:39,379
 Bippin.
 
 733
-00:45:36,445 --> 00:45:37,445
+00:45:39,545 --> 00:45:40,545
 şimdi siz Bay Bippin'siniz.
 
 734
-00:45:37,653 --> 00:45:40,154
+00:45:40,753 --> 00:45:43,254
 Kendinizi görebiliyor musunuz Bay Bippin?
 
 735
-00:45:40,486 --> 00:45:43,112
+00:45:43,586 --> 00:45:46,212
 Şimdi Bay Bippin olduğunuzda göremezsiniz.
 
 736
-00:45:43,279 --> 00:45:45,820
+00:45:46,379 --> 00:45:48,920
 Siz Tanrı ile bir ve bütün olduğunuzda hiçbir şey göremezsiniz.
 
 737
-00:45:46,195 --> 00:45:48,570
+00:45:49,295 --> 00:45:51,670
 Ama eyleme geçebilirsiniz.
 
 738
-00:45:51,195 --> 00:45:54,320
+00:45:54,295 --> 00:45:57,420
 Görmek ayrılmaktır.
 
 739
-00:45:56,070 --> 00:45:59,195
+00:45:59,170 --> 00:46:02,295
 Yani siz gerçekten Tanrı ile bir
 olduğumuzdan mı bahsediyorsunuz?
 
 740
-00:45:59,486 --> 00:46:02,737
+00:46:02,586 --> 00:46:05,837
 Evet nokta bu.
 
 741
-00:46:02,945 --> 00:46:04,653
+00:46:06,045 --> 00:46:07,753
 Tanrı ile bir olursunuz, Ezeli varlık ile bir olursunuz.
 
 742
-00:46:04,862 --> 00:46:09,528
+00:46:07,962 --> 00:46:12,628
 Siz olursunuz, onun gücü olursunuz
 ya da enstrümanı olursunuz.
 
 743
-00:46:09,737 --> 00:46:11,279
+00:46:12,837 --> 00:46:14,379
 Görürsünüz. Bakın bir kez dogmalara gitmeyin
 
 744
-00:46:11,486 --> 00:46:14,279
+00:46:14,586 --> 00:46:17,379
 çünkü o noktada sürmekte olan bir tartışma olabilir;
 
 745
-00:46:14,445 --> 00:46:17,611
+00:46:17,545 --> 00:46:20,711
 siz mi Onun enstrümanı olursunuz yoksa O mu sizin
 
 746
-00:46:17,987 --> 00:46:19,070
+00:46:21,087 --> 00:46:22,170
 enstrümanınız olur.
 
 747
-00:46:19,279 --> 00:46:21,486
+00:46:22,379 --> 00:46:24,586
 O yüzden Ben bu tuzağa düşmek istemiyorum
 
 748
-00:46:21,611 --> 00:46:24,570
+00:46:24,711 --> 00:46:27,670
 ama size diyebilirim ki gücü hissetmeye başlarsınız.
 
 749
-00:46:25,528 --> 00:46:28,403
+00:46:28,628 --> 00:46:31,503
 Şöyle ele alalım,  siz Ruh olursunuz.
 
 750
-00:46:28,611 --> 00:46:33,361
+00:46:31,711 --> 00:46:36,461
 İşte bu yüzden  Buddha asla Tanrıdan bahsetmedi.
 
 751
-00:46:33,653 --> 00:46:35,361
+00:46:36,753 --> 00:46:38,461
 O, "Tanrıdan konuşmamak en iyisi
 
 752
-00:46:35,653 --> 00:46:37,320
+00:46:38,753 --> 00:46:40,420
 çünkü o zaman diğer sorular başlayacak.
 
 753
-00:46:37,737 --> 00:46:39,945
+00:46:40,837 --> 00:46:43,045
 En iyisi size ruh olduğunuzu söylemek, bitti.
 
 754
-00:46:40,154 --> 00:46:42,903
+00:46:43,254 --> 00:46:46,003
 Bırakalım önce ruh olsunlar
 sonra konuşmaya devam ederiz" dedi.
 
 755
-00:46:43,820 --> 00:46:48,029
+00:46:46,920 --> 00:46:51,129
 Başka soru lütfen?
 
 756
-00:46:50,112 --> 00:46:55,112
+00:46:53,212 --> 00:46:58,212
 Buradaki ruhları görüyor musunuz, ruhları görüyor musunuz?
 
 757
-00:46:55,403 --> 00:46:56,945
+00:46:58,503 --> 00:47:00,045
 Bu da ne?  Ruhlar mı?
 
 758
-00:46:57,361 --> 00:46:59,361
+00:47:00,461 --> 00:47:02,461
 Şimdi,  neden görmek istiyorsunuz ki?
 
 759
-00:47:00,653 --> 00:47:03,279
+00:47:03,753 --> 00:47:06,379
 Onlar varlar şüphesiz ama bizim onlarla bir işimiz yok.
 
 760
-00:47:03,486 --> 00:47:04,987
+00:47:06,586 --> 00:47:08,087
 Onlar geçmiş. Onlar bitti.  Gittiler.
 
 761
-00:47:05,195 --> 00:47:06,528
+00:47:08,295 --> 00:47:09,628
 Neden onlar için kafa yoralım?
 
 762
-00:47:06,737 --> 00:47:08,903
+00:47:09,837 --> 00:47:12,003
 Tabi ki oradalar,  ne yapalım?
 
 763
-00:47:09,195 --> 00:47:11,570
+00:47:12,295 --> 00:47:14,670
 Onlar çok baş belası insanlar.
 
 764
-00:47:12,070 --> 00:47:14,778
+00:47:15,170 --> 00:47:17,878
 Onlarla çok sorun yaşadık.
 
 765
-00:47:15,070 --> 00:47:20,945
+00:47:18,170 --> 00:47:24,045
 Tüm bu gurular bu ruhları kullanıyor.  Hepsi bitti.  Orada.
 
 766
-00:47:21,361 --> 00:47:23,195
+00:47:24,461 --> 00:47:26,295
 Orada...ne diyorsunuz?
 
 767
-00:47:23,361 --> 00:47:24,486
+00:47:26,461 --> 00:47:27,586
 İyi ruhlar da var mı?
 
 768
-00:47:24,945 --> 00:47:25,403
+00:47:28,045 --> 00:47:28,503
 İyi ruhlar mı? Evet
 
 769
-00:47:25,611 --> 00:47:27,029
+00:47:28,711 --> 00:47:30,129
 Hayır! Hayır! Bizim onlarla hiçbir işimiz olmamalı
 
 770
-00:47:27,279 --> 00:47:31,820
+00:47:30,379 --> 00:47:34,920
 çünkü siz şu anda yaşayan birisiniz.
 
 771
-00:47:32,112 --> 00:47:34,611
+00:47:35,212 --> 00:47:37,711
 İyi ya da kötü onlarla hiçbir işimiz yok.
 
 772
-00:47:34,820 --> 00:47:36,237
+00:47:37,920 --> 00:47:39,337
 Kimin iyi kimin kötü olduğunu nerden biliyorsunuz?
 
 773
-00:47:36,403 --> 00:47:38,237
+00:47:39,503 --> 00:47:41,337
 Bir kez iyi bir adamın gelmesine izin verdiğinizde
 
 774
-00:47:38,403 --> 00:47:39,403
+00:47:41,503 --> 00:47:42,503
 bir kaçık da gelebilir.
 
 775
-00:47:39,611 --> 00:47:40,695
+00:47:42,711 --> 00:47:43,795
 Nasıl bileceksiniz?
 
 776
-00:47:41,070 --> 00:47:43,987
+00:47:44,170 --> 00:47:47,087
 En iyisi mi hiç birinin size gelmemesidir.
 
 777
-00:47:44,195 --> 00:47:46,445
+00:47:47,295 --> 00:47:49,545
 Onlardan uzak kalmak en iyisidir.
 
 778
-00:47:46,945 --> 00:47:48,486
+00:47:50,045 --> 00:47:51,586
 Zamanla hepsini öğreneceksiniz
 
 779
-00:47:48,820 --> 00:47:52,445
+00:47:51,920 --> 00:47:55,545
 ve nasıl bu insanlardan uzak durmanız
 
 780
-00:47:52,737 --> 00:47:56,445
+00:47:55,837 --> 00:47:59,545
 gerektiğini bilmek sizi şaşırtacak.
 
 781
-00:47:57,279 --> 00:47:58,945
+00:48:00,379 --> 00:48:02,045
 Kundalini nedir?
 
 782
-00:47:59,237 --> 00:48:01,737
+00:48:02,337 --> 00:48:04,837
 Size söylemediler mi?  Neyi söylemedin?
 
 783
-00:48:02,070 --> 00:48:04,903
+00:48:05,170 --> 00:48:08,003
 Anlattık,  açıkladık ama Siz anlat .....
 
 784
-00:48:05,195 --> 00:48:06,528
+00:48:08,295 --> 00:48:09,628
 ne?
 
 785
-00:48:06,737 --> 00:48:08,361
+00:48:09,837 --> 00:48:11,461
 ...bu bir tür bir tür enerji veya...
 
 786
-00:48:08,653 --> 00:48:10,237
+00:48:11,753 --> 00:48:13,337
 Evet öyle,  o bir enerji.
 
 787
-00:48:10,403 --> 00:48:14,611
+00:48:13,503 --> 00:48:17,711
 O bizim hala içimizde kendini ifade etmemiş
 
 788
-00:48:15,403 --> 00:48:17,320
+00:48:18,503 --> 00:48:20,420
 olan arzumuzun enerjisidir.
 
 789
-00:48:17,611 --> 00:48:21,070
+00:48:20,711 --> 00:48:24,170
 Ki bu arzu içimizde kendisini ifade etmemiştir.
 
 790
-00:48:21,611 --> 00:48:26,154
+00:48:24,711 --> 00:48:29,254
 O Tanrısal olma arzusudur.
 
 791
-00:48:27,737 --> 00:48:30,528
+00:48:30,837 --> 00:48:33,628
 Bu enerji bir kez kendini gösterdikten sonra,
 
 792
-00:48:30,737 --> 00:48:32,611
+00:48:33,837 --> 00:48:35,711
 işte bu yüzden ona geriye kalan enerji diyoruz,
 
 793
-00:48:32,987 --> 00:48:38,070
+00:48:36,087 --> 00:48:41,170
 sonra bu arzu ifade bulur.
 
 794
-00:48:38,737 --> 00:48:49,611
+00:48:41,837 --> 00:48:52,711
 Bu enerjiyi siz yaratmalı ve hayal etmeli misiniz?
 
 795
-00:48:49,820 --> 00:48:53,320
+00:48:52,920 --> 00:48:56,420
 Hayır.  Hayır.  Hayır! O var.  Orada.
 
 796
-00:48:53,528 --> 00:48:56,737
+00:48:56,628 --> 00:48:59,837
 Hayal ürünü değil. Sizin bir şey yapmanıza hiç gerek yok.
 
 797
-00:48:56,945 --> 00:49:00,737
+00:49:00,045 --> 00:49:03,837
 O tıpkı bir tohumdaki primula gibi, o orada.
 
 798
-00:49:01,070 --> 00:49:02,737
+00:49:04,170 --> 00:49:05,837
 o orada.  Sizin yapmanıza gerek yok
 
 799
-00:49:03,112 --> 00:49:04,070
+00:49:06,212 --> 00:49:07,170
 bileceğiniz bir şey yok, hayal edilecek şeylere,
 
 800
-00:49:04,279 --> 00:49:05,778
+00:49:07,379 --> 00:49:08,878
 hiçbir şeye gerek yok.
 
 801
-00:49:05,987 --> 00:49:07,945
+00:49:09,087 --> 00:49:11,045
 O gerçekten orada. Nabız atışını hissedebilirsiniz.
 
 802
-00:49:08,237 --> 00:49:11,320
+00:49:11,337 --> 00:49:14,420
 Sadece nabız gibi atışını görebilirsiniz.
 
 803
-00:49:11,528 --> 00:49:12,403
+00:49:14,628 --> 00:49:15,503
 Yükselişini görebilirsiniz.
 
 804
-00:49:12,611 --> 00:49:14,695
+00:49:15,711 --> 00:49:17,795
 Başının üzerinde bir nabız gibi atışını hissedebilirsiniz.
 
 805
-00:49:14,987 --> 00:49:16,528
+00:49:18,087 --> 00:49:19,628
 Bunun kırıldığını görebilirsiniz.
 
 806
-00:49:16,737 --> 00:49:19,112
+00:49:19,837 --> 00:49:22,212
 Başınızdan,  gelen serin esintiyi hissedebilirsiniz,
 
 807
-00:49:19,279 --> 00:49:21,070
+00:49:22,379 --> 00:49:24,170
 gerçek vaftiz gerçekleşiyor.
 
 808
-00:49:22,611 --> 00:49:25,737
+00:49:25,711 --> 00:49:28,837
 Hepsi orada.  Hepsi orada.
 
 809
-00:49:27,070 --> 00:49:29,737
+00:49:30,170 --> 00:49:32,837
 Hayal gücü değil, hiçbir şeye gerek yok.
 
 810
-00:49:29,945 --> 00:49:32,361
+00:49:33,045 --> 00:49:35,461
 Düşünme de değil bu.  Düşünerek yapamazsınız.
 
 811
-00:49:32,737 --> 00:49:36,029
+00:49:35,837 --> 00:49:39,129
 Düşünürseniz, deyin ki bir tohum hakkında,
 
 812
-00:49:36,361 --> 00:49:38,737
+00:49:39,461 --> 00:49:41,837
 şimdi ben bu tohumun filizlendiğini hayal edeyim.
 
 813
-00:49:38,945 --> 00:49:41,528
+00:49:42,045 --> 00:49:44,628
 Filizlenir mi?  Hayır, onun filizlenmesi gerek.
 
 814
-00:49:41,737 --> 00:49:44,070
+00:49:44,837 --> 00:49:47,170
 Aynı şekilde, bu olmak zorunda.
 
 815
-00:49:44,528 --> 00:49:45,862
+00:49:47,628 --> 00:49:48,962
 Bu yaşayan bir süreçtir.
 
 816
-00:49:49,611 --> 00:49:52,611
+00:49:52,711 --> 00:49:55,711
 Aydınlanma için arzumuz olduğunu anladığımız zaman,
 
 817
-00:49:52,903 --> 00:49:59,611
+00:49:56,003 --> 00:50:02,711
 (duyulmuyor) inanç ve güven edinseydik, o zamanla bize gelir mi?
 
 818
-00:50:00,237 --> 00:50:01,361
+00:50:03,337 --> 00:50:04,461
 Ne?
 
 819
-00:50:01,903 --> 00:50:05,070
+00:50:05,003 --> 00:50:08,170
 Eğer arzumuz varsa ve biz farkında değilsek
 
 820
-00:50:05,528 --> 00:50:07,279
+00:50:08,628 --> 00:50:10,379
 yine de zamanla bize gelir mi?
 
 821
-00:50:08,528 --> 00:50:12,237
+00:50:11,628 --> 00:50:15,337
 Evet, iyi.  Ama bu arzu sadece Kundalininin
 
 822
-00:50:12,528 --> 00:50:14,820
+00:50:15,628 --> 00:50:17,920
 uyanışı ile ortaya çıkar.
 
 823
-00:50:15,112 --> 00:50:18,611
+00:50:18,212 --> 00:50:21,711
 Bu arzu tabi ki oradadır.  Bilinçsiz olarak oradadır.
 
 824
-00:50:18,903 --> 00:50:22,237
+00:50:22,003 --> 00:50:25,337
 Zamanla çok bilinçli bir arzuya dönüşür.
 
 825
-00:50:22,653 --> 00:50:24,820
+00:50:25,753 --> 00:50:27,920
 Sonra onu ararsınız,  peşinden koşarsınız
 
 826
-00:50:25,237 --> 00:50:27,987
+00:50:28,337 --> 00:50:31,087
 ama sadece Kundalini yükselip bıngıldak kemiğinizin
 
 827
-00:50:28,195 --> 00:50:31,070
+00:50:31,295 --> 00:50:34,170
 olduğu alanı deldiğinde kendini ifade eder.
 
 828
-00:50:31,320 --> 00:50:32,945
+00:50:34,420 --> 00:50:36,045
 Hepsi bu.
 
 829
-00:50:34,737 --> 00:50:40,029
+00:50:37,837 --> 00:50:43,129
 Ama, kişi gerçekte nasıl harekete geçirir....  ['']?
 
 830
-00:50:40,237 --> 00:50:41,611
+00:50:43,337 --> 00:50:44,711
 Ne harekete geçer?
 
 831
-00:50:41,820 --> 00:50:43,987
+00:50:44,920 --> 00:50:47,087
 Kişi nasıl bu enerjiyi harekete geçirir?
 
 832
-00:50:46,029 --> 00:50:49,237
+00:50:49,129 --> 00:50:52,337
 O, o sadece uyanır.
 
 833
-00:50:50,237 --> 00:50:53,237
+00:50:53,337 --> 00:50:56,337
 Orada, o noktada sanırım Benimle ilgili özel bir şey var
 
 834
-00:50:53,737 --> 00:50:59,279
+00:50:56,837 --> 00:51:02,379
 ve siz sonra aynı özel varlığa dönüşürsünüz.
 Siz de yapabilirsiniz.
 
 835
-00:50:59,653 --> 00:51:01,570
+00:51:02,753 --> 00:51:04,670
 Bu size söylediğim gibi - bir mumun
 
 836
-00:51:01,862 --> 00:51:03,862
+00:51:04,962 --> 00:51:06,962
 bir diğerini yakması gibidir,
 
 837
-00:51:04,070 --> 00:51:05,154
+00:51:07,170 --> 00:51:08,254
 tamam mı, aynı şekilde.
 
 838
-00:51:11,903 --> 00:51:15,403
+00:51:15,003 --> 00:51:18,503
 Soru: Duyulmuyor
 
 839
-00:51:31,320 --> 00:51:37,320
+00:51:34,420 --> 00:51:40,420
 Siz bahsettiniz ... o diyor ki, Siz Hatha yogadan fiziksel yoga,
 
 840
-00:51:37,528 --> 00:51:39,070
+00:51:40,628 --> 00:51:42,170
 Raja yogadan akli yoga olarak bahsettiniz.
 
 841
-00:51:39,653 --> 00:51:42,945
+00:51:42,753 --> 00:51:46,045
 Bu Yoganın yönteminden bahsedebilir misiniz?
 
 842
-00:51:44,029 --> 00:51:45,862
+00:51:47,129 --> 00:51:48,962
 Ah. Hayır, hayır,  Ben fiziksel olduğunu söylemiyorum,
 
 843
-00:51:46,070 --> 00:51:48,403
+00:51:49,170 --> 00:51:51,503
 biz yalnızca fiziksel bir amaç için kullanırız.
 
 844
-00:51:48,737 --> 00:51:51,945
+00:51:51,837 --> 00:51:55,045
 Fiziksel değildir ne de zihinseldir, bu Raja Yoga,
 
 845
-00:51:52,237 --> 00:51:55,778
+00:51:55,337 --> 00:51:58,878
 bütün bu şeyler Sahaja Yoganın bir parçasıdır.
 
 846
-00:51:55,987 --> 00:51:58,320
+00:51:59,087 --> 00:52:01,420
 Sahaja Yoga ise kendiliğinden olan bir şeydir.
 
 847
-00:51:58,528 --> 00:52:00,320
+00:52:01,628 --> 00:52:03,420
 İçimizdeki artan güç olan Kundalini,
 
 848
-00:52:00,528 --> 00:52:04,029
+00:52:03,628 --> 00:52:07,129
 içimizdeki arzu gücü,
 
 849
-00:52:04,528 --> 00:52:06,820
+00:52:07,628 --> 00:52:09,920
 kendini salıverir
 
 850
-00:52:07,112 --> 00:52:09,737
+00:52:10,212 --> 00:52:12,837
 ve ondan birkaç iplikçik nabız atışı şeklinde yükselir,
 
 851
-00:52:10,237 --> 00:52:14,403
+00:52:13,337 --> 00:52:17,503
 yükselişini görebilirsiniz de.
 
 852
-00:52:14,862 --> 00:52:19,070
+00:52:17,962 --> 00:52:22,170
 O, bu merkezleri yavaş yavaş aydınlatarak yükselir
 
 853
-00:52:19,570 --> 00:52:23,820
+00:52:22,670 --> 00:52:26,920
 ve en son merkezi açar. Yedinci merkez burada,
 
 854
-00:52:24,279 --> 00:52:29,862
+00:52:27,379 --> 00:52:32,962
 ruh,
 
 855
-00:52:30,237 --> 00:52:34,862
+00:52:33,337 --> 00:52:37,962
 aslında kalpte oturan Ruh aydınlanır
 
 856
-00:52:35,154 --> 00:52:39,112
+00:52:38,254 --> 00:52:42,212
 çünkü Ruhun yeri başın tepesindedir.
 
 857
-00:52:39,403 --> 00:52:41,611
+00:52:42,503 --> 00:52:44,711
 Tamam mı?
 
 858
-00:52:51,154 --> 00:52:54,279
+00:52:54,254 --> 00:52:57,379
 Başka soru yok mu?
 
 859
-00:52:54,820 --> 00:53:00,195
+00:52:57,920 --> 00:53:03,295
 Tamam. Sanırım artık yapmalıyız.  Ne dersiniz?
 
 860
-00:53:00,903 --> 00:53:04,070
+00:53:04,003 --> 00:53:07,170
 En iyisi mi almaktır.  Tamam,
 
 861
-00:53:04,528 --> 00:53:06,403
+00:53:07,628 --> 00:53:09,503
 ellerinizi şu şekilde koyun,
 
