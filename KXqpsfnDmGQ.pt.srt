@@ -75,7 +75,7 @@ Eles achavam que indo
 a alguns lugares solitários,
 
 17
-00:01:57,390 --> 00:02:02,698
+00:01:57,215 --> 00:02:02,347
 eles seriam capazes de
 estabilizar suas mentes em paz...
 
@@ -90,7 +90,7 @@ Eles também
 sacrificaram muitas coisas:
 
 20
-00:02:11,358 --> 00:02:15,626
+00:02:11,250 --> 00:02:15,626
 sua riqueza, que os
 estava incomodando;
 
@@ -274,7 +274,7 @@ seja qual for a religião
 que vocês seguiram,
 
 59
-00:05:14,756 --> 00:05:19,048
+00:05:14,764 --> 00:05:19,056
 seja quais forem as crenças que vocês
 seguiram, foi uma tortura para vocês.
 
@@ -307,7 +307,7 @@ Agora, para conseguir isso facilmente,
 na verdade vocês devem saber...
 
 66
-00:05:44,977 --> 00:05:52,581
+00:05:44,807 --> 00:05:52,581
 que não é porque
 vocês não eram nada.
 
@@ -364,7 +364,7 @@ Do contrário, teria sido
 impossível para Mim...
 
 78
-00:06:41,293 --> 00:06:43,304
+00:06:41,118 --> 00:06:43,304
 lhes dar a Realização.
 
 79
@@ -453,7 +453,7 @@ e viverão como pessoas
 normais na sociedade.
 
 97
-00:08:11,336 --> 00:08:15,018
+00:08:11,327 --> 00:08:15,009
 Elas não serão algum
 tipo de sadhus ou santos,
 
@@ -757,7 +757,7 @@ eletromagnética pode penetrar,"
 também penetrarão."
 
 160
-00:12:15,419 --> 00:12:17,742
+00:12:15,410 --> 00:12:17,733
 "Então eu irei para
 dentro do satélite..."
 
@@ -828,7 +828,7 @@ que a coisa toda estava
 se movendo tão rápido.
 
 175
-00:13:11,417 --> 00:13:13,829
+00:13:11,432 --> 00:13:13,829
 "Mãe, apenas veja a água
 que a Senhora vibrou."
 
@@ -851,7 +851,7 @@ esse poder em algo..."
 "que trabalhará na coisa material."
 
 180
-00:13:24,717 --> 00:13:27,892
+00:13:24,714 --> 00:13:27,892
 Ele disse: "Esse poder pode
 trabalhar em qualquer coisa."
 
@@ -869,7 +869,7 @@ Eu fiquei tão
 surpresa, e ele disse:
 
 184
-00:13:36,303 --> 00:13:38,303
+00:13:36,165 --> 00:13:38,303
 "Eu estava apenas esperando
 para me encontrar com a Senhora..."
 
@@ -889,7 +889,7 @@ amigo: "Agora, vamos,"
 trabalho a ser feito."
 
 188
-00:13:47,264 --> 00:13:50,306
+00:13:47,092 --> 00:13:50,306
 "Eu quero fazer tudo isso
 durante a vida da Mãe."
 
@@ -1035,7 +1035,7 @@ Eu disse: "Não há nenhuma
 regra rigorosa sobre isso."
 
 218
-00:16:00,384 --> 00:16:02,567
+00:16:00,384 --> 00:16:02,742
 "Mas como as crianças, as
 crianças muito pequenas,"
 
@@ -1049,7 +1049,7 @@ Então ele Me perguntou: "Como podemos
 colocar a espiritualidade dentro delas?"
 
 221
-00:16:13,693 --> 00:16:16,766
+00:16:13,693 --> 00:16:16,941
 Eu disse: "Você pode elevar a Kundalini
 delas, pode dar o nó em cima..."
 
@@ -1096,7 +1096,7 @@ Um realmente melhor do que o outro.
 Então ele Me pediu os esquemas:
 
 231
-00:16:47,274 --> 00:16:49,537
+00:16:47,098 --> 00:16:49,537
 "O que devemos fazer
 em relação ao patriotismo?"
 
@@ -1185,7 +1185,7 @@ está fazendo?" Ele disse:
 pensando em ser eleitos..."
 
 249
-00:17:57,663 --> 00:18:02,380
+00:17:57,670 --> 00:18:02,387
 "por algum outro partido,
 o nome é Minha Pátria."
 
@@ -1592,7 +1592,7 @@ que eles tiveram Atena e a
 Mãe Primordial e tudo mais.
 
 335
-00:23:01,819 --> 00:23:04,521
+00:23:01,644 --> 00:23:04,521
 Mas eles disseram: "Não, Mãe, nada
 disso, é melhor parar com isso."
 
@@ -2122,7 +2122,7 @@ Observe qualquer
 coisa, apenas observe.
 
 446
-00:30:14,364 --> 00:30:17,602
+00:30:14,355 --> 00:30:17,593
 Apenas testemunhe.
 Você não deve refletir.
 
@@ -2711,7 +2711,7 @@ temos de desenvolver.
 568
 00:38:33,693 --> 00:38:41,273
 Eu diria com isso que hoje é uma
-celebração especial do Navaatri.
+celebração especial do Navaratri.
 
 569
 00:38:41,473 --> 00:38:48,265
@@ -2971,7 +2971,7 @@ Mas você será o instrumento
 para essa projeção.
 
 624
-00:42:32,052 --> 00:42:36,297
+00:42:32,050 --> 00:42:36,297
 Isso não é nada sutil, é
 muito simples entender,
 
@@ -2996,7 +2996,7 @@ Mas se ele está cheio de ideia e
 pensamentos como nosso cérebro está,
 
 629
-00:42:58,431 --> 00:43:03,046
+00:42:58,415 --> 00:43:03,030
 seja o que for que Eu estiver
 dizendo não será o mesmo,
 
@@ -3223,7 +3223,7 @@ silêncio, porque Ela é tão confiante.
 Ela sabe sobre Seus poderes.
 
 677
-00:46:16,160 --> 00:46:18,160
+00:46:16,160 --> 00:46:22,097
 Ela sabe que Maheshasura ou qualquer
 asura não podem perturbá-La,
 
