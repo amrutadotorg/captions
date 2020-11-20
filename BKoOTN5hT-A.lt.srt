@@ -1,6 +1,6 @@
-1
+﻿1
 00:00:08,459 --> 00:00:14,000
-Dabar, ką galime daryti, Filipai,
+Dabar, Filipai,
 
 2
 00:00:14,126 --> 00:00:17,126
@@ -168,11 +168,11 @@ Prana atspindi dešinįjį kanalą, Mana Šakti yra kairysis kanalas.
 
 43
 00:03:13,126 --> 00:03:18,209
-Gerai? Šie du turi būti atskirti – „laja“− atskirti.
+Gerai? Šie du turi būti apjungti.
 
 44
 00:03:18,334 --> 00:03:21,834
-Dabar kaip galime tai padaryti? Tam, kad atskirtume šiuos du aspektus −
+Dabar kaip galime tai padaryti? Tam, kad apjungtume šiuos du aspektus −
 
 45
 00:03:21,959 --> 00:03:24,917
@@ -180,7 +180,7 @@ jie yra susijungę vienas su kitu −
 
 46
 00:03:26,834 --> 00:03:31,209
-po Realizacijos, ne prieš tai.
+tik po Realizacijos, ne prieš tai.
 
 47
 00:03:41,459 --> 00:03:46,042
@@ -276,31 +276,31 @@ tos emocijos taip pat pradės slūgti,
 
 70
 00:06:21,292 --> 00:06:29,709
-ir jos taps tarsi…  Jos išsiplės. Išsiplės, suprantate.
+ir jos taps tarsi…  Jos atsiskleis. Atsiskleis, suprantate.
 
 71
 00:06:29,792 --> 00:06:33,418
-Jūs taip jas padidinsite, jog
+Jūs taip jas atskleisite, jog
 
 72
 00:06:33,459 --> 00:06:36,834
-pajausite, kad kontroliuojate jas, šias emocijas.
+pajausite, kad kontroliuojate šias emocijas.
 
 73
 00:06:36,959 --> 00:06:40,750
-Jūs valdote jas. Ir dėl to, kad jas valdote,
+Kontroliuojate jas. Ir dėl to, kad jas kontroliuojate,
 
 74
 00:06:41,376 --> 00:06:46,376
-jūsų emocijos − išsiplėtusios, apšviestos – įgauna galių.
+jūsų emocijos − atsiskleidusios, apšviestos – įgauna galių.
 
 75
 00:06:46,875 --> 00:06:53,209
-Ir šios emocijos, kai taip jaučiatės...
+Ir šios emocijos, kai taip jaučiatės,
 
 76
 00:06:53,418 --> 00:06:59,126
-Tada tų emocijų priežastis gali būti išspręsta.
+tada tų emocijų kilimo priežastis gali būti išspręsta.
 
 77
 00:06:59,418 --> 00:07:03,042
@@ -336,15 +336,15 @@ tada šios emocijos tampa apšviestos.
 
 85
 00:07:33,042 --> 00:07:36,042
-Ir kai šios emocijos tampa apšviestos,
+O kai šios emocijos tampa apšviestos,
 
 86
 00:07:36,126 --> 00:07:42,875
-jos įgauna galią išspręsti problemą. Ar suprantate esmę?
+jos įgyja galią išspręsti problemą. Ar suprantate esmę?
 
 87
 00:07:42,959 --> 00:07:46,000
-Tarsi jos būtų pasiekusios krantą, kuriame jos nušvito
+Tarsi jos būtų pasiekusios ribą, ties kuria nušvito,
 
 88
 00:07:46,084 --> 00:07:49,334
@@ -352,23 +352,23 @@ ir ši problema gali būti išspręsta.
 
 89
 00:07:49,376 --> 00:07:53,126
-Nes dabar nesate  individualioje ląstelėje,
+Nes dabar esate ne individuali ląstelė,
 
 90
 00:07:53,209 --> 00:07:56,209
-jūs esate platybėse, esate „samašti“ [vienyje].
+o susilieję su visuma, esate „samašti“ [vienyje].
 
 91
 00:07:56,251 --> 00:07:58,834
-Ir todėl, kad patekote į šią būseną,
+Ir todėl, kad pasiekėte į šią būseną,
 
 92
 00:07:58,917 --> 00:08:02,709
-turite šias galias: patekti į kito žmogaus kūną,
+turite šias galias: jausti kito žmogaus kūną,
 
 93
 00:08:02,792 --> 00:08:05,334
-galimybę pajusti kito žmogaus vibracijas,
+jausti kito žmogaus vibracijas,
 
 94
 00:08:05,418 --> 00:08:09,834
@@ -376,19 +376,19 @@ pakelti Kundalini. Kitaip nebūtumėte galėję to padaryti.
 
 95
 00:08:10,542 --> 00:08:15,292
-Taigi jums tai yra labai lengva, nes aš taip pat esu čia fiziškai,
+Taigi jums tai yra labai lengva, nes aš taip pat esu čia fiziškai.
 
 96
 00:08:15,376 --> 00:08:18,834
-taip lengva tiesiog palikti šias emocijas ten,
+Labai paprasta sukontroliuoti emocijas,
 
 97
 00:08:18,959 --> 00:08:22,542
-kad jos nušvistų ir jūsų noras išsipildytų,
+taip jos tampa apšviestos ir išsipildo jūsų troškimai.
 
 98
 00:08:22,625 --> 00:08:31,292
-nes emocijos yra ne kas kita kaip norai. Tai − neišsipildę norai.
+Emocijos – ne kas kita kaip neišsipildę troškimai.
 
 99
 00:08:31,625 --> 00:08:39,042
@@ -404,15 +404,15 @@ kaip ir sakiau, troškimai.
 
 102
 00:08:54,292 --> 00:09:01,251
-Taigi, troškimas yra paimamas, bet koks troškimas, ir perkeliamas į Praną.
+Taigi, bet koks troškimas yra paimamas ir perkeliamas į Praną.
 
 103
 00:09:01,334 --> 00:09:04,542
-Dabar, kaip jūs perkeliate jį į Praną?
+Kaip perkeliate jį į Praną?
 
 104
 00:09:04,667 --> 00:09:09,709
-Tai, kad jūs valdote savo Praną – štai kodėl jie daro „pranajamas“, matote?
+Kontroliuodami savo Praną – štai kodėl jie daro „pranajamas“, matote?
 
 105
 00:09:10,042 --> 00:09:14,376
@@ -420,11 +420,11 @@ Taigi, atsisėdate labai patogiai, kaip kad sėdite dabar.
 
 106
 00:09:14,459 --> 00:09:16,459
-Tarkime, turite troškimą, nukreipkite į jį savo dėmesį.
+Tarkime, turite troškimą – nukreipkite į jį savo dėmesį.
 
 107
 00:09:16,542 --> 00:09:18,917
-Dėmesys yra labai svarbus, suprantate?
+Dėmesys – labai svarbus, suprantate?
 
 108
 00:09:19,042 --> 00:09:28,000
@@ -444,15 +444,15 @@ Tai reiškia, kad jos yra dabartyje, jūs jas suvokiate.
 
 112
 00:09:43,126 --> 00:09:48,251
-Dabar, ką turite daryti – tai stebėti savo kvėpavimą. Dabar
+Dabar stebėkite savo kvėpavimą.
 
 113
 00:09:48,376 --> 00:09:57,334
-pabandykite sulėtinti savo kvėpavimą, sulėtinti.
+Pabandykite nuraminti savo kvėpavimą.
 
 114
 00:09:59,542 --> 00:10:08,709
-Ta prasme, kad iškvėpus truputėlį palaukite, tada giliai palaipsniui
+Ta prasme, kad iškvėpus truputėlį palaukite, tada pamažu giliai
 
 115
 00:10:12,625 --> 00:10:16,459
@@ -460,7 +460,7 @@ Ta prasme, kad iškvėpus truputėlį palaukite, tada giliai palaipsniui
 
 116
 00:10:16,792 --> 00:10:21,500
-Po minutės jūsų kvėpavimas taps lėtesnis nei įprastai.
+Po minutės jūsų kvėpavimas taps ramesnis nei įprastai.
 
 117
 00:10:21,625 --> 00:10:25,000
@@ -468,7 +468,7 @@ Gerai? Pabandykite. Įkvėpkite.
 
 118
 00:10:25,084 --> 00:10:29,376
-Dabar − su emocijomis, sutelkite dėmesį į emocijas, matote?
+Dabar sutelkite dėmesį į emocijas.
 
 119
 00:10:29,459 --> 00:10:33,209
@@ -480,11 +480,11 @@ Geriau? Jaučiate kylančią Kundalini?
 
 121
 00:11:11,875 --> 00:11:16,959
-Kai kvėpuojate, suprantate, jog yra tarpas [tarp įkvėpimo ir iškvėpimo],
+Kai kvėpuojate, suprantate, jog yra pauzė [tarp įkvėpimo ir iškvėpimo],
 
 122
 00:11:17,042 --> 00:11:19,292
-kurį tiesiog paliekate tuščią.
+kurią tiesiog išlaikykite ją.
 
 123
 00:11:19,625 --> 00:11:22,292
@@ -492,7 +492,7 @@ kurį tiesiog paliekate tuščią.
 
 124
 00:11:22,376 --> 00:11:25,500
-Dabar palikite jį tuščią.
+Padarykite pauzę.
 
 125
 00:11:25,625 --> 00:11:29,376
@@ -500,7 +500,7 @@ Dabar iškvėpkite.
 
 126
 00:11:32,625 --> 00:11:35,376
-Dabar palikite jį tuščią.
+Padarykite pauzę.
 
 127
 00:11:39,459 --> 00:11:43,834
@@ -516,7 +516,7 @@ Nekvėpuokite. Dabar įkvėpkite.
 
 130
 00:12:02,875 --> 00:12:09,875
-Dabar kvėpuokite taip, tarsi sustabdytumėte savo kvėpavimą.
+Dabar kvėpuokite taip, tarsi sulaikytumėte kvėpavimą.
 
 131
 00:12:29,542 --> 00:12:36,292
@@ -528,7 +528,7 @@ Taip geriau.
 
 133
 00:12:51,084 --> 00:12:54,418
-Kurį laiką sulaikykite kvėpavimą viduje,
+Kurį laiką sulaikykite kvėpavimą,
 
 134
 00:12:54,542 --> 00:12:59,209
@@ -548,7 +548,7 @@ Abi Šakti [energijos] tampa viena.
 
 138
 00:13:26,917 --> 00:13:35,376
-Šioje būsenoje, kai esate tyloje, susimąstote apie savo intelektą.
+Šioje būsenoje, kai esate tyloje, susimąstote apie savo protą.
 
 139
 00:13:39,376 --> 00:13:42,625
@@ -564,15 +564,15 @@ Taigi, kas vyksta: iš tiesų ši „Laja“ − dėmesys −
 
 142
 00:13:50,667 --> 00:13:55,750
-patenka į jūsų intelektą ir apšviečia jį.
+nukrypsta į protą ir jį apšviečia.
 
 143
 00:14:08,625 --> 00:14:13,126
-Aha, matote, minties čia nėra − pabandykite rasti savyje intelektą!
+Nelieka nė mintelės. Pabandykite rasti protą!
 
 144
 00:14:13,459 --> 00:14:19,709
-Matote? Taigi, kur yra mano intelektas? Pabandykite jį rasti!
+Matote? Taigi, kur yra mano protas? Pabandykite jį rasti!
 
 145
 00:14:21,875 --> 00:14:28,709
@@ -584,7 +584,7 @@ Jis veikia, bet tapo „samašti“,
 
 147
 00:14:33,376 --> 00:14:36,709
-tapo kolektyviniu.
+tapo kolektyviškas.
 
 148
 00:14:38,292 --> 00:14:40,418
@@ -596,12 +596,13 @@ Matote dabar? Ar supratote?
 
 150
 00:14:57,459 --> 00:14:59,709
-Nėra jokios minties.
+Nėra nė mintelės.
 
 151
 00:15:01,792 --> 00:15:06,251
-Šis pratimas suteiks jums tą bemintę būseną,
+Šis pratimas suteiks jums bemintį sąmoningumą,
 
 152
 00:15:06,292 --> 00:15:09,959
-įtvirtins bemintę būseną jumyse, kur nėra jokios minties.
+įtvirtins bemintį sąmoningumą jumyse, kur nėra nė mintelės.
+
