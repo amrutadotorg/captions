@@ -16,19 +16,19 @@ Puhutaan yleisellä tasolla. Sopiiko?
 
 5
 00:00:47,000 --> 00:00:48,792
-Kun puhun kaikista näistä asioista,
+Kun puhun näistä asioista,
 
 6
 00:00:48,918 --> 00:00:51,709
-teidän pitää tietää, että puhun juuri teille yksilöllisesti –
+teidän pitää tietää, että puhun vain teille, yksilöllisesti –
 
 7
 00:00:51,834 --> 00:00:53,375
-en puhu muista.
+se ei koske ketään muuta.
 
 8
 00:00:53,501 --> 00:00:58,667
-Aina ensimmäiseksi, kun puhun teille, ihmiset
+Aina ensimmäiseksi, kun puhun, ihmiset
 
 9
 00:00:58,792 --> 00:01:02,709
@@ -57,7 +57,7 @@ Siksi se menee hukkaan,
 15
 00:01:20,501 --> 00:01:25,417
 koska kaikki teille tarkoitettu meneekin
-  toiselle henkilölle.
+  jollekin toiselle.
 
 16
 00:01:26,209 --> 00:01:35,626
@@ -2452,27 +2452,27 @@ Oikea käsi sydämellä voisi auttaa.
 Tehkää se sydämellänne. Tehkää se sydämellänne.
 
 578
-00:46:46,620 --> 00:46:48,920
+00:46:46,626 --> 00:46:48,918
 Oikea käsi sydämelle.
 
 579
-00:47:03,520 --> 00:47:08,060
+00:47:03,501 --> 00:47:08,042
 Ajatelkaa sisällänne: "Olen Ikuinen Elämä, olen Henki".
 
 580
-00:47:18,780 --> 00:47:20,780
+00:47:18,792 --> 00:47:20,792
 Hengittäkää sisään.
 
 581
-00:47:26,580 --> 00:47:28,960
+00:47:26,584 --> 00:47:28,959
 Pidättäkää hengitystänne.
 
 582
-00:47:34,360 --> 00:47:39,820
+00:47:34,375 --> 00:47:39,834
 Hengittäkää ulos.
 
 583
-00:47:40,780 --> 00:47:46,500
+00:47:40,792 --> 00:47:46,501
 Kun nyt pidätätte hengitystä, teidän on tiedettävä,
   että Minä olen Maailmankaikkeuden Äiti
 
@@ -2505,23 +2505,23 @@ Olette edelleen lapsia, Minun on sanottava.
 Ettekö tiedä, että olen hyvin voimallinen?
 
 591
-00:48:32,760 --> 00:48:34,920
+00:48:32,751 --> 00:48:34,918
 Pitääkö Minun sanoa se?
 
 592
-00:48:35,200 --> 00:48:38,800
+00:48:35,209 --> 00:48:38,792
 Pienet lapsetkin tietävät sen.
 
 593
-00:48:49,900 --> 00:48:51,840
+00:48:49,918 --> 00:48:51,834
 Kaikki hyvin?
 
 594
-00:48:52,040 --> 00:48:54,040
+00:48:52,042 --> 00:48:54,042
 Hyvä.
 
 595
-00:49:01,500 --> 00:49:02,880
+00:49:01,501 --> 00:49:02,876
 Rentoutukaa.
 
 596
@@ -3339,17 +3339,17 @@ ja jos pystytte laittamaan sen tieteen kielelle,
 Se tieto ei siis mene hukkaan.
 
 786
-01:00:56,660 --> 01:01:01,200
+01:00:56,667 --> 01:01:01,209
 Jos olette vaikka geologi,
   pystytte selittämään monia geologian asioita,
 
 787
-01:01:01,340 --> 01:01:06,000
+01:01:01,334 --> 01:01:06,000
 joita ette ole aiemmin pystyneet selittämään –
   Oivalluksen kautta.
 
 788
-01:01:06,120 --> 01:01:09,420
+01:01:06,125 --> 01:01:09,417
 Itse asiassa annatte tieteelle oman täyttymyksensä!
 
 789
