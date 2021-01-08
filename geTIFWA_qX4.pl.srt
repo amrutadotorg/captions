@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,040 --> 00:00:00,050
 https:
 www.amruta.org/1982/04/02/shri-ramas-birthday-rama-navami-1982/
@@ -49,7 +49,7 @@ Więc jeśli będziecie iść po linii abstrakcji,
 
 13
 00:00:46,860 --> 00:00:49,460
-to będzie przemawiać, te energie.
+to będzie przemawiać - te energie.
 
 14
 00:00:55,899 --> 00:00:57,780
@@ -81,11 +81,11 @@ Ale z początku mówmy o czymś abstrakcyjnym.
 
 21
 00:01:15,899 --> 00:01:20,020
-Ponieważ Hindusi są inni, a ludzie Zachodu inni,
+Ponieważ Hindusi są inni a ludzie Zachodu inni,
 
 22
 00:01:23,940 --> 00:01:26,779
-Oni mają dość religii, dość tego wszystkiego.
+oni mają dość religii, dość tego wszystkiego.
 
 23
 00:01:26,899 --> 00:01:30,860
@@ -121,7 +121,7 @@ I cała rzecz została wypowiedziana mantrą jak ta:
 
 31
 00:01:59,100 --> 00:02:05,580
-Mooladharą, jest Ziemią według mnie, Mooladharą.
+Mooladharą, jest Ziemią według Mnie, Mooladharą.
 
 32
 00:02:05,780 --> 00:02:07,860
@@ -145,7 +145,7 @@ Następnie swaha. Swaha jest zdolnością spalania,
 
 37
 00:02:26,700 --> 00:02:30,820
-Agnyi[Ognia].
+Agni [Ognia].
 
 38
 00:02:32,500 --> 00:02:37,780
@@ -173,7 +173,7 @@ Znaczy osobą, która wchodzi w pokutę, tę Chrystusową.
 
 44
 00:03:11,860 --> 00:03:16,540
-I powiadają, że musicie przeniknąć przez Surya [Słońce],
+I powiadają, że musicie przeniknąć przez Suryę [Słońce],
 
 45
 00:03:16,660 --> 00:03:21,023
@@ -245,7 +245,7 @@ Powinnam powiedzieć, że to się nie zaczęło,
 
 62
 00:04:41,220 --> 00:04:44,220
-ale bardzo się na to powoływano, kiedy żył Rama,
+ale bardzo się na to powoływano, kiedy żył Rama
 
 63
 00:04:44,340 --> 00:04:48,300
@@ -269,7 +269,7 @@ i oni myśleli, że najlepiej to robić poprzez yagnyas.
 
 68
 00:05:09,500 --> 00:05:13,100
-To samo po lewej stronie, oczywiście, ludzie zaczęli czcić Boga,
+To samo po lewej stronie, oczywiście, ludzie zaczęli czcić Boga
 
 69
 00:05:13,220 --> 00:05:15,779
@@ -317,7 +317,7 @@ Vashishta miał ashram, w którym uczył się Rama i jego bracia.
 
 80
 00:06:16,899 --> 00:06:19,500
-Shri Mataji do kobiety: podejdź tu, chodź do przodu.
+(Shri Mataji do kobiety: podejdź tu, chodź do przodu.
 
 81
 00:06:19,620 --> 00:06:23,779
@@ -325,7 +325,7 @@ Daj jej krzesło, żeby usiadła. Czy możesz, czy jest tam miejsce?
 
 82
 00:06:23,899 --> 00:06:28,340
-Myślę, że Gawin może pójść, tam jest wiele miejsc.
+Myślę, że Gawin może przejść, tam jest wiele miejsc.)
 
 83
 00:06:43,980 --> 00:06:49,140
@@ -341,7 +341,7 @@ Już wtedy Rama miał zdolność zabicia demona tylko jedną strzałą.
 
 86
 00:07:04,980 --> 00:07:08,780
-Nazywa się to ekabani. Wystarczała jedna strzała Ramy.
+Nazywa się to 'ekabani'. Wystarczała jedna strzała Ramy.
 
 87
 00:07:08,900 --> 00:07:14,220
@@ -365,7 +365,7 @@ w obrębie kręgosłupa.
 
 92
 00:07:31,380 --> 00:07:34,820
-W czasie tych yagnya oni siadali,
+W czasie tych yagnya oni siadali
 
 93
 00:07:34,940 --> 00:07:38,300
@@ -373,7 +373,7 @@ i robili havany, tak jak my to robimy.
 
 94
 00:07:38,420 --> 00:07:43,620
-Ale w tamtym czasie, przychodziły rakshasy i próbowały naruszyć yagnya.
+Ale w tamtym czasie, przychodziły rakszasy i próbowały naruszyć yagnya.
 
 95
 00:07:43,740 --> 00:07:47,900
@@ -405,7 +405,7 @@ nie było tu Ramy. Ale również w czasach Ramy
 
 102
 00:08:14,500 --> 00:08:16,540
-było trochę rakshasów,
+było trochę rakszasów,
 
 103
 00:08:16,660 --> 00:08:21,220
@@ -445,7 +445,7 @@ Podczas gdy oni celebrowali yagnya On [Rama] siedział na zewnątrz
 
 112
 00:08:58,899 --> 00:09:02,460
-ze swoimi małymi braćmi dookoła,
+ze swoimi małymi braćmi dookoła
 
 113
 00:09:02,580 --> 00:09:07,300
@@ -485,7 +485,7 @@ więc te yagnyas też były na prawej stronie.
 
 122
 00:10:02,700 --> 00:10:06,620
-Bo przede wszystkim, kiedy ludzie przybyli na Ziemię,
+Bo przede wszystkim, kiedy ludzie przybyli na tę Ziemię,
 
 123
 00:10:06,740 --> 00:10:10,980
@@ -493,7 +493,7 @@ bali się wszystkich zwierząt, które ich atakowały,
 
 124
 00:10:11,100 --> 00:10:14,640
-jak i różnego rodzaju okropnych rakshasów i tych wszystkich ludzi
+jak i różnego rodzaju okropnych rakszasów i tych wszystkich ludzi
 
 125
 00:10:14,660 --> 00:10:18,020
@@ -529,7 +529,7 @@ a Krishna przybył w czasie Dwapar Yugi.
 
 133
 00:10:55,180 --> 00:11:01,779
-A dzisiaj jest czas… kiedy Ja przybyłam była Kali Yuga,
+A dzisiaj jest czas… kiedy Ja przybyłam, była Kali Yuga,
 
 134
 00:11:01,899 --> 00:11:05,940
@@ -545,7 +545,7 @@ To jest czas, w którym praca zostanie wykonana.
 
 137
 00:11:14,780 --> 00:11:17,440
-Zatem jak nastąpiło przejście z jednej do drugiej?
+Zatem jak nastąpiło przejście z jednej do drugiej [Yugi]?
 
 138
 00:11:17,460 --> 00:11:20,940
@@ -645,11 +645,11 @@ ich wspólnym odczuciem, że powinni przestrzegać prawa.
 
 162
 00:13:37,540 --> 00:13:44,500
-Nie rozumiecie tego w taki sposób, że jesteście niewolnikiem
+Nie rozumiecie tego w taki sposób, że jesteście niewolnikiem,
 
 163
 00:13:44,620 --> 00:13:47,779
-lub, że macie być zdominowani, albo że trzeba was gnębić,
+albo że macie być zdominowani, albo że trzeba was gnębić,
 
 164
 00:13:47,899 --> 00:13:51,779
@@ -661,7 +661,7 @@ Pragnienie wszystkich ludzi, którym jest dobro i prawość,
 
 166
 00:14:04,540 --> 00:14:10,020
-inkarnuje się jako Shri Rama i On opiekuje się tą wolą.
+inkarnuje się jako Shri Rama i opiekuje się tą wolą.
 
 167
 00:14:10,140 --> 00:14:12,940
@@ -669,7 +669,7 @@ Bo przypuśćmy, że ktoś zaczyna mówić,
 
 168
 00:14:13,060 --> 00:14:15,899
-że „to jest niedobre, tamto jest niedobre”.
+że "to jest niedobre, tamto jest niedobre".
 
 169
 00:14:16,100 --> 00:14:19,779
@@ -717,7 +717,7 @@ A więc wystawiacie swoją dobrą wolę
 
 180
 00:15:04,220 --> 00:15:11,899
-i dajecie jej reprezentację w postaci królestwa, króla, albo rządu.
+i dajecie jej reprezentację w postaci królestwa, króla albo rządu.
 
 181
 00:15:13,899 --> 00:15:18,340
@@ -753,7 +753,7 @@ Ale dzieje się tak, że jak tylko kogoś wybieracie,
 
 189
 00:15:49,180 --> 00:15:52,500
-albo nominujecie albo kogoś wyznaczacie,
+albo nominujecie, albo kogoś wyznaczacie,
 
 190
 00:15:52,620 --> 00:15:57,140
@@ -781,11 +781,11 @@ i nagle okazuje się, że premier zachowuje się jak brutal.
 
 196
 00:16:16,912 --> 00:16:19,320
-Nie możecie tego zrozumieć. “Wybraliśmy kogoś
+Nie możecie tego zrozumieć. "Wybraliśmy kogoś
 
 197
 00:16:19,348 --> 00:16:22,300
-na premiera myśląc, że będzie czynić dobro”.
+na premiera myśląc, że będzie czynić dobro".
 
 198
 00:16:22,420 --> 00:16:23,779
@@ -825,11 +825,11 @@ Wtedy tworzymy inny rząd. I okazuje się, że dzieje się
 
 207
 00:16:58,380 --> 00:17:04,779
-tak jak przedtem. Widzicie, czy sprowadzacie komunistę, czy socjalistę,
+tak jak przedtem. Czy sprowadzacie komunistę, czy socjalistę,
 
 208
 00:17:04,899 --> 00:17:09,220
-czy demokratę czy też macie monarchię,
+czy demokratę, czy też macie monarchię,
 
 209
 00:17:09,340 --> 00:17:10,980
@@ -865,7 +865,7 @@ Dlaczego powinien nami ktokolwiek rządzić?
 
 217
 00:17:48,060 --> 00:17:53,899
-Ponieważ okazuje się. że osoba rządząca nie dorasta do zadania
+Ponieważ okazuje się, że osoba rządząca nie dorasta do zadania
 
 218
 00:17:54,220 --> 00:17:57,900
@@ -917,7 +917,7 @@ Widziałam to na przykład we Francji.
 
 230
 00:18:46,700 --> 00:18:51,500
-Mieliśmy pewnego Premiera.
+Mieliśmy pewnego premiera.
 
 231
 00:18:51,620 --> 00:18:55,740
@@ -1000,7 +1000,7 @@ Tak się dzieje w Chile i w Argentynie, gdzie rząd zachowuje się w taki sposó
 że niszczy ludzi.
 
 251
-00:20:22,220 --> 00:20:24,180
+00:20:22,220 --> 00:20:24,290
 Wszystko to dzieje się - nawet nie wiecie!
 
 252
@@ -1036,7 +1036,7 @@ Ale to jest nic nie warte. To tylko gra.
 Niech sobie połamią głowy. Są nic nie warci. Bezużyteczni ludzie.
 
 260
-00:20:53,980 --> 00:20:56,220
+00:20:53,980 --> 00:20:56,320
 Więc nie możecie rozwiązać tych problemów
 
 261
@@ -1141,7 +1141,7 @@ Ale w Sahaja Yodze okazuje się, że obie rzeczy są zintegrowane,
 
 286
 00:22:26,620 --> 00:22:31,540
-ponieważ posiadasz całkowity kapitał i musisz go teraz rozprowadzić.
+ponieważ posiadacie całkowity kapitał i musicie go teraz rozprowadzić.
 
 287
 00:22:34,260 --> 00:22:37,700
@@ -1149,7 +1149,7 @@ Tutaj następuje całkowita integracja.
 
 288
 00:22:37,820 --> 00:22:42,180
-Wszystkie te “izmy” są eksperymentami sztuczności,
+Wszystkie te "izmy" są eksperymentami sztuczności,
 
 289
 00:22:42,300 --> 00:22:44,580
@@ -1177,22 +1177,22 @@ Powiedzmy, jestem waszą Matką, siedzę tutaj.
 
 295
 00:23:06,460 --> 00:23:13,620
-Chcecie żebym wam przewodziła. Chcecie, żebym wami rządziła.
+Chcecie, żebym wam przewodziła. Chcecie, żebym wami rządziła.
 
 296
 00:23:13,740 --> 00:23:17,540
-Chcecie żebym was poprawiała. Chcecie, żebym was karciła
+Chcecie, żebym was poprawiała. Chcecie, żebym was karciła
 
 297
 00:23:17,660 --> 00:23:24,620
 a nawet zadbała o to, żeby wasze życie się poprawiło.
 
 298
-00:23:24,740 --> 00:23:28,230
+00:23:24,650 --> 00:23:27,900
 Załóżmy, że powiem: "No dobrze, mam dosyć. Nie chcę was niepokoić".
 
 299
-00:23:28,351 --> 00:23:31,360
+00:23:27,910 --> 00:23:31,360
 Nie spodoba wam się to. Żadnemu z was by się to nie spodobało, jeśli powiedziałabym:
 
 300
@@ -1229,7 +1229,7 @@ Chcecie, żeby moje pragnienie było dominujące. Automatycznie.
 
 308
 00:23:56,620 --> 00:24:00,660
-Dlaczego czujecie, że to jest w porządku, że to bardzo dobrze,
+Dlaczego czujecie, że to jest w porządku, że to jest bardzo dobre,
 
 309
 00:24:00,780 --> 00:24:04,660
@@ -1273,11 +1273,11 @@ Ale jeśli nie ma integracji, wtedy jest trudno.
 
 319
 00:24:41,460 --> 00:24:44,779
-Jeśli jesteście osobą leniwą,
+Jeśli jesteście osobą leniwą
 
 320
 00:24:44,899 --> 00:24:47,380
-albo cholerykiem
+albo cholerykiem,
 
 321
 00:24:47,500 --> 00:24:54,820
@@ -1425,7 +1425,7 @@ Nie ma w ogóle mowy o pokusie. Po prostu tego nie lubię.
 
 357
 00:27:17,790 --> 00:27:21,360
-Odruchowo nienawidzę rzeczy, które są naprawdę złe dla Mojego Ducha.
+Odruchowo nienawidzę rzeczy, które są naprawdę złe dla mojego Ducha.
 
 358
 00:27:21,380 --> 00:27:25,140
@@ -1437,7 +1437,7 @@ Nie lubię kłamać, bo to mnie rani. Nie lubię tego.
 
 360
 00:27:32,180 --> 00:27:35,860
-Cokolwiek jest dobre dla twojego Ducha, wypracuje się automatycznie,
+Cokolwiek jest dobre dla waszego Ducha, wypracuje się automatycznie,
 
 361
 00:27:35,980 --> 00:27:38,220
@@ -1469,11 +1469,11 @@ Wasze ciało wam nie pomaga.
 
 368
 00:28:00,300 --> 00:28:03,700
-Troszkę tapasvita, pokuty
+Troszkę 'tapasvita', pokuty
 
 369
 00:28:03,820 --> 00:28:06,900
-jest potrzebne pomimo Sahaja Yogi, żeby to umożliwić.
+jest potrzebne, pomimo Sahaja Yogi, żeby to umożliwić.
 
 370
 00:28:07,020 --> 00:28:12,899
@@ -1517,7 +1517,7 @@ to spróbuję ulepszyć moje ciało, bo nie jestem ciałem.
 
 380
 00:28:41,620 --> 00:28:45,820
-Jeśli mój umysł mi nie pomaga, to muszę ulepszyć ten umysł.
+Jeśli mój umysł mi nie pomaga, to muszę ulepszyć mój umysł.
 
 381
 00:28:45,940 --> 00:28:51,340
@@ -1525,7 +1525,7 @@ Jeśli mój intelekt stoi na przeszkodzie,
 
 382
 00:28:51,460 --> 00:28:53,580
-muszę poprawić ten intelekt,
+muszę poprawić mój intelekt,
 
 383
 00:28:53,700 --> 00:28:56,260
@@ -1533,11 +1533,11 @@ bo w końcu muszę być zintegrowany.
 
 384
 00:28:56,380 --> 00:28:59,740
-Jeśli nie będę zintegrowany nie będę się niczym cieszyć,
+Jeśli nie będę zintegrowany nie będę się niczym cieszyć
 
 385
 00:28:59,860 --> 00:29:03,779
-ani nie będę robić niczego dobrego dla siebie ani dla innych.
+ani nie będę robić niczego dobrego dla siebie, ani dla innych.
 
 386
 00:29:03,899 --> 00:29:07,540
@@ -1549,15 +1549,15 @@ Ale kiedy nie ma w was integracji, jesteście zaskoczeni,
 
 388
 00:29:10,899 --> 00:29:14,540
-jak jedna wasza akcja niszczy drugą akcję,
+jak jedna wasza akcja, niszczy drugą akcję,
 
 389
 00:29:14,660 --> 00:29:16,620
-a druga akcja niszczy trzecią akcję, kiedy
+a druga akcja, niszczy trzecią akcję,
 
 390
 00:29:16,630 --> 00:29:18,200
-nie jesteście zdezintegrowani.
+kiedy nie jesteście zintegrowani.
 
 391
 00:29:18,220 --> 00:29:21,060
@@ -1565,7 +1565,7 @@ Dam wam przykład. Przypuśćmy, że siedzę tutaj
 
 392
 00:29:21,180 --> 00:29:25,779
-i ktoś mi mówi, że to mnie poparzy.
+i ktoś Mi mówi, że to Mnie poparzy.
 
 393
 00:29:25,899 --> 00:29:32,140
@@ -1605,7 +1605,7 @@ we wszystkim co robicie, kiedy jesteście zintegrowani.
 
 402
 00:30:04,260 --> 00:30:08,940
-Integracja jest niczym innym tylko zupełnym zjednoczeniem z waszym Duchem.
+Integracja jest niczym innym, jak tylko pełnym zjednoczeniem z waszym Duchem.
 
 403
 00:30:09,060 --> 00:30:12,220
@@ -1613,7 +1613,7 @@ Duch zaczyna przez nią płynąć.
 
 404
 00:30:12,340 --> 00:30:16,779
-Będziecie zdumieni jak bardzo staniecie się dynamiczni w każdej dziedzinie życia,
+Będziecie zdumieni, jak bardzo staniecie się dynamiczni w każdej dziedzinie życia,
 
 405
 00:30:16,899 --> 00:30:18,740
@@ -1621,14 +1621,14 @@ kiedy będziecie zintegrowani.
 
 406
 00:30:20,140 --> 00:30:27,779
-Ale zupełne połączenie z Duchem musi być osiągnięte.
+Ale pełne połączenie z Duchem musi być osiągnięte.
 
 407
 00:30:27,899 --> 00:30:29,580
 Kiedy o czymś myślicie,
 
 408
-00:30:29,700 --> 00:30:31,899
+00:30:29,700 --> 00:30:32,560
 zapytacie: "Czy to jest dobre dla mojego Ducha?"
 
 409
@@ -1709,7 +1709,7 @@ Widząc kogoś negatywnego, mówią:
 
 428
 00:31:47,580 --> 00:31:52,060
-Zacznij walczyć. "Jak śmiałeś to zrobić, taką rzecz?
+Zacznijcie walczyć. "Jak śmiałeś to zrobić, taką rzecz?
 
 429
 00:31:52,180 --> 00:31:54,980
@@ -1765,7 +1765,7 @@ ale nie z serca i ta osoba może myśleć:
 
 442
 00:32:36,437 --> 00:32:38,758
-"Oh, on tylko zabiega o popularność".
+"Och, on tylko zabiega o popularność".
 
 443
 00:32:39,340 --> 00:32:42,500
@@ -1781,7 +1781,7 @@ Nie możesz tego wypracować? O to tu chodzi. Po to tu jesteś".
 
 446
 00:32:51,260 --> 00:32:57,700
-Mówiąc tak, szczerość, która pochodzi z sera,
+Mówiąc tak, szczerość, która pochodzi z serca,
 
 447
 00:32:58,700 --> 00:33:03,700
@@ -1801,7 +1801,7 @@ Czy rozumiecie to, co powiedział Kabir:
 
 451
 00:33:17,780 --> 00:33:22,060
-"Mana mamata ko thira kara Lau"?
+"Mana mamata ko thira kara Lau"
 
 452
 00:33:22,940 --> 00:33:28,700
@@ -1849,7 +1849,7 @@ Całkowicie wprowadza w czyn?
 
 463
 00:34:06,660 --> 00:34:10,980
-Bez tego wasza Rama Tattva nie może się polepszyć.
+Bez tego, wasza Rama Tattva nie może się polepszyć.
 
 464
 00:34:11,100 --> 00:34:13,940
@@ -1861,7 +1861,7 @@ kiedy wprowadzacie w życie wszystko to, co właśnie robił Shri Rama.
 
 466
 00:34:19,540 --> 00:34:23,460
-Tak więc we wzroście człowieka, kiedy on dosięgnął pozycji Ramy -
+Tak więc, we wzroście człowieka, kiedy on dosięgnął pozycji Ramy -
 
 467
 00:34:23,470 --> 00:34:27,010
@@ -2013,7 +2013,7 @@ ponieważ one nie robią nikomu krzywdy.
 
 504
 00:36:53,700 --> 00:36:56,420
-Ponieważ są jak bóstwa, są czczone w Indiach.
+Dlatego, że są jak bóstwa, są czczone w Indiach.
 
 505
 00:36:56,540 --> 00:37:04,220
@@ -2025,7 +2025,7 @@ Istnieje opowieść o Sai Nath-cie,
 
 507
 00:37:10,540 --> 00:37:17,180
-w której zaklinacz węży
+o tym, jak zaklinacz węży
 
 508
 00:37:17,300 --> 00:37:22,460
@@ -2072,19 +2072,19 @@ Wąż podpełzł i Sai Nath powiedział do węża:
 Jakie masz zadanie?"
 
 519
-00:38:01,020 --> 00:38:04,779
+00:38:00,910 --> 00:38:04,790
 Wąż odpowiedział: "Ten okropny zaklinacz węży powiedział, żebym cię ukąsił,
 
 520
-00:38:04,899 --> 00:38:07,740
+00:38:04,800 --> 00:38:07,850
 więc przybywam, żeby ci powiedzieć, żebyś strzegł się tych ludzi".
 
 521
 00:38:07,860 --> 00:38:12,132
-Zaklinacz węży patrzył ze zdumieniem jak on rozmawia z wężem!
+Zaklinacz węży patrzył ze zdumieniem, jak on rozmawia z wężem!
 
 522
-00:38:12,253 --> 00:38:14,580
+00:38:12,150 --> 00:38:14,690
 Sai Nath powiedział: "Dobrze, idź już". Porozmawiał z nim.
 
 523
@@ -2105,7 +2105,7 @@ wyssał i wypluł całą truciznę.
 
 527
 00:38:29,540 --> 00:38:32,980
-"W końcu stało się to dlatego", powiedział "że wąż jest zły na ciebie,
+"W końcu stało się to dlatego" powiedział, "że wąż jest zły na ciebie,
 
 528
 00:38:33,000 --> 00:38:35,510
@@ -2157,7 +2157,7 @@ i Shesha jest tym, który czasami wyraża się poprzez Sahaja yoginów.
 
 540
 00:39:19,300 --> 00:39:24,779
-Widziałam ten gniew, kiedy ktoś nie przestrzega protokołu,
+Widziałam ten gniew, kiedy ktoś nie przestrzega protokołu
 
 541
 00:39:24,899 --> 00:39:29,620
@@ -2201,7 +2201,7 @@ On pokazał jak Shri Rama ofiarował mu królestwo,
 
 551
 00:39:55,660 --> 00:39:59,940
-ponieważ o to walczyła jego matka.
+ponieważ o to walczyła jego [Bharata] matka.
 
 552
 00:40:00,060 --> 00:40:05,420
@@ -2257,7 +2257,7 @@ Nie powinieneś wynajdywać wymówek, żeby tego uniknąć.
 
 565
 00:40:50,300 --> 00:40:54,500
-To jest zupełnie anty-Boska działalność, żeby unikać tego
+To jest zupełnie anty-boska działalność, żeby unikać tego
 
 566
 00:40:54,620 --> 00:40:57,620
@@ -2285,7 +2285,7 @@ i użyję jako symbolu twojej obecności".
 
 572
 00:41:19,899 --> 00:41:22,260
-I Bharata położył te sandały na tronie
+I Bharata położył te sandały na tronie,
 
 573
 00:41:22,380 --> 00:41:25,340
@@ -2304,7 +2304,7 @@ Lakshmana go dostrzegł i powiedział: "Popatrz na to!
 On przychodzi teraz, żeby cię zaatakować. Wyrzucił cię z królestwa
 
 577
-00:41:36,980 --> 00:41:38,700
+00:41:36,870 --> 00:41:38,810
 i teraz przychodzi, żeby cię zaatakować".
 
 578
@@ -2357,7 +2357,7 @@ zawsze są jakieś nieporozumienia.
 
 590
 00:42:24,500 --> 00:42:27,420
-Oba typy ludzi powinny próbować się zrozumieć,
+Oba typy ludzi powinny próbować zrozumieć,
 
 591
 00:42:27,540 --> 00:42:30,540
@@ -2377,7 +2377,7 @@ Musimy mieć oba typy ludzi,
 
 595
 00:42:39,700 --> 00:42:44,700
-Ale kiedy macie do czynienia z innymi, należy iść jako jedność.
+Ale kiedy macie doczynienia z innymi, należy iść jako jedność.
 
 596
 00:42:44,820 --> 00:42:51,779
@@ -2417,7 +2417,7 @@ Oni najpierw dostrzegają te wszystkie rzeczy.
 
 605
 00:43:24,700 --> 00:43:27,795
-Nie widzą tego co macie w środku. Nie mogą
+Nie widzą tego, co macie wewnątrz. Nie mogą
 
 606
 00:43:27,800 --> 00:43:30,790
@@ -2429,7 +2429,7 @@ Więc musicie być dla nich bardzo uprzejmi. Musicie być pełni słodyczy.
 
 608
 00:43:34,580 --> 00:43:38,300
-Dostałam list, w którym ktoś powiedział że Sahaja yogini
+Dostałam list, w którym ktoś powiedział, że Sahaja yogini
 
 609
 00:43:38,420 --> 00:43:41,620
@@ -2456,7 +2456,7 @@ On siedział z tyłu, i kiedy powiedziałam: "Podejdź do przodu"
 a on nie podszedł, powiedzieliście: "Wyjdź".
 
 615
-00:43:58,577 --> 00:44:03,260
+00:43:58,460 --> 00:44:03,260
 Nie powinniście tak mówić! Pozwólcie, że Ja będę mówić. W tym momencie powinniście siedzieć cicho.
 
 616
@@ -2513,7 +2513,7 @@ macie tylko ‘formalność’,
 
 629
 00:44:54,680 --> 00:44:58,079
-które jest bardzo bezbarwnym słowem na opisanie sankoch.
+co jest bardzo bezbarwnym słowem na opisanie sankoch.
 
 630
 00:44:58,080 --> 00:45:01,910
@@ -2605,7 +2605,7 @@ i nie podoba wam się zestaw kolorów czy coś innego.
 
 652
 00:46:22,120 --> 00:46:27,079
-Dla osoby z Indii to nie byłoby odpowiednie,
+Dla osoby z Indii to nie byłoby właściwe,
 
 653
 00:46:27,199 --> 00:46:33,440
@@ -2741,7 +2741,7 @@ Nie powinniśmy mówić wszystkiego wszystkim. Nie mamy takiej potrzeby.
 
 686
 00:48:45,240 --> 00:48:49,800
-Czy powinniśmy wszystko mówić? Powiedzmy, że na przykład, w waszej pujy
+Czy powinniśmy wszystko mówić? Powiedzmy, że np. podczas waszej pujy
 
 687
 00:48:49,840 --> 00:48:52,872
@@ -2765,7 +2765,7 @@ Spójrzcie na twarz Lindy, kiedy Ja coś jej mówię! Ona wchodzi w…
 
 692
 00:49:08,199 --> 00:49:14,000
-Zatem widzicie, ta sankocha, to zrozumienie, przychodzi, kiedy kogoś kochacie i rozumiecie.
+Zatem widzicie, ta sankocha, to zrozumienie przychodzi, kiedy kogoś kochacie i rozumiecie.
 
 693
 00:49:14,120 --> 00:49:17,390
@@ -2869,14 +2869,14 @@ Ale jeśli będziecie mieć problemy z prawym sercem, niewątpliwie będziecie m
 
 718
 00:50:39,199 --> 00:50:42,800
-A więc postawa wobec waszego ojca. Słyszałam jak ludzie
+A więc postawa wobec waszego ojca. Słyszałam, jak ludzie
 
 719
 00:50:42,920 --> 00:50:46,480
 odnoszą się do swoich ojców w bardzo dziwny sposób.
 
 720
-00:50:46,600 --> 00:50:48,920
+00:50:46,490 --> 00:50:48,920
 Nie możecie tak rozmawiać ze swoim ojcem. Do Mnie
 
 721
@@ -2885,11 +2885,11 @@ też odnoszą się bardzo niegrzecznie.
 
 722
 00:50:50,840 --> 00:50:54,840
-Mam na myśli, że widywałam ludzi, Sahaja yoginów, co jest szokujące czasami,
+Np. widywałam ludzi, Sahaja yoginów, i czasem jest to szokujące,
 
 723
 00:50:54,960 --> 00:51:00,680
-na bardzo pospolitym poziomie, nie mającym nic wspólnego z protokołem. Wtedy
+że są na bardzo pospolitym poziomie, nie mającym nic wspólnego z protokołem. Wtedy
 
 724
 00:51:00,690 --> 00:51:02,910
@@ -2901,11 +2901,11 @@ Więc trzeba nauczyć się
 
 726
 00:51:05,560 --> 00:51:10,800
-tej sankochy, 'maryady', to znaczy granic w waszych relacjach.
+tej sankochy - 'maryady', to znaczy granic w waszych relacjach.
 
 727
 00:51:10,850 --> 00:51:12,990
-Widzicie, to że się kochamy, nie oznacza,
+Jeśli się kochamy, to nie oznacza,
 
 728
 00:51:13,000 --> 00:51:18,079
@@ -2913,7 +2913,7 @@ Widzicie, to że się kochamy, nie oznacza,
 
 729
 00:51:18,199 --> 00:51:21,600
-To do jakiego stopnia się kochamy nie znaczy,
+To, do jakiego stopnia się kochamy nie znaczy,
 
 730
 00:51:21,720 --> 00:51:25,520
@@ -2921,7 +2921,7 @@ To do jakiego stopnia się kochamy nie znaczy,
 
 731
 00:51:25,640 --> 00:51:30,880
-żeby przekraczać granice piękna i prywatności drugiego człowieka.
+by przekraczać granice piękna i prywatności drugiego człowieka.
 
 732
 00:51:31,240 --> 00:51:34,240
@@ -2933,7 +2933,7 @@ to nie jest styl możliwy w Sahaja Yodze. Nie muszę wam tego mówić,
 
 734
 00:51:37,640 --> 00:51:39,350
-ale musicie pukać jeśli trzeba.
+ale musicie pukać, jeśli trzeba.
 
 735
 00:51:39,360 --> 00:51:41,079
@@ -2941,7 +2941,7 @@ I pukać tylko wtedy, kiedy trzeba!
 
 736
 00:51:41,199 --> 00:51:46,360
-Ciągle pukać albo trzymać się kogoś kurczowo cały czas, to nie jest właściwe.
+Ciągle pukać, albo trzymać się kogoś kurczowo cały czas, to nie jest właściwe.
 
 737
 00:51:46,480 --> 00:51:50,560
@@ -2953,7 +2953,7 @@ Więc istnieje tradycja kultury, której musimy się nauczyć od Shri Ramy.
 
 739
 00:51:58,040 --> 00:52:01,790
-On jest znany ze swojej sankochy, On zawsze wie co powiedzieć a czego nie.
+On jest znany ze swojej sankochy, On zawsze wie, co powiedzieć a czego nie.
 
 740
 00:52:01,800 --> 00:52:07,680
@@ -3033,23 +3033,23 @@ będąc współczującym dla robaków i komarów.
 
 759
 00:53:23,520 --> 00:53:30,080
-Tak samo  we wszystkim powinna być 'rozwaga serca'.
+Tak samo, we wszystkim powinna być 'rozwaga serca'.
 
 760
 00:53:30,200 --> 00:53:34,520
-Nie ma w języku angielskim słowa na 'rozwagę serca',
+Nie ma w języku angielskim słowa na 'rozwaga serca',
 
 761
 00:53:34,640 --> 00:53:37,760
-która jest 'maryadą' [granicą].
+które jest 'maryadą' [granicą].
 
 762
 00:53:37,880 --> 00:53:47,720
-rozwagę serca oznacza, że się rozumie, powiedzmy,
+Rozwaga serca oznacza, że się rozumie,
 
 763
 00:53:47,730 --> 00:53:50,950
-np. to co osiągacie przez bycie nieuprzejmym dla swojego ojca,
+np. to, co osiągacie przez bycie nieuprzejmym dla swojego ojca?
 
 764
 00:53:50,960 --> 00:53:54,520
@@ -3065,7 +3065,7 @@ Bo co się dzieje w konsekwencji?
 
 767
 00:54:03,280 --> 00:54:08,079
-Przypuśćmy że jesteście synem ojca, który robi coś złego
+Przypuśćmy, że jesteście synem ojca, który robi coś złego
 
 768
 00:54:08,199 --> 00:54:11,079
@@ -3073,7 +3073,7 @@ a wy jesteście mu posłuszni,
 
 769
 00:54:11,199 --> 00:54:16,360
-wtedy on zawsze będzie się bał, że straci was, jeśli zawiedzie wasze ideały.
+wtedy on zawsze będzie się bał, że was straci, jeśli zawiedzie wasze ideały.
 
 770
 00:54:17,080 --> 00:54:21,440
@@ -3093,23 +3093,23 @@ Nie łamiecie swoich zasad, nic takiego.
 
 774
 00:54:35,200 --> 00:54:38,560
-W życiu codziennym, na przykład, kiedy wasz ojciec siedzi,
+W życiu codziennym, na przykład, kiedy wasz ojciec siedzi -
 
 775
 00:54:38,680 --> 00:54:40,790
-w Indiach, za żadną cenę nie usiądziecie,
+mam na myśli - w Indiach,
 
 776
 00:54:40,800 --> 00:54:44,600
-zanim ojciec nie usiądzie, Zanim on nie powie wam
+nie usiądziecie, zanim ojciec nie usiądzie, za żadną cenę.
 
 777
 00:54:44,610 --> 00:54:47,350
-dziesięć razy, wy nie usiądziecie przed nim.
+Zanim nie powie wam dziesięć razy, wy nie usiądziecie
 
 778
 00:54:47,360 --> 00:54:51,079
-Wiecie, to pomaga. To ma wpływ na ojca,
+przed nim. Wiecie, to pomaga. To ma wpływ na ojca,
 
 779
 00:54:51,199 --> 00:54:56,540
@@ -3121,11 +3121,11 @@ Więc to poczucie szacunku również pochodzi z serca.
 
 781
 00:55:00,400 --> 00:55:07,600
-To jest możliwe tylko wtedy, kiedy znacie maryady w swoim sercu -
+To jest możliwe tylko wtedy, kiedy znacie maryady poprzez swoje serce -
 
 782
-00:55:07,720 --> 00:55:11,079
-"jak daleko się posunąć". Po co być nieuprzejmym dla swojego ojca?
+00:55:07,620 --> 00:55:11,180
+"na ile można sobie pozwolić". Po co być nieuprzejmym dla swojego ojca?
 
 783
 00:55:11,199 --> 00:55:15,000
@@ -3133,7 +3133,7 @@ Nie ma żadnej potrzeby. W żadnym wypadku. Po co?
 
 784
 00:55:15,120 --> 00:55:17,560
-Albo wobec twojego męża czy twojej żony?
+Albo wobec swojego męża czy swojej żony?
 
 785
 00:55:17,570 --> 00:55:20,390
@@ -3169,7 +3169,7 @@ Osoba o niższym statusie musi znieść surowość starszych,
 
 793
 00:55:45,680 --> 00:55:48,040
-jeśli chcą się poprawić. W końcu to nic takiego,
+jeśli chce się poprawić. W końcu to nic takiego,
 
 794
 00:55:48,058 --> 00:55:50,133
@@ -3189,7 +3189,7 @@ co powiedział Chrystus, że trzeba nadstawić drugi policzek.
 
 798
 00:56:00,520 --> 00:56:05,400
-Użyjcie rozwagi serca, żeby wiedzieć, jak daleko się posunąć z daną osobą.
+Użyjcie rozwagi serca, żeby wiedzieć, na ile można sobie pozwolić wobec danej osoby.
 
 799
 00:56:06,160 --> 00:56:10,600
@@ -3217,7 +3217,7 @@ Próbuję wszystkiego, żeby ich uratować, ale widuję,
 
 805
 00:56:31,199 --> 00:56:34,640
-że ci którzy są nieposłuszni, którzy Mnie nie słuchają,
+że ci, którzy są nieposłuszni, którzy Mnie nie słuchają,
 
 806
 00:56:34,650 --> 00:56:37,830
@@ -3237,7 +3237,7 @@ Widzę, że w jedną sekundę oni schodzą kilkaset stóp w dół. To prawda.
 
 810
 00:56:49,080 --> 00:56:53,079
-Ponieważ brakuje tej maryady,  tej rozwagi w tym,
+Ponieważ brakuje tej maryady, tej rozwagi w tym,
 
 811
 00:56:53,080 --> 00:56:56,910
@@ -3249,7 +3249,7 @@ siebie  wychowywać.
 
 813
 00:56:58,640 --> 00:57:02,680
-Edukacja Shri Ramay, jak wam powiedziałam, polegała na tym,
+Edukacja Shri Ramy, jak wam powiedziałam, polegała na tym,
 
 814
 00:57:02,800 --> 00:57:06,079
@@ -3277,11 +3277,11 @@ Powiedzmy, że macie pszenicę i ją rozsypiecie,
 
 820
 00:57:25,240 --> 00:57:29,120
-ona będzie wszędzie. Przylecą ptaki i ją zjedzą.
+ona będzie wszędzie. Przylecą ptaki i ją zjedzą,
 
 821
 00:57:29,240 --> 00:57:32,920
-Będzie po niej. Ale jeśli włożycie ją do worka,
+będzie po niej. Ale jeśli włożycie ją do worka,
 
 822
 00:57:33,040 --> 00:57:39,720
@@ -3289,15 +3289,15 @@ będzie miała wagę, będzie miała rozmiar, zwiększy się jej wysokość
 
 823
 00:57:39,840 --> 00:57:43,240
-i będzie użyteczna. Będzie miała szacunek.
+i będzie użyteczna. Będzie godna szacunku.
 
 824
 00:57:43,360 --> 00:57:47,200
-Ale rzecz, która jest wszędzie rozsypana, która nie ma żadnej maryady,
+Ale coś, co jest wszędzie rozsypane, co nie ma żadnej maryady,
 
 825
 00:57:47,320 --> 00:57:49,079
-nigdy nie będzie szanowana.
+nigdy nie będzie szanowane.
 
 826
 00:57:49,199 --> 00:57:55,000
@@ -3357,7 +3357,7 @@ Można tego uniknąć, jeśli duża ilość ludzi przyjdzie do Sahaja Yogi.
 
 840
 00:58:48,720 --> 00:58:51,960
-Ale jeśli nie przyjdą to będzie trzecia wojna światowa
+Ale jeśli nie przyjdą, to będzie trzecia wojna światowa
 
 841
 00:58:52,080 --> 00:58:55,079
@@ -3389,11 +3389,11 @@ Więc musimy mieć pełne pojęcie, jak rządzić zgodnie z zasadami Shri Ramy.
 
 848
 00:59:16,640 --> 00:59:21,000
-Musimy też zajść daleko w stosunku do samych siebie,, wytrenować się,
+Musimy też zajść daleko w stosunku do samych siebie, wytrenować się,
 
 849
 00:59:21,120 --> 00:59:24,240
-wychować siebie, pozbyć się naszych ego
+wychować siebie, pozbyć się swojego ego
 
 850
 00:59:24,360 --> 00:59:27,520
@@ -3409,15 +3409,15 @@ To jest bardzo duże zadanie, to wielkie zadanie i czasami może pomyślicie:
 
 853
 00:59:34,772 --> 00:59:37,400
-Ale Ja myślę, że jesteście ludźmi wybranymi do tego
+Ale Ja myślę, że jesteście ludźmi wybranymi do tego,
 
 854
 00:59:37,520 --> 00:59:39,880
-i że musicie wziąć się za to, i to wypracować.
+i że musicie wziąć się za to i to wypracować.
 
 855
 00:59:40,000 --> 00:59:44,080
-Więc musimy się wytrenować, żeby najpierw dobrze rządzić samymi sobą
+Więc musimy się wytrenować, żeby najpierw dobrze rządzić samym sobą
 
 856
 00:59:44,090 --> 00:59:46,079
@@ -3453,11 +3453,11 @@ za dużo rozmawiacie, jeśli jesteście nieuprzejmi,
 
 864
 01:00:11,775 --> 01:00:15,078
-po prostu powiedzcie: "Nie powiem ani słowa od rana do wieczora”.
+po prostu powiedzcie: "Nie powiem ani słowa od rana do wieczora".
 
 865
 01:00:15,199 --> 01:00:19,920
-Bądźcie w ciszy. Więc tapah, czas pokuty
+Bądźcie w ciszy. Więc 'tapah', czas pokuty
 
 866
 01:00:20,080 --> 01:00:21,560
@@ -3493,7 +3493,7 @@ właściwości serca, o których wam powiedziałam.
 
 874
 01:00:52,960 --> 01:00:56,720
-I muszę wam pogratulować artykułu, który napisaliście do “Blossom Time”.
+I muszę wam pogratulować artykułu, który napisaliście do "Blossom Time".
 
 875
 01:00:56,840 --> 01:00:59,680
@@ -3533,11 +3533,11 @@ Są piękne, jak widać, choć jeszcze wstrząśnięte,
 
 884
 01:01:27,240 --> 01:01:30,640
-ponieważ zabrałam je spod waszej czułej troski pod Moją,
+ponieważ zabrałam je spod waszej czułej troski pod moją,
 
 885
 01:01:30,760 --> 01:01:33,360
-a Moja obecnie jest nieco rozluźniona.
+a moja obecnie jest nieco rozluźniona.
 
 886
 01:01:33,480 --> 01:01:35,600
@@ -3549,11 +3549,11 @@ Jestem tego pewna. Zrobiłam dla nich bandhan.
 
 888
 01:01:42,300 --> 01:01:45,720
-Shri Mataji:  Znaczy, że chcesz być bardziej inteligentny?
+Shri Mataji: Znaczy, że chcesz być bardziej inteligentny?
 
 889
 01:01:45,739 --> 01:01:48,079
-Yogin: Nie,  tylko pozbyć się śmieci, Matko.
+Yogin: Nie, tylko pozbyć się śmieci, Matko.
 
 890
 01:01:48,199 --> 01:01:50,640
@@ -3561,15 +3561,15 @@ Shri Mataji: Czy tych śmieci, które są w głowie?
 
 891
 01:01:50,650 --> 01:01:53,110
-Najlepiej jest to powiedziane w sanskrycie
+Najlepiej jest to powiedziane w sanskrycie:
 
 892
 01:01:53,120 --> 01:01:56,080
-“Ya neti neti wachane nigamor avochus”
+"Ya neti neti wachane nigamor avochus"
 
 893
 01:01:56,200 --> 01:02:00,400
-co oznacza: Cały czas powtarzaj swojemu umysłowi: “nie to, nie to, nie to”.
+co oznacza: Cały czas powtarzaj swojemu umysłowi: "nie to, nie to, nie to".
 
 894
 01:02:00,520 --> 01:02:03,240
@@ -3577,7 +3577,7 @@ Jakakolwiek myśl przyjdzie ci do głowy, powtarzaj:
 
 895
 01:02:03,360 --> 01:02:07,320
-“to nie ta myśl, nie ta, nie ta, nie ta”.
+"to nie ta myśl, nie ta, nie ta, nie ta".
 
 896
 01:02:09,000 --> 01:02:11,560
@@ -3605,7 +3605,7 @@ Więc, aby pozostawać w centrum, to, co musicie zrobić,
 
 902
 01:02:30,280 --> 01:02:33,160
-to powtarzać “nie ta myśl” i “nie ta myśl”.
+to powtarzać "nie ta myśl" i "nie ta myśl".
 
 903
 01:02:33,280 --> 01:02:36,560
@@ -3613,7 +3613,7 @@ Wtedy będziecie głębokimi Sahaja yoginami.
 
 904
 01:02:36,680 --> 01:02:40,120
-To jest najlepsze, ponieważ intelekt jest niczym  -  tzw. “intelekt”.
+To jest najlepsze, ponieważ intelekt jest niczym  -  tzw. "intelekt".
 
 905
 01:02:40,240 --> 01:02:45,840
@@ -3645,11 +3645,11 @@ tak jak Adi Shankaracharya to przedstawił:
 
 912
 01:03:14,000 --> 01:03:15,800
-“Na yoge, na sankhya”,
+"Na yoge, na sankhya",
 
 913
 01:03:15,920 --> 01:03:18,079
-Wszystkie  te rzeczy są do niczego.
+wszystkie te rzeczy są do niczego.
 
 914
 01:03:18,199 --> 01:03:22,520
@@ -3657,15 +3657,15 @@ Tylko służba waszej Matce jest najlepszą drogą.
 
 915
 01:03:22,640 --> 01:03:26,960
-Zapytajcie swojego intelektu, “Czy służy on mojej Matce?”
+Zapytajcie swojego intelektu, "Czy służy on mojej Matce?"
 
 916
 01:03:27,760 --> 01:03:31,920
-Intelekt wam powie, tzw. intelekt ludzki,
+Intelekt wam podpowie - tzw. intelekt ludzki -
 
 917
 01:03:32,040 --> 01:03:37,000
-aby się oszukiwać. On was oszukuje. Przez niego uciekacie. On was oszukuje.
+aby oszukiwać samego siebie. On was oszukuje. Przez niego uciekacie. On was oszukuje.
 
 918
 01:03:37,120 --> 01:03:39,680
@@ -3673,7 +3673,7 @@ Cały czas intelekt jest aktywny w powtarzaniu:
 
 919
 01:03:39,800 --> 01:03:43,079
-“To może być dobre, tamto może być dobre“ - zrozumcie.
+"To może być dobre, tamto może być dobre" - zrozumcie.
 
 920
 01:03:43,199 --> 01:03:46,200
@@ -3689,23 +3689,23 @@ To jest wybór. Ego lubi wybory, zrozumcie.
 
 923
 01:03:53,199 --> 01:03:57,080
-Więc “to jest dobre, to jest złe, tego nie lubię”
+Więc "to jest dobre, to jest złe, tego nie lubię"
 
 924
 01:03:57,090 --> 01:04:00,030
-Wszelki “ja” biznes, powinien być porzucony,
+Wszelki "ja" biznes, powinien być porzucony,
 
 925
 01:04:00,040 --> 01:04:02,240
-i powiedzcie tak: “Nie to, nie to, nie to“.
+i powiedzcie tak: "Nie to, nie to, nie to".
 
 926
 01:04:04,000 --> 01:04:08,840
-“My“ powinno nadejść, “my” a nie “ja”.
+"My" powinno nadejść, "my" a nie "ja".
 
 927
 01:04:08,960 --> 01:04:13,680
-Teraz nie jesteście już “ja” , teraz jesteście “my”.
+Teraz nie jesteście już "ja", teraz jesteście "my".
 
 928
 01:04:17,040 --> 01:04:18,970
@@ -3781,7 +3781,7 @@ czystego intelektu Boga.
 
 946
 01:05:47,560 --> 01:05:53,199
-I to o czym dziś mówię, to intelekt serca.
+I to, o czym dziś mówię, to intelekt serca.
 
 947
 01:05:54,920 --> 01:05:58,880
@@ -3821,7 +3821,7 @@ Jak poprzez inteligencję wytłumaczycie przebudzenie się Kundalini?
 
 956
 01:06:39,090 --> 01:06:42,710
-Zostawcie w spokoju Kundalini. Jak możecie wytłumaczyć
+Zostawmy w spokoju Kundalini. A jak możecie wytłumaczyć
 
 957
 01:06:42,720 --> 01:06:46,360
@@ -3829,7 +3829,7 @@ kiełkowanie nasionka? Inteligencją, poprzez intelekt?
 
 958
 01:06:46,480 --> 01:06:56,240
-Wytłumaczyć oznacza wyjaśnić dlaczego, jak.
+Wytłumaczyć oznacza wyjaśnić: dlaczego, jak.
 
 959
 01:06:56,400 --> 01:06:59,080
@@ -3841,11 +3841,11 @@ którą widzieliście tysiąc jeden razy.
 
 961
 01:07:03,760 --> 01:07:10,520
-Jak to wytłumaczycie? Intelekt mówi:  “ja nie potrafię wytłumaczyć”.
+Jak to wytłumaczycie? Intelekt mówi: "Ja nie potrafię wytłumaczyć".
 
 962
 01:07:12,200 --> 01:07:17,240
-Bardzo ograniczona rzecz. To jest ego, nic innego jak ego.
+[On jest] bardzo ograniczony. To jest ego, nic innego jak ego.
 
 963
 01:07:20,880 --> 01:07:26,000
@@ -3853,15 +3853,15 @@ Kiedy pewnego razu pozbędziecie się go, wtedy zacznie pojawiać się czysty in
 
 964
 01:07:26,120 --> 01:07:30,079
-Zauważcie pana Yoga Singh, będziecie zdumieni, widzicie, on jest po prostu...
+Zauważcie pana Yoga Singh, będziecie zdumieni, on jest po prostu...
 
 965
 01:07:30,080 --> 01:07:33,990
-myślę, że on przyszedł do nas jako absolutny buc. I zmienił się tak bardzo.
+on przyszedł do nas jako absolutny buc. I zmienił się tak bardzo.
 
 966
 01:07:34,000 --> 01:07:37,079
-Teraz on się wypowiada, mówię wam, wypowiada się jak święty.
+Teraz on się wypowiada... wypowiada się jak święty.
 
 967
 01:07:37,199 --> 01:07:39,320
@@ -3877,7 +3877,7 @@ On czasami tak dobrze mówi, że aż chcę go cytować
 
 970
 01:07:46,843 --> 01:07:50,843
-Byłam zdumiona jak on zaczął mówić w ten sposób.
+Byłam zdumiona, jak on zaczął mówić w ten sposób.
 
 971
 01:07:54,960 --> 01:07:58,079
@@ -3897,19 +3897,19 @@ Odnieście się do Ducha, a będziecie zdumieni.
 
 975
 01:08:13,840 --> 01:08:19,040
-On tak mi powiedział: “Jest masa groteskowych ludzi na tym świecie.”
+On tak Mi powiedział: "Jest masa groteskowych ludzi na tym świecie".
 
 976
 01:08:19,160 --> 01:08:20,880
-Zapytałam: “Skąd to wiesz?”
+Zapytałam: "Skąd to wiesz?"
 
 977
 01:08:21,000 --> 01:08:25,199
-Odpowiedział: “Ponieważ nie chcą wiedzieć niczego o Tobie.
+Odpowiedział: "Ponieważ nie chcą wiedzieć niczego o Tobie.
 
 978
 01:08:27,560 --> 01:08:32,320
-Ja nie wiem po co tu są i dlaczego musiałaś ich stworzyć?”
+Ja nie wiem, po co tu są i dlaczego musiałaś ich stworzyć?"
 
 979
 01:08:34,640 --> 01:08:38,840
@@ -3920,8 +3920,8 @@ Widzicie, on był człowiekiem z tyloma bucami w swojej głowie.
 On jest tak pięknym człowiekiem, mówię wam.
 
 981
-01:08:46,199 --> 01:08:48,560
-On tak powiedział: “Twój służący jest w porządku,
+01:08:46,199 --> 01:08:48,670
+On tak powiedział: "Twój służący jest w porządku,
 
 982
 01:08:48,680 --> 01:08:53,079
@@ -3937,7 +3937,7 @@ On musi być bardziej oczyszczoną osobą. Ale jego mózg czysty nie jest.
 
 985
 01:09:04,400 --> 01:09:09,199
-Jego serce jest w porządku, ale mózg wymaga oczyszczenia”.
+Jego serce jest w porządku, ale mózg wymaga oczyszczenia".
 
 986
 01:09:10,199 --> 01:09:12,199
@@ -3981,7 +3981,7 @@ Jeśli możecie to osiągnąć, wtedy staniecie się Shri Ramą.
 
 996
 01:09:51,199 --> 01:09:55,080
-Więc dzisiaj jest wielki dzień. Cieszę się że wszyscy mogliście przyjść.
+Więc dzisiaj jest wielki dzień. Cieszę się, że wszyscy mogliście przyjść.
 
 997
 01:09:55,200 --> 01:09:58,920
@@ -4021,4 +4021,5 @@ I czy macie coś ze Shri Ramą?
 
 1006
 01:10:54,000 --> 01:10:59,840
-Gavin Brown czyta rozdział 86 z “Ramayany of Valmiki”,
+Gavin Brown czyta rozdział 86 z "Ramayany" napisanej przez Valmiki.
+
