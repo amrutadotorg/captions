@@ -214,7 +214,7 @@ unohdatte ajatukset ulkoisista loistoistanne.
 
 53
 00:05:17,042 --> 00:05:21,751
-Ihminen, jonka luonne on alhainen,
+Ihminen, joka on luonteeltaan kypsymätön,
 
 54
 00:05:21,959 --> 00:05:24,042
@@ -246,7 +246,7 @@ He ovat kitsaita
 
 61
 00:05:41,709 --> 00:05:45,334
-ja huolissaan jopa yhdestä neulan takia.
+ja huolissaan jopa yhden neulan takia.
 
 62
 00:05:45,542 --> 00:05:49,250
@@ -657,7 +657,7 @@ Kun kasvatte, teidän on päästävä irti tällaisesta.
 158
 00:12:35,876 --> 00:12:40,918
 Kun meditoitte, se on
-  henkilökohtainen matka kohti Jumalaa.
+  henkilökohtainen matka kohti Jumalaa,
 
 159
 00:12:41,125 --> 00:12:44,876
@@ -710,7 +710,7 @@ Siellä ei ole ketään muuta, olette yksin,
 
 171
 00:13:32,292 --> 00:13:35,834
-ja kun tulette siihen valtamereen,
+ja kun pääsette siihen valtamereen,
 
 172
 00:13:36,042 --> 00:13:39,042
@@ -748,7 +748,7 @@ Teidän pitää olla valmiita tälle matkalle.
 
 180
 00:14:33,042 --> 00:14:42,125
-Tämä matka tapahtuu ainoastaan meditaatiossanne,
+Tämä matka tapahtuu yksin meditaatiossa,
 
 181
 00:14:42,334 --> 00:14:44,375
