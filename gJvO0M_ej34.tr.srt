@@ -400,7 +400,7 @@ Ve Batıda, insanların çocukları hakkında
 
 101
 00:05:51,196 --> 00:05:54,475
-Hiç kimse onlara bir şey söylemeye cüret edemez. 
+Hiç kimse onlara bir şey söylemeye cüret edemez.
 Ama diğer taraftan da,
 
 102
@@ -794,7 +794,7 @@ ve kendi kızını azarlıyordu.
 
 199
 00:10:51,993 --> 00:10:53,826
-Bunun üzerine Worliker geldi ve "Lütfen azarlama.
+Bunun üzerine Worlikar geldi ve "Lütfen azarlama.
 
 200
 00:10:53,851 --> 00:10:57,225
@@ -1190,7 +1190,7 @@ Sonra, itaat etmek ve çok fazla sorgulamamak.
 
 298
 00:16:31,417 --> 00:16:33,258
-Demek istiyorum ki, burada bir çocuk vardı, 
+Demek istiyorum ki, burada bir çocuk vardı,
 bir keresinde bir
 
 299
@@ -1224,7 +1224,7 @@ sorular sormaya devam ediyorlar.
 
 306
 00:16:56,656 --> 00:17:00,364
-Size soru sormaya nasıl cüret ederler? 
+Size soru sormaya nasıl cüret ederler?
 Sizler anne babasınız.
 
 307
@@ -2422,7 +2422,7 @@ Sonuçta, bak, onlar insan ve onlar bunu yaptılar-”
 
 605
 00:34:29,211 --> 00:34:31,686
-Sonra onlara, Ben ona söyleyeceğim, 
+Sonra onlara, Ben ona söyleyeceğim,
 Ben ona söyleyeceğim, dedim.
 
 606
