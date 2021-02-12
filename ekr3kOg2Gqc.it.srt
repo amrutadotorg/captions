@@ -1560,7 +1560,7 @@ Questo è importante.
 
 315
 00:20:46,384 --> 00:20:49,465
-Bene, chi è venuto per la prima 
+Bene, chi è venuto per la prima
 volta... Sì?
 
 316
@@ -2160,7 +2160,7 @@ Un po’, un poco.
 436
 00:33:59,919 --> 00:34:04,409
 Meglio. [Warren: “Va meglio, si
-è liberato. Va benissimo…”].
+è liberato. Va benissimo”].
 
 437
 00:34:06,015 --> 00:34:12,758
