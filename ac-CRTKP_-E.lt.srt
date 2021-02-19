@@ -1,21 +1,21 @@
-1
+﻿1
 00:00:38,959 --> 00:00:41,709
 Atsiprašau, kad pavėlavau.
 
 2
-00:00:41,750 --> 00:00:49,000
-Aš nežinojau, kad ši programa tokioje gražioje vietoje kaip ši.
+00:00:41,751 --> 00:00:49,000
+Nežinojau, kad ši programa - tokioje gražioje vietoje kaip ši.
 
 3
-00:00:56,750 --> 00:01:04,500
+00:00:56,751 --> 00:01:04,501
 Čia jūs matote nuostabų Mikelandželo paveikslą,
 
 4
-00:01:06,291 --> 00:01:16,417
+00:01:06,292 --> 00:01:16,417
 išreiškiantį Dievo, jūsų Tėvo, troškimą jus išgelbėti
 
 5
-00:01:17,917 --> 00:01:23,625
+00:01:17,918 --> 00:01:23,626
 ir jums padėti. Ir tai vyksta.
 
 6
@@ -23,16 +23,16 @@ ir jums padėti. Ir tai vyksta.
 Vokietijoje mes išgyvenome labai agresyvius įvykius,
 
 7
-00:01:51,291 --> 00:02:06,750
+00:01:51,292 --> 00:02:06,751
 ir tai sukėlė niokojantį efektą visame Vakarų pasaulyje.
 
 8
-00:02:07,208 --> 00:02:11,000
+00:02:07,209 --> 00:02:11,000
 Buvo sunaikinta vertybių sistema,
 
 9
 00:02:11,417 --> 00:02:17,000
-sutrikdyta dharmos idėja,
+sutrikdyta dharmos [dorovės] idėja,
 
 10
 00:02:18,417 --> 00:02:22,417
@@ -43,15 +43,15 @@ moterys pradėjo elgtis kaip vyrai,
 ir žuvo tiek daug žmonių.
 
 12
-00:02:29,333 --> 00:02:32,417
+00:02:29,334 --> 00:02:32,417
 Žuvo labai jauni žmonės, labai labai jauni.
 
 13
-00:02:32,625 --> 00:02:36,417
+00:02:32,626 --> 00:02:36,417
 Neišsipildė nė vienas jų troškimas,
 
 14
-00:02:36,625 --> 00:02:52,625
+00:02:36,626 --> 00:02:52,626
 gyvenime liko tik karas.
 
 15
@@ -59,7 +59,7 @@ gyvenime liko tik karas.
 Tai buvo tam tikra neapykantos banga,
 
 16
-00:03:02,417 --> 00:03:06,500
+00:03:02,417 --> 00:03:06,501
 naikinanti visus subtilius dalykus.
 
 17
@@ -68,66 +68,66 @@ Kai gamta atsikvėpia arba supyksta,
 
 18
 00:03:15,125 --> 00:03:21,000
-ji sunaikina tiktai paviršių,
+ji sunaikina tik paviršių,
 
 19
 00:03:22,125 --> 00:03:25,834
-bet kai žmonės pradeda naikinti,
+o kai žmonės pradeda naikinti,
 
 20
-00:03:26,000 --> 00:03:34,291
-jie sunaikina netgi subtiliuosius dalykus, tokius kaip vertybių sistemą,
+00:03:26,000 --> 00:03:34,292
+jie sunaikina netgi subtiliuosius dalykus, tokius kaip vertybių sistema,
 
 21
-00:03:34,625 --> 00:03:41,917
-jūsų būdą, tyrumą, nekaltumą, pakantumą.
+00:03:34,626 --> 00:03:41,918
+jūsų būdas, tyrumas, nekaltumas, pakantumas.
 
 22
-00:03:47,500 --> 00:03:50,834
+00:03:47,501 --> 00:03:50,834
 Taigi dabar karas vyksta subtiliajame lygmenyje.
 
 23
-00:03:52,291 --> 00:03:55,375
-Dabar mes turime suvokti,
+00:03:52,292 --> 00:03:55,375
+Dabar turime suvokti,
 
 24
-00:03:55,625 --> 00:04:02,625
-kad visi šie dalykai atnešė triuškinančių pasikeitimų Vakarams,
+00:03:55,626 --> 00:04:02,626
+kad visa tai atnešė triuškinančių pasikeitimų Vakarams,
 
 25
-00:04:04,000 --> 00:04:07,750
+00:04:04,000 --> 00:04:07,751
 vakarietiškai asmenybei.
 
 26
-00:04:08,709 --> 00:04:18,750
-Pirmiausia, ką reikia padaryti, tai atgaivinti ją,
+00:04:08,709 --> 00:04:18,751
+Pirmiausia, ką reikia padaryti, tai sutvarkyti ją,
 
 27
-00:04:21,000 --> 00:04:28,458
+00:04:21,000 --> 00:04:28,459
 tvirtai pastatyti, priversti ją stovėti ant savo kojų.
 
 28
 00:04:30,709 --> 00:04:37,125
-Kadangi žmonės neteko savo individualybės, savo tradicijų,
+Kadangi žmonės neteko savo tapatybės, savo tradicijų,
 
 29
-00:04:39,625 --> 00:04:42,542
-jie neturėjo savo inkaro, šaknų
+00:04:39,626 --> 00:04:42,542
+jie neturėjo savo pagrindo, šaknų
 
 30
 00:04:44,125 --> 00:04:49,417
 ir priėmė viską,
 
 31
-00:04:49,500 --> 00:04:58,999
+00:04:49,501 --> 00:04:59,000
 kas buvo pateikta kaip intelektualinė patirtis.
 
 32
-00:05:04,208 --> 00:05:07,500
+00:05:04,209 --> 00:05:07,501
 Moterys tapo labai nepriklausomos
 
 33
-00:05:07,542 --> 00:05:12,917
+00:05:07,542 --> 00:05:12,918
 ir galvojo, kad pačios gali išspręsti savo problemas.
 
 34
@@ -136,70 +136,70 @@ Jos manė, kad gali tapti tokios kaip vyrai.
 
 35
 00:05:20,000 --> 00:05:25,000
-Problema išaugo,
+Problema paūmėjo,
 
 36
-00:05:30,333 --> 00:05:32,208
+00:05:30,334 --> 00:05:32,209
 nes moteris yra moteris,
 
 37
-00:05:32,625 --> 00:05:37,083
-ir joje tik labai maža dalis yra to, ką galime vadinti „vyru“.
+00:05:32,626 --> 00:05:37,083
+ir joje tik nedaug yra to, ką galime vadinti „vyru“.
 
 38
 00:05:38,000 --> 00:05:44,417
-Kai ji bando paneigti tai, ką turi,
+Bandydama paneigti tai, ką turi,
 
 39
-00:05:44,999 --> 00:05:49,000
+00:05:45,000 --> 00:05:49,000
 ir vystyti tai, ko turi savyje labai nedaug,
 
 40
-00:05:50,417 --> 00:05:54,500
-tada ji tampa labai juokinga.
+00:05:50,417 --> 00:05:54,501
+ji tampa labai juokinga.
 
 41
-00:05:55,917 --> 00:06:00,000
-Bet ji gali būti apsėsta daugybės mirusių vyrų,
+00:05:55,918 --> 00:06:00,000
+Tačiau ją gali apsėsti daugybė mirusių vyrų,
 
 42
-00:06:02,208 --> 00:06:10,125
+00:06:02,209 --> 00:06:10,125
 jos troškimas tapti vyru gali pritraukti daug bhutų,
 
 43
-00:06:10,625 --> 00:06:14,000
+00:06:10,626 --> 00:06:14,000
 kurie nori apsigyventi moters galvoje.
 
 44
-00:06:16,125 --> 00:06:22,625
-Ir įsiskverbę jie turi moters apdarą,
+00:06:16,125 --> 00:06:22,626
+Ir įsiskverbę jie turi moters išvaizdą,
 
 45
 00:06:24,959 --> 00:06:27,125
 bet velnio protą.
 
 46
-00:06:30,542 --> 00:06:32,999
+00:06:30,542 --> 00:06:33,000
 Moteris to nemato,
 
 47
-00:06:33,750 --> 00:06:36,709
+00:06:33,751 --> 00:06:36,709
 nes padedant blogio jėgoms
 
 48
-00:06:36,999 --> 00:06:40,083
-materialūs dalykai jai gali labai sektis.
+00:06:37,000 --> 00:06:40,083
+ji gali būti itin materialiai sėkminga.
 
 49
-00:06:41,417 --> 00:06:46,500
-Jų išvaizda gali būti geresnė. Galbūt jos gali dominuoti,
+00:06:41,417 --> 00:06:46,501
+Jos gali būti pasiturinčios. Galbūt jos gali dominuoti,
 
 50
-00:06:48,709 --> 00:06:53,917
+00:06:48,709 --> 00:06:53,918
 tapti kruopščios kaip vyrai, neabejotinai labai konkrečios,
 
 51
-00:06:56,709 --> 00:07:04,500
+00:06:56,709 --> 00:07:04,501
 tvarkingos, pedantiškos, neturinčios jokio grožio ir saldumo.
 
 52
@@ -207,40 +207,40 @@ tvarkingos, pedantiškos, neturinčios jokio grožio ir saldumo.
 Tada šios moterys galiausiai tampa vampyrėmis,
 
 53
-00:07:22,291 --> 00:07:25,333
+00:07:22,292 --> 00:07:25,334
 ir nors karas baigėsi,
 
 54
-00:07:25,333 --> 00:07:30,417
-tai veikia per vokietes moteris, aš manau.
+00:07:25,334 --> 00:07:30,417
+manau, tai veikia per vokietes moteris.
 
 55
 00:07:36,000 --> 00:07:38,709
-Aš girdėjau, kad ši ataka buvo ir ankščiau,
+Aš girdėjau, kad ši ataka vyko ir anksčiau,
 
 56
-00:07:39,750 --> 00:07:43,999
+00:07:39,751 --> 00:07:44,000
 kad buvo tokios moterys – amazonės.
 
 57
-00:07:48,917 --> 00:07:52,208
+00:07:48,918 --> 00:07:52,209
 Dabar istorija kartojasi.
 
 58
-00:07:54,208 --> 00:07:57,333
-Anądien keliavau į Miuncheną kartu su vokiete dama,
+00:07:54,209 --> 00:07:57,334
+Anądien keliavau į Miuncheną kartu su vokiete,
 
 59
-00:07:58,750 --> 00:08:02,417
-ir aš buvau nustebinta jos požiūrio,
+00:07:58,751 --> 00:08:02,417
+ir buvau nustebinta jos požiūrio,
 
 60
-00:08:02,999 --> 00:08:08,000
-nes jaučiau, kad joje vis dar gyveno nacis, mirusio nacio dvasia tūnojo joje.
+00:08:03,000 --> 00:08:08,000
+nes jaučiau, kad joje vis dar gyveno nacis, joje tūnojo mirusio nacio dvasia.
 
 61
-00:08:08,834 --> 00:08:11,917
-Ji turėjo dvigubą asmenybę: nors ji kalbėjo saldžiai,
+00:08:08,834 --> 00:08:11,918
+Ji turėjo dvigubą asmenybę: nors kalbėjo saldžiai,
 
 62
 00:08:11,959 --> 00:08:15,000
@@ -256,14 +256,14 @@ Ji labai klastingai dėstė argumentus.
 
 65
 00:08:31,417 --> 00:08:34,709
-Pirmiausia, ką jie gali padaryti, tai pasakyti,
+Pirmiausia, ką jie gali padaryti, tai pasakyti:
 
 66
-00:08:37,750 --> 00:08:42,125
-kad „mes remiame užguitus žmones, tokius kaip indai.
+00:08:37,751 --> 00:08:42,125
+„Mes remiame užguitus žmones, tokius kaip indai.
 
 67
-00:08:43,291 --> 00:08:44,959
+00:08:43,292 --> 00:08:44,959
 Indai yra arijai, mes taip pat esame arijai,
 
 68
@@ -275,31 +275,31 @@ ir esame tie, kurie simpatizuoja arijams“.
 Indai yra dvasingi žmonės,
 
 70
-00:09:00,000 --> 00:09:05,625
-todėl ir jie jaučiasi esą kaip tie indai, dėl visko, ką jūs žinote. Galite tuo patikėti?
+00:09:00,000 --> 00:09:05,626
+todėl ir jie dėl visko jaučiasi esą kaip tie indai. Galite tuo patikėti?
 
 71
-00:09:08,500 --> 00:09:13,417
-Gyvenimo kokybė turi pagerėti, tai svarbiausia.
+00:09:08,501 --> 00:09:13,417
+Svarbiausia – turi pagerėti gyvenimo kokybė.
 
 72
-00:09:15,500 --> 00:09:20,834
-Vyro savybės skiriasi nuo moters savybių,
+00:09:15,501 --> 00:09:20,834
+Skiriasi vyro ir moter savybės Vyro savybės,
 
 73
-00:09:20,999 --> 00:09:23,083
-jau sakiau jums daugelį kartų.
+00:09:21,000 --> 00:09:23,083
+sakiau jums daug kartų.
 
 74
 00:09:24,709 --> 00:09:29,709
 Ir jeigu moterys bando tapti vyriškos,
 
 75
-00:09:30,917 --> 00:09:33,750
-tada jos negali pasiekti nieko tinkamo.
+00:09:30,918 --> 00:09:33,751
+tada jos negali pasiekti nieko gero.
 
 76
-00:09:33,999 --> 00:09:36,000
+00:09:34,000 --> 00:09:36,000
 Yra daug tokių.
 
 77
@@ -307,15 +307,15 @@ Yra daug tokių.
 Jūs matėte Mao žmoną.
 
 78
-00:09:41,917 --> 00:09:45,000
-Matėte ponią (skamba kaip Chanka Sheik)?
+00:09:41,918 --> 00:09:45,000
+Matėte ponią (skamba kaip Chanka Sheik).
 
 79
 00:09:45,542 --> 00:09:49,834
-Dabar ši nauja dama - Karlos...
+Dabar ši nauja dama – Karlos...
 
 80
-00:09:49,917 --> 00:09:53,542
+00:09:49,918 --> 00:09:53,542
 Jos vardas Karlos? Markos, Markos.
 
 81
@@ -323,15 +323,15 @@ Jos vardas Karlos? Markos, Markos.
 Tiek daug tokių moterų.
 
 82
-00:09:58,291 --> 00:10:02,125
+00:09:58,292 --> 00:10:02,125
 Jos viską sugadina, kai bando būti vyriškos.
 
 83
-00:10:04,500 --> 00:10:06,999
+00:10:04,501 --> 00:10:07,000
 Istorijoje buvo daug moterų.
 
 84
-00:10:07,417 --> 00:10:11,625
+00:10:07,417 --> 00:10:11,626
 Indijoje moterys gerai paruoštos,
 
 85
@@ -339,23 +339,23 @@ Indijoje moterys gerai paruoštos,
 mes turėjome tokias moteris kaip Džansi ki Rani,
 
 86
-00:10:14,208 --> 00:10:18,291
+00:10:14,209 --> 00:10:18,292
 kuri kovojo prieš britus. Ji buvo našlė.
 
 87
-00:10:18,333 --> 00:10:24,750
+00:10:18,334 --> 00:10:24,751
 Prisirišo savo vaiką ant nugaros ir kovojo su britais.
 
 88
-00:10:27,000 --> 00:10:33,333
+00:10:27,000 --> 00:10:33,334
 Sakoma, kad jos arklys iššoko iš
 
 89
-00:10:33,999 --> 00:10:37,000
+00:10:34,000 --> 00:10:37,000
 180 pėdų aukščio forto bokšto,
 
 90
-00:10:38,625 --> 00:10:40,959
+00:10:38,626 --> 00:10:40,959
 ir britai užrašė:
 
 91
@@ -363,31 +363,31 @@ ir britai užrašė:
 „Nepaisant to, kad mes suėmėme Džansi ir iškovojome pergalę,
 
 92
-00:10:45,500 --> 00:10:48,709
+00:10:45,501 --> 00:10:48,709
 tačiau šlovė priklauso Džansi ki Raki“.
 
 93
-00:10:48,999 --> 00:10:50,750
+00:10:49,000 --> 00:10:50,751
 Mes turėjome didžių moterų Indijoje.
 
 94
 00:10:50,792 --> 00:10:52,959
-Nur Džahan yra antra didi moteris, kurią mes turėjome…
+Nur Džahan yra antra didi moteris, kurią turėjome…
 
 95
 00:10:53,083 --> 00:10:56,000
 (skamba kaip Čanbebi…), Ahaljabai,
 
 96
-00:10:56,208 --> 00:11:00,000
+00:10:56,209 --> 00:11:00,000
 visgi jos visos buvo moterys, neturėjo vyriško ego.
 
 97
 00:11:02,542 --> 00:11:08,834
-Atsiradus galimybei,jos dirba kontorose kartu su vyrais,
+Atsiradus galimybei, jos dirba kontorose kartu su vyrais,
 
 98
-00:11:08,917 --> 00:11:11,750
+00:11:08,918 --> 00:11:11,751
 bet vien dėl to joms nebūtina tapti vyrais.
 
 99
@@ -395,223 +395,223 @@ bet vien dėl to joms nebūtina tapti vyrais.
 Papasakosiu savo pačios pavyzdį.
 
 100
-00:11:16,291 --> 00:11:19,500
+00:11:16,292 --> 00:11:19,501
 Aš turėjau pastatyti mūsų namus Luknau.
 
 101
-00:11:21,917 --> 00:11:27,417
+00:11:21,918 --> 00:11:27,417
 Padariau tai tikru moterišku būdu
 
 102
-00:11:27,999 --> 00:11:29,999
+00:11:28,000 --> 00:11:30,000
 ir pastačiau labai gerą namą,
 
 103
-00:11:30,000 --> 00:11:37,999
-geresnį nei bet koks vyras galėtų nupirkti, ir labai pigiai.
+00:11:30,000 --> 00:11:38,000
+geresnį nei bet koks vyras galėtų pastatyti, be to, labai pigiai.
 
 104
 00:11:39,542 --> 00:11:43,000
-Vyras veiktų kitaip: pirmiausia - surastų architektą,
+Vyras veiktų kitaip: pirmiausia – surastų architektą,
 
 105
-00:11:44,291 --> 00:11:46,000
+00:11:44,292 --> 00:11:46,000
 nueitų ir viską išmatuotų,
 
 106
-00:11:46,999 --> 00:11:49,999
+00:11:47,000 --> 00:11:50,000
 tada bandytų jame viską iš anksto sutalpinti.
 
 107
-00:11:50,417 --> 00:11:55,333
-Tada vedamas ego eitų į brangią vietą, parduotuvę,
+00:11:50,417 --> 00:11:55,334
+Tada jis, vadovaudamasis ego, eitų į brangią vietą, parduotuvę,
 
 108
-00:11:55,625 --> 00:11:59,000
+00:11:55,626 --> 00:11:59,000
 nupirktų kažką brangaus ir būtų apgautas.
 
 109
-00:12:02,959 --> 00:12:08,208
+00:12:02,959 --> 00:12:08,209
 Tada vėl dėl savo ego eitų ir pasamdytų labai brangius darbininkus
 
 110
-00:12:09,208 --> 00:12:13,417
-ir skirtų tą, kuris būtų už viską atsakingas.
+00:12:09,209 --> 00:12:13,417
+ir paskirtų tą, kuris būtų už viską atsakingas.
 
 111
-00:12:16,000 --> 00:12:18,208
-Aš padariau tai visiškai kitu būdu.
+00:12:16,000 --> 00:12:18,209
+Aš padariau tai visiškai kitaip.
 
 112
 00:12:20,000 --> 00:12:25,000
-Aš turėjau pinigų, taigi suradau,
+Turėjau pinigų, taigi suradau,
 
 113
 00:12:25,834 --> 00:12:30,250
 kas turi geriausius žmones, kas turi geriausias plytas.
 
 114
-00:12:30,999 --> 00:12:34,000
-Namas turėjo būti plytinis.
+00:12:31,000 --> 00:12:34,000
+Namas turėjo būti pastatytas iš plytų.
 
 115
 00:12:35,417 --> 00:12:37,959
 Ko dar mums reikia?
 
 116
-00:12:37,999 --> 00:12:41,834
+00:12:38,000 --> 00:12:41,834
 Matote, tai tas pats lyg moteris gamintų valgį.
 
 117
-00:12:42,500 --> 00:12:44,834
+00:12:42,501 --> 00:12:44,834
 Dar reikia smėlio, gerai.
 
 118
 00:12:45,834 --> 00:12:52,959
-Tada reikia cemento, ir jums dar reikės geležies luitų ir darbininkų.
+Tada reikia cemento, ir jums dar reikės armatūros ir darbininkų.
 
 119
 00:12:54,709 --> 00:12:58,000
-Taigi aš nedariau visko „per aplinkui“, kaip vyrai.
+Taigi, aš nedariau visko „per aplinkui“ kaip vyrai.
 
 120
-00:13:00,083 --> 00:13:06,999
-Aš suradau vyrą, kuris pardavinėjo geriausias plytas.
+00:13:00,083 --> 00:13:07,000
+Suradau vyrą, kuris pardavinėjo geriausias plytas.
 
 121
-00:13:09,917 --> 00:13:13,542
+00:13:09,918 --> 00:13:13,542
 Jis tarė: „Aš neturiu pinigų, nes privalau pastatyti šitą degimo krosnį
 
 122
-00:13:13,999 --> 00:13:16,250
+00:13:14,000 --> 00:13:16,250
 ir pripildyti ją plytų,
 
 123
-00:13:16,333 --> 00:13:20,834
+00:13:16,334 --> 00:13:20,834
 o tam reikia išankstinių pinigų“.
 
 124
-00:13:21,709 --> 00:13:25,500
-Aš atsakiau: „Gerai, aš nupirksiu visą krosnį iš tavęs, visą.
+00:13:21,709 --> 00:13:25,501
+Atsakiau: „Gerai, aš nupirksiu iš tavęs visą krosnį.
 
 125
 00:13:27,083 --> 00:13:29,083
-Kiek iš manęs paimsi?“
+Kiek tai kainuos?“
 
 126
 00:13:29,417 --> 00:13:31,125
-Jis atsakė: „Užteks penkių tūkstančių rupijų”.
+Jis atsakė: „Užteks 5000 rupijų“.
 
 127
-00:13:32,000 --> 00:13:34,625
-„Bet jei, – pasakė jis, – jei krosnis sugrius,
+00:13:32,000 --> 00:13:34,626
+Jis pasakė: „Bet jei krosnis sugrius,
 
 128
-00:13:34,834 --> 00:13:37,333
-jeigu kažkas bus negerai, ir jei plytos neišdegs,
+00:13:34,834 --> 00:13:37,334
+jei kažkas bus negerai ir plytos neišdegs,
 
 129
-00:13:37,417 --> 00:13:39,625
-tada tai bus tavo rūpestis“. Aš pasakiau: „Nesvarbu.
+00:13:37,417 --> 00:13:39,626
+tai bus tavo rūpestis“. Pasakiau: „Nesvarbu.
 
 130
-00:13:40,750 --> 00:13:42,625
-Užrašyk vieną man”.
+00:13:40,751 --> 00:13:42,626
+Užsisakau“.
 
 131
-00:13:42,999 --> 00:13:45,999
-Taigi aš nupirkau iš jo visą pabaigtą degimo krosnį, pabaigtą.
+00:13:43,000 --> 00:13:46,000
+Taigi, nupirkau iš jo visą degimo krosnį.
 
 132
-00:13:49,333 --> 00:13:54,291
+00:13:49,334 --> 00:13:54,292
 Degimo krosnis – tai toks daiktas, kur deda visas plytas, suprantate,
 
 133
-00:13:54,417 --> 00:13:58,291
+00:13:54,417 --> 00:13:58,292
 užpila purvu ir išdega jas iš apačios.
 
 134
 00:13:58,417 --> 00:14:01,834
-Kartais gali atsitikti taip, kad viskas liks sugadinta,
+Kartais gali atsitikti taip, kad viskas susigadina
 
 135
 00:14:02,834 --> 00:14:05,834
-plytos subyrės.
+ar subyra.
 
 136
-00:14:05,959 --> 00:14:08,583
-Aš pasakiau: „Darom taip. Tiktai 5000”.
+00:14:05,959 --> 00:14:08,584
+Pasakiau: „Darbuokis. Tik 5000 rupijų“.
 
 137
-00:14:11,999 --> 00:14:14,083
+00:14:12,000 --> 00:14:14,083
 Jei viskas gerai išdegta,
 
 138
-00:14:14,208 --> 00:14:17,208
+00:14:14,209 --> 00:14:17,209
 visa tai kainuotų jums ne mažiau 50 000 rupijų.
 
 139
-00:14:20,000 --> 00:14:25,041
-Tada aš nuėjau prie upės ir pasakiau:
+00:14:20,000 --> 00:14:25,042
+Tada nuėjau prie upės ir paklausiau:
 
 140
-00:14:25,208 --> 00:14:31,000
-„Už kiek viena dalis?” – taip jie vadina didelį plotą smėlio.
+00:14:25,209 --> 00:14:31,000
+„Už kiek viena dalis?” – taip jie vadina didelį smėlio plotą.
 
 141
 00:14:31,959 --> 00:14:37,542
 Jie atsakė: „Šiuo metų laiku, vasarą, labai nedaug,
 
 142
-00:14:37,999 --> 00:14:40,999
-bet žiemą bus labai daug“.
+00:14:38,000 --> 00:14:41,000
+bet žiemą bus labai brangu“.
 
 143
-00:14:41,542 --> 00:14:45,917
-Vyras būtų sutikęs, jis sakytų: „Gerai, dabar man reikia tiek, ir atneškit tai dabar.“
+00:14:41,542 --> 00:14:45,918
+Vyras būtų sutikęs, jis sakytų: „Gerai, duokit, kiek man reikia dabar,
 
 144
-00:14:45,999 --> 00:14:48,417
-Kai reikės daugiau, tada atnešit daugiau“.
+00:14:46,000 --> 00:14:48,417
+o kai prireikės daugiau, tada tiek ir pristatysit“.
 
 145
-00:14:48,500 --> 00:14:52,291
-Bet aš to nepadariau: „Vasara gražus metas,
+00:14:48,501 --> 00:14:52,292
+Bet aš pasielgiau ne taip: „Vasara – gražus metas,
 
 146
-00:14:52,333 --> 00:14:54,625
-pigiai galima gauti, kodėl nenupirkus viso?”.
+00:14:52,334 --> 00:14:54,626
+galima gauti pigiai, tad kodėl nenupirkus viso?“.
 
 147
-00:14:54,709 --> 00:14:59,999
-Taigi aš nupirkau visą dalį, visą smėlio plotą.
+00:14:54,709 --> 00:15:00,000
+Taigi išpirkau visą smėlio plotą.
 
 148
 00:15:02,125 --> 00:15:05,542
-Teisingai. Tada pradėjau ieškoti prekeivių geležimi.
+Teisingai. Tada pradėjau ieškoti geležies prekeivių.
 
 149
-00:15:05,625 --> 00:15:07,709
+00:15:05,626 --> 00:15:07,709
 Aš paklausiau: „Kaip gauti geležies?“
 
 150
-00:15:07,999 --> 00:15:10,417
-Jie atsakė: „Jūs turite užsakyti krovinį,
+00:15:08,000 --> 00:15:10,417
+Jie atsakė: „Jūs turite užsakyti krovinį.
 
 151
-00:15:10,999 --> 00:15:15,999
-jei užsakysite daug, tada mes jums parduosime gerokai pigiau.
+00:15:11,000 --> 00:15:16,000
+Jei užsakysite daugiau, parduosime jums gerokai pigiau.
 
 152
-00:15:16,750 --> 00:15:19,083
-Ir nereiks grynaisiais tiek daug mokėti“. Aš atsakiau „gerai”
+00:15:16,751 --> 00:15:19,083
+Ir nereikės tiek daug mokėti“. Sutikau
 
 153
 00:15:19,125 --> 00:15:24,125
-ir užsakiau. Taigi viskas buvo paruošta, visai kaip gaminant,
+ir užsakiau. Taigi, viskas buvo paruošta, visai kaip gaminant,
 
 154
-00:15:24,208 --> 00:15:27,000
+00:15:24,209 --> 00:15:27,000
 kai gaunama viskas, ko reikia.
 
 155
@@ -619,76 +619,76 @@ kai gaunama viskas, ko reikia.
 Tada mums reikėjo medienos.
 
 156
-00:15:29,625 --> 00:15:31,500
-Taigi jie tarė: „Medieną atgabens iš Nepalo”.
+00:15:29,626 --> 00:15:31,501
+Jie pasakė: „Medieną atgabens iš Nepalo“.
 
 157
-00:15:31,625 --> 00:15:35,500
-Aš atsakiau: „Gerai, kas dar?”.
+00:15:31,626 --> 00:15:35,501
+Paklausiau: „Gerai, kas dar?“.
 
 158
-00:15:35,625 --> 00:15:37,834
-Jie prasitarė: „Ją galima atgabenti ir iš bet kokio kito miško”.
+00:15:35,626 --> 00:15:37,834
+Jie prasitarė: „Ją galima atgabenti ir iš bet kokio kito miško“.
 
 159
-00:15:37,999 --> 00:15:45,750
-Taigi aš nuvykau į centrinėje Indijoje esantį mišką, pavadintą Džabal.
+00:15:38,000 --> 00:15:45,751
+Taigi nuvykau į Centrinėje Indijoje esantį mišką, pavadintą Džabal,
 
 160
 00:15:45,834 --> 00:15:48,834
-Ir čia užsakiau.
+ir ten užsisakiau.
 
 161
-00:15:48,999 --> 00:15:52,417
+00:15:49,000 --> 00:15:52,417
 Visa mediena buvo paruošta, šviežiai nukirsta,
 
 162
-00:15:52,917 --> 00:15:57,291
-ir aukcione aš nusipirkau daug medienos.
+00:15:52,918 --> 00:15:57,292
+tad aukcione nusipirkau daug medienos.
 
 163
-00:15:58,291 --> 00:16:03,000
-Viską įsigijau ten, netgi nupirkau marmuro.
+00:15:58,292 --> 00:16:03,000
+Viską įsigijau ten, netgi marmuro.
 
 164
-00:16:03,125 --> 00:16:06,500
-Tas marmuras niekada nebuvo naudotas, niekur.
+00:16:03,125 --> 00:16:06,501
+Tas marmuras buvo niekada ir niekur nenaudotas.
 
 165
-00:16:08,125 --> 00:16:12,333
-Aš pasakiau: „Tai labai paprasta, šį marmurą aš galiu panaudoti bet kam”.
+00:16:08,125 --> 00:16:12,334
+Tariau: „Labai paprasta – šį marmurą galiu bet kur panaudoti“.
 
 166
 00:16:12,417 --> 00:16:17,834
-Taigi ten įsigijau medienos ir marmuro.
+Taigi, įsigijau medienos ir marmuro.
 
 167
-00:16:19,083 --> 00:16:24,625
-Tada darbininkai. Aš paklausiau savo draugų,
+00:16:19,083 --> 00:16:24,626
+Tuomet darbininkai. Paklausiau savo draugų,
 
 168
-00:16:24,709 --> 00:16:30,750
-ar jie žino kokių gerų darbininkų, kurie mokėtų mūryti.
+00:16:24,709 --> 00:16:30,751
+ar jie pažįsta kokių gerų, mūryti mokančių darbininkų.
 
 169
-00:16:30,834 --> 00:16:33,500
-Jie atsakė: „Taip. Štai šitas geras, anas geras”,
+00:16:30,834 --> 00:16:33,501
+Jie atsakė: „Taip. Tas ir tas yra geras“,
 
 170
-00:16:33,583 --> 00:16:36,625
-taigi aš juos pasikviečiau. Pasakiau: „Matote, dabar jūs galite pasilikti su manimi šiame name,
+00:16:33,584 --> 00:16:36,626
+taigi pasikviečiau juos. Pasakiau: „Galite pasilikti su manimi šiame name,
 
 171
 00:16:36,667 --> 00:16:40,000
-ir aš jus labai gerai maitinsiu,
+ir aš jus labai gerai maitinsiu
 
 172
 00:16:40,083 --> 00:16:42,417
-ir labai gerai jumis rūpinsiuosi.”
+ir jumis rūpinsiuosi“.
 
 173
-00:16:42,959 --> 00:16:46,500
-Taigi jie visi su savo šeimomis apsistojo,
+00:16:42,959 --> 00:16:46,501
+Taigi jie apsistojo su savo šeimomis,
 
 174
 00:16:47,000 --> 00:16:50,000
@@ -703,155 +703,155 @@ Papirkau juos savo gaminimu, ir jie būtų bet ką dėl manęs padarę.
 Absoliučiai viską. Jie buvo man tokie malonūs,
 
 177
-00:17:02,500 --> 00:17:07,667
-jie naudojo naują techniką, kurią žinojo,
+00:17:02,501 --> 00:17:07,667
+ir panaudojo naują techniką, kurią išmanė –
 
 178
-00:17:07,999 --> 00:17:14,291
-metodą su marmuru iš cemento...
+00:17:08,000 --> 00:17:14,292
+metodą, kaip iš cemento išgauti marmuro efektą.
 
 179
-00:17:15,291 --> 00:17:19,417
-Panaudojo visą savo meistriškumą.
+00:17:15,292 --> 00:17:19,417
+Pasitelkė visą savo meistriškumą.
 
 180
-00:17:21,000 --> 00:17:25,458
-Taigi toks didelis namas, su 20 miegamųjų, penkiais piešimo kambariais, valgomaisiais kambariais,
+00:17:21,000 --> 00:17:25,459
+Taigi toks didelis namas, su 20 miegamųjų, 5 svetainėmis, valgomaisiais,
 
 181
-00:17:25,999 --> 00:17:29,417
+00:17:26,000 --> 00:17:29,417
 buvo pastatytas per metus.
 
 182
-00:17:30,500 --> 00:17:34,750
-Namo kaina taip pat niekas negali patikėti.
+00:17:30,501 --> 00:17:34,751
+Taip pat niekas negali patikėti namo statybų kaina.
 
 183
-00:17:35,999 --> 00:17:40,792
+00:17:36,000 --> 00:17:40,792
 Kainavo vieną dešimtąją to, ką paimtų architektas.
 
 184
-00:17:43,000 --> 00:17:45,500
-Bet viskas buvo surašyta labai gerai, viskas padaryta labai gerai.
+00:17:43,000 --> 00:17:45,501
+Bet viskas buvo labai gerai surašyta ir atlikta.
 
 185
-00:17:45,542 --> 00:17:48,333
-Kadangi aš nežinojau, kaip rašyti sąskaitas,
+00:17:45,542 --> 00:17:48,334
+Kadangi aš nemokėjau vesti apskaitos,
 
 186
-00:17:49,000 --> 00:17:53,500
-tai kiekvieną dieną sakiau: „Gerai, šiandien paimsiu tiek pinigų,
+00:17:49,000 --> 00:17:53,501
+todėl kasdien sakiau: „Gerai, šiandien paimsiu tiek pinigų,
 
 187
 00:17:54,417 --> 00:17:58,000
-kiek išleista“. Kiekvieną dieną taip rašiau
+kiek išleista“. Rašiausi taip kasdien
 
 188
-00:17:59,000 --> 00:18:02,999
+00:17:59,000 --> 00:18:03,000
 ir nepasigedau nė vienos rupijos.
 
 189
-00:18:03,999 --> 00:18:07,125
-Taigi niekas negalėjo manęs teisti, nebuvo jokių problemų,
+00:18:04,000 --> 00:18:07,125
+Taigi niekas negalėjo manęs teisti, nekilo jokių problemų,
 
 190
-00:18:07,208 --> 00:18:10,291
-o tuo tarpu visi valdininkai, kurie pasistatė ten savo namus,
+00:18:07,209 --> 00:18:10,292
+o tuo tarpu visi valdininkai, kurie statėsi ten savo namus,
 
 191
-00:18:10,375 --> 00:18:12,500
+00:18:10,375 --> 00:18:12,501
 turėjo išspręsti daugelį problemų,
 
 192
-00:18:12,625 --> 00:18:16,625
-jų pajamos apmokestintos, taip niekas nepavyko, nepavyko.
+00:18:12,626 --> 00:18:16,626
+jų pajamos buvo apmokestintos, taip pat niekas nepavyko.
 
 193
 00:18:17,959 --> 00:18:21,417
-O aš pasistačiau tokį namą be galo pigiai,
+O aš be galo pigiai pasistačiau tokį namą,
 
 194
 00:18:21,542 --> 00:18:23,542
-ir tokį namą, apie kurį žmonės kalbėjo:
+apie kurį žmonės kalbėjo:
 
 195
-00:18:23,625 --> 00:18:27,000
-„Tadžmahalas gali sugriūti, o šis nenugrius“.
+00:18:23,626 --> 00:18:27,000
+„Tadžmahalas gali sugriūti, o šis – ne“.
 
 196
 00:18:28,417 --> 00:18:30,709
 Aš paklojau gerus pamatus,
 
 197
-00:18:30,750 --> 00:18:32,875
+00:18:30,751 --> 00:18:32,876
 nes turėjau pigių plytų.
 
 198
-00:18:33,000 --> 00:18:37,166
-Visą tą krosnį gavau visai už dyką
+00:18:33,000 --> 00:18:37,167
+Visą tą krosnį gavau pusvelčiui
 
 199
-00:18:37,291 --> 00:18:40,999
-ir dalį pardaviau atgal, nes tiek daug liko.
+00:18:37,292 --> 00:18:41,000
+ir dalį pardaviau, nes tiek daug liko.
 
 200
-00:18:42,834 --> 00:18:45,208
-Kiek nupirkau smėlio, tiek nupirkau,
+00:18:42,834 --> 00:18:45,209
+Pusę nupirkto smėlio
 
 201
-00:18:45,291 --> 00:18:47,999
-pardaviau pusę jo, nes man nereikėjo.
+00:18:45,292 --> 00:18:48,000
+pardaviau, nes man tiek daug neprireikė.
 
 202
 00:18:48,000 --> 00:18:51,834
 Kaina padvigubėjo, tad smėlį gavau dykai.
 
 203
-00:18:54,208 --> 00:18:56,250
-Mediena, kurią gavau iš ten,
+00:18:54,209 --> 00:18:56,250
+Mediena, kurią pirkau iš ten,
 
 204
-00:18:56,333 --> 00:18:59,125
+00:18:56,334 --> 00:18:59,125
 buvo tinkamai apdorota,
 
 205
-00:18:59,375 --> 00:19:01,333
+00:18:59,375 --> 00:19:01,334
 gavau mažą rezervuarą,
 
 206
-00:19:01,417 --> 00:19:08,625
+00:19:01,417 --> 00:19:08,626
 kuriame mediena buvo apsaugota nuo vandens.
 
 207
-00:19:08,999 --> 00:19:14,625
-Aš paėmiau pusę medienos kiekio ir panaudojau,tik pusę –
+00:19:09,000 --> 00:19:14,626
+Aš panaudojau pusę medienos, tik pusę –
 
 208
-00:19:14,999 --> 00:19:20,000
-400 langų ir 60 durų, o likusią dalį pardaviau.
+00:19:15,000 --> 00:19:20,000
+100 langų ir 60 durų, o likusią dalį pardaviau.
 
 209
 00:19:20,083 --> 00:19:24,834
-Ir netgi likučiai buvo parduoti
+Ir pardavėme netgi pjuvenas
 
 210
-00:19:24,917 --> 00:19:27,999
-kaip malkos, juk taip tai vadinate?
+00:19:24,918 --> 00:19:28,000
+kaip prakuras, juk taip jas vadinate?
 
 211
 00:19:28,417 --> 00:19:30,792
-Taigi galite įsivaizduoti, kai kas buvo parduota kaip mediena,
+Taigi įsivaizduokite: kai kas buvo parduota kaip statybinė medžiaga,
 
 212
-00:19:30,999 --> 00:19:33,083
+00:19:31,000 --> 00:19:33,083
 kai kas lūšnoms,
 
 213
-00:19:35,500 --> 00:19:37,834
+00:19:35,501 --> 00:19:37,834
 bet aš turėjau jiems gaminti,
 
 214
-00:19:37,999 --> 00:19:40,208
+00:19:38,000 --> 00:19:40,209
 rūpintis jų komfortu,
 
 215
@@ -859,7 +859,7 @@ rūpintis jų komfortu,
 gavau jiems gražių antklodžių ir šaunių lovų miegoti ir dar šio to,
 
 216
-00:19:45,999 --> 00:19:47,999
+00:19:46,000 --> 00:19:48,000
 taigi jie buvo labai laimingi.
 
 217
@@ -871,35 +871,35 @@ taigi jie buvo labai laimingi.
 kad nieko negali man prikišti.
 
 219
-00:19:54,999 --> 00:19:57,000
-Mano sąskaitose negalėjo rasti jokių klaidų,
+00:19:55,000 --> 00:19:57,000
+Mano sąskaitose nebūtų radę jokių klaidų,
 
 220
 00:19:57,083 --> 00:20:01,959
-ir aš liepiau visiems mano vyro draugams laikytis per 5 mylias toliau nuo manęs.
+ir aš liepiau visiems mano vyro draugams laikytis per 5 mylias nuo manęs.
 
 221
-00:20:06,500 --> 00:20:08,709
+00:20:06,501 --> 00:20:08,709
 Kadangi jis dirbo su premjeru ministru,
 
 222
 00:20:09,542 --> 00:20:13,667
-žmonės būtų kalbėję: „Taigi, ji ima kyšius” ir panašiai.
+žmonės būtų kalbėję: „Reiškia, ji ima kyšius“ ir panašiai.
 
 223
-00:20:13,999 --> 00:20:17,000
+00:20:14,000 --> 00:20:17,000
 Buvo dar kita problema –
 
 224
 00:20:17,083 --> 00:20:21,125
-jie vis vaikščiotų ir kartotų: „Tas negerai, anas negerai”.
+jie vis vaikščiotų ir kartotų: „Tas negerai, anas negerai“.
 
 225
-00:20:21,166 --> 00:20:25,999
+00:20:21,167 --> 00:20:26,000
 Aš jų neįleidau, nes jie gali tik ginčytis, vyrai gali tik ginčytis.
 
 226
-00:20:27,500 --> 00:20:29,417
+00:20:27,501 --> 00:20:29,417
 Moterys pateikia rezultatus.
 
 227
@@ -907,123 +907,123 @@ Moterys pateikia rezultatus.
 Jokių pasitarimų, nieko, aš pasakiau: „Niekas nevyksta.
 
 228
-00:20:36,333 --> 00:20:38,417
+00:20:36,334 --> 00:20:38,417
 Leiskite man pačiai padaryti“.
 
 229
-00:20:38,500 --> 00:20:43,709
-Labai puikiai kartu su visais savo žmonėmis aš pastačiau namą,
+00:20:38,501 --> 00:20:43,709
+Kartu su visais savo žmonėmis sėkmingai pastačiau namą,
 
 230
-00:20:43,750 --> 00:20:48,917
+00:20:43,751 --> 00:20:48,918
 nuostabų namą, kurį, manau, jie nufilmavo,
 
 231
-00:20:49,625 --> 00:20:53,208
-ir jūs gal turėsite galimybę pamatyti tą namą, kurį pastačiau.
+00:20:49,626 --> 00:20:53,209
+ir jūs galbūt turėsite galimybę pamatyti tą namą.
 
 232
-00:20:56,125 --> 00:20:59,583
+00:20:56,125 --> 00:20:59,584
 Taigi moteris, kuri yra Sahadža jogė,
 
 233
-00:20:59,625 --> 00:21:02,583
+00:20:59,626 --> 00:21:02,584
 privalo vystyti šias savo ypatingas savybes,
 
 234
-00:21:02,834 --> 00:21:05,917
+00:21:02,834 --> 00:21:05,918
 nes ji yra labai intuityvi, moteris – labai intuityvi.
 
 235
-00:21:05,959 --> 00:21:09,291
-Ji visada prieina prie tinkamų išvadų bet kuriuo metu.
+00:21:05,959 --> 00:21:09,292
+Ji labai greitai priima tinkamas išvadas.
 
 236
-00:21:09,333 --> 00:21:14,333
-Jeigu ji moteris, bet jei ji yra pusiau vyras ir tik truputį moteris,
+00:21:09,334 --> 00:21:14,334
+Tik jeigu būna moterimi, o jei ji – labiau vyras ir tik truputį moteris,
 
 237
-00:21:14,417 --> 00:21:17,999
-tada aš nežinau, kokia būtybė ji yra.
+00:21:14,417 --> 00:21:18,000
+tada nežinau, kokia tai būtybė.
 
 238
-00:21:19,500 --> 00:21:22,959
-Taigi moteris turi siekti būti moterimi, ji tokia galinga,
+00:21:19,501 --> 00:21:22,959
+Taigi moteris turi siekti būti moterimi, ji – tokia galinga,
 
 239
 00:21:23,000 --> 00:21:26,709
-tokia galinga kaip ši Motina Žemė, kuri gali išauginti viską
+tokia galinga kaip ši Motina Žemė, kuri gali išauginti
 
 240
 00:21:27,542 --> 00:21:33,083
-ir gali atiduoti viską, kas joje geriausia.
+ir atiduoti viską, kas joje geriausia.
 
 241
 00:21:34,000 --> 00:21:43,000
-Ypač pasiaukojanti, nepaprastai dosni, susivaldanti, mylinti, atleidžianti.
+Itin pasiaukojanti, nepaprastai dosni, ištverminga, mylinti, atleidžianti.
 
 242
 00:21:43,959 --> 00:21:49,000
-Kai vyrai išsiugdo moteriškų savybių, jie tampa šventaisiais.
+Vyrai, puoselėjantys savyje moteriškąsias savybes, tampa šventaisiais.
 
 243
 00:21:52,000 --> 00:21:57,959
-Bet čia ne moters ypatybė, kai jie laksto paskui moteris.
+Bet ne moteriška savybė, kai jie laksto paskui moteris.
 
 244
-00:21:58,333 --> 00:22:00,709
-Tokių nesąmonių čia nėra.
+00:21:58,334 --> 00:22:00,709
+Nėra tokių nesąmonių.
 
 245
-00:22:00,750 --> 00:22:03,542
-Jie turi būti vyrai, jie turi būti kilnūs žmonės,
+00:22:00,751 --> 00:22:03,542
+Jie turi būti vyrai, kilnūs žmonės,
 
 246
-00:22:03,625 --> 00:22:07,000
-turi būti drąsūs.
+00:22:03,626 --> 00:22:07,000
+drąsūs.
 
 247
-00:22:07,083 --> 00:22:14,999
-Bet tuo pačiu jie turi būti užjaučiantys, atleidžiantys.
+00:22:07,083 --> 00:22:15,000
+Ir tuo pačiu jie turi būti atjaučiantys ir atleidžiantys.
 
 248
-00:22:19,834 --> 00:22:22,917
-Bet, manau, Vokietijoje viskas priešingai,
+00:22:19,834 --> 00:22:22,918
+Bet, manau, Vokietijoje viskas yra priešingai,
 
 249
-00:22:22,999 --> 00:22:25,500
-pastebėjau, kad tai egzistuoja ir tarp vakariečių Sahadža jogų,
+00:22:23,000 --> 00:22:25,501
+pastebėjau, kad tai egzistuoja ir tarp vakariečių Sahadža jogų –
 
 250
-00:22:25,583 --> 00:22:27,834
+00:22:25,584 --> 00:22:27,834
 tai bendras reiškinys.
 
 251
-00:22:27,917 --> 00:22:31,333
+00:22:27,918 --> 00:22:31,334
 Moterys užsiaugino siaubingus ego.
 
 252
-00:22:33,625 --> 00:22:38,125
-Indijoje moterys dirba. Daro viską.
+00:22:33,626 --> 00:22:38,125
+Indijoje moterys dirba, daro viską.
 
 253
-00:22:39,542 --> 00:22:44,208
-Mes turėjome didžius oratorius nuo senų laikų, gerai žinomus.
+00:22:39,542 --> 00:22:44,209
+Senovėje turėjome didžių, gerai žinomų oratorių,
 
 254
-00:22:45,417 --> 00:22:50,917
-Bet jie neturėjo ego. Mano mama buvo
+00:22:45,417 --> 00:22:50,918
+bet jie neturėjo ego. Mano mama buvo
 
 255
 00:22:51,000 --> 00:22:53,417
-pasižymėjusi tais laikais, kai buvo dvi ar trys moterys,
+pasižymėjusi tais laikais, kai tebuvo dvi ar trys moterys,
 
 256
-00:22:53,500 --> 00:22:55,417
-kurios buvo įgijusios tokį laipsnį,
+00:22:53,501 --> 00:22:55,417
+įgijusios tokį laipsnį,
 
 257
-00:22:55,500 --> 00:22:58,999
+00:22:55,501 --> 00:22:59,000
 bet aš niekada nemačiau joje jokio ego.
 
 258
@@ -1031,27 +1031,27 @@ bet aš niekada nemačiau joje jokio ego.
 Mano pačios dukros... Viena iš jų baigė architektūrą,
 
 259
-00:23:06,291 --> 00:23:09,125
+00:23:06,292 --> 00:23:09,125
 taip pat interjero dizainą, šiuo metu ji nedirba,
 
 260
-00:23:09,208 --> 00:23:11,125
+00:23:09,209 --> 00:23:11,125
 nes jos vyras gerai uždirba,
 
 261
-00:23:11,208 --> 00:23:13,917
+00:23:11,209 --> 00:23:13,918
 bet ji kuria namus kitiems,
 
 262
 00:23:13,959 --> 00:23:19,709
-ji savanoriškai padeda jiems. Ir ji turi tokių draugų.
+ji savanoriškai jiems padeda. Ir ji turi tokių draugų.
 
 263
 00:23:21,083 --> 00:23:24,000
 Taigi kokie yra moters pasiekimai?
 
 264
-00:23:24,208 --> 00:23:28,250
+00:23:24,209 --> 00:23:28,250
 Ji turi daugiau žmonių aplink save.
 
 265
@@ -1059,91 +1059,91 @@ Ji turi daugiau žmonių aplink save.
 Žmogiškoji galia.
 
 266
-00:23:34,125 --> 00:23:37,291
+00:23:34,125 --> 00:23:37,292
 Ji suburia daugiau žmonių aplink save.
 
 267
-00:23:38,333 --> 00:23:40,208
-Tai kokios yra vyrų pareigos?
+00:23:38,334 --> 00:23:40,209
+O kokios yra vyrų pareigos?
 
 268
-00:23:40,333 --> 00:23:42,959
+00:23:40,334 --> 00:23:42,959
 Jie turi apmokėti visas sąskaitas už namą,
 
 269
 00:23:43,000 --> 00:23:49,417
-sumokėti už draudimą, mašinos taisymą.
+sumokėti už draudimą, automobilio remontą.
 
 270
-00:23:49,500 --> 00:23:53,417
+00:23:49,501 --> 00:23:53,417
 Palikite jiems juodus darbus.
 
 271
-00:23:56,291 --> 00:24:00,125
+00:23:56,292 --> 00:24:00,125
 Moterys gauna visus meilės laiškus: iš vaikų,
 
 272
-00:24:00,208 --> 00:24:02,542
+00:24:00,209 --> 00:24:02,542
 vyro – visų.
 
 273
-00:24:03,000 --> 00:24:07,500
-Jos mylimos. Jomis rūpinamasi.
+00:24:03,000 --> 00:24:07,501
+Jos – mylimos. Jomis rūpinamasi.
 
 274
-00:24:09,542 --> 00:24:11,500
+00:24:09,542 --> 00:24:11,501
 Dabar, kai jos suvyriškėjo,
 
 275
 00:24:11,959 --> 00:24:14,083
-jos neteko visų privalumų.
+neteko visų privalumų.
 
 276
-00:24:14,208 --> 00:24:18,750
-Jei ankščiau važiuojant autobusu vyrai užleisdavo vietą damai,
+00:24:14,209 --> 00:24:18,751
+Jei anksčiau važiuojant autobusu vyrai užleisdavo moteriai vietą,
 
 277
-00:24:18,834 --> 00:24:20,291
+00:24:18,834 --> 00:24:20,292
 dabar niekas to nedaro.
 
 278
 00:24:20,709 --> 00:24:25,375
-Kartą keliavo viena moteris… mmm… sena moteris,
+Kartą keliavo viena moteris, sena moteris,
 
 279
 00:24:25,417 --> 00:24:28,000
-ir ten sėdėjo vienas jaunas vaikinas.
+ir ten sėdėjo vaikinas.
 
 280
 00:24:28,125 --> 00:24:30,417
-Aš paklausiau: „Kodėl jai neužleidi vietos?”
+Paklausiau: „Kodėl jai neužleidi vietos?“.
 
 281
-00:24:30,500 --> 00:24:31,417
-Jis atkirto: „Kodėl turėčiau?
+00:24:30,501 --> 00:24:31,417
+Jis atkirto: „O kodėl turėčiau?
 
 282
-00:24:31,500 --> 00:24:33,917
-Ji dėvi kelnes – aš taip pat”.
+00:24:31,501 --> 00:24:33,918
+Ji mūvi kelnes – aš taip pat“.
 
 283
-00:24:33,959 --> 00:24:37,291
-Ji buvo... Ši pagyvenusi moteris nešiojo kelnes,
+00:24:33,959 --> 00:24:37,292
+Ši pagyvenusi moteris nešiojo kelnes,
 
 284
-00:24:37,333 --> 00:24:40,834
-todėl jis pasakė: „Kodėl aš turėčiau užleisti jai vietą? Ji nešioja kelnes,
+00:24:37,334 --> 00:24:40,834
+todėl jis pasakė: „Kodėl turėčiau užleisti jai vietą? Ji nešioja kelnes,
 
 285
-00:24:40,999 --> 00:24:43,834
-aš nešioju kelnes – koks skirtumas?”
+00:24:41,000 --> 00:24:43,834
+aš nešioju kelnes – koks skirtumas?“.
 
 286
-00:24:47,291 --> 00:24:50,000
+00:24:47,292 --> 00:24:50,000
 Taigi tapdamos vyrais
 
 287
-00:24:50,417 --> 00:24:53,625
+00:24:50,417 --> 00:24:53,626
 mes netenkame visų savo privalumų ir privilegijų.
 
 288
@@ -1152,47 +1152,47 @@ Ir ką iš to gauname? Ką įgyjame?
 
 289
 00:25:01,417 --> 00:25:04,834
-Iš tiesų priešingai, moderniais laikais,
+Iš tiesų, manau, net gi priešingai – moderniais laikais
 
 290
-00:25:04,917 --> 00:25:08,709
-aš manau, moterys yra didesnės vyrų vergės, negu buvo ankščiau.
+00:25:04,918 --> 00:25:08,709
+moterys yra didesnės vyrų vergės, nei buvo anksčiau.
 
 291
-00:25:10,208 --> 00:25:14,000
+00:25:10,209 --> 00:25:14,000
 Jos labai nuliūsta. Pavyzdžiui, Sahadža jogė,
 
 292
-00:25:15,000 --> 00:25:18,875
+00:25:15,000 --> 00:25:18,876
 kuri yra labai apsėsta ir turi tam tikrų problemų.
 
 293
-00:25:18,999 --> 00:25:21,000
-Pirmas dalykas, apie kurį ji pagalvos:
+00:25:19,000 --> 00:25:21,000
+Pirma, apie ką ji pagalvos:
 
 294
-00:25:21,083 --> 00:25:23,333
-„O Dieve, dabar mano vyras paliks mane,
+00:25:21,083 --> 00:25:23,334
+„O Dieve, dabar mano vyras mane paliks,
 
 295
-00:25:23,417 --> 00:25:27,208
-jis atims mano vaikus, ką aš darysiu?“
+00:25:23,417 --> 00:25:27,209
+atims mano vaikus, ką aš darysiu?“.
 
 296
-00:25:27,291 --> 00:25:29,083
-Ji niekada nepagalvos apie Sahadža Jogą.
+00:25:27,292 --> 00:25:29,083
+Ji niekada nepagalvos apie Sahadža jogą.
 
 297
-00:25:30,333 --> 00:25:33,750
-Bet aš sutikau vieną ypatingą moterį, turiu pasakyti, ji buvo tikra moteris.
+00:25:30,334 --> 00:25:33,751
+Bet sutikau vieną ypatingą moterį, turiu pasakyti, ji buvo tikra moteris.
 
 298
-00:25:34,542 --> 00:25:37,750
+00:25:34,542 --> 00:25:37,751
 Ji pasakė: „Motina, dėl to, kad esu šizofrenikė,
 
 299
 00:25:37,834 --> 00:25:42,083
-aš noriu išeiti iš Sahadža Jogos. Aš išsiskirsiu su vyru,
+noriu išeiti iš Sahadža jogos. Aš išsiskirsiu su vyru,
 
 300
 00:25:42,834 --> 00:25:44,083
@@ -1200,138 +1200,138 @@ nenoriu matyti savo vaikų.
 
 301
 00:25:44,125 --> 00:25:47,083
-Sahadža Joga yra daug svarbiau nei aš,
+Sahadža joga yra daug svarbiau nei aš,
 
 302
-00:25:47,208 --> 00:25:51,875
-nei mano vyras ir vaikai”.
+00:25:47,209 --> 00:25:51,876
+nei mano vyras ar vaikai“.
 
 303
-00:25:51,999 --> 00:25:53,583
+00:25:52,000 --> 00:25:53,584
 Štai kokia moteris.
 
 304
-00:25:53,625 --> 00:25:55,917
-Kaip ir minėjau, ji pasakė: „Aš šizofrenikė nuo vaikystės.
+00:25:53,626 --> 00:25:55,918
+Kaip ir minėjau, ji pasakė: „Aš esu šizofrenikė nuo vaikystės.
 
 305
 00:25:56,000 --> 00:25:58,709
-Supratau tik dabar, ir tai grįžta…”.
+Supratau tik dabar, ir tai grįžta.“.
 
 306
 00:25:58,834 --> 00:26:01,125
 Bet dauguma moterų nerimauja dėl savęs:
 
 307
-00:26:01,208 --> 00:26:03,208
-„O Dieve, aš turiu palikti savo vyrą”.
+00:26:01,209 --> 00:26:03,209
+„O Dieve, aš turiu palikti savo vyrą.“.
 
 308
-00:26:04,333 --> 00:26:07,750
+00:26:04,334 --> 00:26:07,751
 Tai reiškia, kad jos gyveno savo vyro sąskaita.
 
 309
-00:26:08,750 --> 00:26:11,750
-„Aš turiu palikti savo vaikus”.
+00:26:08,751 --> 00:26:11,751
+„Aš turiu palikti savo vaikus.“.
 
 310
-00:26:13,917 --> 00:26:16,999
-Bet ar palikti Sahadža Jogą?
+00:26:13,918 --> 00:26:17,000
+Bet ar palikti Sahadža jogą?
 
 311
-00:26:17,750 --> 00:26:20,417
-Jei manote, kad Sahadža Joga yra pati svarbiausia,
+00:26:17,751 --> 00:26:20,417
+Jei manote, kad Sahadža joga yra pati svarbiausia,
 
 312
-00:26:20,625 --> 00:26:22,917
+00:26:20,626 --> 00:26:22,918
 jūs taip pat galite atsikratyti savo šizofrenijos.
 
 313
-00:26:22,959 --> 00:26:26,208
-Kodėl Dievas turi jums padėti? Mes mąstome kaip eilinės moterys apie save,
+00:26:22,959 --> 00:26:26,209
+Kodėl Dievas turi jums padėti? Mes mąstome apie save kaip eilinės moterys,
 
 314
-00:26:26,291 --> 00:26:28,625
-susirūpinusios tik savimi,
+00:26:26,292 --> 00:26:28,626
+besirūpinančios tik savimi,
 
 315
 00:26:31,083 --> 00:26:34,000
-o ne Sahadža Joga.
+o ne Sahadža joga.
 
 316
-00:26:37,291 --> 00:26:41,291
-Tas pats yra su kai kuriais vyrais, bet jie ne tokie įbauginti,
+00:26:37,292 --> 00:26:41,292
+Tokie patys yra ir kai kurie vyrai, bet jie ne tokie įbauginti,
 
 317
-00:26:42,917 --> 00:26:45,750
-nes jie jaučia, kad gali stovėti ant savo kojų.
+00:26:42,918 --> 00:26:45,751
+nes jaučia, kad gali išsilaikyti.
 
 318
 00:26:46,709 --> 00:26:49,000
-Ir moterys turi suprasti, kad jos yra Sahadža jogės,
+Tad moterys turi suprasti, kad jos yra Sahadža jogės,
 
 319
 00:26:49,083 --> 00:26:52,000
-ir Motina pasirūpins jomis.
+ir Motina jomis pasirūpins.
 
 320
-00:26:52,834 --> 00:26:55,500
-Bet jei jūs rūpinatės tik savimi, savo vyru,
+00:26:52,834 --> 00:26:55,501
+Bet jei rūpinatės tik savimi, savo vyru,
 
 321
-00:26:55,583 --> 00:27:01,333
+00:26:55,584 --> 00:27:01,334
 namais, vaikais, tada bergždžias reikalas,
 
 322
 00:27:01,417 --> 00:27:04,417
-tada jūs nebe moteris.
+tada jūs – nebe moteris.
 
 323
-00:27:06,208 --> 00:27:10,333
-Moteris yra ta, kuri myli visus vaikus.
+00:27:06,209 --> 00:27:10,334
+Moteris myli visus vaikus.
 
 324
-00:27:13,208 --> 00:27:16,917
-Moters galia mylėti yra didi, bet jei moteris tampa menka,
+00:27:13,209 --> 00:27:16,918
+Moters galia mylėti yra didinga, bet jei moteris tampa menka,
 
 325
-00:27:18,000 --> 00:27:21,625
-smulkmeniška, tada ji nebe moteris.
+00:27:18,000 --> 00:27:21,626
+smulkmeniška, tada ji – nebe moteris.
 
 326
 00:27:22,959 --> 00:27:24,417
-Aš jums pasakojau apie savo vaikaites.
+Pasakojau jums apie savo anūkes.
 
 327
-00:27:24,500 --> 00:27:27,208
-Aš jų paklausiau: „Kuo jūs norėtumėte būti?“ Jos buvo labai mažos.
+00:27:24,501 --> 00:27:27,209
+Paklausiau jų: „Kuo  norėtumėte būti?“. Jos buvo labai mažos,
 
 328
-00:27:27,709 --> 00:27:33,999
-Taigi jos atsakė: „Mes norime būti seselėmis arba stiuardesėmis.”
+00:27:27,709 --> 00:27:34,000
+taigi atsakė: „Mes norime būti seselėmis arba stiuardesėmis.“.
 
 329
-00:27:34,750 --> 00:27:37,083
-Taigi aš paklausiau, kodėl, kuo ypatingi šie darbai.
+00:27:34,751 --> 00:27:37,083
+Paklausiau, kodėl, kuo ypatingi šie darbai.
 
 330
 00:27:38,125 --> 00:27:41,834
-Jos pasakė: „Senele, tiktai dirbdamos šiuos darbus galėtume maitinti žmones.
+Jos atsakė: „Močiute, tik dirbdamos šiuos darbus galėtume pamaitinti žmones.
 
 331
 00:27:44,417 --> 00:27:47,083
-Nėra kito tokio darbo, kuriame tu galėtum iš tikrųjų maitinti kitus”.
+Nėra kito tokio darbo, kuriame galėtum iš tikrųjų pamaitinti kitus.“.
 
 332
-00:27:47,166 --> 00:27:53,000
-Džiaugsmas maitinti kitus yra didesnis, nei rašyti bylas kontoroje.
+00:27:47,167 --> 00:27:53,000
+Didesnis džiaugsmas pamaitinti kitus nei rašyti bylas kontoroje.
 
 333
-00:27:55,625 --> 00:28:00,208
+00:27:55,626 --> 00:28:00,209
 Supraskite, tai baisus darbas – rašyti bylas kontoroje.
 
 334
-00:28:05,625 --> 00:28:07,709
+00:28:05,626 --> 00:28:07,709
 Geriau jau ką nors skaniai gaminti,
 
 335
@@ -1343,115 +1343,115 @@ galvojant apie tai, kiek daug žmonių valgys ir mėgausis tuo,
 negu daryti šitą juodą darbą.
 
 337
-00:28:17,709 --> 00:28:20,917
-Bet moterys išprotėjo. Dabar jos nebėra ramios.
+00:28:17,709 --> 00:28:20,918
+Bet moterys išprotėjo. Dabar jos nebe ramios.
 
 338
-00:28:20,999 --> 00:28:23,999
-Pavirto kvailomis.
+00:28:21,000 --> 00:28:24,000
+Tapo kvailos.
 
 339
-00:28:26,125 --> 00:28:30,291
-Dabar Vokietijoje jūs turite būti labai atsargūs.
+00:28:26,125 --> 00:28:30,292
+Būkite itin atsargūs Vokietijoje.
 
 340
-00:28:30,333 --> 00:28:32,000
-Austrijoje turite buti labai atsargūs.
+00:28:30,334 --> 00:28:32,000
+Būkite itin atsargūs Austrijoje.
 
 341
 00:28:32,083 --> 00:28:35,125
-Austrės moterys yra didžios, bet, sakyčiau,
+Austrės moterys yra didingos, tačiau, sakyčiau,
 
 342
-00:28:35,208 --> 00:28:37,208
+00:28:35,209 --> 00:28:37,209
 vokietės neturėtų bandyti tapti vyrais.
 
 343
-00:28:37,291 --> 00:28:42,208
-Visų pirma geriausias būdas sustoti – nekalbėti per daug.
+00:28:37,292 --> 00:28:42,209
+Geriausias būdas liautis – mažiau kalbėti.
 
 344
-00:28:45,417 --> 00:28:49,750
-Jei jūs pradedate šnekėti kaip vyrai, tada visi bhutai apsigyvena jumyse,
+00:28:45,417 --> 00:28:49,751
+Jei pradedate šnekėti kaip vyrai, jumyse apsigyvena visi bhutai,
 
 345
-00:28:49,834 --> 00:28:52,500
-dėl to ir pradedate šnekėti kaip tikri vyrai.
+00:28:49,834 --> 00:28:52,501
+todėl ir pradedate šnekėti kaip tikri vyrai.
 
 346
-00:28:52,750 --> 00:28:55,291
-Pažiūrėkite, kaip vyrai yra valdomi –
+00:28:52,751 --> 00:28:55,292
+Pažiūrėkite, kaip yra valdomi vyrai –
 
 347
 00:28:55,375 --> 00:28:59,709
-mes indės moterys geriau už jus žinome, kaip kontroliuoti vyrus.
+mes, indės moterys, geriau už jus žinome, kaip kontroliuoti vyrus.
 
 348
-00:29:02,959 --> 00:29:06,750
-Kodėl pas mus nėra skyrybų? Kodėl mes neturime problemų?
+00:29:02,959 --> 00:29:06,751
+Kodėl pas mus nėra skyrybų? Kodėl neturime problemų?
 
 349
-00:29:06,834 --> 00:29:08,750
-Mes ginčijamės, taip yra, bet nesvarbu,
+00:29:06,834 --> 00:29:08,751
+Taip, mes ginčijamės, tačiau nesvarbu,
 
 350
-00:29:08,834 --> 00:29:11,291
+00:29:08,834 --> 00:29:11,292
 nes mūsų vyrai nebėgioja paskui kitas moteris.
 
 351
 00:29:13,542 --> 00:29:17,959
-Mes taip nesirengiame taip... Taip gausiai, mes nesilankome pas kirpėjus,
+Nei perkame tiek drabužių, nei tiek lankomės pas kirpėjus
 
 352
-00:29:18,000 --> 00:29:21,291
-neturime grožio specialistų, viso to.
+00:29:18,000 --> 00:29:21,292
+ar grožio specialistus – nedarome viso to.
 
 353
-00:29:23,333 --> 00:29:25,917
-Taigi ugdykite savigarbą.
+00:29:23,334 --> 00:29:25,918
+Tad ugdykite savigarbą.
 
 354
-00:29:25,999 --> 00:29:30,291
-Jūs visos esate Šakti. Jus esate energija.
+00:29:26,000 --> 00:29:30,292
+Jūs visos esate Šakti – energija.
 
 355
 00:29:32,125 --> 00:29:35,834
 Jei paverčiate savo vyrus kopūstais, kokius vaikus turėsite?
 
 356
-00:29:35,917 --> 00:29:40,333
-Tiktai kopūstus. Gerbkite juos.
+00:29:35,918 --> 00:29:40,334
+Tik kopūstus. Gerbkite juos.
 
 357
-00:29:41,125 --> 00:29:43,917
+00:29:41,125 --> 00:29:43,918
 Paverskite juos vyrais, mėgaukitės jų vyriškumu.
 
 358
 00:29:45,542 --> 00:29:49,000
-Tada jie niekados jūsų neapleis.
+Tada jie niekada jūsų neapleis.
 
 359
-00:29:50,291 --> 00:29:52,625
-Tai nėra dviejų varžybos.
+00:29:50,292 --> 00:29:52,626
+Tai ne tarpusavio varžybos.
 
 360
-00:29:54,291 --> 00:29:57,750
-Atradau, kad pagrindinė problema Vokietijoje yra ta,
+00:29:54,292 --> 00:29:57,751
+Atradau, kad Vokietijoje pagrindinė problema ta,
 
 361
 00:29:57,834 --> 00:30:00,709
-jog moterys neteko savo išminties.
+kad moterys neteko savo išminties.
 
 362
-00:30:00,792 --> 00:30:04,917
-Tai galiu pasakyti apie vokietes moteris.
+00:30:00,792 --> 00:30:04,918
+Galiu tai pasakyti apie vokietes.
 
 363
-00:30:07,000 --> 00:30:13,625
+00:30:07,000 --> 00:30:13,626
 Pažvelkime į muziką, meną.
 
 364
-00:30:13,709 --> 00:30:19,500
+00:30:13,709 --> 00:30:19,501
 Ten yra tiek daug visko. Kas šiandien prisimenamas?
 
 365
@@ -1459,12 +1459,12 @@ Ten yra tiek daug visko. Kas šiandien prisimenamas?
 Pamąstykite, kas prisimenamas. Iš muzikų – Mocartas.
 
 366
-00:30:24,166 --> 00:30:28,417
+00:30:24,167 --> 00:30:28,417
 Kiekvienas prisimena Mocartą, netgi ant šokolado rasite Mocartą.
 
 367
-00:30:30,208 --> 00:30:33,917
-Nežinau, ar jis, vargšelis, kada nors valgė šokoladą, ar ne.
+00:30:30,209 --> 00:30:33,918
+Nežinau, ar jis, vargšelis, kada nors valgė šokoladą ar ne.
 
 368
 00:30:37,125 --> 00:30:43,000
@@ -1472,30 +1472,30 @@ Jie prisimena Mikelandželą, prisimena,
 
 369
 00:30:43,083 --> 00:30:48,542
-kad turėjo Leonardo da Vinčį ir pan.
+kad turėjo Leonardą da Vinčį ir pan.
 
 370
 00:30:52,000 --> 00:30:56,000
-Niekas neprisimins tarnautojo iš tų laikų,
+Niekas neprisimins tų laikų tarnautojo,
 
 371
-00:30:57,208 --> 00:30:59,291
-bėgiojančio su bylomis aukštyn – žemyn.
+00:30:57,209 --> 00:30:59,292
+bėgiojančio su bylomis aukštyn žemyn.
 
 372
-00:31:06,083 --> 00:31:10,917
-Taigi moterys turi kai ką, kas gali būti amžina vertybė,
+00:31:06,083 --> 00:31:10,918
+Taigi, moterys turi tai, kas gali būti amžina vertybė,
 
 373
-00:31:11,291 --> 00:31:12,709
-tai, ką turi vystyti.
+00:31:11,292 --> 00:31:12,709
+tai, ką jos turi puoselėti.
 
 374
-00:31:12,792 --> 00:31:16,500
+00:31:12,792 --> 00:31:16,501
 Svarbiausia, jog moteris gali mylėti, mylėti ir mylėti.
 
 375
-00:31:16,583 --> 00:31:18,750
+00:31:16,584 --> 00:31:18,751
 Bet kai ji tampa savanaudė ir egocentriška,
 
 376
@@ -1503,167 +1503,167 @@ Bet kai ji tampa savanaudė ir egocentriška,
 besirūpinanti tik savimi, tada jos meilė netenka grožio.
 
 377
-00:31:25,917 --> 00:31:28,000
-Šiandieną aš tikslingai apie tai kalbu,
+00:31:25,918 --> 00:31:28,000
+Šiandiena aš specialiai apie tai kalbu,
 
 378
 00:31:28,083 --> 00:31:31,000
 nes šiandien jūs lenkiatės man kaip Kartikėjai.
 
 379
-00:31:33,750 --> 00:31:37,000
-Kartikėja buvo Parvati Umar sūnus,
+00:31:33,751 --> 00:31:37,000
+Kartikėja buvo Parvati (Umos) sūnus,
 
 380
-00:31:44,542 --> 00:31:50,500
-kuri buvo tiesiog šių dviejų vaikų – Ganėšos ir Kartikėjos motina.
+00:31:44,542 --> 00:31:50,501
+Ji buvo tiesiog šių dviejų vaikų – Ganėšos ir Kartikėjos – motina.
 
 381
-00:31:53,625 --> 00:32:04,333
-Vieną dieną tėvai Šankara ir Parvati tarė:
+00:31:53,626 --> 00:32:04,334
+Vieną dieną tėvai – Šankara ir Parvati – tarė:
 
 382
 00:32:04,417 --> 00:32:13,709
-„Tas, kuris pirmas iš jūsų dviejų apvažiuos Motiną Žemę,
+„Tas, kuris pirmas iš jūsų apkeliaus Motiną Žemę,
 
 383
-00:32:14,000 --> 00:32:17,999
-gaus ypatingą dovaną.”
+00:32:14,000 --> 00:32:18,000
+gaus ypatingą dovaną.“.
 
 384
-00:32:20,000 --> 00:32:27,208
+00:32:20,000 --> 00:32:27,209
 Taigi Kartikėja, turėdamas absoliučią vyrišką energiją, tarė:
 
 385
-00:32:27,291 --> 00:32:32,542
-”Gerai, aš pradėsiu su savo transporto priemone”.Tai buvo povas.
+00:32:27,292 --> 00:32:32,542
+„Gerai, aš pradėsiu su savo keliavimo priemone.“. Tai buvo povas.
 
 386
-00:32:32,999 --> 00:32:36,125
-O Ganėša tarė sau:
+00:32:33,000 --> 00:32:36,125
+O Ganėša sau pasakė:
 
 387
-00:32:36,208 --> 00:32:38,709
+00:32:36,209 --> 00:32:38,709
 „Tik pažvelkite į mane, esu mažas berniukas,
 
 388
 00:32:39,417 --> 00:32:44,709
-nesu toks kaip jis, ir mano transportas yra maža pelytė.
+nesu toks kaip jis, ir mano transportas tėra maža pelytė.
 
 389
-00:32:44,750 --> 00:32:48,917
-Kaip aš sugebėsiu?” Bet tada jis pagalvojo:
+00:32:44,751 --> 00:32:48,918
+Kaip aš sugebėsiu?“. Bet tada pagalvojo:
 
 390
 00:32:50,125 --> 00:32:54,417
 „Mano Motina yra aukščiau už visą Visatą.
 
 391
-00:32:54,625 --> 00:32:57,542
-Kas, palyginus su ja, yra ši Motina Žemė?“
+00:32:54,626 --> 00:32:57,542
+Kas, palyginus su ja, yra ši Motina Žemė?“.
 
 392
-00:32:57,999 --> 00:33:02,291
-Taigi Kartikėja išskrido, keliavo aplink Žemę tris kartus.
+00:32:58,000 --> 00:33:02,292
+Taigi Kartikėja išskrido, apkeliavo aplink Žemę tris kartus,
 
 393
-00:33:03,417 --> 00:33:06,333
-Šri Ganėša apėjo savo Motiną tris kartus.
+00:33:03,417 --> 00:33:06,334
+o Šri Ganėša tris kartus apėjo aplink savo motiną
 
 394
 00:33:07,125 --> 00:33:10,417
-Ir laimėjo prizą!
+ir laimėjo prizą!
 
 395
-00:33:12,125 --> 00:33:16,208
+00:33:12,125 --> 00:33:16,209
 Ji jam buvo pati aukščiausia dėl jos motiniškų savybių!
 
 396
-00:33:16,291 --> 00:33:19,125
+00:33:16,292 --> 00:33:19,125
 Netgi aukštesnė už Sadašivą.
 
 397
-00:33:21,709 --> 00:33:24,999
-Nors tai neįtikėtina, bet tai labiausiai ir patinka Sadašyvai.
+00:33:21,709 --> 00:33:25,000
+Nors tai neįtikėtina, bet Sadašivai labiausiai ir patinka,
 
 398
-00:33:25,291 --> 00:33:28,834
-Tai, kad jūs gerbiate savo motiną. Motiniškumą savyje.
+00:33:25,292 --> 00:33:28,834
+kad jūs gerbiate savo motiną, motiniškumą savyje,
 
 399
-00:33:29,917 --> 00:33:31,999
-Moteriškumą savyje.
+00:33:29,918 --> 00:33:32,000
+moteriškumą savyje.
 
 400
-00:33:32,750 --> 00:33:39,417
-„Ten, kur gerbtinos ir gerbiamos moterys -
+00:33:32,751 --> 00:33:39,417
+„Ten, kur gerbtinos ir gerbiamos moterys,
 
 401
-00:33:39,500 --> 00:33:41,709
-ten gyvena Dievai.
+00:33:39,501 --> 00:33:41,709
+ten gyvena dievai.
 
 402
-00:33:42,625 --> 00:33:44,417
-Moterys yra labai svarbios.
+00:33:42,626 --> 00:33:44,417
+Moterys yra labai svarbios.“.
 
 403
-00:33:44,458 --> 00:33:46,792
+00:33:44,459 --> 00:33:46,792
 Be abejo, aš turiu kaltinti ir vakariečius vyrus,
 
 404
 00:33:46,834 --> 00:33:49,000
-jų liguistą elgesį su savo moterimis,
+jų liguistą elgesį su savo moterimis:
 
 405
 00:33:49,417 --> 00:33:53,083
 jie laikė jas atskyrę nuo religijos, visada jas žemino...
 
 406
-00:33:53,166 --> 00:33:55,000
+00:33:53,167 --> 00:33:55,000
 Indijoje taip darė musulmonai,
 
 407
-00:33:55,208 --> 00:33:58,834
+00:33:55,209 --> 00:33:58,834
 jie labai modernūs agresoriai,
 
 408
-00:33:58,875 --> 00:34:02,625
-jie labai blogai elgėsi ir žemino jas.
+00:33:58,876 --> 00:34:02,626
+labai blogai elgėsi ir žemino jas,
 
 409
-00:34:02,667 --> 00:34:04,999
-Bet nesvarbu.
+00:34:02,667 --> 00:34:05,000
+bet nesvarbu.
 
 410
 00:34:06,000 --> 00:34:13,000
 Vis tiek atleiskite jiems ir pasistenkite būti moterimis.
 
 411
-00:34:13,208 --> 00:34:20,834
-Labai galinga. Moters galia slypi meilėje,
+00:34:13,209 --> 00:34:20,834
+Labai galingomis. Moters galia slypi meilėje,
 
 412
-00:34:21,000 --> 00:34:27,625
+00:34:21,000 --> 00:34:27,626
 kuri yra paties Dievo galia. Ir tai turi buti naudojama
 
 413
-00:34:27,750 --> 00:34:31,834
+00:34:27,751 --> 00:34:31,834
 vietoj argumentuoto intelektualizmo, visų nesąmonių.
 
 414
-00:34:32,709 --> 00:34:34,625
+00:34:32,709 --> 00:34:34,626
 Nešvaistykite tam savo energijos.
 
 415
-00:34:34,999 --> 00:34:38,625
+00:34:35,000 --> 00:34:38,626
 Ypač norėčiau, kad Vokietijos Sahadža jogės taptų
 
 416
 00:34:40,083 --> 00:34:43,000
-vis labiau panašesnės į damas.
+kuo panašesnės į damas.
 
 417
-00:34:43,959 --> 00:34:48,291
+00:34:43,959 --> 00:34:48,292
 Tai reiškia ne vien tik sugebėjimą gerai maitinti, bet ir požiūrį į gyvenimą.
 
 418
@@ -1671,31 +1671,31 @@ Tai reiškia ne vien tik sugebėjimą gerai maitinti, bet ir požiūrį į gyven
 Mąstant plačiąja prasme,
 
 419
-00:34:54,417 --> 00:34:58,333
-visa Sahadža Joga priklauso nuo mūsų gebėjimo mylėti.
+00:34:54,417 --> 00:34:58,334
+visa Sahadža joga priklauso nuo mūsų gebėjimo mylėti.
 
 420
 00:34:58,417 --> 00:35:02,125
-Mes turime būti ypač mylinčios, ypač malonios,
+Mes turime būti itin mylinčios, malonios,
 
 421
-00:35:02,208 --> 00:35:05,667
+00:35:02,209 --> 00:35:05,667
 rūpintis Sahadža jogais,
 
 422
-00:35:07,999 --> 00:35:10,417
+00:35:08,000 --> 00:35:10,417
 duoti jiems visą įmanomą džiaugsmą.
 
 423
-00:35:13,291 --> 00:35:17,999
-Kitaip jie gali virsti vampyrais šioje šalyje.
+00:35:13,292 --> 00:35:18,000
+Kitaip jie gali pavirsti vampyrais šioje šalyje.
 
 424
-00:35:19,000 --> 00:35:23,291
-Taigi būkite atsargios, o vyrams pasakyčiau,
+00:35:19,000 --> 00:35:23,292
+Taigi būkite atsargios, o vyrams pasakyčiau:
 
 425
-00:35:23,333 --> 00:35:26,999
+00:35:23,334 --> 00:35:27,000
 jeigu yra tokių moterų, jūs turite gerbti,
 
 426
@@ -1704,107 +1704,107 @@ suteikti joms visas privilegijas, rūpintis jomis.
 
 427
 00:35:33,125 --> 00:35:35,834
-Jos prižiūri vaikus, tad suteikite savo pagalbą,
+Jos prižiūri vaikus, tad padėkite,
 
 428
-00:35:35,917 --> 00:35:39,125
+00:35:35,918 --> 00:35:39,125
 duokite pinigų, kiek joms reikia.
 
 429
-00:35:40,291 --> 00:35:43,834
-Neprašykite jų ataskaitų ir kitko, tegu jos tvarko tai.
+00:35:40,292 --> 00:35:43,834
+Neprašykite jų ataskaitų ir kitko, tegul jos tuo rūpinasi.
 
 430
-00:35:43,999 --> 00:35:47,500
+00:35:44,000 --> 00:35:47,501
 Dažniausiai jūs subankrutuojate – jums tai būdinga.
 
 431
 00:35:51,834 --> 00:35:56,083
-Bet pirmiausia žiūrėkite, koks jų santykis su Sahadža Joga.
+Bet pirmiausia žiūrėkite, koks jų santykis su Sahadža joga.
 
 432
 00:35:56,125 --> 00:36:01,125
-Aš pastebėjau, kad tose šeimose, kur moterys atsakingos už pinigus,
+Pastebėjau, kad tose šeimose, kur moterys yra atsakingos už pinigus,
 
 433
-00:36:01,208 --> 00:36:04,208
-visada skiriama daugiau pinigų Sahadža Jogos darbui,
+00:36:01,209 --> 00:36:04,209
+visada skiriama daugiau pinigų Sahadža jogos darbui,
 
 434
 00:36:04,417 --> 00:36:08,000
-negu tuose namuose, kur atsakingi vyrai.
+nei tuose namuose, kur atsakingi vyrai.
 
 435
 00:36:09,000 --> 00:36:12,542
 Tai labai netikėta. Kai vyrai atsakingi,
 
 436
-00:36:12,625 --> 00:36:15,208
-jie turi galvoti apie savo mašiną,
+00:36:12,626 --> 00:36:15,209
+jie turi galvoti apie savo automobilį,
 
 437
-00:36:16,750 --> 00:36:18,917
-turi galvoti apie daugelį dalykų,
+00:36:16,751 --> 00:36:18,918
+apie daugelį dalykų,
 
 438
-00:36:18,999 --> 00:36:23,083
-bet kai moterys tai valdo, jos žino, kaip sutaupyti pinigų;
+00:36:19,000 --> 00:36:23,083
+o kai už tai atsakingos moterys, jos žino, kaip sutaupyti pinigų;
 
 439
-00:36:23,166 --> 00:36:25,500
-aš jums pasakojau, kaip sutaupiau pinigus.
+00:36:23,167 --> 00:36:25,501
+aš jums pasakojau, kaip sutaupiau pinigų.
 
 440
-00:36:25,583 --> 00:36:28,750
+00:36:25,584 --> 00:36:28,751
 Vyrai negali taupyti. Niekada nesutaupo.
 
 441
-00:36:29,750 --> 00:36:32,542
-Tiktai moterys sutaupo, jei tik turi svarbesnių interesų,
+00:36:29,751 --> 00:36:32,542
+Tik moterys sutaupo, jei tik turi svarbesnių interesų,
 
 442
-00:36:32,625 --> 00:36:36,834
+00:36:32,626 --> 00:36:36,834
 tačiau jei jos pataikauja sau, tada išleidžia pinigus,
 
 443
-00:36:36,917 --> 00:36:40,083
+00:36:36,918 --> 00:36:40,083
 nes eidamos pirkti marškinių vyrui,
 
 444
-00:36:40,208 --> 00:36:44,208
-jos nusiperka daugybę sarių sau. Jos tai sugeba.
+00:36:40,209 --> 00:36:44,209
+nusiperka daugybę sarių sau. Jos tai sugeba.
 
 445
-00:36:45,291 --> 00:36:48,542
+00:36:45,292 --> 00:36:48,542
 Bet jei jos turi svarbesnių tikslų,
 
 446
-00:36:48,625 --> 00:36:53,208
+00:36:48,626 --> 00:36:53,209
 tada gali taip protingai naudoti pinigus,
 
 447
-00:36:53,291 --> 00:36:57,834
+00:36:53,292 --> 00:36:57,834
 kad visada turės pinigų kitoms išlaidoms. Ką aš darau?
 
 448
-00:36:57,917 --> 00:37:00,291
-Viską, ką man vyras duoda valdyti namuose –
+00:36:57,918 --> 00:37:00,292
+Visko, ką man duoda vyras pasirūpinti namais
 
 449
 00:37:00,417 --> 00:37:03,709
-tai yra gana daug, turėčiau pripažinti, bet aš neišlaidauju,
+(prisipažinsiu, tai yra gana daug), aš neišleidžiu,
 
 450
-00:37:03,792 --> 00:37:08,333
+00:37:03,792 --> 00:37:08,334
 einu į pagrindinius turgus, perku daiktus iš ten,
 
 451
 00:37:08,417 --> 00:37:11,709
-taip taupydama pinigus tam ir anam, net savo drabužiams.
+taip taupydama pinigus, neleidžiu net savo drabužiams.
 
 452
-00:37:11,834 --> 00:37:18,208
-Aš pirmą kartą daviau savo megztinius sauso valymo procedūrai geroje parduotuvėje.
+00:37:11,834 --> 00:37:18,209
+Pirmą kartą daviau savo megztinius sauso valymo procedūrai geroje parduotuvėje.
 
 453
 00:37:19,000 --> 00:37:23,834
@@ -1816,7 +1816,7 @@ Tai ir yra jos tikrasis pasitenkinimas.
 
 455
 00:37:29,000 --> 00:37:32,959
-Vystydami tokį subalansuotą požiūrį į vedybinį gyvenimą,
+Palaikydami tokį subalansuotą požiūrį į vedybinį gyvenimą,
 
 456
 00:37:33,000 --> 00:37:37,834
@@ -1824,26 +1824,26 @@ Vystydami tokį subalansuotą požiūrį į vedybinį gyvenimą,
 
 457
 00:37:38,542 --> 00:37:41,959
-Apie mokyklą aš irgi pasakiau labai aiškiai.
+Aš irgi labai aiškiai pasisakiau apie mokyklą.
 
 458
 00:37:42,000 --> 00:37:44,125
 Jei dabar norėtumėte apie tai išgirsti,
 
 459
-00:37:44,208 --> 00:37:46,999
-aš pasiteiraučiau, ar turite tą lankstinuką su savimi?
+00:37:44,209 --> 00:37:47,000
+paklausčiau, ar turite tą lankstinuką su savimi.
 
 460
 00:37:47,083 --> 00:37:49,834
 Norėjau paskaityti.
 
 461
-00:37:56,333 --> 00:38:03,917
+00:37:56,334 --> 00:38:03,918
 A? Neturite. Tai būdinga vyrams.
 
 462
-00:38:07,208 --> 00:38:10,750
+00:38:07,209 --> 00:38:10,751
 Jie patys sakė norintys paskaityti, ir štai matote.
 
 463
@@ -1851,35 +1851,35 @@ Jie patys sakė norintys paskaityti, ir štai matote.
 Jei paprašysi vyrų pagaminti, jie užmirš viską. Taigi…
 
 464
-00:38:24,625 --> 00:38:28,750
-Šri Matadži, norėčiau su visa pagarba paklausti Jūsų,
+00:38:24,626 --> 00:38:28,751
+[Jogas] Šri Matadži, norėčiau su visa pagarba paklausti Jūsų,
 
 465
-00:38:28,834 --> 00:38:32,917
+00:38:28,834 --> 00:38:32,918
 ar išvis yra koks pranašumas būti vyru?
 
 466
-00:38:46,208 --> 00:38:49,291
-Be vyro moteris negali išreikšti savęs.
+00:38:46,209 --> 00:38:49,292
+[Šri Matadži] Be vyro moteris negali išreikšti savęs.
 
 467
-00:38:49,417 --> 00:38:53,625
-Ji negali, nes ji yra potencinė (vidinė) energija.
+00:38:49,417 --> 00:38:53,626
+Ji negali, nes ji yra potencinė energija.
 
 468
-00:38:54,834 --> 00:38:58,625
-Jis yra kinetinė energija. Tai absoliučiai reliatyvi terminologija.
+00:38:54,834 --> 00:38:58,626
+O jis yra kinetinė energija. Tai absoliučiai reliatyvi terminologija.
 
 469
 00:38:58,709 --> 00:39:02,834
 Jūs negalite egzistuoti be vyro, tiesiog negalite.
 
 470
-00:39:02,917 --> 00:39:06,709
-Tarkim, jūs turite aromatą Motinoje Žemėje,
+00:39:02,918 --> 00:39:06,709
+Tarkim, Motinoje Žemėje yra aromatas,
 
 471
-00:39:06,834 --> 00:39:08,625
+00:39:06,834 --> 00:39:08,626
 bet kol nėra gėlių,
 
 472
@@ -1887,131 +1887,131 @@ bet kol nėra gėlių,
 jūs nežinote, ar Motina Žemė turi tą aromatą.
 
 473
-00:39:14,291 --> 00:39:17,291
+00:39:14,292 --> 00:39:17,292
 Vyrai yra patys svarbiausi, antraip ką jie čia veiktų?
 
 474
-00:39:17,333 --> 00:39:20,333
+00:39:17,334 --> 00:39:20,334
 Kitaip visa jų energija nueis perniek.
 
 475
-00:39:26,083 --> 00:39:29,500
+00:39:26,083 --> 00:39:29,501
 Taigi, jei moterys yra Motina Žemė – jūs esate gėlės.
 
 476
 00:39:34,083 --> 00:39:39,709
-Koks pranašumas? Jus esate žmonės, žmonės, kuriuos mato visi.
+Koks pranašumas? Jus esate žmonės, žmonės, kuriuos visi mato.
 
 477
-00:39:46,750 --> 00:39:49,750
-Bėgantys aplinkui kaip Kartikėja…
+00:39:46,751 --> 00:39:49,751
+Bėgantys aplinkui kaip Kartikėja.
 
 478
-00:39:55,333 --> 00:39:59,083
-Ką mes galime padaryti? Jūs esate tokie.
+00:39:55,334 --> 00:39:59,083
+Ką galime padaryti? Tokie esate.
 
 479
-00:39:59,917 --> 00:40:05,625
-Jūs negalite sėdėti namuose. Netgi traukinyje,
+00:39:59,918 --> 00:40:05,626
+Jūs negalite sėdėti namuose. Netgi keliaudami
 
 480
 00:40:05,709 --> 00:40:09,542
-jei važiuojate, pamatysite – vos tik traukinys sustos,
+traukiniu pamatysite: vos tik traukinys sustos,
 
 481
-00:40:09,625 --> 00:40:12,999
+00:40:09,626 --> 00:40:13,000
 visi vyrai išlips iš traukinio. Jie negali išsėdėti.
 
 482
-00:40:18,625 --> 00:40:22,709
+00:40:18,626 --> 00:40:22,709
 Kaip antai, aš tariau savo vyrui:
 
 483
-00:40:22,750 --> 00:40:25,834
-„Kas yra, kad tu visą laiką bėgi iš namų?
+00:40:22,751 --> 00:40:25,834
+„Kas yra, kad tu nuolat bėgi iš namų?
 
 484
-00:40:25,999 --> 00:40:28,417
-Kodėl negali pasėdėti namuose kurį laiką? Tu turi prisėsti“.
+00:40:26,000 --> 00:40:28,417
+Kodėl negali pasėdėti namuose kurį laiką? Turi prisėsti.“.
 
 485
-00:40:28,625 --> 00:40:33,291
+00:40:28,626 --> 00:40:33,292
 Tada jis atsakė: „Ne, jei kuris nors iš vyrų sėdi namuose,
 
 486
-00:40:33,333 --> 00:40:34,834
-jį vadina… kargosna,
+00:40:33,334 --> 00:40:34,834
+jį vadina „kargosna“,
 
 487
-00:40:34,917 --> 00:40:37,750
-reiškia „tą, kuris yra visada namuose”.
+00:40:34,918 --> 00:40:37,751
+reiškia „tą, kuris yra visada namuose“.
 
 488
-00:40:37,834 --> 00:40:39,333
+00:40:37,834 --> 00:40:39,334
 Ir aš pasakiau: „O kaip jie vadina vyrą,
 
 489
 00:40:39,417 --> 00:40:41,125
-kuris visada bėga iš namų? Karpagna?
+kuris visada bėga iš namų? „Karpagna“?“.
 
 490
-00:40:41,208 --> 00:40:43,917
-kas reiškia bėgimą, tą, kuris pabėga.
+00:40:41,209 --> 00:40:43,918
+Tai reiškia bėglį, tą, kuris pabėga.
 
 491
-00:40:43,999 --> 00:40:45,709
+00:40:44,000 --> 00:40:45,709
 Turi būti kažkas tarpinio.
 
 492
-00:40:45,750 --> 00:40:47,834
-Bet tai vyriška, viskas gerai.
+00:40:45,751 --> 00:40:47,834
+Bet tai būdinga vyrams, viskas gerai.
 
 493
-00:40:47,875 --> 00:40:50,959
-Tačiau dėl Sahadža Jogos mes galime
+00:40:47,876 --> 00:40:50,959
+Tačiau Sahadža joga padeda
 
 494
-00:40:50,999 --> 00:40:54,834
-gauti balansą tarp šių dviejų kraštutinumų.
+00:40:51,000 --> 00:40:54,834
+pasiekti balansą tarp šių dviejų kraštutinumų.
 
 495
-00:40:57,709 --> 00:41:00,917
-Tai ir yra Sahadža Joga – tai, kas suteikia balansą.
+00:40:57,709 --> 00:41:00,918
+Tai ir yra Sahadža joga – tai, kas suteikia balansą.
 
 496
 00:41:01,000 --> 00:41:04,542
-Tada jūs pradedate labiau mėgautis vienas kito kompanija, taip,
+Tada jūs pradedate labiau mėgautis vienas kito kompanija,
 
 497
-00:41:04,625 --> 00:41:08,000
-kad mėgaujatės buvimu namuose taip pat, kaip buvimu kitur.
+00:41:04,626 --> 00:41:08,000
+mėgaujatės buvimu namuose tiek pat, kiek buvimu kitur.
 
 498
-00:41:08,208 --> 00:41:12,291
-Taigi jūs galite būti kartu namuose, taip pat kaip kitur.
+00:41:08,209 --> 00:41:12,292
+Taigi galite būti namuose taip pat kaip ir kitur.
 
 499
-00:41:13,959 --> 00:41:18,208
-Interesai vienodi, nes tikslas tas pats.
+00:41:13,959 --> 00:41:18,209
+Vienodi interesai, nes tas pats tikslas.
 
 500
 00:41:20,083 --> 00:41:23,959
-Tai kaip gėlės, kurios krisdamos ant Motinos Žemės,
+Tai tarsi gėlės, kurios krisdamos ant Motinos Žemės,
 
 501
 00:41:25,083 --> 00:41:27,000
 suteikia jai aromatą,
 
 502
-00:41:27,208 --> 00:41:29,917
-ir mes galime sakyti, kad Žemė kvapni.
+00:41:27,209 --> 00:41:29,918
+ir mes sakome, kad Žemė yra kvapni.
 
 503
 00:41:31,542 --> 00:41:37,000
-Tai lygiai taip pat gražu. Gerai.
+Lygiai taip pat gražu.
 
 504
-00:41:38,208 --> 00:41:41,083
+00:41:38,209 --> 00:41:41,083
 Taigi dėl švietimo aš jau daviau instrukcijas
 
 505
@@ -2019,730 +2019,254 @@ Taigi dėl švietimo aš jau daviau instrukcijas
 ir jau sakiau,
 
 506
-00:41:43,875 --> 00:41:47,542
-kad neturime dėl Marijos Montessori kelti didelio triukšmo
+00:41:43,876 --> 00:41:47,542
+kad neturime dėl Marijos Montesori kelti didelio triukšmo
 
 507
-00:41:47,583 --> 00:41:52,834
-ir t.t., ir pan. Mes turėsime Sahadža Jogos mokyklas.
+00:41:47,584 --> 00:41:52,834
+ir ir pan. Mes turėsime Sahadža jogos mokyklas.
 
 508
-00:41:52,917 --> 00:41:55,333
-Visa tai nesąmonė, nes aš mačiau
+00:41:52,918 --> 00:41:55,334
+Visa tai – nesąmonė, nes aš mačiau
 
 509
 00:41:55,417 --> 00:41:57,000
 tas moteris, kurios moko Montesori būdu,
 
 510
-00:41:57,208 --> 00:41:59,834
+00:41:57,209 --> 00:41:59,834
 jos tapo pasibaisėtinomis.
 
 511
-00:42:01,500 --> 00:42:06,083
-Buvau nustebusi, koks didelis jų ego, kurį jos savyje užaugino.
+00:42:01,501 --> 00:42:06,083
+Buvau nustebusi, kokį didžiulį ego jos užsiaugino savyje.
 
 512
-00:42:07,291 --> 00:42:10,625
-Taigi jūs tapkite Sahadža Jogos mokytojais,
+00:42:07,292 --> 00:42:10,626
+Taigi, tapkite Sahadža jogos mokytojais
 
 513
 00:42:11,000 --> 00:42:13,125
-ir tada atsiras Sahadža Jogos mokykla.
+ir tada atsiras Sahadža jogos mokykla.
 
 514
-00:42:13,208 --> 00:42:21,125
-Sidnėjuje arba... Melburne...
+00:42:13,209 --> 00:42:21,125
+Sidnėjuje arba Melburne.
 
 515
-00:42:21,208 --> 00:42:24,750
-Mes atidarėme mokyklą Melburne labai gražiai,
+00:42:21,209 --> 00:42:24,751
+Mes labai sklandžiai atidarėme mokyklą Melburne,
 
 516
-00:42:25,000 --> 00:42:28,208
+00:42:25,000 --> 00:42:28,209
 dabar turėsime tokią pačią mokyklą Sidnėjuje.
 
 517
 00:42:28,542 --> 00:42:31,959
-Tai atvira Sahadža Jogos mokykla, dėl to nėra jokių abejonių.
+Tai – atvira Sahadža jogos mokykla, dėl to nėra jokių abejonių.
 
 518
-00:42:32,000 --> 00:42:34,625
-Tai yra vieša Sahadža Jogos mokykla,
+00:42:32,000 --> 00:42:34,626
+Tai yra vieša Sahadža jogos mokykla,
 
 519
-00:42:34,834 --> 00:42:38,333
+00:42:34,834 --> 00:42:38,334
 ir dėl to žmonės tiek daug pasiekė.
 
 520
-00:42:39,083 --> 00:42:41,750
-Kodėl mes turime siekti, sekdami šiuo pavyzdžiu?
+00:42:39,083 --> 00:42:41,751
+Kodėl turime stengtis, sekdami šiuo pavyzdžiu?
 
 521
 00:42:41,834 --> 00:42:44,834
-Mes visi turime eiti ir sakyti, kad tai Sahadža Jogos mokykla.
+Visi turime eiti ir sakyti, kad tai yra Sahadža jogos mokykla.
 
 522
-00:42:44,917 --> 00:42:48,000
-Taigi jūs, mokytojai, taip pat tampate Sahadža Jogos ekspertais,
+00:42:44,918 --> 00:42:48,000
+Taigi jūs, mokytojai, taip pat tampate Sahadža jogos ekspertais,
 
 523
-00:42:48,417 --> 00:42:53,333
-todėl turite būti geri Sahadža jogai, jogės.
+00:42:48,417 --> 00:42:53,334
+todėl turite būti geri Sahadža jogai ir jogės.
 
 524
 00:42:53,417 --> 00:42:56,959
 Jie neturi būti egoistiški, juose neturi būti ego,
 
 525
-00:42:57,000 --> 00:42:57,917
-neturi būti atviri negatyvui.
+00:42:57,000 --> 00:42:57,918
+neturi būti atviri negatyvumui.
 
 526
-00:42:58,000 --> 00:43:00,500
-Kiekvienas, kuris atviras negatyvui, nėra geras Sahadža Jogos mokytojas.
+00:42:58,000 --> 00:43:00,501
+Tas, kad atviras negatyvumui, nėra geras Sahadža jogos mokytojas.
 
 527
-00:43:00,542 --> 00:43:05,291
-Ne taip kaip... Marijos Montessori mokykloje:
+00:43:00,542 --> 00:43:05,292
+Ne taip kaip Marijos Montesori mokykloje:
 
 528
-00:43:05,333 --> 00:43:07,917
-mokytoja geria mokykloje, rūko,
+00:43:05,334 --> 00:43:07,918
+mokytoja mokykloje geria, rūko,
 
 529
-00:43:07,959 --> 00:43:10,500
-o ryte ji – „Marijos Montessori“ mokytoja.
+00:43:07,959 --> 00:43:10,501
+o ryte ji – Marijos Montesori mokytoja.
 
 530
-00:43:11,291 --> 00:43:13,291
-Čia pirmiausia jūs turite būti Sahadža jogai
+00:43:11,292 --> 00:43:13,292
+Čia pirmiausia jūs turite būti Sahadža jogai,
 
 531
-00:43:13,333 --> 00:43:17,083
-ir tik tada galite mokyti Sahadža Jogos mokykloje.
+00:43:13,334 --> 00:43:17,083
+o tik tada galite mokyti Sahadža jogos mokykloje.
 
 532
-00:43:18,333 --> 00:43:21,417
+00:43:18,334 --> 00:43:21,417
 Privalote turėti tą savybę, svarbią tiek pat,
 
 533
-00:43:21,500 --> 00:43:25,208
-kiek svarbu yra turėti studentų, kurie yra realizuotos dvasios,
+00:43:21,501 --> 00:43:25,209
+kiek svarbu turėti mokinių, kurie yra realizuotos sielos,
 
 534
-00:43:25,291 --> 00:43:27,083
-arba tų, kurie galėtų gauti realizaciją.
+00:43:25,292 --> 00:43:27,083
+arba tų, kurie galėtų gauti Realizaciją.
 
 535
-00:43:29,333 --> 00:43:35,083
+00:43:29,334 --> 00:43:35,083
 Gerai, šiandienos pudža yra specialiai skirta Kartikėjai.
 
 536
 00:43:36,542 --> 00:43:53,709
-Kartikėja reprezentuoja didį, galime sakyti, visų ganų kapitoną arba lyderį,
+Galime sakyti, Kartikėja reprezentuoja didį visų ganų kapitoną arba lyderį,
 
 537
 00:43:55,125 --> 00:44:01,000
-visų vyriausią kariuomenės vadą.
+vyriausiąjį kariuomenės vadą.
 
 538
-00:44:02,500 --> 00:44:07,208
-Ganėša yra karalius, bet jis yra vyriausias vadas,
+00:44:02,501 --> 00:44:07,209
+Ganėša yra karalius, o Jis yra vyriausias vadas,
 
 539
-00:44:07,291 --> 00:44:14,625
+00:44:07,292 --> 00:44:14,626
 ir todėl, kad vokiečių charakteriui būdinga viskam vadovauti,
 
 540
-00:44:14,999 --> 00:44:18,959
+00:44:15,000 --> 00:44:18,959
 mes turėsime pudžą,
 
 541
-00:44:19,000 --> 00:44:24,500
-kur vyrai valdys savo dvasią
+00:44:19,000 --> 00:44:24,501
+kur vyrai valdys savo Dvasią
 
 542
-00:44:26,000 --> 00:44:27,750
+00:44:26,000 --> 00:44:27,751
 ir savo vyriškas savybes,
 
 543
-00:44:28,542 --> 00:44:32,500
-o moterys pasikliaus savo moteriškom savybėm.
+00:44:28,542 --> 00:44:32,501
+o moterys pasikliaus savo moteriškomis savybėmis.
 
 544
 00:44:33,542 --> 00:44:38,959
-Būti vadovu yra kitaip, nei būti šeimininku.
+Būti vadovu yra kitaip nei būti šeimininku.
 
 545
-00:44:40,291 --> 00:44:43,917
-Šeimininkas valdo, o generolas ne.
+00:44:40,292 --> 00:44:43,918
+Šeimininkui tai priklauso, o generolui – ne.
 
 546
-00:44:46,291 --> 00:44:50,917
-Jam nepriklauso tai, kas ir taip prarasta.
+00:44:46,292 --> 00:44:50,918
+Jam tai nepriklauso, jis tik vadovauja.
 
 547
-00:44:51,625 --> 00:44:54,959
-Valdymas taip pat prarastas, mes tik kontroliuojame jį.
+00:44:51,626 --> 00:44:54,959
+Nelieka nuosavybės, tik vadovaujame.
 
 548
 00:44:57,125 --> 00:44:59,959
-Tai yra lygmuo, į kurį turime pakilti dabar,
+Metas pasiekti šį lygį –
 
 549
 00:45:00,000 --> 00:45:07,417
 iš Ganėšos lygmens į Kartikėjos.
 
 550
-00:45:07,500 --> 00:45:08,917
-Viskas atvirkščiai.
+00:45:07,501 --> 00:45:08,918
+Iš kitos pusės.
 
 551
-00:45:08,959 --> 00:45:11,208
-Ganėša yra mielas, jis karalius,
+00:45:08,959 --> 00:45:11,209
+Ganėša yra mielas, jis – karalius,
 
 552
-00:45:11,291 --> 00:45:16,999
-labai gražiai sėdintis su visomis energijomis, tiesa?
+00:45:11,292 --> 00:45:17,000
+labai gražiai sėdintis ir turintis visas galias, tiesa?
 
 553
-00:45:17,125 --> 00:45:20,500
-Nekaltumas yra čia,
+00:45:17,125 --> 00:45:20,501
+Čia yra tyrumas,
 
 554
 00:45:20,542 --> 00:45:27,709
-bet Katikėja yra tas, kuris kontroliuoja nekaltumą,
+tačiau Katikėja yra tas, kuris vadovauja tyrumui,
 
 555
-00:45:29,542 --> 00:45:32,750
-duoda jums kontroliavimo galią.
+00:45:29,542 --> 00:45:32,751
+suteikia jums vadovavimosi galią.
 
 556
-00:45:35,458 --> 00:45:38,291
-Jis vadovauja. Po Guru pudžos butų geriau,
+00:45:35,459 --> 00:45:38,292
+Jis vadovauja. Po Guru pudžos būtų geriau,
 
 557
-00:45:38,417 --> 00:45:42,625
-jei mes turėtume jėgą vadovauti kitiems,
+00:45:38,417 --> 00:45:42,626
+jei turėtume galią vadovauti kitiems,
 
 558
 00:45:43,000 --> 00:45:50,417
-ir šita vadovavimo dvasia pasireiškia vyruose
+ir ši vadovavimo dvasia pasireiškia vyruose
 
 559
-00:45:50,500 --> 00:45:55,999
-per jų kalbą, per jų dinamiškumą,
+00:45:50,501 --> 00:45:56,000
+per jų kalbą, jų dinamiškumą,
 
 560
-00:45:56,000 --> 00:45:59,208
-per jų asmeninius pasiekimus;
+00:45:56,000 --> 00:45:59,209
+asmeninius pasiekimus;
 
 561
-00:45:59,291 --> 00:46:03,500
+00:45:59,292 --> 00:46:03,501
 moteryse – per jų meilės energiją,
 
 562
-00:46:03,583 --> 00:46:09,125
-savitvardą, per jų malonų elgesį,
+00:46:03,584 --> 00:46:09,125
+savitvardą, malonų elgesį,
 
 563
-00:46:10,542 --> 00:46:13,208
-atleidimą, užuojautą.
+00:46:10,542 --> 00:46:13,209
+atleidimą, atjautą.
 
 564
-00:46:13,417 --> 00:46:18,625
-Taigi išsiaiškinkime šiandien, kad galime tai valdyti,
+00:46:13,417 --> 00:46:18,626
+Taigi šiandien išsiaiškinkime, kad galime tai valdyti,
 
 565
 00:46:18,834 --> 00:46:21,792
-nors dar nereiškia, kad privalome,
+tai nereiškia, kad turime,
 
 566
 00:46:21,834 --> 00:46:24,417
-tiesiog mes jau turime tokią galimybę.
+o tiesiog galime valdyti.
 
 567
-00:46:25,208 --> 00:46:28,709
+00:46:25,209 --> 00:46:28,709
 Tikiuosi, suprantate, kas yra Kartikėja.
 
 568
-00:46:28,750 --> 00:46:31,125
-Telaimina jus Dievas.00:46:34:13 00:46:37:11 Taigi, pradėkime Pudžą.
-
-569
-00:46:49,999 --> 00:46:55,291
-Kas padarė šitą? Ar tu padarei šitą Ganešą?
-
-570
-00:46:55,417 --> 00:46:57,917
-Koks mielas daiktas.
-
-571
-00:47:01,417 --> 00:47:06,834
-Tu labai gera, turiu pasakyti. Telaimina tave Dievas!
-
-572
-00:47:12,250 --> 00:47:17,333
-Lai ateina keletas vokiečių taip pat.
-
-573
-00:47:29,999 --> 00:47:33,417
-Tegul ateina daugiau žmonių iš Vokietijos.
-
-574
-00:47:34,999 --> 00:47:37,792
-Taip pat ir moterys, žinoma.
-
-575
-00:48:43,999 --> 00:48:46,959
-Ar ta, kuri padarė Ganešą, taip pat vokietė?
-
-576
-00:48:50,875 --> 00:48:54,999
-Ji(s) taip pat turėtų plauti.
-
-577
-00:49:06,166 --> 00:49:10,000
-Visi, kurie rašė man, prašydami atvykti į Vokietiją,
-
-578
-00:49:10,125 --> 00:49:12,792
-turėtų ateiti plauti Mano pėdas.
-
-579
-00:49:13,041 --> 00:49:16,750
-Telaimina jus Dievas! Telaimina jus Dievas! Dėkoju!
-
-580
-00:49:18,999 --> 00:49:25,834
-Išmeskite tai iš savęs. Dabar išmeskite. To nereikia.
-
-581
-00:55:48,875 --> 00:55:50,583
-Mes ją pavadinsime Kamala, Kamala.
-
-582
-00:55:50,999 --> 00:55:53,500
-Kamala – tai dievybės vardas, ar gerai?
-
-583
-00:55:53,667 --> 00:56:02,166
-Kamal Lakšmi. Kamala. Telaimina tave Dievas.
-
-584
-00:56:20,834 --> 00:56:25,583
-Galime truputį padainuoti, nes dar yra dvi moterys.
-
-585
-00:56:27,834 --> 00:56:31,667
-Taip pat ir Hugo dar turi tai padaryti.
-
-586
-00:56:43,458 --> 00:56:46,208
-Gerai.
-
-587
-00:57:07,000 --> 00:57:10,000
-Užteks.
-
-588
-00:57:13,000 --> 00:57:15,000
-Telaimina tave Dievas.
-
-589
-00:57:19,000 --> 00:57:21,834
-Ateikite į kitą pusę.
-
-590
-00:57:23,000 --> 00:57:26,917
-Kas dabar bus moterys? Yra daugiau moterų? Viskas?
-
-591
-00:57:42,000 --> 00:57:44,000
-Gerai.
-
-592
-00:59:42,000 --> 00:59:46,083
-Naudokite tą patį vandenį.
-
-593
-01:00:46,417 --> 01:00:50,667
-Jie gali naudoti tą patį vandenį, nes jo jau perdaug ten yra.
-
-594
-01:04:36,000 --> 01:04:40,250
-Dabar galime sakyti tūkstantį Kartikėjos vardų.
-
-595
-01:04:41,625 --> 01:04:46,000
-Ne, 108.
-
-596
-01:04:49,083 --> 01:04:54,000
-Maniau, kad 1000 būtų gera mintis, tačiau sakykime 108.
-
-597
-01:04:58,999 --> 01:05:01,834
-Pažiūrėkime, kaip tai veiks su 108.
-
-598
-01:05:03,999 --> 01:05:06,166
-Sakykite garsiai.
-
-599
-01:05:56,417 --> 01:05:59,291
-Sakykite garsiai, nes neaišku.
-
-600
-01:06:05,999 --> 01:06:08,208
-Vis dar neaišku. Gaukite jam kitą [mikrofoną],
-
-601
-01:06:08,834 --> 01:06:10,625
-duokite jam dar vieną,
-
-602
-01:06:10,750 --> 01:06:14,000
-nes turi būti aišku, kitaip neturi prasmės.
-
-603
-01:28:54,417 --> 01:28:58,375
-Šie 108 vardai, jei pastebėjote,
-
-604
-01:28:59,792 --> 01:29:06,458
-parodo, kad Kartikėja yra nekaltumas,
-
-605
-01:29:06,834 --> 01:29:11,542
-kuris veikia dešinėje pusėje, Pingala kanale.
-
-606
-01:29:11,834 --> 01:29:17,000
-Ir taip pat yra labai susiję su Prana.
-
-607
-01:29:17,417 --> 01:29:23,208
-Tai duoda jums Praną. Prana – tai vitališkas kvėpavimas.
-
-608
-01:29:23,333 --> 01:29:26,166
-Tai įkvėpimas ir iškvėpimas.
-
-609
-01:29:26,417 --> 01:29:28,375
-taigi, tai yra susiję su dešiniąja puse.
-
-610
-01:29:28,500 --> 01:29:32,834
-Taip pat tai yra susiję su amžinybe – Anantari.
-
-611
-01:29:32,999 --> 01:29:37,834
-Anantar yra gyvatė – Šeša,
-
-612
-01:29:37,999 --> 01:29:41,458
-kuris yra Višnu brolis.
-
-613
-01:29:41,625 --> 01:29:46,999
-Jis yra čia parodytas kaip Kartikėja.
-
-614
-01:29:47,000 --> 01:29:49,417
-Jis vardu Anantar.
-
-615
-01:29:49,500 --> 01:29:51,375
-Taigi, jis yra ugnis.
-
-616
-01:29:52,000 --> 01:29:58,583
-Jis yra tas, kuris uždega jumyse
-
-617
-01:29:58,667 --> 01:30:01,000
-galią naikinti,
-
-618
-01:30:02,000 --> 01:30:07,000
-taip pat sugebėjimą vadovauti žmonėms
-
-619
-01:30:07,417 --> 01:30:16,750
-ir suteikia jums daugybę talentų.
-
-620
-01:30:16,875 --> 01:30:20,917
-Matote, nekaltas žmogus gali būti labai talentingas.
-
-621
-01:30:20,999 --> 01:30:27,792
-Visos šios savybės yra išreikštos Kartikėjos Svarupoje -
-
-622
-01:30:27,875 --> 01:30:30,000
-jo būvyje.
-
-623
-01:30:30,208 --> 01:30:34,000
-Šiandien, lenkdamiesi Kartikėjai, turime žinoti,
-
-624
-01:30:34,417 --> 01:30:38,250
-kad Kartikėja dabar yra pažadinta mumyse.
-
-625
-01:30:38,999 --> 01:30:44,999
-Mes šia galia turime kovoti.
-
-626
-01:30:45,208 --> 01:30:47,000
-Galų gale Jis yra Niškalanka.
-
-627
-01:30:47,208 --> 01:30:49,417
-Tai Jis yra kovotojas.
-
-628
-01:30:49,500 --> 01:30:53,999
-Taigi, nuo Ganešos iki Kristaus ir iki Niškalankos.
-
-629
-01:30:54,208 --> 01:30:56,208
-Tai yra trys etapai,
-
-630
-01:30:56,291 --> 01:30:59,208
-kuriuose yra nekaltumas.
-
-631
-01:30:59,291 --> 01:31:07,834
-Nuo Ganešos iki Kartikėjos ir, dabar, iki Kristaus.
-
-632
-01:31:07,999 --> 01:31:11,208
-Ir nuo Kristaus iki Niškalankos.
-
-633
-01:31:11,417 --> 01:31:14,834
-Niškalankos formoje. Jis nekaltas.
-
-634
-01:31:14,917 --> 01:31:18,208
-Reškia, nėra Kalankos, nėra dėmelės ant jo, nieko.
-
-635
-01:31:18,291 --> 01:31:20,417
-Jis absoliučiai švarus, nepriekaištingas.
-
-636
-01:31:20,500 --> 01:31:22,999
-Be to, jis ugninis.
-
-637
-01:31:24,000 --> 01:31:27,500
-Taip pat jis turi visas Ekadeša Rudros ypatybes.
-
-638
-01:31:27,583 --> 01:31:31,709
-Tai reiškia, 11 Šivos jėgų savybes,
-
-639
-01:31:31,792 --> 01:31:33,709
-kurios gali naikinti…
-
-640
-01:31:33,999 --> 01:31:39,709
-Taigi, jis turi sugebėjimą užmušti ir nunaikinti blogį
-
-641
-01:31:39,875 --> 01:31:46,999
-ir laiminti bei drąsinti savo pasekėjus.
-
-642
-01:31:48,625 --> 01:31:52,375
-Tai yra paskutinė inkarnacija, vadinama Kalaki.
-
-643
-01:31:52,500 --> 01:31:56,166
-Paprastai sakome Kalaki, bet iš tikrųjų tai Niškalanka.
-
-644
-01:31:56,250 --> 01:31:58,000
-Ant balto žirgo.
-
-645
-01:31:58,125 --> 01:32:03,208
-Tai Kartikėja, kuris sėdi ant balto žirgo.
-
-646
-01:32:03,417 --> 01:32:06,999
-Taigi, kaip auga jumyse nekaltumas,
-
-647
-01:32:07,000 --> 01:32:11,417
-priklauso nuo Kartikėjos.
-
-648
-01:32:11,542 --> 01:32:14,999
-Tai buvo padaryta šiandien šioje žemėje,
-
-649
-01:32:15,000 --> 01:32:16,999
-Deutschland, kaip jūs vadinate,
-
-650
-01:32:17,000 --> 01:32:21,834
-kur Kartikėja turi gimti jumyse ir būti pažadinta.
-
-651
-01:32:21,999 --> 01:32:24,000
-Telaimina jus Dievas!
-
-652
-01:32:40,208 --> 01:32:43,000
-Dabar, jei norite galite padainuoti keletą dainų,
-
-653
-01:32:43,208 --> 01:32:45,999
-kaip “Ja Devi Sarva Butešu”, kuri jums patiktų.
-
-654
-01:32:46,083 --> 01:32:49,417
-Norėčiau pakviesti moteris, septynias vedusias moteris,
-
-655
-01:32:54,625 --> 01:32:56,417
-kad man padėtų.
-
-656
-01:32:56,500 --> 01:33:01,417
-Pirmiausia pakvieskite mažas mergaites, jei jos čia.
-
-657
-01:33:01,500 --> 01:33:03,625
-Mažosios, pasirodykite…
-
-658
-01:33:06,999 --> 01:33:10,041
-Truputį vėliau, kai puošite vainikais, gerai?
-
-659
-01:33:10,125 --> 01:33:12,999
-Dabar mergaitės turi ateiti.
-
-660
-01:33:13,000 --> 01:33:16,417
-Kur jos yra? Turi ateiti visos mergaitės.
-
-661
-01:33:16,500 --> 01:33:18,417
-Kur kitos mergaitės, kur jos?
-
-662
-01:33:20,000 --> 01:33:25,417
-Gerai, prieikite arčiau. Prieikit prieikit.
-
-663
-01:33:28,000 --> 01:33:29,999
-Judvi taip pat prieikit.
-
-664
-01:33:30,000 --> 01:33:34,000
-Gerai, jūs irgi ateikite, abi.
-
-665
-01:33:44,417 --> 01:33:46,500
-Sėskitės. Sėskitės. Jeigu yra
-
-666
-01:33:47,625 --> 01:33:53,834
-netekėjusių merginų, didelių netekėjusių mergaičių – ateikite.
-
-667
-01:34:02,999 --> 01:34:05,625
-Kas dar nesusituokusios.
-
-668
-01:34:07,000 --> 01:34:10,999
-Kas nors – ateikite.
-
-669
-01:34:20,000 --> 01:34:22,709
-Nuimkite šitą, man atrodo. Paprašykite kieno nors nuimti.
-
-670
-01:35:25,417 --> 01:35:29,792
-Gregoire:”Šri Matadži, prieš dainuojant himną Dievybei,
-
-671
-01:35:29,917 --> 01:35:35,917
-mes norėtume Tau paskaityti pataisytą Tėve Mūsų maldos versiją:
-
-672
-01:35:39,999 --> 01:35:41,208
-“Motina mūsų,
-
-673
-01:35:41,417 --> 01:35:43,000
-Kuri esi žemėje,
-
-674
-01:35:43,208 --> 01:35:45,709
-teesie šventas Tavo vardas,
-
-675
-01:35:45,999 --> 01:35:48,333
-teateinie Tavo karalystė
-
-676
-01:35:48,500 --> 01:35:50,500
-teesie Tavo valia,
-
-677
-01:35:50,625 --> 01:35:53,875
-kaip žemėje, taip ir danguje.
-
-678
-01:35:54,000 --> 01:35:58,208
-Savo dieviškų vibracijų duok mums šiandien,
-
-679
-01:35:58,417 --> 01:35:59,208
-Ir atleisk mums mūsų kaltes,
-
-680
-01:36:03,625 --> 01:36:04,834
-kaip ir mes atleidžiame
-
-681
-01:36:04,834 --> 01:36:07,208
-savo kaltininkams
-
-682
-01:36:07,208 --> 01:36:09,625
-ir vesk mus tolyn nuo Majos
-
-683
-01:36:10,208 --> 01:36:12,625
-Bet gelbėk mus nuo pikto
-
-684
-01:36:12,625 --> 01:36:14,417
-Vardan Tavo Tėvo,
-
-685
-01:36:15,000 --> 01:36:16,834
-vaikų ir šlovės,
-
-686
-01:36:16,834 --> 01:36:21,625
-Per amžių amžius. Amen.”
-
-687
-01:36:36,000 --> 01:36:40,208
-Labai miela…
+00:46:28,751 --> 00:46:31,125
+Telaimina jus Dievas.
 
