@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:04,808 --> 00:00:11,410
 "Ajatteluprosessi alkaa
 ehdollistumista tai egosta"
