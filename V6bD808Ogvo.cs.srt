@@ -413,3 +413,4 @@ myslím tím, jestli je můžete rozpustit v jejich vlastním elementu,
 104
 00:07:55,864 --> 00:08:01,936
 pak získáte více síly v tomto konkrétním těle.
+
