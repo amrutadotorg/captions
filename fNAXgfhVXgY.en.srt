@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:01,786 --> 00:00:06,906
 Today is a great day for all of us,
 

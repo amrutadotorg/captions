@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:06,748 --> 00:00:10,668
 Bu Sahastrara gününde,
 
@@ -1315,3 +1315,4 @@ Sahastrara'nın bu harika gününde karşılıyorum.
 327
 00:51:01,394 --> 00:51:05,394
 Tanrı hepinizi kutsasın.
+

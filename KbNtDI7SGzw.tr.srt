@@ -1,4 +1,4 @@
-﻿1
+1
 00:01:04,746 --> 00:01:07,706
 Easter Puja
  İstanbul (Türkiye)
@@ -1611,7 +1611,6 @@ Başkalarından bir şey istemiyoruz.
 
 362
 00:46:04,122 --> 00:46:06,949
-
 Şimdi istediğimiz şey nedir,
 
 363

@@ -1,6 +1,6 @@
 1
 00:00:01,999 --> 00:00:05,999
-Shri Diwali Puja,Temisoara (Romanya), 
+Shri Diwali Puja,Temisoara (Romanya),
 25 Ekim 1992.
 
 2
@@ -1830,3 +1830,4 @@ kendinize söz vermelisiniz.
 458
 01:13:17,959 --> 01:13:19,208
 Tanrı hepinizi kutsasın.
+

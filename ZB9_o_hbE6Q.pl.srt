@@ -976,7 +976,7 @@ Teraz więc rozpoczęła się ostatnia ewolucja
 
 245
 00:29:05,850 --> 00:29:11,790
-i ponownie ta Wszechprzenikająca Siła stała się
+ i ponownie ta Wszechprzenikająca Siła stała się
 
 246
 00:29:12,260 --> 00:29:14,150
@@ -2280,7 +2280,7 @@ On to powiedział:
 
 571
 00:44:28,620 --> 00:44:31,710
-'Chrystusie, Chrystusie', a Ja was nie rozpoznam".
+ 'Chrystusie, Chrystusie', a Ja was nie rozpoznam".
 
 572
 00:44:32,100 --> 00:44:34,610
@@ -2320,7 +2320,7 @@ jednak powinniście wiedzieć,
 
 581
 00:44:57,910 --> 00:45:00,890
-że nadal istnieje możliwość,
+ że nadal istnieje możliwość,
 
 582
 00:45:01,160 --> 00:45:03,510
@@ -2664,7 +2664,7 @@ Ale nie powinieneś mówić: "Matko,
 
 667
 00:49:14,750 --> 00:49:16,570
-proszę pomóż mi w poddaniu".
+ proszę pomóż mi w poddaniu".
 
 668
 00:49:16,790 --> 00:49:19,320
@@ -3721,3 +3721,4 @@ i mogą tu przyjść dzieci
 931
 01:02:19,220 --> 01:02:23,220
 w wieku od pięciu do dwunastu lat.
+

@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,001 --> 00:00:00,261
 A-TV Interview, Istanbul, Turkey
 2001-04-01
