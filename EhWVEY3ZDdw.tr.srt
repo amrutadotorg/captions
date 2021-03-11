@@ -1,6 +1,6 @@
 1
 00:00:05,750 --> 00:00:10,750
-Diwali Puja, Lake Piru, Los Angeles 
+Diwali Puja, Lake Piru, Los Angeles
 3 Kasım 2002
 
 2
@@ -1777,7 +1777,7 @@ Orada hiçbir şeyden vazgeçmek zorunda değilsiniz,
 
 445
 00:33:06,917 --> 00:33:12,625
-herhangi birşey görmek zorunda değilsiniz, 
+herhangi birşey görmek zorunda değilsiniz,
 sadece meditasyona girin
 
 446
@@ -1850,7 +1850,7 @@ böyle bir mutluluğun kaynağı,
 
 463
 00:34:24,792 --> 00:34:29,291
-demeliyim ki, gerçek aydınlanmanın kaynağı 
+demeliyim ki, gerçek aydınlanmanın kaynağı
 olduğunuza şaşıracaksınız.
 
 464
@@ -1896,3 +1896,4 @@ ve Sahaja Yoga'da nasıl
 474
 00:35:09,417 --> 00:35:11,959
 Çok teşekkürler
+
