@@ -4945,3 +4945,4 @@ mit kell mondani, csak kövessétek,
 1237
 01:06:57,850 --> 01:06:59,310
 és javulni fog.
+

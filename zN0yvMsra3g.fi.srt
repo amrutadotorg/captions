@@ -1,10 +1,10 @@
 ﻿1
-00:00:00,918 --> 00:00:01,959
+00:00:00,218 --> 00:00:02,459
 Syntymäpäiväpuja, Kalkutta (nyk. Kolkata), Intia
 21. maaliskuuta 1994
 
 2
-00:00:02,000 --> 00:00:18,000
+00:00:02,500 --> 00:00:18,500
 Joka vuosi vietämme monien ihmisten syntymäpäiviä,
 ja joka vuosi lupaamme, että tänä vuonna
 
@@ -56,7 +56,7 @@ Nykyään ihmiset hallitsevat koko ympäristöä.
 
 13
 00:02:23,542 --> 00:02:31,334
-En tiedä, kuinka kauan Paramachaitanya
+En tiedä, kuinka pitkään Paramachaitanya
 pitää huolta asioista,
 
 14
@@ -66,8 +66,8 @@ uusille ulottuvuuksille elämässämme.
 
 15
 00:02:43,792 --> 00:02:53,542
-Esimerkiksi, jos me introspektion kautta
-huomaamme, että me vieläkin
+Esimerkiksi jos me itsetutkiskelun kautta
+huomaamme, että vieläkin
 
 16
 00:02:53,542 --> 00:03:01,375
@@ -80,8 +80,8 @@ meidän ei tarvitse tehdä lupauksia.
 
 18
 00:03:05,375 --> 00:03:15,459
-Teidän tarvitsee vain todistaa sitä,
-ja todistaa tietä, jolle se on teidät vienyt.
+Teidän tarvitsee vain todistaa sitä
+tuhoisaa tietä, jolle se on teitä vienyt.
 
 19
 00:03:16,459 --> 00:03:19,417
@@ -94,7 +94,7 @@ koska nyt olette 'samarth',
 
 21
 00:03:30,209 --> 00:03:42,125
-eli, nyt teillä on täydelliset voimat.
+eli nyt teillä on täydelliset voimat.
 
 22
 00:03:43,125 --> 00:03:57,542
@@ -157,12 +157,12 @@ Pysytte nykyhetkessä.
 
 36
 00:05:49,626 --> 00:05:54,209
-Joku päivä sitten joku kysyi Minulta:
+Vähän aikaa sitten joku kysyi Minulta:
 Missä vietitte edellistä syntymäpäiväänne?
 
 37
 00:05:54,209 --> 00:05:59,959
-Olin unohtanut missä se oli.
+Olin unohtanut, missä se oli.
 
 38
 00:05:59,959 --> 00:06:06,626
@@ -174,12 +174,12 @@ Mutta tämän olin unohtanut.
 
 40
 00:06:09,918 --> 00:06:23,167
-Ehkäpä, kun joka hetki, joka päivä
+Ehkäpä kun joka hetki, joka päivä
 elää nykyhetkessä ja kasvaa,
 
 41
 00:06:24,167 --> 00:06:31,167
-niin unohtaa milloin ja missä tämä kasvu on tapahtunut.
+niin unohtaa, milloin ja missä tämä kasvu on tapahtunut.
 
 42
 00:06:33,167 --> 00:06:39,083
@@ -260,7 +260,7 @@ sellaiseen pyhään armoon, että unohdatte sen hetken.
 59
 00:09:46,584 --> 00:09:52,999
 Yksi niistä hetkistä on se,
-kun juhlitte Minun Syntymäpäivääni.
+kun juhlitte Minun syntymäpäivääni.
 
 60
 00:09:52,999 --> 00:09:59,000
@@ -270,7 +270,7 @@ olen elänyt täällä Maan päällä.
 61
 00:10:00,209 --> 00:10:08,584
 Joskus sanon, että olen 73,
-joskus sanon, että 70 - en vain tiedä.
+joskus sanon, että 70 – en vain tiedä.
 
 62
 00:10:08,792 --> 00:10:22,834
@@ -283,7 +283,7 @@ tähän autuaalliseen tilaan.
 
 64
 00:10:26,250 --> 00:10:34,542
-Kuten, voisitte joskus kuvitella menevänne katsomaan
+Kuten voisitte joskus kuvitella menevänne katsomaan
 jotakin kaunista, kuten Taj Mahalia,
 
 65
@@ -293,11 +293,11 @@ näkisitte edessänne todella kauniin rakennuksen.
 
 66
 00:10:46,959 --> 00:10:51,542
-Silmät sidottuina, kuten sanotaan.
+Mykistytte, kuten sanotaan.
 
 67
 00:10:51,542 --> 00:11:00,542
-Hindiksi, 'awak'. Ette tiedä miten
+Hindiksi, 'awak'. Ette tiedä, miten
 ilmaista itseänne, tulette sanattomaksi.
 
 68
@@ -387,13 +387,13 @@ Sillä hetkellä tulette täysin ajatuksettomiksi,
 ja sillä hetkellä meidän pitää todella nauttia.
 
 88
-00:13:42,292 --> 00:13:50,751
+00:13:42,292 --> 00:13:51,351
 Nykyajan suurin kirous on kello,
-jota pidämme koko ajan mukanamme.
+tai aikataulut, joista yritämme pitää kiinni.
 
 89
 00:13:52,751 --> 00:14:04,918
-Katsomme koko ajan paljonko kello on,
+Katsomme koko ajan, paljonko kello on,
 
 90
 00:14:04,918 --> 00:14:10,375
@@ -414,7 +414,7 @@ Voitte kokea sen.
 
 94
 00:14:28,417 --> 00:14:32,542
-Joku päivä sitten olin tulossa Delhistä,
+Muutama päivä sitten olin tulossa Delhistä,
 
 95
 00:14:32,542 --> 00:14:39,417
@@ -456,7 +456,7 @@ saa ihmiset hermostumaan.
 103
 00:15:10,792 --> 00:15:19,459
 Kun heidän pitää mennä lentokoneelle,
-he käyttäytyvät kuin siellä olisi joku sota, tai jotain.
+he käyttäytyvät kuin siellä olisi joku sota tai jotain.
 
 104
 00:15:20,459 --> 00:15:27,959
@@ -487,8 +487,8 @@ Olimme Prahassa, ja meidän piti mennä Puolaan…
 
 110
 00:16:09,959 --> 00:16:14,709
-- taas Minulle käy samalla tavalla näiden
-kokemusten kanssa - Wienin kautta.
+– taas Minulle käy samalla tavalla näiden
+kokemusten kanssa – Wienin kautta.
 
 111
 00:16:15,709 --> 00:16:18,667
@@ -595,7 +595,7 @@ Minuutin sisällä täysin kirkas taivas täyttyi suurista pilvistä,
 134
 00:18:25,459 --> 00:18:33,375
 kuin valtavia elefantteja olisi kävellyt paikalle
-- todella suuria.
+– todella suuria.
 
 135
 00:18:33,375 --> 00:18:44,042
@@ -611,7 +611,7 @@ Kaikki muuttui aivan pikimustaksi.
 
 138
 00:18:50,292 --> 00:18:54,501
-"Näettekö, tämän miehen kyyneleet
+"Näettekö, tämän herrasmiehen kyyneleet
 ovat todella voimallisia."
 
 139
@@ -685,7 +685,7 @@ Koko lentokenttä katseli meitä aika hiljaisena,
 
 155
 00:20:02,834 --> 00:20:06,209
-ja kun kävelin - koneemme oli ainoa, joka oli lähdössä -
+ja kun kävelin – koneemme oli ainoa, joka oli lähdössä –,
 
 156
 00:20:06,209 --> 00:20:10,000
@@ -737,7 +737,7 @@ ja kun kävelin, tämä sama herra tuli luokseni.
 
 167
 00:20:54,584 --> 00:20:57,209
-Hän sanoi; "Ettekö voisi laittaa kättä selälleni?"
+Hän sanoi: "Ettekö voisi laittaa kättä selälleni?"
 
 168
 00:20:57,209 --> 00:20:59,667
@@ -813,7 +813,7 @@ Voisin kertoa teille tuhat ja yksi tarinaa,
 184
 00:22:29,876 --> 00:22:38,125
 miten viipymällä, myöhästymällä jostain paikasta,
-välittämättä ajasta kulusta,
+välittämättä ajan kulusta,
 
 185
 00:22:38,125 --> 00:22:46,999
@@ -849,12 +849,12 @@ Muistan, kuinka tässä maassa
 käytiin kamppailua itsenäisyydestä,
 
 192
-00:23:39,834 --> 00:23:47,876
+00:23:39,834 --> 00:23:48,276
 ja vanhempani taistelivat kaikella
 'tana, mana, dhana' -voimillaan (ruumis, sielu, varallisuus)
 
 193
-00:23:47,876 --> 00:23:53,876
+00:23:48,276 --> 00:23:54,276
 Silloin he eivät tarvinneet mitään itselleen.
 
 194
@@ -1010,7 +1010,7 @@ päästä Jumalan Valtakuntaan.
 
 228
 00:27:24,417 --> 00:27:37,459
-Eli, rauha voidaan saavuttaa vain
+Eli rauha voidaan saavuttaa vain
 saamalla aikaan rauha ihmisten sydämiin.
 
 229
