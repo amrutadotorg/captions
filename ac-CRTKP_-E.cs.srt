@@ -1,3386 +1,2833 @@
 1
-00:00:38,230 --> 00:00:41,170
-OmlouvÃ¡m se, Å¾e jsem
- pÅ™iÅ¡la pozdÄ›.
+00:00:38,490 --> 00:00:40,955
+Omlouvám se, e jsem
+pøišla pozdì.
 
 2
-00:00:41,180 --> 00:00:49,000
-NetuÅ¡ila jsem, Å¾e je tento
-program na tak krÃ¡snÃ©m mÃ­stÄ›.
+00:00:42,091 --> 00:00:49,000
+Netušila jsem, e je tento
+program na tak krásném místì.
 
 3
-00:00:56,180 --> 00:01:04,120
-VidÃ­te tu krÃ¡snou
+00:00:57,624 --> 00:01:04,022
+Vidíte tu krásnou
 Michelangelovu malbu
 
 4
-00:01:06,070 --> 00:01:16,100
-vyjadÅ™ujÃ­cÃ­ pÅ™Ã¡nÃ­ BoÅ¾skÃ©ho,
-- vaÅ¡eho Otce - vÃ¡s zachrÃ¡nit,
+00:01:07,099 --> 00:01:15,947
+vyjadøující pøání Boského,
+- vašeho Otce - vás zachránit,
 
 5
-00:01:17,220 --> 00:01:23,150
-pomoci vÃ¡m a to se
- vypracovÃ¡vÃ¡.
+00:01:17,659 --> 00:01:19,032
+pomoci vám
 
 6
-00:01:29,000 --> 00:01:49,130
-V NÄ›mecku se odehrÃ¡ly
- velkÃ© agresivnÃ­ udÃ¡losti,
+00:01:20,779 --> 00:01:22,643
+a to se vypracovává.
 
 7
-00:01:51,070 --> 00:02:06,180
-kterÃ© pÅ™ivodily zniÄujÃ­cÃ­
-ÃºÄinky na celÃ½ zÃ¡padnÃ­ Å¾ivot.
+00:01:29,513 --> 00:01:30,806
+V Nìmecku
 
 8
-00:02:07,050 --> 00:02:11,000
-Byl zniÄen hodnotovÃ½
- systÃ©m,
+00:01:39,424 --> 00:01:41,083
+se odehrály
 
 9
-00:02:11,100 --> 00:02:17,000
-byla naruÅ¡ena podstata
- dharmy,
+00:01:43,528 --> 00:01:48,200
+nesmírnì agresivní události,
 
 10
-00:02:18,100 --> 00:02:22,100
-Å¾eny se zaÄaly chovat
- jako muÅ¾i
+00:01:51,837 --> 00:01:55,229
+které pøivodily
 
 11
-00:02:24,000 --> 00:02:28,000
-a tolik lidÃ­ zemÅ™elo.
+00:02:00,322 --> 00:02:02,249
+znièující dopad
 
 12
-00:02:29,080 --> 00:02:32,100
-Velmi mladÃ­ lidÃ© zemÅ™eli,
- velice mladÃ­.
+00:02:03,575 --> 00:02:06,122
+na celı západní ivot.
 
 13
-00:02:32,150 --> 00:02:36,100
-VÅ¡echna jejich pÅ™Ã¡nÃ­
- zÅ¯stala nenaplnÄ›nÃ¡,
+00:02:07,749 --> 00:02:10,240
+Byl znièen hodnotovı systém,
 
 14
-00:02:36,150 --> 00:02:52,150
-celÃ½ Å¾ivot jim nedal
- nic neÅ¾ vÃ¡lku.
+00:02:11,803 --> 00:02:16,399
+bylo narušeno chápání dharmy,
 
 15
-00:02:57,020 --> 00:03:00,170
-Zvedla se jakÃ¡si
- horkÃ¡ vlna
+00:02:18,300 --> 00:02:22,254
+eny se zaèaly chovat
+jako mui
 
 16
-00:03:02,100 --> 00:03:06,120
-niÄÃ­cÃ­ vÅ¡echno
- jemnÃ©.
+00:02:24,651 --> 00:02:26,754
+a tolik lidí zemøelo.
 
 17
-00:03:07,200 --> 00:03:14,130
-KdyÅ¾ pÅ™Ã­roda zaÄne oddychovat,
- nebo je rozhnÄ›vanÃ¡,
+00:02:28,979 --> 00:02:31,949
+Velmi mladí lidé zemøeli,
+velice mladí.
 
 18
-00:03:15,030 --> 00:03:21,000
-niÄÃ­ pouze hrubÃ©
- vÄ›ci.
+00:02:33,403 --> 00:02:36,276
+Všechna jejich pøání
+zùstala nenaplnìna,
 
 19
-00:03:22,030 --> 00:03:25,200
-Ale kdyÅ¾ zaÄnou niÄit
- lidskÃ© bytosti,
+00:02:37,165 --> 00:02:41,518
+celı ivot
 
 20
-00:03:26,000 --> 00:03:34,070
-zniÄÃ­ dokonce i jemnÃ© vÄ›ci,
-jako svÅ¯j hodnotovÃ½ systÃ©m,
+00:02:47,968 --> 00:02:50,658
+jim nedal nic ne válku.
 
 21
-00:03:34,150 --> 00:03:41,220
-svÅ¯j charakter, cudnost,
-nevinnost, snÃ¡Å¡enlivost.
+00:02:57,075 --> 00:02:59,916
+Zvedla se jakási
+horká vlna
 
 22
-00:03:47,120 --> 00:03:50,200
-TakÅ¾e nynÃ­ je vÃ¡lka
- na jemnÄ›jÅ¡Ã­ Ãºrovni.
+00:03:02,489 --> 00:03:05,600
+nièící všechno jemné.
 
 23
-00:03:52,070 --> 00:03:55,090
-Je na Äase pochopit,
-Å¾e vÅ¡echny tyto vÄ›ci mÄ›ly
+00:03:08,425 --> 00:03:14,560
+Kdy pøíroda zaène oddychovat,
+nebo je rozhnìvaná,
 
 24
-00:03:55,150 --> 00:04:02,150
-velmi zniÄujÃ­cÃ­ dopad
-na ZÃ¡pad, na zÃ¡padnÃ­ osobnost.
+00:03:15,782 --> 00:03:21,000
+nièí pouze hrubé vìci.
 
 25
-00:04:04,000 --> 00:04:07,180
-Proto ÄlovÄ›k musÃ­ svÃ© sÃ­ly
-zamÄ›Å™it nejprve na jejÃ­ nÃ¡pravu,
+00:03:22,752 --> 00:03:25,959
+Ale kdy zaènou nièit
+lidské bytosti,
 
 26
-00:04:08,170 --> 00:04:18,180
-narovnat ji, postavit ji
- na vlastnÃ­ nohy.
+00:03:26,578 --> 00:03:34,070
+znièí dokonce i jemné vìci,
+jako svùj hodnotovı systém,
 
 27
-00:04:21,000 --> 00:04:28,110
-NeboÅ¥ lidÃ© ztratili svou
- osobnost, tradice,
+00:03:34,435 --> 00:03:39,880
+svùj charakter, cudnost,
+nevinnost, snášenlivost.
 
 28
-00:04:30,170 --> 00:04:37,030
-nemajÃ­ Å¾Ã¡dnÃ© kotviÅ¡tÄ›,
- Å¾Ã¡dnÃ© koÅ™eny
+00:03:47,207 --> 00:03:50,287
+Teï máme tedy válku
+na subtilní úrovni.
 
 29
-00:04:39,150 --> 00:04:42,130
-a zaÄali se vrhat na vÅ¡echno,
- co se objevilo
+00:03:52,935 --> 00:03:57,689
+Je na èase pochopit,
+e všechny tyto vìci mìly
 
 30
-00:04:44,030 --> 00:04:49,100
-jako nÄ›jakÃ½ intelektuÃ¡lnÃ­
- zÃ¡Å¾itek.
+00:03:58,074 --> 00:04:02,286
+velmi znièující dopad na Západ,
 
 31
-00:04:49,120 --> 00:04:58,240
-Å½eny se staly velice
- nezÃ¡vislÃ½mi
+00:04:03,904 --> 00:04:06,570
+na osobnost západního èlovìka.
 
 32
-00:05:04,050 --> 00:05:07,120
-a myslely si, Å¾e mohou vyÅ™eÅ¡it
- svoje vlastnÃ­ problÃ©my.
+00:04:08,872 --> 00:04:12,052
+Proto èlovìk musí své síly
 
 33
-00:05:07,130 --> 00:05:12,220
-Myslely si, Å¾e mohou
- bÃ½t jako muÅ¾i.
+00:04:13,084 --> 00:04:18,520
+zamìøit nejprve na její nápravu,
 
 34
-00:05:16,000 --> 00:05:19,170
-Tento problÃ©m tu zaÄal
-dokonce jeÅ¡tÄ› ve vÄ›tÅ¡Ã­ mÃ­Å™e.
+00:04:21,179 --> 00:04:22,540
+narovnat ji,
 
 35
-00:05:20,000 --> 00:05:25,000
-ProtoÅ¾e Å¾ena
- je Å¾enou
+00:04:24,995 --> 00:04:27,479
+postavit ji na vlastní nohy.
 
 36
-00:05:30,080 --> 00:05:32,050
-a toho, co se dÃ¡ nazvat muÅ¾em,
- je v nÃ­ jen velice mÃ¡lo.
+00:04:30,678 --> 00:04:33,789
+Díky tomu, e lidé ztratili
+svou osobnost,
 
 37
-00:05:32,150 --> 00:05:37,020
-A kdyÅ¾ se snaÅ¾Ã­ vyhnout
- tomu, co mÃ¡,
+00:04:35,856 --> 00:04:37,077
+své tradice,
 
 38
-00:05:38,000 --> 00:05:44,100
-a rozvinout nÄ›co,
-Äeho mÃ¡ jen maliÄko,
+00:04:39,427 --> 00:04:42,221
+nemají ádné kotvištì,
+ádné koøeny
 
 39
-00:05:44,240 --> 00:05:49,000
-tak se stÃ¡vÃ¡ absurdnÃ­.
+00:04:43,990 --> 00:04:45,669
+a zaèali se vrhat
 
 40
-00:05:50,100 --> 00:05:54,120
-MÅ¯Å¾e ji posednout
-tolik mrtvÃ½ch muÅ¾Å¯,
+00:04:48,522 --> 00:04:50,911
+na všechno, co se objevilo
 
 41
-00:05:55,220 --> 00:06:00,000
-jejÃ­ pÅ™Ã¡nÃ­ stÃ¡t se muÅ¾em
-mÅ¯Å¾e pÅ™itahovat tolik bhÃºtÅ¯,
+00:04:51,346 --> 00:04:58,015
+jako nìjakı intelektuální  záitek.
 
 42
-00:06:02,050 --> 00:06:10,030
-jeÅ¾ chtÄ›jÃ­ vniknout
- do Å¾enskÃ© mysli.
+00:05:04,746 --> 00:05:07,927
+eny se staly velice nezávislımi
 
 43
-00:06:10,150 --> 00:06:14,000
-A kdyÅ¾ tam vniknou,
+00:05:08,501 --> 00:05:12,400
+a zaèaly si myslet,
+e své problémy vyøeší samy.
 
 44
-00:06:16,030 --> 00:06:22,150
-majÃ­ roucho Å¾eny
- a mysl ÄÃ¡bla.
+00:05:16,403 --> 00:05:19,003
+Myslely si,
+e mohou bıt jako mui.
 
 45
-00:06:24,230 --> 00:06:27,030
-A Å¾eny to ani
- nemusÃ­ zjistit,
+00:05:20,785 --> 00:05:24,480
+Tento problém tu zaèal
+dokonce ještì horším zpùsobem.
 
 46
-00:06:30,130 --> 00:06:32,240
-protoÅ¾e moÅ¾nÃ¡ s tÄ›mito
- ÄÃ¡belskÃ½mi vÄ›cmi
+00:05:29,987 --> 00:05:31,897
+Jeliko ena je enou
 
 47
-00:06:33,180 --> 00:06:36,170
-mohou bÃ½t ve svÄ›tÄ›
- ÃºspÄ›Å¡nÃ©.
+00:05:33,158 --> 00:05:37,000
+a toho, co se dá nazvat muem,
+je v ní jen velice málo,
 
 48
-00:06:36,240 --> 00:06:40,020
-Mohou bÃ½t zÃ¡moÅ¾nÄ›jÅ¡Ã­.
-MoÅ¾nÃ¡ umÃ­ vÅ¡echny ovlÃ¡dat,
+00:05:37,919 --> 00:05:44,079
+kdy se snaí vyhnout tomu,
+èím je obdaøena
 
 49
-00:06:41,100 --> 00:06:46,120
-mohou bÃ½t puntiÄkÃ¡Å™skÃ© jako
-muÅ¾i, ve skuteÄnosti zcela
+00:05:44,912 --> 00:05:48,240
+a rozvinout nìco,
+èeho má jen malièko,
 
 50
-00:06:48,170 --> 00:06:53,220
-velmi upravenÃ©, ÄistÃ©,
- svÄ›Å¾Ã­,
+00:05:50,636 --> 00:05:53,480
+tak se stává absurdní.
 
 51
-00:06:56,170 --> 00:07:04,120
-postrÃ¡dajÃ­cÃ­ vÅ¡echnu
- krÃ¡su a sladkost.
+00:05:56,345 --> 00:06:00,120
+Mùe ji posednout
+tolik mrtvıch muù!
 
 52
-00:07:10,030 --> 00:07:20,170
-Nakonec jsou tyto Å¾eny
- jako upÃ­Å™i.
+00:06:01,889 --> 00:06:06,174
+Její pøání vyrovnat se muùm
 
 53
-00:07:22,070 --> 00:07:25,080
-TakÅ¾e i kdyÅ¾ vÃ¡lka
- skonÄila,
+00:06:06,873 --> 00:06:12,375
+mùe pøitáhnout tolik bhútù,
+je chtìjí vniknout do enské mysli.
 
 54
-00:07:25,080 --> 00:07:30,100
-myslÃ­m, Å¾e to stÃ¡le pracuje
-prostÅ™ednictvÃ­m nÄ›meckÃ½ch Å¾en.
+00:06:16,288 --> 00:06:18,120
+A kdy tam vniknou,
 
 55
-00:07:36,000 --> 00:07:38,170
-SlyÅ¡ela jsem, Å¾e takovÃ½to
- Ãºtok pÅ™iÅ¡el i dÅ™Ã­v
+00:06:20,545 --> 00:06:26,079
+mají roucho eny
+a mysl ïábla.
 
 56
-00:07:39,180 --> 00:07:43,240
-a tyto Å¾eny se nazÃ½valy
- Amazonky.
+00:06:30,476 --> 00:06:33,039
+A eny to ani
+nemusí zjistit,
 
 57
-00:07:48,220 --> 00:07:52,050
-NynÃ­ se historie znovu
- opakuje.
+00:06:33,550 --> 00:06:36,669
+protoe jim moná tato ïábelskost
 
 58
-00:07:54,050 --> 00:07:57,080
-NedÃ¡vno jsem mÄ›la rozhovor
- s nÄ›meckou panÃ­
+00:06:36,870 --> 00:06:39,543
+umoní bıt ve svìtì úspìšné.
 
 59
-00:07:58,180 --> 00:08:02,100
-a byla jsem pÅ™ekvapenÃ¡ jejÃ­mi
- nÃ¡zory, mÄ›la jsem pocit,
+00:06:41,573 --> 00:06:43,614
+Mohou bıt zámonìjší.
 
 60
-00:08:02,240 --> 00:08:08,000
-Å¾e je stÃ¡le nacistkou, Å¾e je
- v nÃ­ nÄ›jakÃ½ nacistickÃ½ bhÃºt.
+00:06:44,384 --> 00:06:46,880
+Moná umí všechny ovládat,
 
 61
-00:08:08,200 --> 00:08:11,220
-Byla zdvojenou osobnostÃ­,
-na jednu stranu mluvila sladce,
+00:06:48,320 --> 00:06:50,508
+mohou bıt puntièkáøské jako mui,
 
 62
-00:08:11,230 --> 00:08:15,000
-a na druhou byla nacistkou
+00:06:50,709 --> 00:06:58,833
+zcela vskutku upravené,
+èisté, svìí,
 
 63
-00:08:19,000 --> 00:08:21,000
-a faÅ¡istkou.
+00:07:01,337 --> 00:07:04,560
+postrádající všechnu
+krásu a sladkost.
 
 64
-00:08:21,020 --> 00:08:29,170
-A jejich argumenty jsou
- velice mazanÃ©.
+00:07:09,824 --> 00:07:19,800
+Nakonec jsou tyto eny
+jako upíøi.
 
 65
-00:08:31,100 --> 00:08:34,170
-PrvnÃ­, co vÃ¡m Å™eknou
- je, Å¾e:
+00:07:22,967 --> 00:07:25,491
+Aèkoli válka skonèila,
 
 66
-00:08:37,180 --> 00:08:42,030
-"StranÃ­me utlaÄovanÃ½m lidem,
- jako je Indie.
+00:07:25,952 --> 00:07:29,798
+mám pocit, e to skrze nìmecké eny
+stále pracuje.
 
 67
-00:08:43,070 --> 00:08:44,230
-IndovÃ© jsou Ãrijci,
- my jsme Ãrijci
+00:07:35,722 --> 00:07:38,760
+Slyšela jsem, e takovıto útok
+pøišel i døíve
 
 68
-00:08:46,230 --> 00:08:54,170
-a jsme lidÃ©, kteÅ™Ã­
-sympatizujÃ­ s Ãrijci."
+00:07:39,410 --> 00:07:42,240
+a tyto eny se nazıvaly
+Amazonky.
 
 69
-00:08:57,130 --> 00:08:59,100
-IndovÃ© jsou duchovnÃ­ lidÃ©
- a oni majÃ­ pocit,
+00:07:48,561 --> 00:07:51,280
+Historie se teï znovu opakuje.
 
 70
-00:09:00,000 --> 00:09:05,150
-Å¾e jsou jako IndovÃ© ÃºplnÄ›
-ve vÅ¡em, vÄ›Å™ili byste tomu?
+00:07:54,002 --> 00:07:57,592
+Nedávno jsem mìla rozhovor
+s nìmeckou paní
 
 71
-00:09:08,120 --> 00:09:13,100
-Jde o to, Å¾e by se mÄ›la
-zlepÅ¡it kvalita Å¾ivota.
+00:07:58,870 --> 00:08:03,015
+a byla jsem pøekvapená jejími
+názory, mìla jsem pocit,
 
 72
-00:09:15,120 --> 00:09:20,200
-MuÅ¾skÃ© kvality jsou
- jinÃ© neÅ¾ Å¾enskÃ©.
+00:08:03,216 --> 00:08:07,207
+e je stále nacistkou, e je v ní
+dosud nìjakı nacistickı bhút.
 
 73
-00:09:20,240 --> 00:09:23,020
-Å˜ekla jsem vÃ¡m to
- uÅ¾ mnohokrÃ¡t.
+00:08:08,834 --> 00:08:12,448
+Byla zdvojenou osobností, na jednu
+stranu mluvila sladce a na druhou
 
 74
-00:09:24,170 --> 00:09:29,170
-A kdyÅ¾ se Å¾eny snaÅ¾Ã­
- bÃ½t jako muÅ¾i,
+00:08:12,649 --> 00:08:14,006
+byla nacistka
 
 75
-00:09:30,220 --> 00:09:33,180
-tak niÄeho poÅ™Ã¡dnÃ©ho
- nedosÃ¡hnou.
+00:08:19,221 --> 00:08:20,508
+a fašistka.
 
 76
-00:09:33,240 --> 00:09:36,000
-MÄ›li jsme mnoho
- takovÃ½ch.
+00:08:21,829 --> 00:08:28,920
+A jejich argumenty jsou
+velice mazané.
 
 77
-00:09:36,100 --> 00:09:40,000
-VidÄ›li jste Maovu
- Å¾enu.
+00:08:32,251 --> 00:08:35,039
+První, co vám øeknou je, e:
 
 78
-00:09:41,220 --> 00:09:45,000
-VidÄ›li jste panÃ­
- Chanka Sheik.
+00:08:37,433 --> 00:08:42,283
+„Straníme utlaèovanım lidem,
+jako je Indie.
 
 79
-00:09:45,130 --> 00:09:49,200
-Pak tu novou panÃ­
- Carlos,
+00:08:42,934 --> 00:08:45,488
+Indové jsou Árijci,
+my jsme Árijci
 
 80
-00:09:49,220 --> 00:09:53,130
-Carlos se jmenuje?
- Marcos, Marcos.
+00:08:46,690 --> 00:08:47,784
+a jsme
 
 81
-00:09:54,170 --> 00:09:56,200
-Tolik takovÃ½chto Å¾en.
+00:08:51,476 --> 00:08:54,873
+lidé, kteøí sympatizují s Árijci.“
 
 82
-00:09:58,070 --> 00:10:02,030
-KdyÅ¾ se snaÅ¾Ã­ bÃ½t jako muÅ¾i,
- tak vÅ¡echno zamotajÃ­.
+00:08:57,249 --> 00:08:59,525
+Indové jsou duchovní lidé
 
 83
-00:10:04,120 --> 00:10:06,240
-V dÄ›jinÃ¡ch jsme mÄ›li
- mnoho Å¾en.
+00:09:00,333 --> 00:09:04,706
+a oni mají pocit, e se rovnají
+Indùm, ve všem. Vìøili byste tomu?
 
 84
-00:10:07,100 --> 00:10:11,150
-V Indii jsou Å¾eny velmi
- dobÅ™e pÅ™ipravenÃ©.
+00:09:09,072 --> 00:09:12,640
+Jde o to, e by se mìla
+zlepšit kvalita ivota.
 
 85
-00:10:11,160 --> 00:10:14,030
-MÄ›li jsme Å¾eny jako
- Jhansi ki Rani,
+00:09:15,549 --> 00:09:20,459
+Muské kvality jsou
+jiné ne enské.
 
 86
-00:10:14,050 --> 00:10:18,070
-kterÃ¡ bojovala proti
- BritÅ¯m. Byla vdovou.
+00:09:20,660 --> 00:09:23,000
+Øekla jsem vám to
+u mnohokrát.
 
 87
-00:10:18,080 --> 00:10:24,180
-UvÃ¡zala si svÃ© dÃ­tÄ› na zÃ¡da
- a bojovala s Brity.
+00:09:25,336 --> 00:09:29,831
+A kdy se eny snaí
+bıt jako mui,
 
 88
-00:10:27,000 --> 00:10:33,080
-Å˜Ã­kÃ¡ se, Å¾e jejÃ­ kÅ¯Åˆ skoÄil
- z vÃ½Å¡ky 180 stop
+00:09:30,593 --> 00:09:33,553
+tak nièeho øádného nedosáhnou.
 
 89
-00:10:33,240 --> 00:10:37,000
-z vÄ›Å¾e pevnosti.
+00:09:34,001 --> 00:09:36,239
+Mìli jsme mnoho takovıch.
 
 90
-00:10:38,150 --> 00:10:40,230
-A samotnÃ­ BritovÃ©
- napsali, Å¾e:
+00:09:36,599 --> 00:09:38,762
+Vidìli jste Maovu enu.
 
 91
-00:10:41,000 --> 00:10:45,100
-"AÄkoliv jsme zÃ­skali
-Jhansi, zvÃ­tÄ›zili jsme,
+00:09:42,545 --> 00:09:45,223
+Vidìli jste paní
+Chanku Sheik.
 
 92
-00:10:45,120 --> 00:10:48,170
-ale slÃ¡va pÅ™ipadÃ¡
- Jhansi ki Rani."
+00:09:46,368 --> 00:09:50,023
+Pak tu novou paní Carlos.
 
 93
-00:10:48,240 --> 00:10:50,180
-V Indii jsme mÄ›li
- vynikajÃ­cÃ­ Å¾eny.
+00:09:50,331 --> 00:09:53,191
+Carlos se jmenuje?
+Marcos, Marcos.
 
 94
-00:10:50,190 --> 00:10:52,230
-NapÅ™Ã­klad dalÅ¡Ã­ vynikajÃ­cÃ­
- Å¾enou byla Nur Jahan.
+00:09:55,225 --> 00:09:57,118
+Tolik podobnıch en.
 
 95
-00:10:53,020 --> 00:10:56,000
-MÄ›li jsme Chand Bibi,
- Ahalyabai.
+00:09:58,212 --> 00:10:01,918
+Kdy se snaí bıt jako mui,
+vdy všechno zamotají.
 
 96
-00:10:56,050 --> 00:11:00,000
-Ale vÅ¡echny byly Å¾enami,
- nemÄ›ly muÅ¾skÃ© ego.
+00:10:04,231 --> 00:10:06,526
+V dìjinách jsme mìli
+mnoho en.
 
 97
-00:11:02,130 --> 00:11:08,200
-KdyÅ¾ na to pÅ™ijde, mohou
-pracovat v ÃºÅ™adu spolu s muÅ¾i,
+00:10:07,647 --> 00:10:11,274
+V Indii jsou eny velmi
+dobøe pøipravené.
 
 98
-00:11:08,220 --> 00:11:11,180
-ale nemusÃ­ se stÃ¡t
- muÅ¾i.
+00:10:11,475 --> 00:10:14,166
+Mìli jsme eny jako
+Jhansi ki Rani,
 
 99
-00:11:11,200 --> 00:11:14,230
-Å˜eknu vÃ¡m svÅ¯j
- vlastnÃ­ pÅ™Ã­klad.
+00:10:14,367 --> 00:10:17,839
+která bojovala proti Britùm.
+Byla vdova.
 
 100
-00:11:16,070 --> 00:11:19,120
-MÄ›la jsem postavit dÅ¯m
- v Lucknow.
+00:10:18,230 --> 00:10:23,720
+Uvázala si své dítì na záda
+a bojovala s Brity.
 
 101
-00:11:21,220 --> 00:11:27,100
-UdÄ›lala jsem to v naprosto
- Å¾enskÃ©m stylu
+00:10:27,317 --> 00:10:32,487
+Øíká se, e její kùò skoèil
+z vıšky 55 metrù
 
 102
-00:11:27,240 --> 00:11:29,240
-a postavila jsem velice
- dobrÃ½ dÅ¯m.
+00:10:34,144 --> 00:10:36,800
+z vìe pevnosti.
 
 103
-00:11:30,000 --> 00:11:37,240
-LepÅ¡Ã­, neÅ¾ by postavil
- jakÃ½koliv muÅ¾ za lacino.
+00:10:38,340 --> 00:10:40,632
+A samotní Britové
+napsali, e:
 
 104
-00:11:39,130 --> 00:11:43,000
-MuÅ¾ by nejprve zaÅ¡el
- za architektem,
+00:10:40,833 --> 00:10:45,434
+„Aèkoliv jsme porazili
+Jhansi, zvítìzili jsme,
 
 105
-00:11:44,070 --> 00:11:46,000
-vÅ¡echno by vymÄ›Å™ili.
+00:10:45,635 --> 00:10:47,898
+ale sláva patøí
+Jhansi ki Rani.“
 
 106
-00:11:46,240 --> 00:11:49,240
-Pak by se to pÅ™edem snaÅ¾il
- vÅ¡echno skloubit.
+00:10:49,001 --> 00:10:50,853
+V Indii jsme mìli
+velké eny.
 
 107
-00:11:50,100 --> 00:11:55,080
-Pak by ve svÃ©m egu Å¡el
-do nÄ›jakÃ©ho drahÃ©ho obchodu,
+00:10:51,054 --> 00:10:53,175
+Napøíklad další vynikající
+enou byla Nur Jahan.
 
 108
-00:11:55,150 --> 00:11:59,000
-nakoupil draho a nechal se
- pÅ™i tom oÅ¡idit.
+00:10:53,376 --> 00:10:55,729
+Mìli jsme Chand Bibi,
+Ahalyabai.
 
 109
-00:12:02,230 --> 00:12:08,050
-Pak by, opÄ›t ve svÃ©m egu, Å¡el
-a najal velice drahÃ© pracovnÃ­ky
+00:10:55,930 --> 00:10:59,360
+Ale všechny byly enami,
+nemìly muské ego.
 
 110
-00:12:09,050 --> 00:12:13,100
-a jmenoval nÄ›koho, kdo bude
- za vÅ¡echno zodpovÄ›dnÃ½.
+00:11:02,264 --> 00:11:08,839
+Kdy na to pøijde, mohou
+pracovat na úøadì spolu s mui,
 
 111
-00:12:16,000 --> 00:12:18,050
-JÃ¡ jsem to udÄ›lala
- ÃºplnÄ› jinak.
+00:11:09,040 --> 00:11:11,120
+ale nemusí se stát mui.
 
 112
-00:12:20,000 --> 00:12:25,000
-MÄ›la jsem penÃ­ze,
- tak jsem si zjistila,
+00:11:12,088 --> 00:11:14,480
+Øeknu vám svùj vlastní pøíklad.
 
 113
-00:12:25,200 --> 00:12:30,060
-kdo mÃ¡ nejlepÅ¡Ã­ lidi,
-kdo mÃ¡ nejlepÅ¡Ã­ cihly.
+00:11:16,451 --> 00:11:19,158
+Mìla jsem postavit dùm
+v Lucknow.
 
 114
-00:12:30,240 --> 00:12:34,000
-DÅ¯m se mÄ›l stavÄ›t
- z cihel.
+00:11:21,980 --> 00:11:26,521
+Udìlala jsem to
+zcela v enském stylu
 
 115
-00:12:35,100 --> 00:12:37,230
-Co dalÅ¡Ã­ho potÅ™ebujete?
-PÅ™esnÄ› jako kdyÅ¾ Å¾ena vaÅ™Ã­.
+00:11:28,518 --> 00:11:32,672
+a postavila jsem velice dobrı dùm,
+lepší, ne by postavil jakıkoliv mu,
 
 116
-00:12:37,240 --> 00:12:41,200
-JeÅ¡tÄ› potÅ™ebujete
- pÃ­sek, dobÅ™e.
+00:11:32,873 --> 00:11:36,680
+a to skuteènì lacinì.
 
 117
-00:12:42,120 --> 00:12:44,200
-Pak cement, Å¾eleznÃ© mÅ™Ã­Å¾e
- a pracovnÃ­ky.
+00:11:39,310 --> 00:11:42,720
+Mu by nejprve zašel
+za architektem,
 
 118
-00:12:45,200 --> 00:12:52,230
-TakÅ¾e jsem na to neÅ¡la
- oklikou jako muÅ¾i.
+00:11:44,012 --> 00:11:45,942
+všechno by vymìøili,
 
 119
-00:12:54,170 --> 00:12:58,000
-Zjistila jsem, kdo prodÃ¡vÃ¡
- nejlepÅ¡Ã­ cihly.
+00:11:46,484 --> 00:11:49,637
+pak by se to pøedem snail
+všechno skloubit.
 
 120
-00:13:00,020 --> 00:13:06,240
-Å˜ekl: "NemÃ¡m penÃ­ze, abych
- vybudoval vypalovacÃ­ pec
+00:11:50,383 --> 00:11:54,987
+Pak by ve svém egu šel
+do nìjakého drahého obchodu,
 
 121
-00:13:09,220 --> 00:13:13,130
-a zaplnil ji cihlami."
+00:11:55,188 --> 00:11:58,240
+nakoupil draho
+a nechal se pøi tom ošidit.
 
 122
-00:13:13,240 --> 00:13:16,060
-A Å¾e by na to potÅ™eboval
- vstupnÃ­ kapitÃ¡l.
+00:12:03,076 --> 00:12:08,480
+Pak by, opìt ve svém egu, šel
+a najal velice drahé pracovníky
 
 123
-00:13:16,080 --> 00:13:20,200
-Å˜ekla jsem: "DobÅ™e, koupÃ­m
- od vÃ¡s celou jednu pec.
+00:12:08,786 --> 00:12:13,542
+a jmenoval nìkoho, kdo bude
+všechno øídit. Kdo to bude øídit.
 
 124
-00:13:21,170 --> 00:13:25,120
-Kolik mÄ› to bude stÃ¡t?"
-Å˜ekl: "PÄ›t tisÃ­c rupiÃ­ staÄÃ­.
+00:12:15,887 --> 00:12:18,200
+Já jsem to udìlala
+úplnì jinak.
 
 125
-00:13:27,020 --> 00:13:29,020
-Ale celÃ¡ pec se mÅ¯Å¾e
- pokazit,
+00:12:20,592 --> 00:12:22,188
+Mìla jsem peníze,
 
 126
-00:13:29,100 --> 00:13:31,030
-anebo s nÃ­ bÃ½t nÄ›co Å¡patnÃ©ho,
- kdyÅ¾ se to nepodaÅ™Ã­,
+00:12:23,149 --> 00:12:25,132
+tak jsem se vydala zjistit,
 
 127
-00:13:32,000 --> 00:13:34,150
-pak to bude vÃ¡Å¡ problÃ©m."
- Å˜ekla jsem: "NevadÃ­,
+00:12:25,848 --> 00:12:29,960
+kdo má nejlepší lidi,
+kdo má nejlepší cihly.
 
 128
-00:13:34,200 --> 00:13:37,080
-postavte jednu pec
- na moje jmÃ©no."
+00:12:31,801 --> 00:12:34,080
+Dùm se mìl stavìt z cihel.
 
 129
-00:13:37,100 --> 00:13:39,150
-TakÅ¾e jsem od nÄ›j koupila
- celou pec, kompletnÄ›.
+00:12:35,860 --> 00:12:40,559
+Co dalšího potøebujete?
+Pøesnì jako kdy ena vaøí.
 
 130
-00:13:40,180 --> 00:13:42,150
-Do vypalovacÃ­ pece se dÃ¡vajÃ­
- vÅ¡echny cihly, vÃ­te?
+00:12:42,131 --> 00:12:44,977
+Ještì potøebujete
+písek, dobøe.
 
 131
-00:13:42,240 --> 00:13:45,240
-A potom to pÅ™ikryjÃ­ bahnem
- a odspodu zapÃ¡lÃ­.
+00:12:45,521 --> 00:12:51,880
+Pak cement, elezné møíe
+a øemeslníky.
 
 132
-00:13:49,080 --> 00:13:54,070
-NÄ›kdy se mÅ¯Å¾e stÃ¡t, Å¾e se
-celÃ¡ vÄ›c zmaÅ™Ã­ nebo zhroutÃ­.
+00:12:54,925 --> 00:12:57,708
+Take jsem na to nešla
+opaènì, jako mui.
 
 133
-00:13:54,100 --> 00:13:58,070
-Å˜ekla jsem: "UdÄ›lejte to.
- Jen 5.000."
+00:13:00,114 --> 00:13:06,224
+Zjistila jsem, kdo prodává
+nejlepší cihly.
 
 134
-00:13:58,100 --> 00:14:01,200
-KdyÅ¾ jsou cihly dobÅ™e vypÃ¡lenÃ©
- a vÅ¡echno, co k tomu patÅ™Ã­,
+00:13:09,412 --> 00:13:14,067
+Øekl: „Nemám peníze, abych
+vybudoval vypalovací pec
 
 135
-00:14:02,200 --> 00:14:05,200
-tak byste zaplatili ne mÃ©nÄ›
- neÅ¾ 50.000 rupiÃ­.
+00:13:14,268 --> 00:13:15,918
+a zaplnil ji cihlami.“
 
 136
-00:14:05,230 --> 00:14:08,140
-Pak jsem Å¡la k Å™ece
- a zeptala se:
+00:13:16,119 --> 00:13:19,920
+K tomu by potøeboval vstupní kapitál.
 
 137
-00:14:11,240 --> 00:14:14,020
-"Kolik stojÃ­ jedna parcela?"
-- tak Å™Ã­kajÃ­ velkÃ© ploÅ¡e pÃ­sku.
+00:13:21,364 --> 00:13:24,960
+Øekla jsem: „Dobøe, koupím
+od vás celou jednu pec.
 
 138
-00:14:14,050 --> 00:14:17,050
-Å˜ekli: "TeÄ v lÃ©tÄ›
- velmi mÃ¡lo,
+00:13:26,805 --> 00:13:28,655
+Kolik mì to bude stát?“
 
 139
-00:14:20,000 --> 00:14:25,010
-ale v zimÄ› to bude
- docela dost."
+00:13:28,933 --> 00:13:34,510
+Øekl: „Pìt tisíc rupií staèí.
+Ale celá pec se mùe pokazit,
 
 140
-00:14:25,050 --> 00:14:31,000
-MuÅ¾ by Å¡el a Å™ekl: "DobÅ™e, teÄ
-potÅ™ebujeme tolik, dovezte to.
+00:13:34,711 --> 00:13:38,137
+ale kdy se to nìjak nepovede,
+pak to bude váš problém.“
 
 141
-00:14:31,230 --> 00:14:37,130
-Pak budeme potÅ™ebovat vÃ­c,
- dovezete to."
+00:13:38,338 --> 00:13:42,352
+Øekla jsem: „Nevadí, postavte
+jednu pec na mé jméno.“
 
 142
-00:14:37,240 --> 00:14:40,240
-Ale jÃ¡ jsem to tak neudÄ›lala.
- Å˜ekla jsem: "LÃ©to je fajn,
+00:13:42,719 --> 00:13:45,949
+Koupila jsem od nìj tedy
+celou jednu pec, kompletnì.
 
 143
-00:14:41,130 --> 00:14:45,220
-zÃ­skÃ¡te ho lacino, proÄ
- nekoupit vÅ¡echno?"
+00:13:48,833 --> 00:13:53,755
+Do vypalovací pece se dávají
+všechny cihly, víte?
 
 144
-00:14:45,240 --> 00:14:48,100
-A tak jsem koupila celou
-parcelu, celou plochu pÃ­sku.
+00:13:53,956 --> 00:13:58,328
+A potom to pøikryjí bahnem
+a odspodu zapálí.
 
 145
-00:14:48,120 --> 00:14:52,070
-DobÅ™e. Pak jsem Å¡la
- do Å¾elezÃ¡Å™stvÃ­.
+00:13:58,529 --> 00:14:02,014
+Nìkdy se mùe stát, e se
+celá vìc zmaøí
 
 146
-00:14:52,080 --> 00:14:54,150
-Zeptala jsem se:
- "MÃ¡te Å¾elezo?"
+00:14:02,483 --> 00:14:03,895
+nebo zhroutí.
 
 147
-00:14:54,170 --> 00:14:59,240
-Å˜ekli: "MusÃ­te si ho
- objednat,
+00:14:06,071 --> 00:14:08,635
+Øekla jsem: „Udìlejte to.“
+Jen 5.000.
 
 148
-00:15:02,030 --> 00:15:05,130
-ale kdyÅ¾ si ho objednÃ¡te
- ve velkÃ©m,
+00:14:11,602 --> 00:14:14,225
+Kdy jsou cihly dobøe vypálené
+a všechno, co k tomu patøí,
 
 149
-00:15:05,150 --> 00:15:07,170
-dÃ¡me vÃ¡m ho mnohem
- lacinÄ›ji.
+00:14:14,426 --> 00:14:17,014
+tak byste zaplatili
+nejménì 50.000 rupií.
 
 150
-00:15:07,240 --> 00:15:10,100
-V hotovosti zaplatÃ­te tolik."
- Å˜ekla jsem: "DobÅ™e."
+00:14:19,754 --> 00:14:23,153
+Pak jsem šla k øece
 
 151
-00:15:10,240 --> 00:15:15,240
-Objednala jsem to.
+00:14:24,171 --> 00:14:25,473
+a zeptala se:
 
 152
-00:15:16,180 --> 00:15:19,020
-TakÅ¾e vÅ¡echno bylo pÅ™ipravenÃ©,
- pÅ™esnÄ› jako pÅ™i vaÅ™enÃ­,
+00:14:26,028 --> 00:14:30,568
+„Kolik stojí jedna parcela?“
+- tak øíkají velké ploše písku.
 
 153
-00:15:19,030 --> 00:15:24,030
-vÅ¡echno si pÅ™ipravÃ­te,
- nachystÃ¡te.
+00:14:31,655 --> 00:14:37,360
+Øekli: „Teï v létì velmi málo,
 
 154
-00:15:24,050 --> 00:15:27,000
-Pak jsme potÅ™ebovali
- dÅ™evo.
+00:14:37,979 --> 00:14:40,720
+ale v zimì to bude
+stát docela dost.“
 
 155
-00:15:27,020 --> 00:15:29,130
-Å˜ekli, Å¾e dÅ™evo by bylo
- z NepÃ¡lu.
+00:14:41,491 --> 00:14:45,767
+Mu by šel a øekl: „Dobøe, teï
+potøebujeme tolik, dovezte tolik.
 
 156
-00:15:29,150 --> 00:15:31,120
-Å˜ekla jsem: "DobÅ™e,
- odkud jeÅ¡tÄ›?"
+00:14:46,053 --> 00:14:48,559
+Pak budeme potøebovat víc,
+dovezete víc.“
 
 157
-00:15:31,150 --> 00:15:35,120
-Å˜ekli: "MÅ¯Å¾e bÃ½t
-z jakÃ©hokoliv jinÃ©ho lesa."
+00:14:48,996 --> 00:14:51,779
+Ale já jsem to tak neudìlala.
+Øekla jsem: „Léto je fajn,
 
 158
-00:15:35,150 --> 00:15:37,200
-Tak jsem zaÅ¡la do lesa
- ve stÅ™edu Indie,
+00:14:51,980 --> 00:14:54,703
+získáte ho lacino,
+proè nekoupit všechno?“
 
 159
-00:15:37,240 --> 00:15:45,180
-kterÃ½ se nazÃ½vÃ¡ Jabalpur,
-a objednala jsem ho tam.
+00:14:54,904 --> 00:14:59,169
+A tak jsem koupila celou
+parcelu, celou plochu písku.
 
 160
-00:15:45,200 --> 00:15:48,200
-VÅ¡echno dÅ™evo bylo pokÃ¡cenÃ©,
- ÄerstvÄ› naÅ™ezanÃ©
+00:15:02,287 --> 00:15:05,513
+Dobrá. Pak jsem šla do elezáøství.
 
 161
-00:15:48,240 --> 00:15:52,100
-a na aukci jsem ho
- spoustu koupila.
+00:15:06,044 --> 00:15:07,849
+Zeptala jsem se:
+„Máte elezo?“
 
 162
-00:15:52,220 --> 00:15:57,070
-Dostala jsem tam vÅ¡echno a navÃ­c
- jsem tam koupila i mramor.
+00:15:08,110 --> 00:15:10,767
+Øekli: „Musíte si ho objednat,
 
 163
-00:15:58,070 --> 00:16:03,000
-Do tÃ© doby nikde tento
- mramor nepouÅ¾Ã­vali.
+00:15:11,282 --> 00:15:13,526
+ale kdy si ho objednáte ve velkém,
 
 164
-00:16:03,030 --> 00:16:06,120
-Å˜ekla jsem: "Je to
- velmi jednoduchÃ©,
+00:15:13,727 --> 00:15:16,138
+dáme vám ho mnohem lacinìji.
 
 165
-00:16:08,030 --> 00:16:12,080
-pouÅ¾ijeme tento mramor
- na vÅ¡echno."
+00:15:16,531 --> 00:15:18,933
+V hotovosti zaplatíte tolik.“
+Øekla jsem: „Dobøe.“
 
 166
-00:16:12,100 --> 00:16:17,200
-TakÅ¾e jsem odtamtud
-dostala dÅ™evo i mramor.
+00:15:19,134 --> 00:15:20,568
+Objednala jsem ho.
 
 167
-00:16:19,020 --> 00:16:24,150
-Pak pÅ™iÅ¡li na Å™adu pracovnÃ­ci.
-Zeptala jsem se svÃ½ch pÅ™Ã¡tel,
+00:15:21,543 --> 00:15:24,160
+Take všechno bylo pøipravené,
+pøesnì jako pøi vaøení,
 
 168
-00:16:24,170 --> 00:16:30,180
-jestli neznajÃ­ nÄ›jakÃ©
- dobrÃ© zednÃ­ky.
+00:15:24,361 --> 00:15:26,985
+všechno si pøipravíte,
+nachystáte.
 
 169
-00:16:30,200 --> 00:16:33,120
-Å˜ekli: "Ano, ten je dobrÃ½,
-tamten je dobrÃ½..."
+00:15:27,761 --> 00:15:31,381
+Pak jsme potøebovali døevo.
+Øekli, e døevo by bylo z Nepálu.
 
 170
-00:16:33,140 --> 00:16:36,150
-Pozvala jsem je.
+00:15:31,582 --> 00:15:35,336
+Øekla jsem: „Dobøe
+a odkud ještì?"
 
 171
-00:16:36,160 --> 00:16:40,000
-Å˜ekla jsem: "PodÃ­vejte,
-mÅ¯Å¾ete se mnou tady bydlet.
+00:15:35,703 --> 00:15:38,550
+Øekli: „Mùe bıt
+z jakéhokoliv jiného lesa.“
 
 172
-00:16:40,020 --> 00:16:42,100
-Budu vÃ¡s nÃ¡leÅ¾itÄ› Å¾ivit,
- dÃ¡m vÃ¡m jÃ­dlo
+00:15:38,751 --> 00:15:42,009
+Tak jsem zašla do lesa
+ve støedu Indie,
 
 173
-00:16:42,230 --> 00:16:46,120
-a dobÅ™e se o vÃ¡s
- postarÃ¡m."
+00:15:45,007 --> 00:15:48,040
+kterı se nazıvá Jabalpur,
+a objednala jsem ho tam.
 
 174
-00:16:47,000 --> 00:16:50,000
-Tak se vÅ¡ichni usadili
- i se svÃ½mi rodinami
+00:15:49,451 --> 00:15:52,525
+Všechno døevo bylo pokácené,
+èerstvì naøezané
 
 175
-00:16:50,130 --> 00:16:55,230
-a jÃ¡ jsem pro nÄ›
- vaÅ™Ã­vala.
+00:15:53,238 --> 00:15:56,400
+a spoustu jsem ho koupila na aukci.
 
 176
-00:16:58,130 --> 00:17:02,100
-VaÅ™enÃ­m jsem si je zÃ­skala,
- udÄ›lali by pro mÄ› cokoliv.
+00:15:58,241 --> 00:16:02,618
+Dostala jsem tam všechno a navíc
+ jsem tam koupila i mramor.
 
 177
-00:17:02,120 --> 00:17:07,160
-Naprosto. Byli ke mnÄ›
- velmi milÃ­,
+00:16:02,819 --> 00:16:06,210
+Do té doby nikde tento
+mramor nepouívali.
 
 178
-00:17:07,240 --> 00:17:14,070
-pouÅ¾ili novÃ© techniky,
- kterÃ© znali,
+00:16:07,828 --> 00:16:09,767
+Øekla jsem: „Je to
+velmi jednoduché,
 
 179
-00:17:15,070 --> 00:17:19,100
-vytvoÅ™ili z cementu
- mramorovÃ½ efekt.
+00:16:09,968 --> 00:16:12,624
+pouijeme tento mramor
+na všechno.“
 
 180
-00:17:21,000 --> 00:17:25,110
-VyuÅ¾ili vÅ¡echnu svoji
- zruÄnost.
+00:16:13,105 --> 00:16:16,920
+Take jsem odtamtud
+dostala døevo i mramor.
 
 181
-00:17:25,240 --> 00:17:29,100
-TakÅ¾e tak velkÃ½ dÅ¯m
- s dvaceti loÅ¾nicemi
+00:16:19,279 --> 00:16:24,744
+Pak pøišli na øadu øemeslníci.
+Zeptala jsem se svıch pøátel,
 
 182
-00:17:30,120 --> 00:17:34,180
-a pÄ›ti salÃ³nky a jÃ­delnami byl
-postaven bÄ›hem jednoho roku.
+00:16:24,945 --> 00:16:30,383
+jestli neznají nìjaké dobré
+øemeslníky, dobré øezbáøe.
 
 183
-00:17:35,240 --> 00:17:40,190
-Nejen to, ale cena domu - nikdo
- tomu nebude vÄ›Å™it -
+00:16:31,211 --> 00:16:34,178
+Øekli: „Ano, ten je dobrı,
+tamten je dobrı...“ Pozvala jsem je.
 
 184
-00:17:43,000 --> 00:17:45,120
+00:16:34,379 --> 00:16:36,911
+Øekla jsem: „Podívejte,
+mùete tu se mnou bydlet,
+
+185
+00:16:37,112 --> 00:16:39,876
+budu vás náleitì ivit,
+dám vám jídlo
+
+186
+00:16:40,077 --> 00:16:42,175
+a budu o vás hezky peèovat.“
+
+187
+00:16:42,601 --> 00:16:45,382
+Tak se všichni usadili
+i se svımi rodinami
+
+188
+00:16:47,842 --> 00:16:49,935
+a já jsem pro nì vaøila.
+
+189
+00:16:50,477 --> 00:16:52,604
+Vaøením jsem si je získala,
+
+190
+00:16:53,406 --> 00:16:55,421
+udìlali by pro mì cokoliv.
+
+191
+00:16:58,879 --> 00:17:02,044
+Naprosto. Byli ke mnì velmi milí,
+
+192
+00:17:02,258 --> 00:17:07,472
+pouili nové techniky,
+které znali,
+
+193
+00:17:07,830 --> 00:17:13,327
+vytvoøili z cementu
+mramorovı efekt.
+
+194
+00:17:14,970 --> 00:17:18,494
+Vyuili všechnu svoji zruènost.
+
+195
+00:17:21,176 --> 00:17:23,543
+Take tak velkı dùm
+s dvaceti lonicemi
+
+196
+00:17:23,744 --> 00:17:28,544
+a pìti salónky a jídelnami byl
+postaven bìhem jednoho roku.
+
+197
+00:17:30,917 --> 00:17:34,868
+Nejen to, ale cena domu,
+nikdo tomu nemùe uvìøit,
+
+198
+00:17:35,766 --> 00:17:40,183
 byla jen desetina toho,
 co by si vzal onen architekt.
 
-185
-00:17:45,130 --> 00:17:48,080
-Ale vÅ¡echno bylo tak dobÅ™e
- zapsÃ¡no a udÄ›lÃ¡no.
-
-186
-00:17:49,000 --> 00:17:53,120
-NevÄ›dÄ›la jsem,
- jak ÃºÄtovat,
-
-187
-00:17:54,100 --> 00:17:58,000
-tak jsem kaÅ¾dÃ½ den
- Å™Ã­kala: "DobÅ™e,
-
-188
-00:17:59,000 --> 00:18:02,240
-dnes vybereme
- tolik penÄ›z,
-
-189
-00:18:03,240 --> 00:18:07,030
-tolik se utratilo." Takto jsem
- to kaÅ¾dÃ½ den psala
-
-190
-00:18:07,050 --> 00:18:10,070
-a nechybÄ›la ani jedna
- jedinÃ¡ rupie.
-
-191
-00:18:10,090 --> 00:18:12,120
-TakÅ¾e MÄ› nikdo nemohl Å¾alovat,
- nebyl Å¾Ã¡dnÃ½ problÃ©m.
-
-192
-00:18:12,150 --> 00:18:16,150
-Jinak vÅ¡ichni ÃºÅ™ednÃ­ci,
-kteÅ™Ã­ si tam postavili dÅ¯m,
-
-193
-00:18:17,230 --> 00:18:21,100
-mÄ›li spoustu problÃ©mÅ¯.
-
-194
-00:18:21,130 --> 00:18:23,130
-Zdanili jim pÅ™Ã­jmy, MnÄ› se
- nic takovÃ©ho nestalo.
-
-195
-00:18:23,150 --> 00:18:27,000
-A jÃ¡ jsem zÃ­skala tak obrovskÃ½
- dÅ¯m za tak mÃ¡lo penÄ›z.
-
-196
-00:18:28,100 --> 00:18:30,170
-A to takovÃ½ dÅ¯m,
- Å¾e lidÃ© Å™Ã­kali,
-
-197
-00:18:30,180 --> 00:18:32,210
-Å¾e i kdyby mÄ›l Taj Mahal
-spadnout,
-
-198
-00:18:33,000 --> 00:18:37,040
-tak tento dÅ¯m
- nespadne.
-
 199
-00:18:37,070 --> 00:18:40,240
-UdÄ›lala jsem dobrÃ©
-zÃ¡klady i to ostatnÃ­,
+00:17:42,774 --> 00:17:45,269
+Ale všechno bylo dobøe
+zapsáno a zaznamenáno.
 
 200
-00:18:42,200 --> 00:18:45,050
-protoÅ¾e jsem mÄ›la
- tak levnÃ© cihly.
+00:17:45,470 --> 00:17:47,042
+Nevìdìla jsem, jak úètovat,
 
 201
-00:18:45,070 --> 00:18:47,240
-Koupila jsem celou pec
- skoro za nic
+00:17:47,243 --> 00:17:53,635
+tak jsem se tedy kadı den øekla:
+„Dobøe, dnes vybereme tolik penìz
 
 202
-00:18:48,000 --> 00:18:51,200
-a polovinu jsem prodala,
- protoÅ¾e toho tolik zbylo.
+00:17:54,190 --> 00:17:58,146
+a tolik se utratilo.“
+Takto jsem to kadı den zapisovala
 
 203
-00:18:54,050 --> 00:18:56,060
-Pak ze vÅ¡eho pÃ­sku, co jsem
- koupila a pÅ™ivezla,
+00:17:58,675 --> 00:18:02,600
+a nechybìla ani jedna jediná rupie.
 
 204
-00:18:56,080 --> 00:18:59,030
-jsem polovinu prodala,
-protoÅ¾e jsem ho nepotÅ™ebovala,
+00:18:03,984 --> 00:18:06,773
+Nikdo mì tedy nemohl alovat,
+nebyl ádnı problém.
 
 205
-00:18:59,090 --> 00:19:01,080
-a to za dvojnÃ¡sobnou cenu,
-takÅ¾e jsem mÄ›la pÃ­sek zadarmo.
+00:18:06,974 --> 00:18:09,999
+Jinak všichni úøedníci,
+kteøí si tam postavili dùm,
 
 206
-00:19:01,100 --> 00:19:08,150
-DÅ™evo, kterÃ© jsem si
- pÅ™ivezla,
+00:18:10,200 --> 00:18:12,608
+mìli spoustu problémù.
 
 207
-00:19:08,240 --> 00:19:14,150
-jsem nechala Å™Ã¡dnÄ›
- otesat.
+00:18:12,906 --> 00:18:17,032
+Zdanili jim vıdìlek, apod.,
+mnì se nic takového nestalo.
 
 208
-00:19:14,240 --> 00:19:20,000
-MÄ›la jsem malou nÃ¡drÅ¾,
- do kterÃ© jsem ho dala,
+00:18:17,663 --> 00:18:21,070
+Získala jsem tedy tak obrovskı
+dùm za tak málo penìz.
 
 209
-00:19:20,020 --> 00:19:24,200
-takÅ¾e se stalo zcela odolnÃ©
- proti povÄ›trnostnÃ­m vlivÅ¯m.
+00:18:21,538 --> 00:18:25,068
+A to takovı dùm, e lidé øíkali,
+e i kdyby mìl spadnout Taj Mahal,
 
 210
-00:19:24,220 --> 00:19:27,240
-VytÃ¡hla jsem ho a polovinu
- pouÅ¾ila, jen polovinu
+00:18:25,269 --> 00:18:27,246
+tak tento dùm nespadne.
 
 211
-00:19:28,100 --> 00:19:30,190
-na stovku oken a Å¡edesÃ¡t
-dveÅ™Ã­ a zbytek jsem prodala.
+00:18:28,154 --> 00:18:30,418
+Udìlala jsem dobré základy
+i to ostatní,
 
 212
-00:19:30,240 --> 00:19:33,020
-A dokonce odÅ¡tÄ›pky
- se prodaly jako palivo,
+00:18:30,619 --> 00:18:32,795
+protoe jsem mìla
+tak levné cihly.
 
 213
-00:19:35,120 --> 00:19:37,200
-jako palivovÃ© dÅ™Ã­vÃ­
-- tak co tomu Å™Ã­kÃ¡te?
+00:18:33,123 --> 00:18:37,074
+Koupila jsem celou pec
+skoro za nic
 
 214
-00:19:37,240 --> 00:19:40,050
-Jen si pÅ™edstavte, Å¾e nÄ›co
- bylo prodÃ¡no jako Å™ezivo
+00:18:37,275 --> 00:18:40,631
+a polovinu jsem prodala,
+protoe toho tolik zbylo.
 
 215
-00:19:40,100 --> 00:19:45,200
-a nÄ›co na chÃ½Å¡e.
+00:18:42,492 --> 00:18:45,472
+Pak ze všeho písku, co jsem
+koupila a pøivezla,
 
 216
-00:19:45,240 --> 00:19:47,240
-Ale musela jsem
- jim vaÅ™it,
+00:18:45,673 --> 00:18:48,419
+jsem polovinu prodala,
+protoe jsem ho nepotøebovala,
 
 217
-00:19:48,130 --> 00:19:52,000
-musela jsem se starat
- o jejich pohodlÃ­.
+00:18:48,620 --> 00:18:52,293
+a to za dvojnásobnou cenu,
+take jsem mìla písek zadarmo.
 
 218
-00:19:52,020 --> 00:19:54,230
-Dala jsem jim na spanÃ­ pÄ›knÃ©
- pÅ™ikrÃ½vky a pÄ›knÃ¡ lÅ¯Å¾ka,
+00:18:53,949 --> 00:18:58,618
+Døevo, které jsem si pøivezla,
+jsem nechala øádnì otesat,
 
 219
-00:19:54,240 --> 00:19:57,000
-takÅ¾e byli velmi
- spokojenÃ­.
+00:18:58,819 --> 00:19:01,209
+namoèila do malé nádre,
 
 220
-00:19:57,020 --> 00:20:01,230
-Takto to vypracovÃ¡vÃ¡ Å¾ena
- a kaÅ¾dÃ½ byl ohromenÃ½.
+00:19:01,410 --> 00:19:08,560
+take se stalo zcela odolné
+proti povìtrnostním vlivùm.
 
 221
-00:20:06,120 --> 00:20:08,170
-Nemohli najÃ­t Å¾Ã¡dnou
-chybu v mÃ½ch ÃºÄtech,
+00:19:10,082 --> 00:19:14,431
+Vytáhla jsem ho a polovinu
+pouila, jen polovinu
 
 222
-00:20:09,130 --> 00:20:13,160
-nemohli najÃ­t Å¾Ã¡dnÃ©
- nedostatky
+00:19:14,955 --> 00:19:19,825
+na stovku oken a šedesát
+dveøí a zbytek jsem prodala.
 
 223
-00:20:13,240 --> 00:20:17,000
-A Å™ekla jsem manÅ¾elovÃ½m
- pÅ™Ã¡telÅ¯m,
+00:19:20,668 --> 00:19:24,811
+A dokonce odštìpky
+se prodaly jako palivo,
 
 224
-00:20:17,020 --> 00:20:21,030
-aby se ode mÄ› drÅ¾eli
- na pÄ›t mil daleko.
+00:19:25,012 --> 00:19:27,406
+jako palivové døíví,
+tak co tomu øíkáte.
 
 225
-00:20:21,040 --> 00:20:25,240
-ProtoÅ¾e pracoval
- s ministerskÃ½m pÅ™edsedou
+00:19:28,033 --> 00:19:30,719
+Jen si pøedstavte, e nìco
+bylo prodáno jako øezivo
 
 226
-00:20:27,120 --> 00:20:29,100
-a lidÃ© by Å™Ã­kali: "UrÄitÄ›
-bere Ãºplatky" a podobnÃ© vÄ›ci.
+00:19:30,920 --> 00:19:33,048
+a nìco na chıše.
 
 227
-00:20:33,000 --> 00:20:36,060
-Pak tu byl jinÃ½ problÃ©m,
-chodili by za Mnou a Å™Ã­kali:
+00:19:35,206 --> 00:19:37,632
+Ale musela jsem jim vaøit,
 
 228
-00:20:36,080 --> 00:20:38,100
-"Toto nenÃ­ dobrÃ©, tamto
- nenÃ­ dobrÃ©."
+00:19:37,833 --> 00:19:40,045
+musela jsem se starat
+o jejich pohodlí.
 
 229
-00:20:38,120 --> 00:20:43,170
-DrÅ¾ela jsem si je od tÄ›la,
-protoÅ¾e oni pouze diskutujÃ­,
+00:19:40,246 --> 00:19:44,728
+Dala jsem jim na spaní pìkné
+pøikrıvky a pìkná lùka,
 
 230
-00:20:43,180 --> 00:20:48,220
-muÅ¾i se dokÃ¡Å¾Ã­ jen pÅ™Ã­t.
-Å½eny vytvÃ¡Å™ejÃ­ vÃ½sledky.
+00:19:44,929 --> 00:19:47,738
+a podobnì,
+take byli velmi spokojení.
 
 231
-00:20:49,150 --> 00:20:53,050
-Å½Ã¡dnÃ© konference, nic.
-Å˜ekla jsem: "Nic nedÄ›lejte.
+00:19:48,278 --> 00:19:51,623
+Tahle to vypracovává ena
+a kadı byl ohromenı.
 
 232
-00:20:56,030 --> 00:20:59,140
-nechte MÄ› to udÄ›lat
- samotnou."
+00:19:51,824 --> 00:19:54,530
+Nemohli najít ádnou
+chybu v mıch úètech,
 
 233
-00:20:59,150 --> 00:21:02,140
-KrÃ¡snÄ› jsem postavila dÅ¯m,
-obklopenÃ¡ vÅ¡emi tÄ›mi lidmi,
+00:19:54,731 --> 00:19:56,831
+nemohli najít ádné nedostatky.
 
 234
-00:21:02,200 --> 00:21:05,220
-krÃ¡snÃ½ dÅ¯m, kterÃ½,
- myslÃ­m, nafilmovali,
+00:19:57,032 --> 00:19:59,293
+A øekla jsem manelovım pøátelùm,
 
 235
-00:21:05,230 --> 00:21:09,070
-mÅ¯Å¾ete se na ten dÅ¯m,
-kterÃ½ jsem postavila, podÃ­vat.
+00:19:59,494 --> 00:20:02,502
+aby se ode mì dreli
+na pìt mil daleko.
 
 236
-00:21:09,080 --> 00:21:14,080
-TakÅ¾e Å¾ena, kterÃ¡ je
- sahadÅ¾ajogÃ­nkou,
+00:20:06,467 --> 00:20:09,430
+Protoe pracoval
+s ministerskım pøedsedou
 
 237
-00:21:14,100 --> 00:21:17,240
-musÃ­ rozvinout svÃ©
- jedineÄnÃ© kvality,
+00:20:09,721 --> 00:20:13,600
+a lidé by øíkali: „Urèitì bere
+úplatky“ a podobné vìci.
 
 238
-00:21:19,120 --> 00:21:22,230
-protoÅ¾e je velmi intuitivnÃ­,
- Å¾ena je velmi intuitivnÃ­.
+00:20:14,156 --> 00:20:19,066
+Pak tu byl jinı problém,
+chodili by za mnou a øíkali by:
 
 239
-00:21:23,000 --> 00:21:26,170
-VÅ¾dycky okamÅ¾itÄ› dospÄ›je
- ke sprÃ¡vnÃ©mu zÃ¡vÄ›ru.
+00:20:19,267 --> 00:20:20,945
+„Toto není dobré,
+tamto není dobré.“
 
 240
-00:21:27,130 --> 00:21:33,020
-Pokud je Å¾enou, ale pokud je
-napÅ¯l muÅ¾em a troÅ¡ku Å¾enou,
+00:20:21,146 --> 00:20:23,738
+Drela jsem je dál,
+protoe oni pouze diskutují.
 
 241
-00:21:34,000 --> 00:21:43,000
-pak nevÃ­m, co je
- vlastnÄ› zaÄ.
+00:20:23,939 --> 00:20:25,919
+Mui se dokáí jen pøít.
 
 242
-00:21:43,230 --> 00:21:49,000
-TakÅ¾e Å¾ena by se mÄ›la snaÅ¾it
- bÃ½t Å¾enou, je tak mocnÃ¡,
+00:20:27,245 --> 00:20:29,284
+eny vytváøejí vısledky.
 
 243
-00:21:52,000 --> 00:21:57,230
-je mocnÃ¡ jako Matka ZemÄ›,
- kterÃ¡ snese vÅ¡echno moÅ¾nÃ©
+00:20:33,441 --> 00:20:35,787
+ádné konference, nic.
+Øekla jsem: „Nic takového,
 
 244
-00:21:58,080 --> 00:22:00,170
-a mÅ¯Å¾e dÃ¡t to nejlepÅ¡Ã­,
- co v nÃ­ je.
+00:20:35,988 --> 00:20:37,946
+nechte mì to udìlat samotnou.“
 
 245
-00:22:00,180 --> 00:22:03,130
-NesmÃ­rnÄ› obÄ›tavÃ¡,
+00:20:38,164 --> 00:20:43,720
+Krásnì jsem postavila dùm,
+obklopená všemi tìmi lidmi,
 
 246
-00:22:03,150 --> 00:22:07,000
-neobyÄejnÄ› dÃ¡vajÃ­cÃ­, shovÃ­vavÃ¡,
- milujÃ­cÃ­, odpouÅ¡tÄ›jÃ­cÃ­.
+00:20:44,214 --> 00:20:49,055
+krásnı dùm, kterı,
+myslím, nafilmovali,
 
 247
-00:22:07,020 --> 00:22:14,240
-KdyÅ¾ si muÅ¾i rozvinou
- Å¾enskÃ© kvality,
+00:20:49,466 --> 00:20:52,565
+mùete se na ten dùm,
+kterı jsem postavila, podívat.
 
 248
-00:22:19,200 --> 00:22:22,220
-tak se z nich stanou
- svÄ›tci.
+00:20:56,580 --> 00:20:59,286
+Take ena, která je
+sahadajogínkou,
 
 249
-00:22:22,240 --> 00:22:25,120
-Ale ne Å¾enskÃ© kvality,
- Å¾e budou bÄ›hat za Å¾enami.
+00:20:59,487 --> 00:21:02,471
+musí rozvinout své
+jedineèné kvality,
 
 250
-00:22:25,140 --> 00:22:27,200
-To nenÃ­ tento druh
- nesmyslÅ¯.
+00:21:02,672 --> 00:21:06,086
+protoe je velmi intuitivní,
+ena je velmi intuitivní.
 
 251
-00:22:27,220 --> 00:22:31,080
-MusÃ­ bÃ½t virovÃ© - hrdinovÃ©,
- musÃ­ bÃ½t rytÃ­Å™i.
+00:21:06,458 --> 00:21:09,496
+Vdycky okamitì dospìje
+ke správnému závìru.
 
 252
-00:22:33,150 --> 00:22:38,030
-MusÃ­ bÃ½t stateÄnÃ­,
+00:21:09,749 --> 00:21:14,218
+Pokud je enou! Ale pokud je
+napùl muem a trošku enou,
 
 253
-00:22:39,130 --> 00:22:44,050
-ale zÃ¡roveÅˆ musÃ­ rozvinout
- milosrdenstvÃ­, smÃ­Å™livost.
+00:21:14,419 --> 00:21:16,880
+pak nevím, co je vlastnì zaè.
 
 254
-00:22:45,100 --> 00:22:50,220
-Ale myslÃ­m, Å¾e je to v NÄ›mecku
- pÅ™esnÄ› naopak.
+00:21:19,879 --> 00:21:22,761
+Take ena by se mìla snait
+bıt enou. Je tak mocná,
 
 255
-00:22:51,000 --> 00:22:53,100
-A takÃ© jsem objevila, Å¾e mezi
- zÃ¡padnÃ­mi sahadÅ¾ajogÃ­ny
+00:21:22,962 --> 00:21:27,160
+je mocná jako Matka Zemì,
+která snese všechno moné
 
 256
-00:22:53,120 --> 00:22:55,100
-je to velmi bÄ›Å¾nÃ¡ vÄ›c.
+00:21:27,530 --> 00:21:32,024
+a mùe dát to nejlepší,
+co v ní je.
 
 257
-00:22:55,120 --> 00:22:58,240
-Å½eny rozvÃ­jejÃ­
- hroznÃ¡ ega.
+00:21:34,090 --> 00:21:35,920
+Nesmírnì obìtavá,
 
 258
-00:23:01,000 --> 00:23:04,170
-V Indii Å¾eny pracujÃ­.
- DÄ›lajÃ­ vÅ¡echno.
+00:21:37,227 --> 00:21:42,679
+neobyèejnì dávající, shovívavá,
+milující, odpouštìjící.
 
 259
-00:23:06,070 --> 00:23:09,030
-Od nepamÄ›ti mÃ¡me velkÃ©,
- velmi znÃ¡mÃ© Å™eÄnice.
+00:21:43,772 --> 00:21:48,549
+Kdy si mui rozvinou enské kvality,
+pak se stanou svìtci.
 
 260
-00:23:09,050 --> 00:23:11,030
-Ale nemÄ›ly ego. Moje
- matka mÄ›la doktorÃ¡t
+00:21:52,396 --> 00:21:56,944
+Ale ne enské kvality,
+e budou bìhat za enami.
 
 261
-00:23:11,050 --> 00:23:13,220
-v dobÄ›, kdy mÄ›ly jen dvÄ›
-nebo tÅ™i Å¾eny takovÃ½ diplom,
+00:21:57,931 --> 00:21:59,991
+To není tento druh nesmyslù.
 
 262
-00:23:13,230 --> 00:23:19,170
-ale nikdy jsem nevidÄ›la,
- Å¾e by mÄ›la ego.
+00:22:00,337 --> 00:22:04,719
+Musí bıt vírové - hrdinové,
+musí bıt stateèní.
 
 263
-00:23:21,020 --> 00:23:24,000
-Moje dcery, jedna z nich
- studovala architekturu
+00:22:05,393 --> 00:22:10,933
+Musí bıt stateèní, ale zároveò musí
+rozvinout milosrdenství,
 
 264
-00:23:24,050 --> 00:23:28,060
-a takÃ© vÃ½zdobu interiÃ©ru
- - nynÃ­ nepracuje,
+00:22:12,747 --> 00:22:14,047
+smíølivost.
 
 265
-00:23:31,100 --> 00:23:33,000
-protoÅ¾e jejÃ­ manÅ¾el
- vydÄ›lÃ¡vÃ¡ dost,
+00:22:19,502 --> 00:22:22,380
+Ale myslím, e je to v Nìmecku
+pøesnì naopak.
 
 266
-00:23:34,030 --> 00:23:37,070
-ale vytvÃ¡Å™Ã­ domy pro ostatnÃ­,
- maluje domy ostatnÃ­m,
+00:22:22,581 --> 00:22:25,488
+A také jsem objevila, e mezi
+západními sahadajogíny
 
 267
-00:23:38,080 --> 00:23:40,050
-pomÃ¡hÃ¡ ostatnÃ­m zdarma.
- A mÃ¡ velkÃ© pÅ™Ã¡tele.
+00:22:25,689 --> 00:22:27,669
+je to velmi bìná situace,
+která pokraèuje.
 
 268
-00:23:40,080 --> 00:23:42,230
-Co je tedy vymoÅ¾enostÃ­ Å¾eny?
-MÃ¡ kolem sebe vÃ­ce lidÃ­,
+00:22:27,870 --> 00:22:30,200
+eny si rozvíjejí hrozná ega.
 
 269
-00:23:43,000 --> 00:23:49,100
-lidskÃ© sÃ­ly. MÃ¡ kolem sebe
- vÃ­ce lidskÃ½ch bytostÃ­.
+00:22:33,339 --> 00:22:35,272
+I v Indii eny pracují.
 
 270
-00:23:49,120 --> 00:23:53,100
-A jakÃ½ je potenciÃ¡l
- muÅ¾Å¯?
+00:22:36,605 --> 00:22:38,089
+Dìlají všechno.
 
 271
-00:23:56,070 --> 00:24:00,030
-MajÃ­ k zaplacenÃ­ vÅ¡echny
- ÃºÄty za dÅ¯m,
+00:22:39,234 --> 00:22:43,208
+Od nepamìti máme velké,
+velmi známé øeènice.
 
 272
-00:24:00,050 --> 00:24:02,130
-musÃ­ platit pojiÅ¡tÄ›nÃ­,
- opravy auta.
+00:22:45,159 --> 00:22:46,912
+Ale nemìly ego.
 
 273
-00:24:03,000 --> 00:24:07,120
-Nechte jim dÄ›lat
- nepÅ™Ã­jemnou prÃ¡ci.
+00:22:48,774 --> 00:22:51,097
+Moje  matka mìla doktorát
 
 274
-00:24:09,130 --> 00:24:11,120
-Å½eny dostÃ¡vajÃ­ vÅ¡echny
-lÃ¡skyplnÃ© dopisy od dÄ›tÃ­,
+00:22:51,298 --> 00:22:55,064
+v dobì, kdy mìly jen dvì
+nebo tøi eny takovı diplom,
 
 275
-00:24:11,230 --> 00:24:14,020
-manÅ¾ela, kohokoliv.
+00:22:55,265 --> 00:22:58,462
+ale nikdy jsem nevidìla,
+e by mìla nìjaké ego.
 
 276
-00:24:14,050 --> 00:24:18,180
-Jsou milovÃ¡ny.
-Je o nÄ› peÄovÃ¡no.
+00:23:01,510 --> 00:23:05,095
+Moje dcery, jedna z nich
+studovala architekturu
 
 277
-00:24:18,200 --> 00:24:20,070
-TeÄ, protoÅ¾e se staly
- muÅ¾skÃ½mi,
+00:23:06,076 --> 00:23:09,080
+a také vızdobu interiéru
+- nyní nepracuje,
 
 278
-00:24:20,170 --> 00:24:25,090
-tyto vÃ½hody nemajÃ­.
- NapÅ™Ã­klad kdysi,
+00:23:09,281 --> 00:23:11,223
+protoe její manel
+vydìlává dost,
 
 279
-00:24:25,100 --> 00:24:28,000
-kdyÅ¾ jste veÅ¡ly do autobusu,
- tak Å¾enÄ› uvolnili mÃ­sto.
+00:23:11,424 --> 00:23:14,191
+ale vytváøí domy pro ostatní,
+maluje domy ostatním,
 
 280
-00:24:28,030 --> 00:24:30,100
-TeÄ to nikdo nedÄ›lÃ¡.
+00:23:14,392 --> 00:23:16,683
+pomáhá ostatním zdarma.
 
 281
-00:24:30,120 --> 00:24:31,100
-Jednou jedna starÃ¡
- Å¾ena cestovala
+00:23:17,696 --> 00:23:19,408
+A má podobné pøátele.
 
 282
-00:24:31,120 --> 00:24:33,220
-a sedÄ›l tam jakÃ½si
- mladÃ­k.
+00:23:22,259 --> 00:23:27,783
+Èeho tedy ena mùe dosáhnout?
+Má kolem sebe více lidí,
 
 283
-00:24:33,230 --> 00:24:37,070
-Å˜ekla jsem: "ProÄ ji
- nepustÃ­Å¡ sednout?"
+00:23:31,281 --> 00:23:32,810
+lidské síly.
 
 284
-00:24:37,080 --> 00:24:40,200
-Å˜ekl: "ProÄ bych to dÄ›lal? MÃ¡
-kalhoty, jÃ¡ mÃ¡m takÃ© kalhoty."
+00:23:33,850 --> 00:23:36,540
+Má kolem sebe
+více lidskıch bytostí.
 
 285
-00:24:40,240 --> 00:24:43,200
-Ta starÃ¡ panÃ­ mÄ›la
- na sobÄ› kalhoty,
+00:23:38,417 --> 00:23:40,234
+A jakı je potenciál muù?
 
 286
-00:24:47,070 --> 00:24:50,000
-tak Å™ekl: "ProÄ bych ji mÄ›l
-pouÅ¡tÄ›t sednout, nosÃ­ kalhoty,
+00:23:40,435 --> 00:23:43,081
+Mají k zaplacení všechny
+úèty za dùm,
 
 287
-00:24:50,100 --> 00:24:53,150
-jÃ¡ mÃ¡m kalhoty, tak jakÃ½
- je v tom rozdÃ­l?"
+00:23:43,443 --> 00:23:45,853
+musí platit pojištìní,
 
 288
-00:24:55,000 --> 00:25:01,000
-TakÅ¾e toto vÅ¡echno jsou
- naÅ¡e vÃ½hody a vÃ½sady,
+00:23:47,778 --> 00:23:51,742
+opravy auta.
+Nechte jim dìlat tu špinavou práci.
 
 289
-00:25:01,100 --> 00:25:04,200
-kterÃ© ztrÃ¡cÃ­me tÃ­m,
-Å¾e se z nÃ¡s stÃ¡vajÃ­ muÅ¾i.
+00:23:56,267 --> 00:23:59,984
+eny dostávají všechny
+láskyplné dopisy od dìtí,
 
 290
-00:25:04,220 --> 00:25:08,170
-A co zÃ­skÃ¡vÃ¡me?
+00:24:00,185 --> 00:24:02,583
+manela, od všech.
 
 291
-00:25:10,050 --> 00:25:14,000
-Ve skuteÄnosti si prÃ¡vÄ› naopak
- myslÃ­m, Å¾e v souÄasnosti
+00:24:03,027 --> 00:24:04,444
+Jsou milovány.
 
 292
-00:25:15,000 --> 00:25:18,210
-jsou Å¾eny daleko vÄ›tÅ¡Ã­mi
-otroky muÅ¾Å¯, neÅ¾ bÃ½valy dÅ™Ã­v.
+00:24:06,484 --> 00:24:08,079
+Je o nì peèováno.
 
 293
-00:25:18,240 --> 00:25:21,000
-Velice se znepokojujÃ­. Å˜eknÄ›me,
- Å¾e je tu sahadÅ¾ajogÃ­nka,
+00:24:09,419 --> 00:24:11,868
+Teï, protoe se staly muskımi,
 
 294
-00:25:21,020 --> 00:25:23,080
-kterÃ¡ je velmi zle napadenÃ¡
- a mÃ¡ jistÃ© problÃ©my.
+00:24:12,094 --> 00:24:14,169
+tyto vıhody nemají.
 
 295
-00:25:23,100 --> 00:25:27,050
-PrvnÃ­, o Äem bude
- pÅ™emÃ½Å¡let, je:
+00:24:14,399 --> 00:24:18,398
+Napøíklad døíve, kdy ena nastoupila
+do autobusu, tak jí uvolnili místo.
 
 296
-00:25:27,070 --> 00:25:29,020
-"Ã“, BoÅ¾e, teÄ mÄ› mÅ¯j
- manÅ¾el opustÃ­,
+00:24:18,599 --> 00:24:20,372
+Teï to nikdo nedìlá.
 
 297
-00:25:30,080 --> 00:25:33,180
-vezme mi dÄ›ti, co si poÄnu?"
-Nikdy nepomyslÃ­ na SahadÅ¾a jÃ³gu.
+00:24:21,443 --> 00:24:25,204
+Jednou jedna stará
+ena cestovala
 
 298
-00:25:34,130 --> 00:25:37,180
-Ale setkala jsem se
-s neobyÄejnou Å¾enou,
+00:24:25,865 --> 00:24:28,288
+a sedìl tam jakısi mladík.
 
 299
-00:25:37,200 --> 00:25:42,020
-musÃ­m Å™Ã­ct, Å¾e to byla
- skuteÄnÃ¡ Å¾ena.
+00:24:28,489 --> 00:24:30,163
+Øekla jsem:
+„Proè ji nepustíš sednout?“
 
 300
-00:25:42,200 --> 00:25:44,020
-Å˜ekla: "Matko, jsem
- schizofreniÄka,
+00:24:30,364 --> 00:24:34,252
+Øekl: „Proè bych mìl? Má kalhoty,
+já mám také kalhoty.“
 
 301
-00:25:44,030 --> 00:25:47,020
-a tak chci odejÃ­t
- ze SahadÅ¾a jÃ³gy.
+00:24:35,151 --> 00:24:37,528
+Ta stará paní mìla
+na sobì kalhoty,
 
 302
-00:25:47,050 --> 00:25:51,210
-Rozvedu se, nechci
- vidÄ›t svÃ© dÄ›ti,
+00:24:37,805 --> 00:24:40,373
+tak øekl: „Proè bych ji mìl
+pouštìt sednout, nosí kalhoty,
 
 303
-00:25:51,240 --> 00:25:53,140
-SahadÅ¾a jÃ³ga je mnohem
- dÅ¯leÅ¾itÄ›jÅ¡Ã­ neÅ¾ jÃ¡,
+00:24:40,574 --> 00:24:43,080
+já mám kalhoty,
+tak v èem je rozdíl?“
 
 304
-00:25:53,150 --> 00:25:55,220
-mÅ¯j manÅ¾el a dÄ›ti."
+00:24:47,696 --> 00:24:51,573
+Take takové jsou naše vıhody
+a vısady, které ztrácíme
 
 305
-00:25:56,000 --> 00:25:58,170
-"To je Å¾ena," Å™ekla jsem. Å˜ekla:
-"Jsem schizofreniÄka od dÄ›tstvÃ­.
+00:24:51,836 --> 00:24:53,949
+tím, e se z nás stávají mui.
 
 306
-00:25:58,200 --> 00:26:01,030
-TeÄ jsem to objevila
- a pronÃ¡sleduje mne to."
+00:24:54,876 --> 00:24:56,480
+A co získáváme?
 
 307
-00:26:01,050 --> 00:26:03,050
-VÄ›tÅ¡inou se ale Å¾eny
-strachujÃ­ samy o sebe.
+00:25:00,267 --> 00:25:01,542
+Co z toho máme?
 
 308
-00:26:04,080 --> 00:26:07,180
-"Ã“, BoÅ¾e, budu muset
- opustit svÃ©ho muÅ¾e,"
+00:25:01,742 --> 00:25:04,558
+Skuteènì si myslím,
+e právì naopak, v souèasnosti
 
 309
-00:26:08,180 --> 00:26:11,180
-coÅ¾ znamenÃ¡, Å¾e parazitujÃ­
- na svÃ©m muÅ¾i.
+00:25:04,759 --> 00:25:08,439
+jsou eny daleko vìtšími
+otroky muù, ne bıvaly døív.
 
 310
-00:26:13,220 --> 00:26:16,240
-"Budu muset opustit
- svÃ© dÄ›ti."
+00:25:10,579 --> 00:25:12,235
+Velice se znepokojují.
 
 311
-00:26:17,180 --> 00:26:20,100
-Ale co takhle opustit
- SahadÅ¾a jÃ³gu?
+00:25:12,571 --> 00:25:16,886
+Øeknìme, e je tu sahadajogínka,
+která je velmi zle napadená
 
 312
-00:26:20,150 --> 00:26:22,220
-KdyÅ¾ si budete myslet, Å¾e je
-SahadÅ¾a jÃ³ga to nejdÅ¯leÅ¾itÄ›jÅ¡Ã­,
+00:25:17,325 --> 00:25:20,920
+a má jisté problémy.
+První, o èem bude pøemıšlet, je:
 
 313
-00:26:22,230 --> 00:26:26,050
-mÅ¯Å¾ete se zbavit i svÃ©
- schizofrenie.
+00:25:21,121 --> 00:25:23,767
+„Ó, Boe,
+teï mì mùj manel opustí,
 
 314
-00:26:26,070 --> 00:26:28,150
-ProÄ by vÃ¡m mÄ›l BÅ¯h pomÃ¡hat?
-PÅ™emÃ½Å¡lÃ­me jako obyÄejnÃ© Å¾eny,
+00:25:23,968 --> 00:25:28,788
+vezme mi dìti, co si poènu?“
+Vùbec nepomyslí na Sahada jógu.
 
 315
-00:26:31,020 --> 00:26:34,000
-samy o sobÄ›, strachujeme se
-jen samy o sebe.
+00:25:30,090 --> 00:25:32,358
+Ale setkala jsem se
+s neobyèejnou enou,
 
 316
-00:26:37,070 --> 00:26:41,070
-Ne o SahadÅ¾a jÃ³gu.
+00:25:32,559 --> 00:25:34,052
+musím øíct, e to byla
+ skuteèná ena.
 
 317
-00:26:42,220 --> 00:26:45,180
-To stejnÃ© muÅ¾i - ale muÅ¾i
- nejsou tak vystraÅ¡enÃ­,
+00:25:34,253 --> 00:25:37,991
+Øekla: „Matko, jsem schizofrenièka,
 
 318
-00:26:46,170 --> 00:26:49,000
-protoÅ¾e si myslÃ­, Å¾e se
-o sebe dokÃ¡Å¾Ã­ postarat.
+00:25:38,626 --> 00:25:40,593
+a tak chci odejít
+ze Sahada jógy.
 
 319
-00:26:49,020 --> 00:26:52,000
-A Å¾eny by takÃ© mÄ›ly vÄ›dÄ›t,
-Å¾e nynÃ­ jsou sahadÅ¾ajogÃ­nky
+00:25:40,794 --> 00:25:43,799
+Rozvedu se,
+nechci vidìt své dìti,
 
 320
-00:26:52,200 --> 00:26:55,120
-a Matka se o nÄ›
- postarÃ¡.
+00:25:44,000 --> 00:25:47,219
+Sahada jóga je mnohem
+dùleitìjší ne já,
 
 321
-00:26:55,140 --> 00:27:01,080
-Ale pokud si dÄ›lÃ¡te starosti
-jen samy o sebe, svÃ©ho muÅ¾e,
+00:25:47,420 --> 00:25:49,402
+mùj manel a dìti.“
 
 322
-00:27:01,100 --> 00:27:04,100
-svÅ¯j dÅ¯m, svÃ© dÄ›ti,
-pak jste ztracenÃ½ pÅ™Ã­pad,
+00:25:52,310 --> 00:25:55,924
+„To je ena,“ øekla jsem. Øekla:
+„Jsem schizofrenièka od dìtství.
 
 323
-00:27:06,050 --> 00:27:10,080
-nejste uÅ¾ vÃ­ce Å¾enou. NenÃ­ to
- znÃ¡mka dobrÃ© Å¾eny.
+00:25:56,248 --> 00:25:58,679
+Teï jsem to objevila
+a vrací se to.“
 
 324
-00:27:13,050 --> 00:27:16,220
-Å½ena je ta, kdo miluje
- vÅ¡echny dÄ›ti.
+00:25:59,033 --> 00:26:00,780
+Vìtšinou se ale eny
+strachují samy o sebe.
 
 325
-00:27:18,000 --> 00:27:21,150
-JejÃ­ schopnost milovat je
-ohromnÃ¡,
+00:26:00,981 --> 00:26:03,907
+„Ó, Boe, budu muset
+opustit svého mue,“
 
 326
-00:27:22,230 --> 00:27:24,100
-ale pokud se stane
- lakomou,
+00:26:04,553 --> 00:26:07,768
+co znamená,
+e parazitují na svém mui.
 
 327
-00:27:24,120 --> 00:27:27,050
-pokud se stane malichernou,
- pak Å¾enou nenÃ­.
+00:26:08,600 --> 00:26:11,166
+„Budu muset opustit své dìti.“
 
 328
-00:27:27,170 --> 00:27:33,240
-Å˜Ã­kala jsem vÃ¡m o svÃ½ch
- vnuÄkÃ¡ch.
+00:26:13,468 --> 00:26:15,530
+Ale co takhle opustit
+Sahada jógu?
 
 329
-00:27:34,180 --> 00:27:37,020
-Zeptala jsem se jich: "ÄŒÃ­m
-chcete bÃ½t?" Byly velmi malÃ©.
+00:26:17,750 --> 00:26:20,250
+Kdy si budete myslet, e je
+Sahada jóga to nejdùleitìjší,
 
 330
-00:27:38,030 --> 00:27:41,200
-Tak Å™ekly: "Chceme bÃ½t
-oÅ¡etÅ™ovatelky nebo letuÅ¡ky."
+00:26:20,451 --> 00:26:22,568
+mùete se zbavit i své schizofrenie.
 
 331
-00:27:44,100 --> 00:27:47,020
-Tak jsem Å™ekla: "ProÄ, co je
- na tÃ© prÃ¡ci tak skvÄ›lÃ©ho?"
+00:26:23,044 --> 00:26:26,119
+Proè by vám mìl Bùh pomáhat?
+Pøemıšlíme jako obyèejné eny,
 
 332
-00:27:47,040 --> 00:27:53,000
-Å˜ekly: "BabiÄko, jen
-v tÄ›chto dvou zamÄ›stnÃ¡nÃ­ch
+00:26:26,320 --> 00:26:29,266
+samy o sobì, strachujete se
+jen samy o sebe.
 
 333
-00:27:55,150 --> 00:28:00,050
-mÅ¯Å¾eÅ¡ lidem dÃ¡vat
- jÃ­dlo."
+00:26:31,695 --> 00:26:33,359
+Ne o Sahada jógu.
 
 334
-00:28:05,150 --> 00:28:07,170
-V Å¾Ã¡dnÃ©m jinÃ©m zamÄ›stnÃ¡nÃ­
-doopravdy nemÅ¯Å¾ete Å¾ivit lidi.
+00:26:37,422 --> 00:26:41,237
+To stejné s nìkterımi mui,
+ale mui nejsou tak vystrašení,
 
 335
-00:28:07,190 --> 00:28:13,000
-Ta radost z podÃ¡vÃ¡nÃ­
- jÃ­dla
+00:26:42,604 --> 00:26:45,461
+protoe si myslí,
+e dokáou stát na svıch.
 
 336
-00:28:13,020 --> 00:28:16,100
-je vÄ›tÅ¡Ã­ neÅ¾ psanÃ­
-dokumentÅ¯ na ÃºÅ™adÄ›.
+00:26:46,335 --> 00:26:48,755
+eny by také mìly vìdìt,
+e teï jsou sahadajogínky,
 
 337
-00:28:17,170 --> 00:28:20,220
-RozhodnÄ›, to vÃ¡m
- Å™eknu.
+00:26:48,956 --> 00:26:52,084
+e jsou sahadajogínky
+a Matka se o nì postará.
 
 338
-00:28:20,240 --> 00:28:23,240
-VÃ­te, psÃ¡t v kancelÃ¡Å™i
-dokumenty je hroznÃ¡ prÃ¡ce.
+00:26:52,384 --> 00:26:56,039
+Ale pokud si dìláte starosti
+jen samy o sebe, svého mue,
 
 339
-00:28:26,030 --> 00:28:30,070
-To je lepÅ¡Ã­ nÄ›co
-dobrÃ©ho uvaÅ™it,
+00:26:56,240 --> 00:27:00,926
+svùj dùm, své dìti,
+pak jste ztracenı pøípad,
 
 340
-00:28:30,080 --> 00:28:32,000
-pÅ™emÃ½Å¡let, kolik lidÃ­
- bude jÃ­st a tÄ›Å¡it se,
+00:27:01,127 --> 00:27:04,864
+nejste u více enou.
+Tohle není projev dobré eny.
 
 341
-00:28:32,020 --> 00:28:35,030
-spÃ­Å¡ neÅ¾ dÄ›lat
-tuto mizernou prÃ¡ci.
+00:27:05,810 --> 00:27:09,415
+ena je ta, kdo miluje
+všechny dìti.
 
 342
-00:28:35,050 --> 00:28:37,050
-Ale Å¾eny ztratily hlavu,
-nejsou rozumnÃ©. Zhlouply.
+00:27:13,229 --> 00:27:15,193
+Má ohromnou schopnost milovat.
 
 343
-00:28:37,070 --> 00:28:42,050
-A tak musÃ­te bÃ½t v NÄ›mecku
- velmi opatrnÃ©.
+00:27:15,394 --> 00:27:17,378
+Ale pokud se stane lakomou,
 
 344
-00:28:45,100 --> 00:28:49,180
-V Rakousku musÃ­te bÃ½t
- velmi opatrnÃ©.
+00:27:17,649 --> 00:27:20,943
+pokud se stane malichernou,
+pak to není ena.
 
 345
-00:28:49,200 --> 00:28:52,120
-RakouskÃ© Å¾eny jsou skvÄ›lÃ©,
-ale nÄ›meckÃ½m Å¾enÃ¡m bych Å™ekla,
+00:27:22,652 --> 00:27:25,067
+Øíkala jsem vám o svıch vnuèkách.
+Zeptala jsem se jich:
 
 346
-00:28:52,180 --> 00:28:55,070
-aby se nepokouÅ¡ely
- stÃ¡t muÅ¾i.
+00:27:25,268 --> 00:27:27,590
+„Èím chcete bıt?“
+Byly velmi malé.
 
 347
-00:28:55,090 --> 00:28:59,170
-PÅ™ednÄ›, nejlepÅ¡Ã­ zpÅ¯sob, jak to
-zastavit, je pÅ™Ã­liÅ¡ nemluvit.
+00:27:27,900 --> 00:27:33,279
+Odpovìdìly: „Chceme bıt
+peèovatelky nebo letušky.“
 
 348
-00:29:02,230 --> 00:29:06,180
-KdyÅ¾ zaÄnete mluvit
- jako muÅ¾i,
+00:27:34,495 --> 00:27:37,622
+Zeptala jsem se: „Proè?
+Co je na té práci tak skvìlého?“
 
 349
-00:29:06,200 --> 00:29:08,180
-tak do vÃ¡s vstoupÃ­ vÅ¡ichni bhÃºti
-a zaÄnete mluvit jen jako muÅ¾i.
+00:27:37,823 --> 00:27:42,524
+Øekly: „Babièko, jen v tìchto dvou
+zamìstnáních mùe dávat lidem jídlo,
 
 350
-00:29:08,200 --> 00:29:11,070
-A pak uvidÃ­te, jak jsou
- muÅ¾i Å™Ã­zeni -
+00:27:44,671 --> 00:27:46,988
+nikde jinde lidi nepohostíš.“
 
 351
-00:29:13,130 --> 00:29:17,230
-my, indickÃ© Å¾eny, vÃ­me mnohem
-lÃ©pe, jak ovlÃ¡dat svÃ© muÅ¾e.
+00:27:47,189 --> 00:27:49,328
+Ta radost z podávání jídla
 
 352
-00:29:18,000 --> 00:29:21,070
-ProÄ nemÃ¡me rozvody?
- ProÄ nemÃ¡me problÃ©my?
+00:27:50,026 --> 00:27:53,287
+je vìtší ne psaní
+dokumentù na úøadì.
 
 353
-00:29:23,080 --> 00:29:25,220
-HÃ¡dÃ¡me se, dobÅ™e,
- to nevadÃ­,
+00:27:55,294 --> 00:27:56,925
+Rozhodnì, to vám øeknu!
 
 354
-00:29:25,240 --> 00:29:30,070
-ale naÅ¡i muÅ¾i nebÄ›hajÃ­
- za jinÃ½mi Å¾enami.
+00:27:57,126 --> 00:28:00,423
+Víte, psát v kanceláøi
+dokumenty je hrozná práce.
 
 355
-00:29:32,030 --> 00:29:35,200
-NeparÃ¡dÃ­me se...
-chci Å™Ã­ct - ne tolik,
+00:28:05,290 --> 00:28:07,967
+To je lepší nìco
+dobrého uvaøit,
 
 356
-00:29:35,220 --> 00:29:40,080
-nechodÃ­me ke kadeÅ™nÃ­kÅ¯m, nemÃ¡me
- tyto kosmetickÃ© pomÅ¯cky.
+00:28:09,070 --> 00:28:11,473
+pøemıšlet, kolik lidí bude jíst
 
 357
-00:29:41,030 --> 00:29:43,220
-TakÅ¾e rozviÅˆte svoji sebeÃºctu.
-Jste Å¡akti, jste silou.
+00:28:11,791 --> 00:28:15,862
+a tìšit se tím, spíš ne dìlat
+takovou mizernou práci.
 
 358
-00:29:45,130 --> 00:29:49,000
-KdyÅ¾ udÄ›lÃ¡te ze svÃ½ch
- muÅ¾Å¯ trosky,
+00:28:17,611 --> 00:28:20,960
+Ale eny ztratily hlavu,
+nejsou rozumné.
 
 359
-00:29:50,070 --> 00:29:52,150
-tak jakÃ© budete mÃ­t dÄ›ti?
-Jenom trosky.
+00:28:21,198 --> 00:28:22,269
+Zhlouply.
 
 360
-00:29:54,070 --> 00:29:57,180
-VaÅ¾te si jich.
+00:28:26,369 --> 00:28:29,826
+A tak musíte bıt v Nìmecku
+velmi opatrné.
 
 361
-00:29:57,200 --> 00:30:00,170
-UdÄ›lejte z nich muÅ¾e,
-tÄ›Å¡te se jejich muÅ¾nostÃ­.
+00:28:30,027 --> 00:28:31,964
+V Rakousku musíte bıt
+velmi opatrné.
 
 362
-00:30:00,190 --> 00:30:04,220
-Pak vÃ¡s nikdy
- neopustÃ­.
+00:28:32,165 --> 00:28:35,294
+Rakouské eny jsou skvìlé,
+ale nìmeckım enám bych øekla,
 
 363
-00:30:07,000 --> 00:30:13,150
-Mezi vÃ¡mi dvÄ›ma neexistuje
- Å¾Ã¡dnÃ© soupeÅ™enÃ­.
+00:28:35,495 --> 00:28:37,672
+aby se nepokoušely stát mui.
 
 364
-00:30:13,170 --> 00:30:19,120
-Zjistila jsem, Å¾e hlavnÃ­m
-problÃ©mem dnes v NÄ›mecku je,
+00:28:37,873 --> 00:28:41,953
+Pøednì, nejlepší zpùsob,
+jak to zastavit, je pøíliš nemluvit.
 
 365
-00:30:19,130 --> 00:30:24,020
-Å¾e Å¾eny ztratily
- svÃ© vnÃ­mÃ¡nÃ­.
+00:28:45,275 --> 00:28:47,646
+Kdy zaènete mluvit jako mui,
 
 366
-00:30:24,040 --> 00:30:28,100
-RozhodnÄ› to cÃ­tÃ­m
- u nÄ›meckÃ½ch Å¾en.
+00:28:47,960 --> 00:28:52,165
+tak do vás vstoupí všichni bhúti
+a budete mluvit u jen jako mui.
 
 367
-00:30:30,050 --> 00:30:33,220
-Dejte se na hudbu,
- na umÄ›nÃ­.
+00:28:52,817 --> 00:28:55,035
+A pak uvidíte, jak se øídí mui.
 
 368
-00:30:37,030 --> 00:30:43,000
-Je tolik moÅ¾nostÃ­.
-Na koho dnes vzpomÃ­najÃ­?
+00:28:55,236 --> 00:28:59,590
+My, indické eny, víme mnohem
+lépe ne vy, jak ovládat své mue.
 
 369
-00:30:43,020 --> 00:30:48,130
-PodÃ­vejte se sem,
- koho si pamatujÃ­?
+00:29:03,077 --> 00:29:06,750
+Proè nemáme rozvody?
+Proè nemáme problémy?
 
 370
-00:30:52,000 --> 00:30:56,000
-HudebnÃ­ky, Mozarta. KaÅ¾dÃ½
- vzpomÃ­nÃ¡ na Mozarta,
+00:29:06,951 --> 00:29:08,449
+Hádáme se, dobøe, to nevadí,
 
 371
-00:30:57,050 --> 00:30:59,070
-dokonce najdete Mozarta
- i na ÄokolÃ¡dÄ›.
+00:29:08,650 --> 00:29:11,647
+ale naši mui nebìhají
+za jinımi enami.
 
 372
-00:31:06,020 --> 00:31:10,220
-NevÃ­m, jestli chudÃ¡k nÄ›kdy
-nÄ›jakou ÄokolÃ¡du jedl, nebo ne.
+00:29:13,821 --> 00:29:16,112
+Neparádíme se...
+chci øíct - ne tolik,
 
 373
-00:31:11,070 --> 00:31:12,170
-Anebo si pamatujÃ­, podÃ­vejte
- se sem, Michelangela
+00:29:16,313 --> 00:29:21,360
+nechodíme ke kadeøníkùm,
+nemáme ty kosmetické pomùcky apod.
 
 374
-00:31:12,190 --> 00:31:16,120
-nebo Leonarda da Vinciho
-anebo nÄ›koho podobnÃ©ho.
+00:29:23,837 --> 00:29:25,992
+Rozviòte tedy vlastní sebeúctu.
 
 375
-00:31:16,140 --> 00:31:18,180
-Nikdo si nepamatuje, kdo byl
- v tÃ© dobÄ› ÃºÅ™ednÃ­kem
+00:29:26,193 --> 00:29:29,008
+Jste šakti, jste silou.
 
 376
-00:31:18,200 --> 00:31:23,020
-bÄ›hajÃ­cÃ­m se sloÅ¾kami
- - sem a tam.
+00:29:32,167 --> 00:29:35,515
+Kdy udìláte ze svıch muù trosky,
+tak jaké budete mít dìti?
 
 377
-00:31:25,220 --> 00:31:28,000
-TakÅ¾e Å¾eny majÃ­ nÄ›co, dÃ­ky Äemu
- mohou mÃ­t vÄ›Änou hodnotu,
+00:29:35,716 --> 00:29:37,087
+Jenom trosky.
 
 378
-00:31:28,020 --> 00:31:31,000
-to by mÄ›ly rozvÃ­jet.
+00:29:39,417 --> 00:29:40,543
+Vate si jich.
 
 379
-00:31:33,180 --> 00:31:37,000
-Tou nejvÄ›tÅ¡Ã­ vÄ›cÃ­ je,
- Å¾e Å¾ena mÅ¯Å¾e milovat
+00:29:41,487 --> 00:29:44,471
+Udìlejte z nich mue,
+tìšte se jejich muností.
 
 380
-00:31:44,130 --> 00:31:50,120
-a milovat a milovat.
+00:29:46,822 --> 00:29:48,620
+Pak vás nikdy neopustí.
 
 381
-00:31:53,150 --> 00:32:04,080
-KdyÅ¾ se ale stane sobeckou
- a egoistickou,
+00:29:50,450 --> 00:29:53,240
+Mezi vámi dvìma neexistuje
+ádné soupeøení.
 
 382
-00:32:04,100 --> 00:32:13,170
-zaÄne se o sebe strachovat, pak
-v jejÃ­ lÃ¡sce nenÃ­ Å¾Ã¡dnÃ¡ krÃ¡sa.
+00:29:55,176 --> 00:29:58,553
+Zjistila jsem, e hlavním souèasnım
+problémem v Nìmecku je,
 
 383
-00:32:14,000 --> 00:32:17,240
-Dnes jsem se vÄ›novala
- vÃ½hradnÄ› tomuto,
+00:29:58,842 --> 00:30:00,857
+e eny ztratily
+své vnímání.
 
 384
-00:32:20,000 --> 00:32:27,050
-protoÅ¾e MÄ› dnes uctÃ­vÃ¡te
- jako KartikÃ©ju.
+00:30:01,244 --> 00:30:04,040
+Rozhodnì to cítím
+u nìmeckıch en.
 
 385
-00:32:27,070 --> 00:32:32,130
-KartikÃ©ja byl synem
- PÃ¡rvatÃ­ Umar,
+00:30:07,389 --> 00:30:08,905
+Dejte se na hudbu,
 
 386
-00:32:32,240 --> 00:32:36,030
-kterÃ¡ byla matkou tÄ›chto
-dvou dÄ›tÃ­ - GanÃ©Å¡i a KartikÃ©ji.
+00:30:09,786 --> 00:30:10,897
+na umìní.
 
 387
-00:32:36,050 --> 00:32:38,170
-A jednou rodiÄe - Å ankara
- a PÃ¡rvatÃ­ - Å™ekli:
+00:30:12,222 --> 00:30:14,444
+Je tolik moností.
+Na koho dnes vzpomínají?
 
 388
-00:32:39,100 --> 00:32:44,170
-"Kdo z vÃ¡s dvou dÅ™Ã­v
- objede Matku Zemi,
+00:30:14,645 --> 00:30:17,007
+Všimnìte si toho.
 
 389
-00:32:44,180 --> 00:32:48,220
-dostane zvlÃ¡Å¡tnÃ­
- dÃ¡rek."
+00:30:18,260 --> 00:30:21,513
+Koho vzpomínají?
+Hudebníky, Mozarta.
 
 390
-00:32:50,030 --> 00:32:54,100
-TakÅ¾e KartikÃ©ja byl zcela
- muÅ¾skou silou,
+00:30:22,434 --> 00:30:24,395
+Kadı vzpomíná na Mozarta,
 
 391
-00:32:54,150 --> 00:32:57,130
-a Å™ekl: "DobÅ™e,
- vyrazÃ­m na svÃ©m
+00:30:24,596 --> 00:30:27,471
+dokonce najdete Mozarta
+i na èokoládì.
 
 392
-00:32:57,240 --> 00:33:02,070
-vlastnÃ­m dopravnÃ­m
-prostÅ™edku," coÅ¾ byl pÃ¡v.
+00:30:30,184 --> 00:30:34,303
+Nevím, jestli chudák nìkdy
+nìjakou èokoládu vùbec jedl.
 
 393
-00:33:03,100 --> 00:33:06,080
-A GanÃ©Å¡a si Å™ekl:
+00:30:37,655 --> 00:30:40,446
+Anebo si pamatují, podívejte se zde,
 
 394
-00:33:07,030 --> 00:33:10,100
-"Jen se na mÄ› podÃ­vejte,
- jsem malÃ½ chlapec,
+00:30:41,225 --> 00:30:43,225
+mají tu Michelangela
 
 395
-00:33:12,030 --> 00:33:16,050
-nejsem jako on a za vozidlo
- mÃ¡m jen malou myÅ¡.
+00:30:43,582 --> 00:30:47,864
+nebo Leonarda da Vinciho
+anebo nìkoho podobného.
 
 396
-00:33:16,070 --> 00:33:19,030
-Jak to jen zvlÃ¡dnu?"
-Pak si ale pomyslel:
+00:30:52,250 --> 00:30:56,334
+Nikdo si nepamatuje,
+kdo byl tehdy úøedníkem,
 
 397
-00:33:21,170 --> 00:33:24,240
-Â´Moje Matka je vÄ›tÅ¡Ã­
- neÅ¾ celÃ½ VesmÃ­r.
+00:30:57,304 --> 00:30:59,566
+bìhajícím se slokami
+sem a tam.
 
 398
-00:33:25,070 --> 00:33:28,200
-Kdo je tato
- Matka Zem?Â´
+00:31:06,297 --> 00:31:10,341
+Take eny mají nìco, díky èemu
+mohou mít vìènou hodnotu,
 
 399
-00:33:29,220 --> 00:33:31,240
-TakÅ¾e KartikÃ©ja
- byl pryÄ
+00:31:10,931 --> 00:31:12,437
+to by mìly rozvíjet.
 
 400
-00:33:32,180 --> 00:33:39,100
-na okruÅ¾nÃ­ cestÄ›
- kolem Matky ZemÄ›.
+00:31:12,735 --> 00:31:16,188
+Tou nejvìtší vìcí je, e ena mùe
+milovat a milovat a milovat.
 
 401
-00:33:39,120 --> 00:33:41,170
-A Å rÃ­ GanÃ©Å¡a tÅ™ikrÃ¡t
- obeÅ¡el svoji Matku.
+00:31:16,389 --> 00:31:18,666
+Kdy se ale stane sobeckou
+a egoistickou,
 
 402
-00:33:42,150 --> 00:33:44,100
-A dostal cenu!
+00:31:18,867 --> 00:31:22,860
+zaène se strachovat o sebe,
+pak v její lásce není ádná krása.
 
 403
-00:33:44,110 --> 00:33:46,190
-NeboÅ¥ pro svÃ© mateÅ™skÃ© kvality
-je pro nÄ›ho tou nejvÄ›tÅ¡Ã­,
+00:31:25,637 --> 00:31:27,566
+Dnes jsem se vìnovala
+vıhradnì tomuto,
 
 404
-00:33:46,200 --> 00:33:49,000
-dokonce vÄ›tÅ¡Ã­ neÅ¾
- SadÃ¡Å¡iva.
+00:31:27,767 --> 00:31:30,915
+protoe mne dnes uctíváte
+jako Kartikéju.
 
 405
-00:33:49,100 --> 00:33:53,020
-Ale kupodivu prÃ¡vÄ› toto
- mÃ¡ SadÃ¡Å¡iva rÃ¡d.
+00:31:33,568 --> 00:31:36,809
+Kartikéja byl synem
+Párvatí Umy,
 
 406
-00:33:53,040 --> 00:33:55,000
-KdyÅ¾ si vÃ¡Å¾Ã­te svÃ© Matky
- a mateÅ™stvÃ­ v sobÄ›.
+00:31:44,746 --> 00:31:49,417
+která byla matkou tìchto
+dvou dìtí - Ganéši a Kartikéji.
 
 407
-00:33:55,050 --> 00:33:58,200
-Å½enstvÃ­ uvnitÅ™ sebe.
+00:31:54,064 --> 00:31:55,227
+A jednou
 
 408
-00:33:58,210 --> 00:34:02,150
-(hindi...)
+00:31:59,215 --> 00:32:00,295
+rodièe,
 
 409
-00:34:02,160 --> 00:34:04,240
-"Kde jsou Å¾eny uctÃ­vÃ¡nÃ­hodnÃ©
- a uctÃ­vanÃ©, tam sÃ­dlÃ­ BÅ¯h."
+00:32:01,694 --> 00:32:03,984
+Šankara a Párvatí, øekli:
 
 410
-00:34:06,000 --> 00:34:13,000
-Å½eny jsou velice
- dÅ¯leÅ¾itÃ©.
+00:32:04,185 --> 00:32:08,473
+„Kdo z vás dvou
 
 411
-00:34:13,050 --> 00:34:20,200
-SamozÅ™ejmÄ› musÃ­m
- obvinit i zÃ¡padnÃ­ muÅ¾e.
+00:32:08,783 --> 00:32:10,783
+objede Matku Zemi,
 
 412
-00:34:21,000 --> 00:34:27,150
-Ten zpÅ¯sob, jakÃ½m zle
-zachÃ¡zejÃ­ se svÃ½mi Å¾enami,
+00:32:12,960 --> 00:32:14,098
+jako první,
 
 413
-00:34:27,180 --> 00:34:31,200
-jak jim brÃ¡nÃ­ ve vÃ­Å™e,
- stÃ¡le je poniÅ¾ujÃ­.
+00:32:14,299 --> 00:32:16,149
+dostane zvláštní dárek.“
 
 414
-00:34:32,170 --> 00:34:34,150
-Chci Å™Ã­ct, v Indii toto
- dÄ›lajÃ­ muslimovÃ©,
+00:32:20,140 --> 00:32:22,836
+Take Kartikéja byl muskou silou,
 
 415
-00:34:34,240 --> 00:34:38,150
-ale jsou jeÅ¡tÄ›
-dÅ¯myslnÄ›jÅ¡Ã­mi ÃºtoÄnÃ­ky
+00:32:23,414 --> 00:32:24,612
+naprosto,
 
 416
-00:34:40,020 --> 00:34:43,000
-a dÄ›lajÃ­ to velmi hanebnÄ›
- a poniÅ¾ujÃ­ vÅ¡echny.
+00:32:25,764 --> 00:32:30,151
+a øekl: „Dobøe, vyrazím na svém
 
 417
-00:34:43,230 --> 00:34:48,070
-Ale na tom nesejde.
+00:32:30,403 --> 00:32:33,046
+dopravním prostøedku," co byl páv.
 
 418
-00:34:50,000 --> 00:34:53,000
-I pÅ™esto, odpusÅ¥te jim
- a zkuste bÃ½t Å¾enami.
+00:32:33,929 --> 00:32:35,168
+A Ganéša si øekl:
 
 419
-00:34:54,100 --> 00:34:58,080
-Velice silnÃ½mi.
+00:32:35,459 --> 00:32:38,806
+„Jen se na mì podívejte,
+jsem malı chlapec,
 
 420
-00:34:58,100 --> 00:35:02,030
-Silami Å¾eny jsou sÃ­ly lÃ¡sky,
- coÅ¾ jsou sÃ­ly Boha.
+00:32:39,473 --> 00:32:44,766
+nejsem jako on a za povoz
+mám jen malou myš.
 
 421
-00:35:02,050 --> 00:35:05,160
-A ty byste mÄ›ly pouÅ¾Ã­vat mÃ­sto
-sÃ­ly hÃ¡davÃ©ho intelektualismu
+00:32:45,099 --> 00:32:46,693
+Jak to jen zvládnu?“
 
 422
-00:35:07,240 --> 00:35:10,100
-a vÅ¡ech tÄ›ch
- nesmyslÅ¯.
+00:32:48,052 --> 00:32:49,717
+Pak si ale pomyslel:
 
 423
-00:35:13,070 --> 00:35:17,240
-NeplÃ½tvejte tÃ­mto svojÃ­
-energiÃ­. Byla bych rÃ¡da,
+00:32:50,619 --> 00:32:54,706
+„Moje Matka je vìtší
+ne celı Vesmír.
 
 424
-00:35:19,000 --> 00:35:23,070
-kdyby se obzvlÃ¡Å¡tÄ›
-sahadÅ¾ajogÃ­nky v NÄ›mecku
+00:32:54,907 --> 00:32:57,037
+Kdo je tato
+Matka Zem?“
 
 425
-00:35:23,080 --> 00:35:26,240
-staly vÃ­ce Å¾enskÃ½mi.
+00:32:58,610 --> 00:33:00,455
+Take Kartikéja byl pryè
 
 426
-00:35:27,130 --> 00:35:32,000
-NeznamenÃ¡ to pouze dobÅ™e
-vaÅ™it, ale i postoj k Å¾ivotu.
+00:33:00,656 --> 00:33:02,807
+na okruní cestì
+kolem Matky Zemì.
 
 427
-00:35:33,030 --> 00:35:35,200
-PÅ™emÃ½Å¡let Å¡irÅ¡Ã­m
- zpÅ¯sobem,
+00:33:03,221 --> 00:33:05,919
+A Šrí Ganéša tøikrát
+obešel svoji Matku.
 
 428
-00:35:35,220 --> 00:35:39,030
-Å¾e celÃ¡ SahadÅ¾a jÃ³ga zÃ¡visÃ­
-na vaÅ¡Ã­ schopnosti milovat.
+00:33:07,139 --> 00:33:08,533
+A dostal tu cenu!
 
 429
-00:35:40,070 --> 00:35:43,200
-MusÃ­me bÃ½t neobyÄejnÄ› milujÃ­cÃ­,
- neobyÄejnÄ› laskavÃ©,
+00:33:12,290 --> 00:33:16,217
+Pro své mateøské kvality
+je pro nìj toti tou nejvìtší,
 
 430
-00:35:43,240 --> 00:35:47,120
-starajÃ­cÃ­ se
- o sahadÅ¾ajogÃ­ny,
+00:33:16,418 --> 00:33:18,676
+dokonce vìtší ne Sadášiva.
 
 431
-00:35:51,200 --> 00:35:56,020
-dÃ¡vajÃ­cÃ­ jim vÅ¡echnu
- moÅ¾nou radost.
+00:33:21,924 --> 00:33:24,935
+Ale kupodivu právì toto
+Sadášivu tìší.
 
 432
-00:35:56,030 --> 00:36:01,030
-Jinak se mohou v tÃ©to zemi
- stÃ¡t podobnÃ© upÃ­rÅ¯m.
+00:33:25,608 --> 00:33:28,560
+Kdy si váíte své Matky
+a mateøství v sobì.
 
 433
-00:36:01,050 --> 00:36:04,050
-TakÅ¾e buÄte velmi opatrnÃ©
-a muÅ¾Å¯m bych taky Å™ekla -
+00:33:29,840 --> 00:33:31,290
+Svého enství.
 
 434
-00:36:04,100 --> 00:36:08,000
-jestliÅ¾e jsou tu opravdovÃ©
-Å¾eny, musÃ­te si jich vÃ¡Å¾it,
+00:33:35,264 --> 00:33:41,064
+„Kde jsou eny uctívání hodné
+a uctívané, tam sídlí Bùh.“
 
 435
-00:36:09,000 --> 00:36:12,130
-musÃ­te jim dÃ¡t vÅ¡echny
-vÃ½sady, starat se o nÄ›.
+00:33:42,540 --> 00:33:44,156
+eny jsou velice dùleité.
 
 436
-00:36:12,150 --> 00:36:15,050
-Ony se starajÃ­ o dÄ›ti, ale vy
- jim dejte vÅ¡echnu podporu,
+00:33:44,357 --> 00:33:46,598
+Jistìe musím vinit
+i západní mue.
 
 437
-00:36:16,180 --> 00:36:18,220
-vÅ¡echny penÃ­ze, kterÃ©
- potÅ™ebujÃ­.
+00:33:46,799 --> 00:33:49,047
+Zpùsoby, jakımi zle
+zacházejí se svımi enami,
 
 438
-00:36:18,240 --> 00:36:23,020
-NechtÄ›jte po nich ÃºÄty,
-nechte je to zvlÃ¡dnout.
+00:33:49,248 --> 00:33:52,416
+jak jim brání ve víøe,
+stále je poniují.
 
 439
-00:36:23,040 --> 00:36:25,120
-NanejvÃ½Å¡ zchudnete,
- coÅ¾ se i tak stalo.
+00:33:52,617 --> 00:33:55,019
+Chci øíct, v Indii toto
+dìlají muslimové,
 
 440
-00:36:25,140 --> 00:36:28,180
-Ale nejdÅ™Ã­ve se dÃ­vejte, jakÃ½
-je jejich vztah k SahadÅ¾a jÃ³ze.
+00:33:55,220 --> 00:33:58,696
+ale tam jsou ještì
+dùmyslnìjší agresoøi,
 
 441
-00:36:29,180 --> 00:36:32,130
-VidÄ›la jsem, Å¾e v rodinÃ¡ch,
- kde se o kasu starajÃ­ Å¾eny,
+00:33:59,453 --> 00:34:02,623
+šli na to zcela po zlém,
+všechny poniovali.
 
 442
-00:36:32,150 --> 00:36:36,200
-dostaneme na SahadÅ¾a jÃ³gu
-vÅ¾dycky mnohem vÃ­ce penÄ›z,
+00:34:02,824 --> 00:34:04,309
+Na tom nezáleí.
 
 443
-00:36:36,220 --> 00:36:40,020
-neÅ¾ z domÅ¯, kde se
-o kasu starajÃ­ muÅ¾i.
+00:34:06,109 --> 00:34:08,487
+I pøesto, odpuste jim
 
 444
-00:36:40,050 --> 00:36:44,050
-Je to velice pÅ™ekvapujÃ­cÃ­.
- KdyÅ¾ se starajÃ­ muÅ¾i,
+00:34:10,036 --> 00:34:12,829
+a zkuste bıt enami.
 
 445
-00:36:45,070 --> 00:36:48,130
-musÃ­ myslet na svÃ¡
- auta,
+00:34:13,106 --> 00:34:14,560
+Velice silnımi.
 
 446
-00:36:48,150 --> 00:36:53,050
-musÃ­ myslet na mnoho
- dÅ¯leÅ¾itÃ½ch vÄ›cÃ­,
+00:34:18,097 --> 00:34:22,688
+Silami eny jsou síly lásky,
+co jsou síly Boha.
 
 447
-00:36:53,070 --> 00:36:57,200
-ale kdyÅ¾ se starajÃ­ Å¾eny,
-tak vÃ­, jak penÃ­ze uÅ¡etÅ™it,
+00:34:25,722 --> 00:34:30,330
+A ty byste mìly pouívat namísto
+síly hádavého intelektualismu
 
 448
-00:36:57,220 --> 00:37:00,070
-tak jako jsem vÃ¡m ukÃ¡zala,
- jak jsem uÅ¡etÅ™ila jÃ¡.
+00:34:30,531 --> 00:34:32,117
+a všech tìch nesmyslù.
 
 449
-00:37:00,100 --> 00:37:03,170
-MuÅ¾i nikdy nic neuÅ¡etÅ™Ã­.
- Nikdy neuÅ¡etÅ™Ã­ penÃ­ze.
+00:34:32,409 --> 00:34:34,557
+Neplıtvejte tím svou energií.
 
 450
-00:37:03,190 --> 00:37:08,080
-Jenom Å¾eny dokÃ¡Å¾Ã­ uÅ¡etÅ™it,
-ale kdyÅ¾ majÃ­ hlubÅ¡Ã­ zÃ¡jem,
+00:34:35,085 --> 00:34:39,155
+Byla bych ráda, kdyby se,
+obzvláštì z nìmeckıch sahadajogínek,
 
 451
-00:37:08,100 --> 00:37:11,170
-jinak - jsou-li poÅ¾itkÃ¡Å™skÃ©,
-tak vÅ¡echny penÃ­ze utratÃ­
+00:34:40,118 --> 00:34:43,046
+stávaly více a více dámy.
 
 452
-00:37:11,200 --> 00:37:18,050
-- jdou koupit do obchodu
-  muÅ¾i koÅ¡ili
+00:34:43,675 --> 00:34:47,981
+Neznamená to pouze dobøe vaøit,
+ale je to i o postoji k ivotu.
 
 453
-00:37:19,000 --> 00:37:23,200
-a koupÃ­ si vÅ¡echna sÃ¡rÃ­
-pro sebe. StÃ¡vÃ¡ se to.
+00:34:50,282 --> 00:34:52,452
+Pøemıšlet širším zpùsobem,
 
 454
-00:37:25,000 --> 00:37:27,000
-KdyÅ¾ ale majÃ­ Å¡irÅ¡Ã­ zÃ¡jem,
- kdyÅ¾ majÃ­ vÄ›tÅ¡Ã­ zÃ¡jem,
+00:34:54,218 --> 00:34:58,432
+e celá Sahada jóga závisí
+na vaší schopnosti milovat.
 
 455
-00:37:29,000 --> 00:37:32,230
-mohou pouÅ¾Ã­vat penÃ­ze
- tak rozumnÄ›,
+00:34:58,853 --> 00:35:02,407
+Musíme bıt neobyèejnì milující,
+neobyèejnì laskavé,
 
 456
-00:37:33,000 --> 00:37:37,200
-Å¾e budou mÃ­t vÅ¾dy
- penÃ­ze,
+00:35:02,928 --> 00:35:06,159
+starající se o sahadajogíny,
 
 457
-00:37:38,130 --> 00:37:41,230
-aby je utratily pro druhÃ©.
- Co dÄ›lÃ¡m jÃ¡?
+00:35:07,627 --> 00:35:10,525
+dávající jim všechnu monou radost.
 
 458
-00:37:42,000 --> 00:37:44,030
-Cokoliv mi manÅ¾el dÃ¡
- na domÃ¡cnost
+00:35:13,361 --> 00:35:17,719
+Jinak se z nich v této zemi
+mohou stát nìco jako upírky.
 
 459
-00:37:44,050 --> 00:37:46,240
-- coÅ¾ je docela dost, musÃ­m
- Å™Ã­ct, ale Å¡etÅ™Ã­m na vÄ›cech,
+00:35:19,150 --> 00:35:23,135
+Buïte tedy velmi opatrné
+a muùm bych takté øekla,
 
 460
-00:37:47,020 --> 00:37:49,200
-jdu na hlavnÃ­ trhy,
- kupuji vÄ›ci odtamtud,
+00:35:23,336 --> 00:35:27,095
+jestlie jsou tu skuteèné eny,
+musíte si jich váit,
 
 461
-00:37:56,080 --> 00:38:03,220
-snaÅ¾Ã­m se Å¡etÅ™it penÃ­ze na tom
-a tom, uÅ¡etÅ™it na svÃ©m obleÄenÃ­.
+00:35:28,061 --> 00:35:31,689
+musíte jim dát všechny vısady,
+starat se o nì.
 
 462
-00:38:07,050 --> 00:38:10,180
-SvÃ© svetry jsem dala
-do kvalitnÃ­ ÄistÃ­rny poprvÃ©.
+00:35:33,156 --> 00:35:36,286
+Ony se starají o dìti, ale vy
+jim poskytnìte všechnu podporu,
 
 463
-00:38:16,130 --> 00:38:23,030
-Takto Å¡etÅ™Ã­ Å¾ena a pak utrÃ¡cÃ­
- pro vÅ¡eobecnÃ© dobro.
+00:35:36,487 --> 00:35:39,049
+všechny peníze, které potøebují.
 
 464
-00:38:24,150 --> 00:38:28,180
-ProtoÅ¾e to je jejÃ­ opravdovÃ©
- zadostiuÄinÄ›nÃ­.
+00:35:40,444 --> 00:35:43,776
+Nechtìjte po nich úèty,
+nechte je to zvládnout.
 
 465
-00:38:28,200 --> 00:38:32,220
-KdyÅ¾ si vyvinete tento druh
- vyvÃ¡Å¾enÃ©ho pohledu
+00:35:43,998 --> 00:35:46,744
+Nanejvıš zchudnete,
+co se i tak stalo.
 
 466
-00:38:46,050 --> 00:38:49,070
-na manÅ¾elskÃ½ Å¾ivot,
- na spoleÄenskÃ½ Å¾ivot,
+00:35:52,725 --> 00:35:56,382
+Ale nejdøíve si všímejte, jakı
+je jejich vztah k Sahada józe.
 
 467
-00:38:49,100 --> 00:38:53,150
-budeme v tomto svÄ›tÄ›
- ideÃ¡lnÃ­mi lidmi.
+00:35:56,677 --> 00:36:00,743
+Vidìla jsem, e v rodinách,
+kde se o kasu starají eny,
 
 468
-00:38:54,200 --> 00:38:58,150
-O Å¡kole jsem to takÃ©
- Å™ekla velice jasnÄ›.
+00:36:00,944 --> 00:36:04,177
+dostaneme na Sahada jógu
+vdycky mnohem více penìz,
 
 469
-00:38:58,170 --> 00:39:02,200
-Jestli o tom chcete slyÅ¡et -
-vzali jste s sebou ten letÃ¡k?
+00:36:04,378 --> 00:36:07,272
+ne z domácností,
+kde se o kasu starají mui.
 
 470
-00:39:02,220 --> 00:39:06,170
-ChtÄ›lo by to pÅ™eÄÃ­st.
+00:36:09,689 --> 00:36:12,696
+Je to velmi pøekvapivé.
+Kdy to mají na starosti mui,
 
 471
-00:39:06,200 --> 00:39:08,150
-Co? Ne, nevzali.
-TakovÃ­ jsou muÅ¾i.
+00:36:12,897 --> 00:36:14,864
+musí myslet na své auto,
 
 472
-00:39:08,170 --> 00:39:11,170
-Sami Å™ekli, Å¾e by to rÃ¡di
-pÅ™eÄetli a tady to vidÃ­te.
+00:36:16,390 --> 00:36:18,599
+musí myslet na mnoho dùleitıch vìcí,
 
 473
-00:39:14,070 --> 00:39:17,070
-KdyÅ¾ poÅ¾Ã¡dÃ¡te muÅ¾e, aby
-uvaÅ™ili, vÅ¡echno bude chybÄ›t.
+00:36:18,800 --> 00:36:22,855
+ale kdy se starají eny,
+tak ví, jak peníze ušetøit,
 
 474
-00:39:17,080 --> 00:39:20,080
-TakÅ¾e...
+00:36:23,056 --> 00:36:25,083
+co vidíte na pøíkladu,
+jak jsem ušetøila já.
 
 475
-00:39:26,020 --> 00:39:29,120
-Gregoire: Å rÃ­ MÃ¡tadÅ¾Ã­,
-mohu se co nejuctivÄ›ji zeptat,
+00:36:25,284 --> 00:36:27,117
+Mui nikdy nic neušetøí.
 
 476
-00:39:34,020 --> 00:39:39,170
-jestli existuje vÅ¯bec nÄ›jakÃ¡
- vÃ½hoda v tom bÃ½t muÅ¾em?
+00:36:27,381 --> 00:36:28,970
+Nikdy peníze neušetøí.
 
 477
-00:39:46,180 --> 00:39:49,180
-Bez muÅ¾e Å¾ena nemÅ¯Å¾e
- projevit samu sebe.
+00:36:29,399 --> 00:36:32,675
+Jenom eny dokáí ušetøit,
+ale jen kdy mají hlubší zájem,
 
 478
-00:39:55,080 --> 00:39:59,020
-NemÅ¯Å¾e se projevit, protoÅ¾e
- je potenciÃ¡lnÃ­ sloÅ¾kou.
+00:36:32,876 --> 00:36:36,872
+jinak, jsou-li poitkáøské,
+tak všechny peníze utratí,
 
 479
-00:39:59,220 --> 00:40:05,150
-On je kinetickou
- sloÅ¾kou.
+00:36:37,182 --> 00:36:40,135
+jdou koupit do obchodu
+manelovi košili,
 
 480
-00:40:05,170 --> 00:40:09,130
-Je to zcela vystihujÃ­cÃ­
- terminologie.
+00:36:40,336 --> 00:36:42,744
+ale koupí si nìkolik sárí pro sebe.
 
 481
-00:40:09,150 --> 00:40:12,240
-NemÅ¯Å¾ete existovat
-bez muÅ¾e, nemÅ¯Å¾ete.
+00:36:43,078 --> 00:36:44,188
+Stává se to.
 
 482
-00:40:18,150 --> 00:40:22,170
-Dokonce, jestliÅ¾e, Å™eknÄ›me, mÃ¡te
- vÅ¡echnu vÅ¯ni v Matce Zemi,
+00:36:45,307 --> 00:36:48,790
+Kdy ale mají širší zájem,
+kdy mají vyšší zájem,
 
 483
-00:40:22,180 --> 00:40:25,200
-dokud nemÃ¡te kvÄ›tiny, jak se
-dovÃ­te, Å¾e je v Matce Zemi vÅ¯nÄ›?
+00:36:49,386 --> 00:36:53,327
+mohou pouívat peníze
+tak rozumnì,
 
 484
-00:40:25,240 --> 00:40:28,100
-MuÅ¾i jsou nejdÅ¯leÅ¾itÄ›jÅ¡Ã­
- - co by jinak dÄ›laly?
+00:36:53,617 --> 00:36:56,758
+e budou mít vdy peníze
+na útratu pro druhé.
 
 485
-00:40:28,150 --> 00:40:33,070
-VÅ¡echna jejich energie
- by vyÅ¡la vniveÄ.
+00:36:56,959 --> 00:37:00,448
+Jak to dìlám já? Cokoliv mi manel
+dá na domácnost,
 
 486
-00:40:33,080 --> 00:40:34,200
-TakÅ¾e jestliÅ¾e jsou Å¾eny Matkou
-ZemÃ­, vy jste kvÄ›tinami.
+00:37:00,674 --> 00:37:04,527
+co je docela dost, musím øíct,
+ale pøesto šetøím tak,
 
 487
-00:40:34,220 --> 00:40:37,180
-VÃ½hoda, co? Jste lidmi,
-kteÅ™Ã­ ... kaÅ¾dÃ½ vÃ¡s vidÃ­.
+00:37:05,969 --> 00:37:08,059
+jdu na hlavní trhy,
+kupuji vìci odtamtud,
 
 488
-00:40:37,200 --> 00:40:39,080
-Gregoire: BÄ›hat kolem
-dokola jako KartikÃ©ja.
+00:37:08,260 --> 00:37:11,721
+snaím se šetøit peníze na tom
+a tom, ušetøit na svém obleèení.
 
 489
-00:40:39,100 --> 00:40:41,030
-Co nadÄ›lÃ¡te?
-Jste takovÃ­.
+00:37:11,922 --> 00:37:18,114
+Poprvé jsem si dala svetry
+do kvalitní èistírny.
 
 490
-00:40:41,050 --> 00:40:43,220
-NedokÃ¡Å¾ete sedÄ›t doma.
- Dokonce ani ve vlaku,
+00:37:19,146 --> 00:37:23,151
+Takto šetøí ena a pak utrácí
+pro všeobecné dobro.
 
 491
-00:40:43,240 --> 00:40:45,170
-kdyÅ¾ jedete, zjistÃ­te,
-Å¾e jakmile vlak zastavÃ­,
+00:37:24,941 --> 00:37:27,895
+Protoe to ji uèiní
+skuteènì spokojenou.
 
 492
-00:40:45,180 --> 00:40:47,200
-vÅ¡ichni muÅ¾i jdou z vlaku
- ven. Nemohou tam sedÄ›t.
+00:37:29,134 --> 00:37:33,439
+Kdy si vyvine tento druh vyváeného
+pohledu na manelskı ivot,
 
 493
-00:40:47,210 --> 00:40:50,230
-Å˜ekla jsem manÅ¾elovi:
+00:37:33,666 --> 00:37:35,312
+na spoleèenskı ivot,
 
 494
-00:40:50,240 --> 00:40:54,200
-"Co to je, Å¾e neustÃ¡le
- utÃ­kÃ¡Å¡ z domu ven?
+00:37:35,535 --> 00:37:38,167
+budeme v tomto svìtì
+ideálními lidmi.
 
 495
-00:40:57,170 --> 00:41:00,220
-ProÄ nemÅ¯Å¾eÅ¡ chvÃ­li posedÄ›t
- v domÄ›? MusÃ­Å¡ si sednout.
+00:37:39,190 --> 00:37:41,929
+O škole jsem to také
+øekla velice jasnì.
 
 496
-00:41:01,000 --> 00:41:04,130
-Tak Å™ekl: "Ne, u nÃ¡s, jestliÅ¾e
-nÄ›jakÃ½ muÅ¾ sedÃ­ v domÄ›,
+00:37:42,469 --> 00:37:46,016
+Jestli o tom chcete slyšet...
+Vzali jste s sebou ten leták?
 
 497
-00:41:04,150 --> 00:41:08,000
-tak mu Å™Ã­kajÃ­ "ghargusana",
- to znamenÃ¡
+00:37:47,717 --> 00:37:49,432
+Chtìlo by to pøeèíst.
 
 498
-00:41:08,050 --> 00:41:12,070
-"ten, kdo je poÅ™Ã¡d doma",
-  vÃ­te.
+00:37:58,419 --> 00:37:59,560
+Ne, nevzali.
 
 499
-00:41:13,230 --> 00:41:18,050
-Å˜ekla jsem:
-"Jak nazÃ½vajÃ­ muÅ¾e,
+00:38:01,469 --> 00:38:02,992
+Takoví jsou mui.
 
 500
-00:41:20,020 --> 00:41:23,230
-kterÃ½ neustÃ¡le utÃ­kÃ¡
-z domu pryÄ -"gharbhagna",
+00:38:07,056 --> 00:38:10,436
+Sami øekli, e by to rádi
+pøeèetli a tady to vidíte.
 
 501
-00:41:25,020 --> 00:41:27,000
-to znamenÃ¡ "ten,
- kdo utÃ­kÃ¡ pryÄ".
+00:38:16,800 --> 00:38:21,541
+Kdy poádáte mue, aby uvaøili,
+všechno bude chybìt.
 
 502
-00:41:27,050 --> 00:41:29,220
-MusÃ­ existovat
- nÄ›co mezi tÃ­m.
+00:38:22,749 --> 00:38:23,669
+Tedy...
 
 503
-00:41:31,130 --> 00:41:37,000
-Ale je to muÅ¾skÃ©,
- to je v poÅ™Ã¡dku.
+00:38:25,527 --> 00:38:28,160
+Gregoire: „Šrí Mátadí,
+mohu se co nejuctivìji zeptat,
 
 504
-00:41:38,050 --> 00:41:41,020
-Ale se SahadÅ¾a jÃ³gou
- to mÅ¯Å¾eme
+00:38:28,361 --> 00:38:31,580
+jestli existuje vùbec nìjaká
+vıhoda v tom bıt muem?“
 
 505
-00:41:42,020 --> 00:41:43,200
-mezi obÄ›ma pÅ™Ã­pady
- troÅ¡ku vyrovnat.
+00:38:46,247 --> 00:38:49,192
+Bez mue ena nemùe
+projevit samu sebe.
 
 506
-00:41:43,210 --> 00:41:47,130
-To je SahadÅ¾a jÃ³ga
- - dÃ¡vÃ¡ rovnovÃ¡hu.
+00:38:50,113 --> 00:38:53,497
+Nemùe se projevit, protoe
+je potenciální slokou.
 
 507
-00:41:47,140 --> 00:41:52,200
-Pak se zaÄnete tÄ›Å¡it
-spoleÄnostÃ­ ostatnÃ­ch natolik,
+00:38:54,618 --> 00:38:56,173
+On je kinetickou slokou.
 
 508
-00:41:52,220 --> 00:41:55,080
-Å¾e se tÄ›Å¡Ã­te v domÄ›
-a tÄ›Å¡Ã­te se i venku.
+00:38:56,374 --> 00:38:58,647
+Je to zcela vystihující terminologie.
 
 509
-00:41:55,100 --> 00:41:57,000
-TakÅ¾e mÅ¯Å¾ete bÃ½t spolu
- v domÄ› a takÃ© venku.
+00:38:58,848 --> 00:39:02,608
+Nemùete existovat bez mue,
+nemùete.
 
 510
-00:41:57,050 --> 00:41:59,200
-MÃ¡te stejnÃ© konÃ­Äky, protoÅ¾e se
-zaÄÃ­nÃ¡te zajÃ­mat o stejnÃ© vÄ›ci.
+00:39:03,338 --> 00:39:06,603
+Dokonce, jestlie, máte
+všechnu vùni v Matce Zemi,
 
 511
-00:42:01,120 --> 00:42:06,020
-Jako kvÄ›tiny, kterÃ© spadnou
- na Matku Zemi, ji provonÃ­,
+00:39:06,804 --> 00:39:10,847
+dokud nemáte kvìtiny, jak se
+dovíte, e je v Matce Zemi vùnì?
 
 512
-00:42:07,070 --> 00:42:10,150
-a pak mÅ¯Å¾eme Å™Ã­ct,
-Å¾e Matka ZemÄ› vonÃ­.
+00:39:13,983 --> 00:39:16,843
+Mui jsou nejdùleitìjší.
+Co by jinak dìlaly?
 
 513
-00:42:11,000 --> 00:42:13,030
-Takhle krÃ¡snÃ© to je.
- DobÅ™e.
+00:39:17,044 --> 00:39:19,758
+Všechna jejich energie
+by vyšla vniveè.
 
 514
-00:42:13,050 --> 00:42:21,030
-TakÅ¾e pro vzdÄ›lÃ¡vÃ¡nÃ­
-jsem jiÅ¾ dala instrukce
+00:39:26,030 --> 00:39:29,583
+Take jestlie jsou eny
+Matkou Zemí, vy jste kvìtinami.
 
 515
-00:42:21,050 --> 00:42:24,180
-a uÅ¾ jsem o tom
- dÅ™Ã­v mluvila,
+00:39:33,774 --> 00:39:38,624
+V èem je vıhoda?
+Jste lidmi, které kadı vidí.
 
 516
-00:42:25,000 --> 00:42:28,050
-Å¾e nebudeme dÄ›lat
- Å¾Ã¡dnÃ© velkÃ© halÃ³
+00:39:47,388 --> 00:39:49,799
+Gregoire: „Bìhat kolem
+dokola jako Kartikéja.“
 
 517
-00:42:28,130 --> 00:42:31,230
-kolem tÃ©to Maria
- Montessori a dalÅ¡Ã­ch.
+00:39:55,923 --> 00:39:57,853
+Co nadìláte?
+Jste takoví.
 
 518
-00:42:32,000 --> 00:42:34,150
-Budeme mÃ­t
-sahadÅ¾ajogÃ­nskÃ© Å¡koly.
+00:39:59,929 --> 00:40:01,807
+Nedokáete sedìt doma.
 
 519
-00:42:34,200 --> 00:42:38,080
-Jsou to vÅ¡echno
- hlouposti,
+00:40:04,082 --> 00:40:06,770
+Dokonce ani kdy jedete vlakem.
 
 520
-00:42:39,020 --> 00:42:41,180
-protoÅ¾e jsem vidÄ›la ty, co uÄÃ­
- stylem "Maria Montessori" -
+00:40:07,449 --> 00:40:10,805
+Jakmile zastaví vlak, zjistíte, e
+všichni mui jdou ven z vlaku.
 
 521
-00:42:41,200 --> 00:42:44,200
-ty Å¾eny se staly
- hroznÃ½mi.
+00:40:11,006 --> 00:40:12,310
+Nemohou sedìt.
 
 522
-00:42:44,220 --> 00:42:48,000
-Byla jsem pÅ™ekvapenÃ¡ mnoÅ¾stvÃ­m
-ega, kterÃ© si v sobÄ› vytvoÅ™ily.
+00:40:21,540 --> 00:40:22,737
+Øekla jsem manelovi:
 
 523
-00:42:48,100 --> 00:42:53,080
-TakÅ¾e vy se staÅˆte
-sahadÅ¾ajogÃ­nskÃ½mi uÄiteli
+00:40:22,938 --> 00:40:25,495
+„Co to je, e neustále
+utíkáš z domu ven?
 
 524
-00:42:53,100 --> 00:42:56,230
-a bude to
-sahadÅ¾ajogÃ­nskÃ¡ Å¡kola.
+00:40:25,696 --> 00:40:28,392
+Proè nemùeš chvíli posedìt
+v domì? Musíš si sednout.“
 
 525
-00:42:57,000 --> 00:42:57,220
-V Sydney nebo
- v Melbourne.
+00:40:28,593 --> 00:40:33,051
+Tak øekl: „Ne, u nás, jestlie
+nìjakı mu vysedává v domì,
 
 526
-00:42:58,000 --> 00:43:00,120
-V Melbourne jsme zaÄali
- se Å¡kolou velice pÄ›knÄ›
+00:40:33,252 --> 00:40:37,217
+tak mu øíkají ghargusna“,
+to znamená pecivál, víte?
 
 527
-00:43:00,130 --> 00:43:05,070
-a teÄ budou mÃ­t stejnou
- i v Sydney.
+00:40:37,617 --> 00:40:40,324
+Já: „Jak øíkáte tomu,
+kdo neustále utíká z domu,
 
 528
-00:43:05,080 --> 00:43:07,220
-A otevÅ™enÄ› Å™Ã­kajÃ­, Å¾e je
-to sahadÅ¾ajogÃ­nskÃ¡ Å¡kola,
+00:40:40,525 --> 00:40:43,742
+gharbhagna?“
+To znamená utìkáø.
 
 529
-00:43:07,230 --> 00:43:10,120
-nikdo se nebojÃ­. OtevÅ™enÄ›
-je to sahadÅ¾ajogÃ­nskÃ¡ Å¡kola,
+00:40:43,991 --> 00:40:45,816
+Musí existovat
+nìco mezi tím.
 
 530
-00:43:11,070 --> 00:43:13,070
-a lidÃ© tÃ­m tolik
- zÃ­skali.
+00:40:46,017 --> 00:40:47,996
+Ale je to muské,
+to je v poøádku.
 
 531
-00:43:13,080 --> 00:43:17,020
-ProÄ bychom se mÄ›li
- schovÃ¡vat?
+00:40:48,197 --> 00:40:53,245
+Ale se Sahada jógou to mùeme
+mezi obìma pøípady
 
 532
-00:43:18,080 --> 00:43:21,100
-MÄ›li bychom otevÅ™enÄ› Å™Ã­kat,
-Å¾e je to sahadÅ¾ajogÃ­nskÃ¡ Å¡kola.
+00:40:53,446 --> 00:40:54,912
+trošku vyrovnat.
 
 533
-00:43:21,120 --> 00:43:25,050
-TakÅ¾e vy, uÄitelÃ©, se takÃ©
-staÅˆte znalci SahadÅ¾a jÃ³gy.
+00:40:57,985 --> 00:41:00,848
+To je Sahada jóga
+- dává rovnováhu.
 
 534
-00:43:25,070 --> 00:43:27,020
-MusÃ­ bÃ½t dobrÃ½mi sahadÅ¾ajogÃ­ny,
- sahadÅ¾ajogÃ­nkami.
+00:41:01,471 --> 00:41:05,027
+Pak se zaènete tìšit
+spoleèností ostatních natolik,
 
 535
-00:43:29,080 --> 00:43:35,020
-NemÄ›li by bÃ½t egoistickÃ½mi,
-nemÄ›lo by v nich bÃ½t Å¾Ã¡dnÃ© ego,
+00:41:05,228 --> 00:41:08,088
+e se tìšíte v domì
+a tìšíte se i venku.
 
 536
-00:43:36,130 --> 00:43:53,170
-nemÄ›li by bÃ½t napadeni,
-kdokoliv, kdo je napadenÃ½,
+00:41:08,835 --> 00:41:12,164
+Mùete bıt tedy spolu
+v domì a také venku.
 
 537
-00:43:55,030 --> 00:44:01,000
-nenÃ­ pro SahadÅ¾a jÃ³gu
- dobrÃ½m uÄitelem.
+00:41:13,682 --> 00:41:17,422
+Máte stejné zájmy, protoe se
+zaèínáte zajímat o stejné vìci.
 
 538
-00:44:02,120 --> 00:44:07,050
-NenÃ­ to jako v Maria
- Montessori Å¡kole,
+00:41:20,578 --> 00:41:26,660
+Jako kvìtiny, které spadnou
+na Matku Zemi, ji provoní,
 
 539
-00:44:07,070 --> 00:44:14,150
-Å¾e v noci uÄitelka
- pije, kouÅ™Ã­
+00:41:26,861 --> 00:41:29,941
+a pak mùeme øíct,
+e Matka Zemì voní.
 
 540
-00:44:14,240 --> 00:44:18,230
-a rÃ¡no je "uÄitelkou
- Maria Montessori".
+00:41:31,879 --> 00:41:33,909
+Takhle krásné to je.
 
 541
-00:44:19,000 --> 00:44:24,120
-Tady musÃ­te bÃ½t nejprve
- sahadÅ¾ajogÃ­nkami
+00:41:36,299 --> 00:41:37,299
+Dobøe.
 
 542
-00:44:26,000 --> 00:44:27,180
-a teprve potom mÅ¯Å¾ete uÄit
- v sahadÅ¾ajogÃ­nskÃ© Å¡kole.
+00:41:38,433 --> 00:41:41,471
+Take pro vzdìlávání
+jsem ji dala instrukce
 
 543
-00:44:28,130 --> 00:44:32,120
-Takovou kvalitu musÃ­te mÃ­t,
- to je velmi dÅ¯leÅ¾itÃ©,
+00:41:41,844 --> 00:41:45,300
+a u jsem døíve mluvila o tom,
+e nebudeme dìlat „haló“
 
 544
-00:44:33,130 --> 00:44:38,230
-jako je dÅ¯leÅ¾itÃ©,
- abychom mÄ›li studenty,
+00:41:45,501 --> 00:41:48,407
+kolem této Maria Montessori
+a dalších.
 
 545
-00:44:40,070 --> 00:44:43,220
-kteÅ™Ã­ jsou realizovanÃ© duÅ¡e
-nebo mohou dostat realizaci.
+00:41:49,990 --> 00:41:52,867
+Budeme mít
+sahadajogínské školy.
 
 546
-00:44:46,070 --> 00:44:50,220
-DobÅ™e, takÅ¾e dneÅ¡nÃ­ pÃºdÅ¾a
-je speciÃ¡lnÄ› ke KartikÃ©jovi.
+00:41:53,499 --> 00:41:54,452
+Jsou to nesmysly,
 
 547
-00:44:51,150 --> 00:44:54,230
-KartikÃ©ja pÅ™edstavuje
- vÃ½znamnÃ©ho
+00:41:54,653 --> 00:41:57,782
+protoe jsem vidìla ty, co uèí
+stylem "Maria Montessori" -
 
 548
-00:44:57,030 --> 00:44:59,230
-- mÅ¯Å¾eme Å™Ã­ct kapitÃ¡na
- nebo vÅ¯dce vÅ¡ech ganÅ¯,
+00:41:57,983 --> 00:41:59,959
+ty eny se staly hroznımi.
 
 549
-00:45:00,000 --> 00:45:07,100
-Jako vrchnÃ­ velitel.
+00:42:01,741 --> 00:42:05,643
+Byla jsem pøekvapená mnostvím
+ega, které si v sobì vytvoøily.
 
 550
-00:45:07,120 --> 00:45:08,220
-GanÃ©Å¡a je krÃ¡l, ale On
- je vrchnÃ­ velitel.
+00:42:07,614 --> 00:42:10,750
+Take vy se staòte
+sahadajogínskımi uèiteli
 
 551
-00:45:08,230 --> 00:45:11,050
-A protoÅ¾e v nÄ›meckÃ© povaze
- je vÅ¡emu velet,
+00:42:11,121 --> 00:42:13,227
+a bude to
+sahadajogínská škola.
 
 552
-00:45:11,070 --> 00:45:16,240
-budeme mÃ­t tuto pÃºdÅ¾u, kde
-budou muÅ¾i velet svÃ©mu duchu
+00:42:19,355 --> 00:42:21,503
+V Sydney nebo
+v Melbourne.
 
 553
-00:45:17,030 --> 00:45:20,120
-a svÃ½m muÅ¾skÃ½m
- kvalitÃ¡m
+00:42:22,192 --> 00:42:25,066
+V Melbourne jsme zaèali
+se školou velice pìknì
 
 554
-00:45:20,130 --> 00:45:27,170
-a Å¾eny budou velet svÃ½m
- Å¾enskÃ½m kvalitÃ¡m.
+00:42:25,312 --> 00:42:28,408
+a teï budou mít stejnou
+i v Sydney.
 
 555
-00:45:29,130 --> 00:45:32,180
-Velet znamenÃ¡ nÄ›co
-jinÃ©ho neÅ¾ bÃ½t pÃ¡nem.
+00:42:28,684 --> 00:42:30,680
+A otevøenì øíkají,
+e je to sahadajogínská škola,
 
 556
-00:45:35,110 --> 00:45:38,070
-PÃ¡n vlastnÃ­, velitel
- nevlastnÃ­.
+00:42:30,881 --> 00:42:34,632
+nikdo se nebojí. Otevøenì øíkají,
+je to sahadajogínská škola,
 
 557
-00:45:38,100 --> 00:45:42,150
-On nevlastnÃ­,
- i to zmizelo,
+00:42:34,997 --> 00:42:38,372
+a díky tomu lidé tolik získali.
 
 558
-00:45:43,000 --> 00:45:50,100
-vlastnictvÃ­ takÃ© zmizelo,
- jenom tomu velÃ­te.
+00:42:39,041 --> 00:42:41,454
+Proè bychom se mìli
+nìjak schovávat?
 
 559
-00:45:50,120 --> 00:45:55,240
-A do tohoto stavu
-teÄ musÃ­me pÅ™ijÃ­t
+00:42:41,733 --> 00:42:44,629
+Mìli bychom otevøenì øíkat,
+e je to sahadajogínská škola.
 
 560
-00:45:56,000 --> 00:45:59,050
-- ze stavu Å rÃ­ GanÃ©Å¡i
- do stavu Å rÃ­ KartikÃ©ji.
+00:42:44,830 --> 00:42:47,629
+Take vy, uèitelé, se také
+staòte znalci Sahada jógy.
 
 561
-00:45:59,070 --> 00:46:03,120
-Naopak.
+00:42:47,830 --> 00:42:53,329
+Musí bıt dobrımi sahadajogíny,
+sahadajogínkami.
 
 562
-00:46:03,140 --> 00:46:09,030
-GanÃ©Å¡a je milÃ½, je krÃ¡lem,
- velice pÄ›knÄ› usazenÃ½
+00:42:53,859 --> 00:42:56,562
+Nemìli by bıt egoistickımi,
+nemìlo by v nich bıt ádné ego,
 
 563
-00:46:10,130 --> 00:46:13,050
-se vÅ¡emi svÃ½mi silami, ano?
-Ve smyslu, Å¾e tam je,
+00:42:56,763 --> 00:42:58,523
+nemìli by bıt napadeni,
+kdokoliv, kdo je napadenı,
 
 564
-00:46:13,100 --> 00:46:18,150
-ale KartikÃ©ja je ten,
- kdo velÃ­ nevinnosti,
+00:42:58,724 --> 00:43:00,861
+není pro Sahada jógu
+dobrım uèitelem.
 
 565
-00:46:18,200 --> 00:46:21,190
-dÃ¡vÃ¡ vÃ¡m sÃ­lu
- k tomuto velenÃ­.
+00:43:01,062 --> 00:43:04,939
+Není to jako
+v Maria Montessori škole,
 
 566
-00:46:21,200 --> 00:46:24,100
-On velÃ­. Po Guru pÃºdÅ¾e je lepÅ¡Ã­,
-kdyÅ¾ mÃ¡me sÃ­lu vÃ©st ostatnÃ­
+00:43:05,140 --> 00:43:07,619
+e v noci uèitelka
+pije, kouøí
 
 567
-00:46:25,050 --> 00:46:28,170
-a tento velÃ­cÃ­ duch
- pÅ™ichÃ¡zÃ­ do muÅ¾Å¯
+00:43:07,820 --> 00:43:10,679
+a ráno je „uèitelkou
+Maria Montessori“.
 
 568
-00:46:28,180 --> 00:46:31,030
-prostÅ™ednictvÃ­m jejich
- mluvenÃ­, jejich elÃ¡nu,
+00:43:10,950 --> 00:43:13,616
+Tady musíte bıt nejprve
+sahadajogínkami
 
 569
-00:45:56,400 --> 00:45:59,440
-prostÅ™ednictvÃ­m jejich
- osobnÃ­ch ÃºspÄ›chÅ¯,
+00:43:13,817 --> 00:43:17,303
+a jedinì pak mùete uèit
+v sahadajogínské škole.
 
 570
-00:45:59,640 --> 00:46:05,560
-do Å¾en prostÅ™ednictvÃ­m jejich
-sÃ­ly lÃ¡sky, jejich trpÄ›livosti,
+00:43:18,286 --> 00:43:21,273
+Tuto kvalitu musíte mít,
+to je velmi dùleité,
 
 571
-00:46:05,760 --> 00:46:13,880
-prostÅ™ednictvÃ­m jejich vlÃ­dnÃ©ho
-chovÃ¡nÃ­, odpuÅ¡tÄ›nÃ­, soucitu.
+00:43:21,474 --> 00:43:23,976
+jako je dùleité,
+abychom mìli studenty,
 
 572
-00:46:14,080 --> 00:46:16,800
-TakÅ¾e nechÅ¥ se dnes
- rozvinou tyto kvality,
+00:43:24,177 --> 00:43:27,591
+kteøí jsou realizované duše
+nebo mohou dostat realizaci.
 
 573
-00:46:17,000 --> 00:46:21,440
-kterÃ½m mÅ¯Å¾eme velet, coÅ¾
- neznamenÃ¡ to, co mÃ¡me,
+00:43:29,885 --> 00:43:34,992
+Dobøe, take dnešní púda
+je speciálnì ke Kartikéjovi.
 
 574
-00:46:21,640 --> 00:46:24,920
-ale Å¾e jsme ve stavu,
- kdy jim velÃ­me.
+00:43:36,767 --> 00:43:42,160
+Kartikéja pøedstavuje vıznamného
 
 575
-00:46:25,120 --> 00:46:28,440
-DoufÃ¡m, Å¾e jste porozumÄ›li
- tomu, kdo je KartikÃ©ja.
+00:43:44,289 --> 00:43:49,201
+- mùeme øíct kapitána
 
 576
-00:46:28,680 --> 00:46:32,120
-NechÅ¥ vÃ¡m BÅ¯h Å¾ehnÃ¡!
+00:43:50,383 --> 00:43:53,875
+nebo vùdce všech ganù,
 
 577
-00:46:34,207 --> 00:46:37,440
-ZaÄneme pÃºdÅ¾u.
+00:43:55,448 --> 00:44:00,896
+Jako vrchní velitel.
 
 578
-00:46:49,297 --> 00:46:55,137
-Kdo to udÄ›lal? Vy jste
-vyrobila toho GanÃ©Å¡u?
+00:44:02,680 --> 00:44:04,206
+Ganéša je král,
 
 579
-00:46:55,337 --> 00:46:57,880
-Tak roztomilÃ½.
+00:44:05,374 --> 00:44:07,226
+ale On je vrchní velitel.
 
 580
-00:47:01,150 --> 00:47:06,800
-Jste Å¡ikovnÃ¡, kÃ©Å¾ vÃ¡m
- BÅ¯h Å¾ehnÃ¡.
+00:44:07,965 --> 00:44:14,520
+A protoe v nìmecké povaze
+je všemu velet,
 
 581
-00:47:12,240 --> 00:47:17,320
-AÅ¥ pÅ™ijdou takÃ© NÄ›mci.
+00:44:16,623 --> 00:44:24,415
+budeme mít tuto púdu, kde
+budou mui velet svému duchu
 
 582
-00:47:29,960 --> 00:47:33,400
-AÅ¥ sem pÅ™ijde vÃ­ce lidÃ­
- z NÄ›mecka.
+00:44:26,075 --> 00:44:28,057
+a svım muskım kvalitám
 
 583
-00:47:34,591 --> 00:47:37,760
-TakÃ© Å¾eny, samozÅ™ejmÄ›.
+00:44:28,757 --> 00:44:32,823
+a eny budou velet svım
+enskım kvalitám.
 
 584
-00:48:43,697 --> 00:48:47,260
-Ta, kterÃ¡ vytvoÅ™ila toho
-GanÃ©Å¡u, je takÃ© z NÄ›mecka?
+00:44:33,844 --> 00:44:38,777
+Velet znamená nìco
+jiného ne bıt pánem.
 
 585
-00:48:50,840 --> 00:48:54,960
-Ta by taky mÄ›la
- pÅ™ijÃ­t omÃ½vat.
+00:44:40,395 --> 00:44:43,844
+Pán vlastní, velitel nevlastní.
 
 586
-00:49:05,847 --> 00:49:09,847
-VÅ¡ichni, co mi psali dopisy,
-abych pÅ™ijela do NÄ›mecka,
+00:44:46,561 --> 00:44:48,358
+On nevlastní,
 
 587
-00:49:10,041 --> 00:49:12,477
-by mÄ›li pÅ™ijÃ­t umÃ½t
- MÃ¡ chodidla.
+00:44:49,579 --> 00:44:51,062
+i to zmizelo,
 
 588
-00:49:12,721 --> 00:49:16,720
-KÃ©Å¾ vÃ¡m BÅ¯h Å¾ehnÃ¡.
- DÄ›kuji.
+00:44:51,811 --> 00:44:55,062
+vlastnictví také zmizelo,
+jen tomu velíte.
 
 589
-00:49:18,828 --> 00:49:25,800
-Vyndejte tenhle. Vyndejte
- to. NenÃ­ potÅ™eba.
+00:44:57,281 --> 00:44:59,758
+A do tohoto stavu
+teï musíme pøijít
 
 590
-00:55:48,527 --> 00:55:50,560
-Å˜Ã­kÃ¡me jÃ­ Kamala.
+00:44:59,959 --> 00:45:01,789
+- ze stavu Šrí Ganéši
 
 591
-00:55:51,071 --> 00:55:53,371
-Kamala je jmÃ©no
- bohynÄ›, ano?
+00:45:02,779 --> 00:45:07,496
+do stavu Šrí Kartikéji.
 
 592
-00:55:53,589 --> 00:55:57,263
-Kamal LakÅ¡mÃ­. Kamala.
- KÃ©Å¾ vÃ¡m BÅ¯h Å¾ehnÃ¡.
+00:45:07,768 --> 00:45:08,783
+Naopak.
 
 593
-00:56:20,425 --> 00:56:25,850
-MÅ¯Å¾eme si trochu zazpÃ­vat,
-jsou tu jeÅ¡tÄ› dvÄ› dalÅ¡Ã­ Å¾eny.
+00:45:09,442 --> 00:45:12,672
+Ganéša je milı, je králem,
+velice pìknì usazenı
 
 594
-00:56:28,843 --> 00:56:31,640
-Hugo to jeÅ¡tÄ› musÃ­ udÄ›lat.
+00:45:13,788 --> 00:45:16,160
+se všemi svımi silami, ano?
 
 595
-00:56:43,715 --> 00:56:45,833
-DobÅ™e.
+00:45:17,023 --> 00:45:18,744
+Ve smyslu, e tam je.
 
 596
-00:57:07,000 --> 00:57:09,850
-To je ono.
+00:45:20,143 --> 00:45:22,073
+Ale Kartikéja je ten,
 
 597
-00:57:13,000 --> 00:57:15,000
-NechÅ¥ vÃ¡m BÅ¯h Å¾ehnÃ¡.
+00:45:24,243 --> 00:45:26,957
+kdo velí nevinnosti,
 
 598
-00:57:18,931 --> 00:57:21,800
-PÅ™ijÄte na druhou stranu.
+00:45:30,099 --> 00:45:32,640
+dává vám sílu tohoto velení.
 
 599
-00:57:22,975 --> 00:57:26,880
-Kdo jsou ty Å¾eny? Je jich
- tam vÃ­ce? Hotovo?
+00:45:35,902 --> 00:45:42,102
+On velí. Po Guru púde je lepší,
+kdy máme sílu vést ostatní
 
 600
-00:57:41,868 --> 00:57:43,743
-SprÃ¡vnÄ›.
+00:45:44,511 --> 00:45:49,804
+a tento velící duch
+pøichází do muù
 
 601
-00:59:41,087 --> 00:59:45,700
-PouÅ¾ijte stejnou vodu.
+00:45:50,810 --> 00:45:55,874
+prostøednictvím jejich mluvení,
+jejich dynamièností,
 
 602
-01:00:46,512 --> 01:00:50,806
-Mohou vzÃ­t stejnou vodu,
- je jÃ­ tam uÅ¾ moc.
+00:45:56,488 --> 00:45:59,433
+prostøednictvím jejich
+osobních úspìchù,
 
 603
-01:04:35,456 --> 01:04:40,580
-TeÄ mÅ¯Å¾eme Å™Ã­ct
-tisÃ­c jmen KartikÃ©ji.
+00:45:59,707 --> 00:46:05,406
+do en prostøednictvím jejich
+síly lásky, jejich trpìlivosti,
 
 604
-01:04:41,873 --> 01:04:46,000
-Ne, sto osm.
+00:46:05,809 --> 00:46:12,541
+prostøednictvím jejich vlídného
+chování, odpuštìní, soucitu.
 
 605
-01:04:49,481 --> 01:04:54,739
-Myslela jsem si, Å¾e 1000 jmen je dobrÃ½
-nÃ¡pad, ale Å™eknÄ›me tedy sto osm.
+00:46:14,114 --> 00:46:16,817
+Take nech se dnes
+rozvinou tyto kvality,
 
 606
-01:04:58,751 --> 01:05:02,239
-UvidÃ­me, jak to pÅ¯jde
- se sto osmi.
+00:46:17,026 --> 00:46:21,462
+kterım mùeme velet,
+co neznamená, e to vlastníme,
 
 607
-01:05:03,689 --> 01:05:06,026
-Mluvte nahlas.
+00:46:21,705 --> 00:46:24,317
+ale e jsme v pozici,
+kdy velíme.
 
 608
-01:05:56,400 --> 01:05:59,280
-Mluvte hlasitÄ›ji, nenÃ­
- tomu rozumÄ›t.
+00:46:25,189 --> 00:46:28,383
+Doufám, e jste porozumìli
+tomu, kdo je Kartikéja.
 
 609
-01:06:05,960 --> 01:06:08,200
-Ne, jeÅ¡tÄ› ne. Dejte
- mu jinÃ½,
-
-610
-01:06:08,800 --> 01:06:10,496
-aÅ¥ mÃ¡ jeÅ¡tÄ› jeden.
-
-611
-01:06:10,746 --> 01:06:14,000
-MusÃ­ mu bÃ½t rozumÄ›t,
-jinak to nemÃ¡ smysl.
-
-612
-01:28:54,518 --> 01:28:58,360
-V tÄ›ch sto osmi jmÃ©nech,
- pokud jste si vÅ¡imli,
-
-613
-01:28:59,556 --> 01:29:06,343
-je ukÃ¡zÃ¡no, Å¾e Å rÃ­ KartikÃ©ja
- je nevinnost,
-
-614
-01:29:06,556 --> 01:29:11,520
-kterÃ¡ se projevuje na
-pravÃ© stranÄ›, v pingala.
-
-615
-01:29:11,800 --> 01:29:17,129
-MÃ¡ silnÃ½ vztah k prÃ¡nÄ›.
-
-616
-01:29:17,536 --> 01:29:23,371
-DÃ¡vÃ¡ vÃ¡m prÃ¡nu.
- PrÃ¡na je dech
-
-617
-01:29:23,696 --> 01:29:25,873
-- kdyÅ¾ se nadechujeme
- a vydechujeme.
-
-618
-01:29:26,060 --> 01:29:28,648
-Je tedy spjat s pravou
- stranou.
-
-619
-01:29:28,979 --> 01:29:32,603
-SouvisÃ­ takÃ© s
-vÄ›ÄnostÃ­ - Anantari.
-
-620
-01:29:32,847 --> 01:29:37,753
-Anantar je had - Å Ã©Å¡a.
-
-621
-01:29:37,916 --> 01:29:41,528
-Je bratrem ViÅ¡nua.
-
-622
-01:29:41,835 --> 01:29:47,056
-Je tÃ­m, kterÃ½ je zde
-zastoupen jako KartikÃ©ja.
-
-623
-01:29:47,268 --> 01:29:48,937
-NazÃ½vÃ¡ se Anantar.
-
-624
-01:29:49,149 --> 01:29:51,360
-Je ohnÄ›m.
-
-625
-01:29:52,739 --> 01:29:58,460
-Je ten, kdo ve vÃ¡s
-zapaluje schopnost
-
-626
-01:29:58,672 --> 01:30:01,285
-vstÅ™ebat sÃ­lu
-
-627
-01:30:01,741 --> 01:30:07,174
-a schopnost pÅ™ikazovat
- lidem,
-
-628
-01:30:07,943 --> 01:30:16,781
-a takÃ© kvalitu bÃ½t
-brilantnÃ­m ÄlovÄ›kem.
-
-629
-01:30:17,106 --> 01:30:21,250
-VidÃ­te, nevinnÃ½ ÄlovÄ›k mÅ¯Å¾e bÃ½t brilantnÃ­.
-
-630
-01:30:21,575 --> 01:30:27,600
-VÅ¡echny ty schopnosti jsou
-obsaÅ¾eny v KartikÃ©jovÄ› svarupÄ›,
-
-631
-01:30:27,800 --> 01:30:30,000
-v jeho stavu.
-
-632
-01:30:30,200 --> 01:30:34,000
-PÅ™i uctÃ­vÃ¡nÃ­ KartikÃ©ji
- musÃ­me vÄ›dÄ›t,
-
-633
-01:30:34,400 --> 01:30:38,599
-Å¾e je v nÃ¡s teÄ
- probuzen.
-
-634
-01:30:39,456 --> 01:30:44,722
-A s takovou schopnostÃ­
-musÃ­me bojovat.
-
-635
-01:30:44,954 --> 01:30:46,937
-Nakonec on je NiÅ¡kalanka.
-
-636
-01:30:47,131 --> 01:30:49,231
-Je bojovnÃ­k.
-
-637
-01:30:49,425 --> 01:30:53,671
-Od GanÃ©Å¡i ke Kristovi
- a k NiÅ¡kalance.
-
-638
-01:30:53,883 --> 01:30:55,708
-To jsou tÅ™i stupnÄ›,
-
-639
-01:30:55,896 --> 01:30:59,077
-kterÃ½mi proÅ¡la nevinnost.
-
-640
-01:30:59,280 --> 01:31:07,800
-Od GanÃ©Å¡i ke KartikÃ©jovi
- a teÄ ke Kristovi.
-
-641
-01:31:08,173 --> 01:31:11,200
-A od nÄ›j k NiÅ¡kalance.
-
-642
-01:31:11,695 --> 01:31:14,645
-Ve formÄ› NiÅ¡kalanky
- je nevinnÃ½.
-
-643
-01:31:14,880 --> 01:31:18,088
-NenÃ­ Å¾Ã¡dnÃ¡ Kalanka, nenÃ­ na
- nÄ›m ani skvrnka, nic.
-
-644
-01:31:18,280 --> 01:31:20,019
-Je ÃºplnÄ› ÄistÃ½, bezvadnÃ½.
-
-645
-01:31:20,213 --> 01:31:22,960
-TakÃ© je plamennÃ½.
-
-646
-01:31:24,138 --> 01:31:27,513
-MÃ¡ vÅ¡echny kvality
- Ã‰kadÃ©Å¡a rudry.
-
-647
-01:31:27,757 --> 01:31:31,680
-Je to jedenÃ¡ct vlastnostÃ­
- nebo sil Å rÃ­ Å ivy,
-
-648
-01:31:32,062 --> 01:31:34,018
-kterÃ© mohou zabÃ­tâ€¦
-
-649
-01:31:34,325 --> 01:31:39,949
-MÃ¡ tedy schopnost zabÃ­t
- a zniÄit, co je zlÃ©.
-
-650
-01:31:40,624 --> 01:31:46,960
-DÃ¡vÃ¡ poÅ¾ehnÃ¡nÃ­ a odvahu
- svÃ½m stoupencÅ¯m.
-
-651
-01:31:48,730 --> 01:31:52,089
-To je poslednÃ­ inkarnace,
- nazÃ½vanÃ¡ Kalki.
-
-652
-01:31:52,289 --> 01:31:56,215
-BÄ›Å¾nÄ› ji Å™Ã­kÃ¡te Kalki, ve
-skuteÄnosti je to NiÅ¡kalanka.
-
-653
-01:31:56,877 --> 01:31:58,102
-Je to bÃ­lÃ½ kÅ¯Åˆ.
-
-654
-01:31:58,252 --> 01:32:03,435
-Je to KartikÃ©ja, kdo sedÃ­
- na bÃ­lÃ©m koni.
-
-655
-01:32:04,148 --> 01:32:06,885
-Nevinnost ve vÃ¡s roste
-
-656
-01:32:07,098 --> 01:32:11,259
-do ÃºrovnÄ› KartikÃ©ji.
-
-657
-01:32:11,465 --> 01:32:14,762
-To se dnes stalo v
- tÃ©to zemi,
-
-658
-01:32:14,943 --> 01:32:17,193
-Deutschland ji Å™Ã­kÃ¡te,
-
-659
-01:32:17,493 --> 01:32:21,800
-kde se KartikÃ©ja ve vÃ¡s
-musÃ­ narodit, probudit se.
-
-660
-01:32:22,025 --> 01:32:24,000
-KÃ©Å¾ vÃ¡m BÅ¯h Å¾ehnÃ¡.
-
-661
-01:32:40,637 --> 01:32:43,256
-TeÄ mÅ¯Å¾ete zpÃ­vat nÄ›jakÃ©
- pÃ­snÄ›, pokud chcete,
-
-662
-01:32:43,506 --> 01:32:45,749
-jako "JÃ¡ DÃ©vÃ­ Sarva BhÃºtÃ©Å¡u",
- jakÃ©koli chcete.
-
-663
-01:32:46,012 --> 01:32:49,636
-RÃ¡da bych sem pozvala
- sedm vdanÃ½ch Å¾en
-
-664
-01:32:54,600 --> 01:32:56,281
-na pomoc.
-
-665
-01:32:56,480 --> 01:33:01,085
-Nejprve by mohly pÅ™ijÃ­t holÄiÄky,
- pokud tu nÄ›jakÃ© jsou.
-
-666
-01:33:01,310 --> 01:33:03,600
-AÅ¥ pÅ™ijdou malÃ© dÃ­venky.
-
-667
-01:33:06,641 --> 01:33:09,927
-TroÅ¡ku pozdÄ›ji, aÅ¾ Mi budete
- dÃ¡vat girlandu, ano?
-
-668
-01:33:10,120 --> 01:33:12,608
-TeÄ majÃ­ pÅ™ijÃ­t dÃ­vky.
-
-669
-01:33:12,802 --> 01:33:16,048
-Kde jsou? VÅ¡echny
- majÃ­ pÅ™ijÃ­t.
-
-670
-01:33:16,255 --> 01:33:18,400
-Kdo jsou tady
-ty dalÅ¡Ã­ dÃ­vky?
-
-671
-01:33:20,112 --> 01:33:25,400
-DobrÃ¡, pojÄte.
- Ano, pojÄte.
-
-672
-01:33:27,825 --> 01:33:29,681
-Vy takÃ©, vy oba.
-
-673
-01:33:29,875 --> 01:33:34,000
-DobÅ™e, vy takÃ©
- pojÄte, oba.
-
-674
-01:33:44,400 --> 01:33:46,480
-SednÄ›te si.
-
-675
-01:33:47,612 --> 01:33:54,112
-Pokud je tu neprovdanÃ¡ dÃ­vka,
- dospÄ›lÃ¡ - prosÃ­m, pÅ™ijÄte.
-
-676
-01:34:03,378 --> 01:34:06,047
-NÄ›kdo, kdo jeÅ¡tÄ›
- nenÃ­ provdÃ¡n.
-
-677
-01:34:06,597 --> 01:34:10,960
-PÅ™ijÄte.
-
-678
-01:34:19,781 --> 01:34:23,193
-OdstraÅˆte to asi, poÅ¾Ã¡dejte
- nÄ›koho, aby to odstranil.
-
-679
-01:35:24,862 --> 01:35:29,956
-Gregoire: "Å rÃ­ MÃ¡tadÅ¾Ã­, neÅ¾
-zazpÃ­vÃ¡me chvalozpÄ›v k bohyni,
-
-680
-01:35:30,150 --> 01:35:36,384
-rÃ¡di bychom Ti pÅ™eÄetli
-upravenou verzi OtÄenÃ¡Å¡e."
-
-681
-01:35:39,591 --> 01:35:41,147
-"Matko naÅ¡e,
-
-682
-01:35:41,353 --> 01:35:43,147
-jenÅ¾ jsi na zemi,
-
-683
-01:35:43,366 --> 01:35:45,898
-posvÄ›Å¥ se jmÃ©no TvÃ©,
-
-684
-01:35:46,342 --> 01:35:48,567
-pÅ™ijÄ krÃ¡lovstvÃ­ TvÃ©,
-
-685
-01:35:48,842 --> 01:35:50,811
-buÄ vÅ¯le TvÃ¡
-
-686
-01:35:51,136 --> 01:35:53,840
-na zemi jako je
- i v nebi,
-
-687
-01:35:54,437 --> 01:35:58,330
-SvÃ© boÅ¾skÃ© vibrace
- dej nÃ¡m dnes
-
-688
-01:35:58,724 --> 01:36:01,474
-a odpusÅ¥ nÃ¡m naÅ¡e viny,
-
-689
-01:36:01,899 --> 01:36:05,763
-jako i my odpouÅ¡tÃ­me
- naÅ¡im vinÃ­kÅ¯m
-
-690
-01:36:06,056 --> 01:36:08,669
-a neuveÄ nÃ¡s do mÃ¡ji,
-
-691
-01:36:08,850 --> 01:36:11,116
-ale zbav nÃ¡s vÅ¡eho
- zlÃ©ho,
-
-692
-01:36:11,378 --> 01:36:13,172
-neboÅ¥ TvÅ¯j je Otec,
-
-693
-01:36:13,510 --> 01:36:15,560
-dÄ›ti i slÃ¡va
-
-694
-01:36:15,747 --> 01:36:19,003
-na vÄ›ky vÄ›kÅ¯.
- Amen.
-
-695
-01:36:34,743 --> 01:36:38,031
-Tak sladkÃ©.
+00:46:28,686 --> 00:46:30,317
+Nech vám Bùh ehná!
 
