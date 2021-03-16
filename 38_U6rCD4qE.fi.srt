@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:03,714 --> 00:00:09,797
 Viimeksi pyysitte Minulta 'gurupadaa',
 
