@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:02,983 --> 00:00:09,128
 Kitap bu. Büyük görünüyor, ama basıldığında bu kadar büyük olmaz.
 
