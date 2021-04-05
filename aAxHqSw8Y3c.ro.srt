@@ -1,2752 +1,3432 @@
-1
-00:00:38,959 --> 00:00:41,709
+﻿1
+00:00:38,480 --> 00:00:41,859
 Îmi pare rău că am întârziat.
 
 2
-00:00:41,750 --> 00:00:49,000
-N-am ştiut că acest program este într-un loc aşa de frumos.
+00:00:42,060 --> 00:00:44,267
+Nu am ştiut
 
 3
-00:00:56,750 --> 00:01:04,500
-Şi iată aici vedeţi un frumos tablou al lui Michelangelo,
+00:00:44,468 --> 00:00:50,214
+că programul acesta se va desfășura într-un loc atât de frumos.
 
 4
-00:01:06,291 --> 00:01:16,417
-exprimând dorinţa divinului, a Tatălui, de a vă salva,
+00:00:57,567 --> 00:01:02,065
+Şi iată, puteți vedea aici un frumos tablou
 
 5
-00:01:17,917 --> 00:01:23,625
-de a vă ajuta, şi totul funcţionează.
+00:01:02,266 --> 00:01:04,921
+al lui Michelangelo,
 
 6
-00:01:29,000 --> 00:01:49,542
-În Germania au avut loc tot felul de întâmplări foarte violente
+00:01:07,097 --> 00:01:11,313
+exprimând dorinţa Divinului,
 
 7
-00:01:51,291 --> 00:02:06,750
-şi asta a avut un efect devastator asupra vieţii occidentale în ansamblu.
+00:01:11,514 --> 00:01:14,369
+a Tatălui Ceresc,
 
 8
-00:02:07,208 --> 00:02:11,000
-Sistemul de valori a fost distrus,
+00:01:14,570 --> 00:01:16,692
+de a vă salva,
 
 9
-00:02:11,417 --> 00:02:17,000
-ideea de dharma a fost deformată,
+00:01:17,603 --> 00:01:19,781
+de a vă ajuta.
 
 10
-00:02:18,417 --> 00:02:22,417
-femeile au început să se comporte precum bărbaţii.
+00:01:20,731 --> 00:01:23,463
+Iar asta chiar se întâmplă.
 
 11
-00:02:24,000 --> 00:02:28,000
-Şi atât de mulţi oameni au murit,
+00:01:29,441 --> 00:01:31,651
+În Germania,
 
 12
-00:02:29,333 --> 00:02:32,417
-mulţi tineri au murit, foarte, foarte tineri.
+00:01:39,415 --> 00:01:42,240
+au avut loc
 
 13
-00:02:32,625 --> 00:02:36,417
-Niciuna din dorinţele lor nu s-a împlinit,
+00:01:43,486 --> 00:01:49,200
+evenimente de amploare, foarte violente,
 
 14
-00:02:36,625 --> 00:02:52,625
-viaţa nu le-a dăruit altceva decât război.
+00:01:51,789 --> 00:01:56,145
+care au generat
 
 15
-00:02:57,083 --> 00:03:00,709
-A fost ca un val de căldură,
+00:02:00,283 --> 00:02:03,263
+un efect devastator
 
 16
-00:03:02,417 --> 00:03:06,500
-care a distrus toate lucrurile mai subtile.
+00:02:03,464 --> 00:02:06,833
+asupra vieţii oamenilor peste tot în Occident.
 
 17
-00:03:07,834 --> 00:03:14,542
-Când natura e insultată sau furioasă
+00:02:07,651 --> 00:02:10,595
+Sistemul de valori a fost distrus,
 
 18
-00:03:15,125 --> 00:03:21,000
-distruge doar lucrurile grosiere.
+00:02:11,734 --> 00:02:16,988
+ideea de dharma a fost deformată,
 
 19
-00:03:22,125 --> 00:03:25,834
-Dar când oamenii încep să distrugă,
+00:02:18,230 --> 00:02:23,038
+femeile au început să se comporte ca bărbaţii
 
 20
-00:03:26,000 --> 00:03:34,291
-distrug chiar şi lucrurile mai subtile, precum sistemul vostru de valori,
+00:02:24,608 --> 00:02:27,626
+și atât de mulţi oameni au murit.
 
 21
-00:03:34,625 --> 00:03:41,917
-caracterul vostru, castitatea, inocenţa, răbdarea.
+00:02:28,941 --> 00:02:32,673
+Au murit foarte mulți tineri, foarte, foarte tineri.
 
 22
-00:03:47,500 --> 00:03:50,834
-Aşadar, acum războiul se poartă la un nivel mai subtil.
+00:02:33,332 --> 00:02:36,953
+Dorinţele lor au rămas neîmplinite,
 
 23
-00:03:52,291 --> 00:03:55,375
-Trebuie să înţelegem acum
+00:02:37,154 --> 00:02:42,050
+iar viaţa
 
 24
-00:03:55,625 --> 00:04:02,625
-că toate aceste lucruri au avut un efect atât de devastator în vest,
+00:02:47,953 --> 00:02:51,899
+nu le-a dăruit nimic altceva în afară de război.
 
 25
-00:04:04,000 --> 00:04:07,750
-asupra personalităţii occidentalilor;
+00:02:57,016 --> 00:03:00,642
+A fost ca un val de caniculă,
 
 26
-00:04:08,709 --> 00:04:18,750
-aşa că primul efort care trebuie făcut este să reparăm acest lucru,
+00:03:02,508 --> 00:03:06,177
+care a distrus tot ce era subtil.
 
 27
-00:04:21,000 --> 00:04:28,458
-să-l îndreptăm, să-l facem să se menţină prin propriile forţe,
+00:03:08,404 --> 00:03:13,215
+Când natura se revoltă
 
 28
-00:04:30,709 --> 00:04:37,125
-pentru că oamenii şi-au pierdut personalitatea, şi-au pierdut tradiţia.
+00:03:13,416 --> 00:03:15,558
+sau este furioasă,
 
 29
-00:04:39,625 --> 00:04:42,542
-Ei nu au avut o bază, n-au avut rădăcini,
+00:03:15,759 --> 00:03:21,140
+ea distruge doar lucrurile grosiere.
 
 30
-00:04:44,125 --> 00:04:49,417
-şi au început să se îndrepte spre orice
+00:03:22,658 --> 00:03:26,365
+Dar când oamenii încep să distrugă,
 
 31
-00:04:49,500 --> 00:04:58,999
-le era oferit drept un soi de experienţă intelectuală.
+00:03:26,566 --> 00:03:30,150
+distrug chiar şi lucrurile subtile,
 
 32
-00:05:04,208 --> 00:05:07,500
-Femeile au devenit foarte independente
+00:03:31,903 --> 00:03:34,243
+cum ar fi: sistemul de valori,
 
 33
-00:05:07,542 --> 00:05:12,917
-şi au crezut că-şi pot rezolva singure problemele,
+00:03:34,444 --> 00:03:36,796
+caracterul, castitatea,
 
 34
-00:05:16,000 --> 00:05:19,709
-iar apoi au crezut că pot deveni ca bărbaţii.
+00:03:36,997 --> 00:03:40,252
+inocenţa, răbdarea.
 
 35
-00:05:20,000 --> 00:05:25,000
-Aici problemele au început într-un fel chiar mai greşit,
+00:03:47,178 --> 00:03:51,357
+Aşadar, în aceste timpuri războiul se poartă la un nivel mai subtil.
 
 36
-00:05:30,333 --> 00:05:32,208
-pentru că femeia este femeie
+00:03:52,880 --> 00:03:55,373
+Trebuie să înţelegem acum
 
 37
-00:05:32,625 --> 00:05:37,083
-plus ceva foarte mic ce se numeşte bărbatul din ea.
+00:03:55,574 --> 00:04:00,145
+că toate aceste lucruri au avut un efect atât de devastator
 
 38
-00:05:38,000 --> 00:05:44,417
-Când femeia încearcă să evite ceea ce este
+00:04:00,888 --> 00:04:02,780
+în Vest,
 
 39
-00:05:44,999 --> 00:05:49,000
-şi dezvoltă ceea ce are foarte puţin,
+00:04:03,846 --> 00:04:07,157
+asupra personalităţii occidentalilor.
 
 40
-00:05:50,417 --> 00:05:54,500
-atunci ea devine ciudată.
+00:04:08,800 --> 00:04:12,844
+Aşadar primul efort
 
 41
-00:05:55,917 --> 00:06:00,000
-Însă ea poate fi posedată de atât de mulţi bărbaţi morţi,
+00:04:13,045 --> 00:04:16,910
+care trebuie făcut
 
 42
-00:06:02,208 --> 00:06:10,125
-căci această dorinţă de a deveni masculină poate atrage mulţi bhoots
+00:04:17,111 --> 00:04:19,336
+este să reparăm,
 
 43
-00:06:10,625 --> 00:06:14,000
-care vor să intre în mintea femeii.
+00:04:21,028 --> 00:04:23,355
+să îndreptăm,
 
 44
-00:06:16,125 --> 00:06:22,625
-Iar atunci când intră, au veşmintele unei femei
+00:04:24,973 --> 00:04:28,741
+să facem ca oamenii să se susţină prin propriile forţe,
 
 45
-00:06:24,959 --> 00:06:27,125
-şi mintea unui diavol,
+00:04:30,562 --> 00:04:33,816
+pentru că ei şi-au pierdut personalitatea,
 
 46
-00:06:30,542 --> 00:06:32,999
-dar femeile nu văd asta,
+00:04:35,779 --> 00:04:38,207
+şi-au pierdut tradiţiile.
 
 47
-00:06:33,750 --> 00:06:36,709
-poate pentru că datorită acestor lucruri demonice
+00:04:39,383 --> 00:04:42,300
+Neavând o fundație, neavând rădăcini,
 
 48
-00:06:36,999 --> 00:06:40,083
-pot avea mult succes în planul lumii materiale.
+00:04:43,970 --> 00:04:46,574
+au început să se îndrepte
 
 49
-00:06:41,417 --> 00:06:46,500
-S-ar putea să fie mai bogate. Poate domină pe toată lumea.
+00:04:48,503 --> 00:04:51,112
+către orice le era prezentat
 
 50
-00:06:48,709 --> 00:06:53,917
-S-ar putea să devină meticuloase precum bărbaţii: absolut - în fond -
+00:04:51,313 --> 00:04:58,511
+ca fiind o experienţă intelectuală.
 
 51
-00:06:56,709 --> 00:07:04,500
-foarte curate şi aranjate, ordonate, lipsite de orice urmă de frumuseţe şi sensibilitate.
+00:05:04,694 --> 00:05:08,291
+Femeile au devenit foarte independente,
 
 52
-00:07:10,125 --> 00:07:20,709
-Apoi, în final, aceste femei devin ca vampirii.
+00:05:08,492 --> 00:05:12,566
+au crezut că-şi pot rezolva singure problemele,
 
 53
-00:07:22,291 --> 00:07:25,333
-Astfel că, deşi războiul s-a încheiat,
+00:05:16,310 --> 00:05:19,203
+că pot deveni ca bărbaţii,
 
 54
-00:07:25,333 --> 00:07:30,417
-el încă mai persistă prin femeile din Germania, cred.
+00:05:20,759 --> 00:05:24,954
+iar lucrurile s-au agravat și mai mult.
 
 55
-00:07:36,000 --> 00:07:38,709
-Am auzit că acest atac a mai avut loc şi înainte;
+00:05:29,893 --> 00:05:32,921
+Asta pentru că femeia este femeie
 
 56
-00:07:39,750 --> 00:07:43,999
-erau femei numite amazoane.
+00:05:33,122 --> 00:05:37,347
+având doar o minusculă latură masculină.
 
 57
-00:07:48,917 --> 00:07:52,208
-Acum istoria se repetă.
+00:05:37,869 --> 00:05:40,800
+Iar când ea încearcă
 
 58
-00:07:54,208 --> 00:07:57,333
-Zilele trecute am discutat cu o doamnă germană
+00:05:42,342 --> 00:05:44,637
+să evite ceea ce este cu adevărat
 
 59
-00:07:58,750 --> 00:08:02,417
-şi am fost surprinsă de atitudinea ei,
+00:05:44,838 --> 00:05:48,695
+şi dezvoltă această minusculă latură masculină din ea,
 
 60
-00:08:02,999 --> 00:08:08,000
-pentru că am avut sentimentul că în ea se mai află un nazist, un bhoot nazist stă acolo.
+00:05:50,604 --> 00:05:53,948
+atunci devine ciudată.
 
 61
-00:08:08,834 --> 00:08:11,917
-Ea avea o personalitate duală: pe de o parte vorbea foarte frumos,
+00:05:56,302 --> 00:06:00,385
+Poate fi posedată de mulţi bărbaţi morţi,
 
 62
-00:08:11,959 --> 00:08:15,000
-iar pe de altă parte era asemenea unui nazist
+00:06:01,839 --> 00:06:04,121
+pentru că dorinţa ei,
 
 63
-00:08:19,000 --> 00:08:21,000
-şi a unui fascist.
+00:06:04,322 --> 00:06:06,672
+de a deveni asemeni unui bărbat,
 
 64
-00:08:21,083 --> 00:08:29,709
-Astfel de oameni găsesc toate argumentele cu multă viclenie.
+00:06:06,873 --> 00:06:10,002
+poate atrage mulţi bhoots
 
 65
-00:08:31,417 --> 00:08:34,709
-Primul lucru pe care îl fac este să spună:
+00:06:10,203 --> 00:06:12,949
+care vor să intre în mintea ei.
 
 66
-00:08:37,750 --> 00:08:42,125
-„Noi suntem de partea celor călcaţi în picioare, precum indienii.
+00:06:16,217 --> 00:06:18,981
+Iar atunci când intră în mintea ei,
 
 67
-00:08:43,291 --> 00:08:44,959
-Indienii sunt arieni, şi suntem şi noi arieni
+00:06:20,529 --> 00:06:23,759
+ei au înfățișarea unei femei
 
 68
-00:08:46,959 --> 00:08:54,709
-şi ne plac arienii.”
+00:06:24,551 --> 00:06:27,164
+şi mintea unui diavol.
 
 69
-00:08:57,542 --> 00:08:59,417
-Indienii sunt un popor foarte spiritual,
+00:06:30,443 --> 00:06:33,302
+Iar femeile nu pot vedea asta,
 
 70
-00:09:00,000 --> 00:09:05,625
-iar ei simt că sunt la fel ca indienii... tot felul de lucruri, puteţi crede toate astea?
+00:06:33,503 --> 00:06:36,707
+poate pentru că aceste lucruri demonice
 
 71
-00:09:08,500 --> 00:09:13,417
-Lucrul cel mai important este acela că ar trebui să fie îmbunătăţită calitatea vieţii.
+00:06:36,908 --> 00:06:40,031
+le pot face să aibă succes în plan lumesc.
 
 72
-00:09:15,500 --> 00:09:20,834
-Calitatea bărbaţilor este diferită de cea a femeilor,
+00:06:41,581 --> 00:06:44,168
+S-ar putea să aibă mai mulți bani,
 
 73
-00:09:20,999 --> 00:09:23,083
-v-am spus de multe ori,
+00:06:44,369 --> 00:06:47,387
+să domine pe toată lumea,
 
 74
-00:09:24,709 --> 00:09:29,709
-iar dacă femeile încearcă să devină masculine,
+00:06:48,252 --> 00:06:54,705
+să devină absolut meticuloase asemeni bărbaţilor,
 
 75
-00:09:30,917 --> 00:09:33,750
-nu vor realiza nimic bun.
+00:06:56,587 --> 00:06:59,802
+foarte curate, îngrijite, ordonate,
 
 76
-00:09:33,999 --> 00:09:36,000
-Am avut multe astfel de cazuri,
+00:07:01,329 --> 00:07:05,247
+lipsite de orice urmă de frumuseţe şi dulceață.
 
 77
-00:09:36,417 --> 00:09:40,000
-cum a fost soţia lui Mao,
+00:07:09,812 --> 00:07:16,184
+În cele din urmă, aceste femei
 
 78
-00:09:41,917 --> 00:09:45,000
-cea a doamnei Chanka Sheik.
+00:07:18,124 --> 00:07:20,734
+devin ca niște vampiri.
 
 79
-00:09:45,542 --> 00:09:49,834
-Acum - această doamnă Carlos.
+00:07:22,927 --> 00:07:25,753
+Deci deşi la oficial războiul s-a încheiat,
 
 80
-00:09:49,917 --> 00:09:53,542
-Carlos o cheamă? Marcos, Marcos.
+00:07:25,954 --> 00:07:30,355
+el se manifestă încă prin femeile din Germania, cred.
 
 81
-00:09:54,709 --> 00:09:56,834
-Atâtea astfel de femei
+00:07:35,695 --> 00:07:39,204
+Am auzit că acest atac a avut loc şi înainte,
 
 82
-00:09:58,291 --> 00:10:02,125
-care încurcă întotdeauna lucrurile, atunci când încearcă să fie ca bărbaţii!
+00:07:39,405 --> 00:07:42,667
+că au existat femei numite „amazoane”.
 
 83
-00:10:04,500 --> 00:10:06,999
-De-a lungul istoriei am avut multe femei adevărate.
+00:07:48,533 --> 00:07:51,824
+Acum istoria se repetă.
 
 84
-00:10:07,417 --> 00:10:11,625
-În India femeile sunt înzestrate cu foarte multe calităţi.
+00:07:53,998 --> 00:07:58,689
+Zilele trecute am avut un interviu cu o doamnă din Germania
 
 85
-00:10:11,667 --> 00:10:14,125
-Am avut femei precum Jhansi ki Rani,
+00:07:58,890 --> 00:08:02,557
+şi am fost surprinsă de atitudinea ei,
 
 86
-00:10:14,208 --> 00:10:18,291
-care a luptat împotriva britanicilor. Era văduvă.
+00:08:02,758 --> 00:08:04,859
+pentru că am simțit că este încă nazistă,
 
 87
-00:10:18,333 --> 00:10:24,750
-Şi-a legat copilul pe spate şi a luptat cu englezii.
+00:08:05,060 --> 00:08:08,614
+că un bhoot nazist se afla în interiorul ei.
 
 88
-00:10:27,000 --> 00:10:33,333
-Se spune că a sărit cu calul de la o înălţime de 180 de picioare,
+00:08:08,815 --> 00:08:11,651
+Avea o dublă personalitate: pe de o parte vorbea frumos,
 
 89
-00:10:33,999 --> 00:10:37,000
-de pe turnul unui fort,
+00:08:11,852 --> 00:08:15,240
+iar pe de altă parte era nazistă
 
 90
-00:10:38,625 --> 00:10:40,959
-iar englezii au lăsat scris că,
+00:08:19,207 --> 00:08:21,617
+și fascistă.
 
 91
-00:10:41,000 --> 00:10:45,417
-deşi au învins-o pe Jhansi şi victoria este a lor,
+00:08:21,818 --> 00:08:24,602
+Astfel de femei, în mod viclean,
 
 92
-00:10:45,500 --> 00:10:48,709
-gloria îi revine lui Jhansi Ki Rani.
+00:08:26,212 --> 00:08:29,688
+au tot felul de argumente.
 
 93
-00:10:48,999 --> 00:10:50,750
-În India am avut femei măreţe,
+00:08:32,184 --> 00:08:36,069
+Primul lucru pe care îl pot face este să spună
 
 94
-00:10:50,792 --> 00:10:52,959
-precum Nur Jahan, o altă femeie de o calitate deosebită,
+00:08:37,428 --> 00:08:40,932
+că sunt de partea celor asupriți,
 
 95
-00:10:53,083 --> 00:10:56,000
-am avut-o pe Chand Bibi, Ahalyabai
+00:08:41,133 --> 00:08:42,816
+așa cum sunt indienii.
 
 96
-00:10:56,208 --> 00:11:00,000
-dar ele erau toate femei, nu aveau egoul unui bărbat.
+00:08:43,017 --> 00:08:46,164
+„Indienii sunt arieni ca și noi,
 
 97
-00:11:02,542 --> 00:11:08,834
-Atunci când este nevoie pot munci, pot lucra în birouri alături de bărbaţi,
+00:08:46,632 --> 00:08:49,544
+iar noi suntem
 
 98
-00:11:08,917 --> 00:11:11,750
-dar nu este nevoie să devină bărbaţi.
+00:08:51,438 --> 00:08:55,358
+persoane care simpatizăm cu arienii.”
 
 99
-00:11:11,834 --> 00:11:14,959
-Vă voi da un exemplu personal.
+00:08:57,253 --> 00:09:00,134
+Ei bine, indienii sunt un popor spiritual.
 
 100
-00:11:16,291 --> 00:11:19,500
-A trebuit să construiesc casa noastră din Lucknow
+00:09:00,335 --> 00:09:04,782
+Iar ei cred că sunt, dincolo de orice, asemeni lor, puteţi crede?
 
 101
-00:11:21,917 --> 00:11:27,417
-şi am făcut-o într-un stil specific feminin.
+00:09:09,028 --> 00:09:13,142
+Este important să se îmbunătățească calitatea vieţii.
 
 102
-00:11:27,999 --> 00:11:29,999
-Am construit o casă foarte bună
+00:09:15,393 --> 00:09:18,277
+Calitatea bărbaţilor
 
 103
-00:11:30,000 --> 00:11:37,999
-mai bine decât ar fi putut-o face orice bărbat - la nişte costuri foarte, foarte reduse.
+00:09:18,478 --> 00:09:20,818
+este diferită de cea a femeilor -
 
 104
-00:11:39,542 --> 00:11:43,000
-Un bărbat ar căuta mai întâi de toate un arhitect.
+00:09:21,019 --> 00:09:23,819
+v-am spus asta de multe ori.
 
 105
-00:11:44,291 --> 00:11:46,000
-S-ar duce şi ar face toate măsurătorile,
+00:09:25,307 --> 00:09:30,348
+Iar dacă femeile încearcă să se comporte asemeni bărbaților,
 
 106
-00:11:46,999 --> 00:11:49,999
-apoi ar încerca să planifice totul, dinainte.
+00:09:30,549 --> 00:09:33,810
+nu vor realiza nimic bun.
 
 107
-00:11:50,417 --> 00:11:55,333
-Apoi, în egoul lui, va merge într-un loc foarte scump
+00:09:34,011 --> 00:09:36,345
+Am avut multe astfel de cazuri.
 
 108
-00:11:55,625 --> 00:11:59,000
-să cumpere ceva foarte scump pentru casă şi va fi înşelat.
+00:09:36,546 --> 00:09:39,440
+Spre exemplu soţia lui Mao,
 
 109
-00:12:02,959 --> 00:12:08,208
-Apoi, persistând în acest ego, va merge şi va găsi mână de lucru foarte scumpă,
+00:09:42,558 --> 00:09:45,145
+apoi doamna Chiang Kai-shek.
 
 110
-00:12:09,208 --> 00:12:13,417
-va angaja pe cineva - va conduce totul, totul!
+00:09:46,340 --> 00:09:50,128
+Iar acum această doamnă care a apărut - Carlos.
 
 111
-00:12:16,000 --> 00:12:18,208
-Însă eu am făcut totul într-un mod foarte diferit.
+00:09:50,329 --> 00:09:53,845
+Carlos este numele ei? Marcos, Marcos (n.tr.Imee Marcos).
 
 112
-00:12:20,000 --> 00:12:25,000
-Aveam bani, aşa că am căutat
+00:09:55,221 --> 00:09:57,864
+Există atâtea astfel de femei -
 
 113
-00:12:25,834 --> 00:12:30,250
-meşterii cei mai buni, care aveau cărămizile cele mai bune.
+00:09:58,065 --> 00:10:01,899
+întotdeauna creează haos încercând să fie ca bărbaţii!
 
 114
-00:12:30,999 --> 00:12:34,000
-Casa urma să fie construită din cărămizi.
+00:10:04,194 --> 00:10:07,400
+De-a lungul istoriei am avut multe femei adevărate.
 
 115
-00:12:35,417 --> 00:12:37,959
-Apoi - de ce mai era nevoie?
+00:10:07,601 --> 00:10:11,398
+În India femeile sunt înzestrate cu foarte multe calităţi.
 
 116
-00:12:37,999 --> 00:12:41,834
-Aşa cum găteşte o femeie, vedeţi?
+00:10:11,599 --> 00:10:14,366
+Am avut femei precum Jhansi ki Rani,
 
 117
-00:12:42,500 --> 00:12:44,834
-Apoi mai este nevoie de nisip – în regulă,
+00:10:14,567 --> 00:10:16,640
+care a luptat împotriva britanicilor.
 
 118
-00:12:45,834 --> 00:12:52,959
-de ciment, bare de fier şi mână de lucru.
+00:10:16,841 --> 00:10:18,298
+Era văduvă.
 
 119
-00:12:54,709 --> 00:12:58,000
-Eu nu am procedat ca bărbaţii, care se agită atâta.
+00:10:18,499 --> 00:10:21,060
+Şi-a legat copilul la spate
 
 120
-00:13:00,083 --> 00:13:06,999
-L-am găsit pe cel care vindea cele mai bune cărămizi.
+00:10:21,261 --> 00:10:24,155
+şi a luptat cu englezii.
 
 121
-00:13:09,917 --> 00:13:13,542
-El a spus: „Nu am bani, şi trebuie să ridic cuptoarele,
+00:10:27,298 --> 00:10:32,999
+Se spune că a sărit cu calul de la peste 50 m înălțime,
 
 122
-00:13:13,999 --> 00:13:16,250
-să le umplu cu cărămizi,
+00:10:34,139 --> 00:10:37,249
+din turnul unui fort,
 
 123
-00:13:16,333 --> 00:13:20,834
-şi asta cere nişte bani ca să mă apuc.”
+00:10:38,336 --> 00:10:40,358
+iar englezii au lăsat scris:
 
 124
-00:13:21,709 --> 00:13:25,500
-I-am spus: „Bine, o să cumpăr un cuptor întreg de la tine, un cuptor
+00:10:40,559 --> 00:10:42,955
+„Am învins-o pe Jhansi,
 
 125
-00:13:27,083 --> 00:13:29,083
-cât mă costă?”
+00:10:44,038 --> 00:10:45,471
+victoria ne aparține,
 
 126
-00:13:29,417 --> 00:13:31,125
-El a răspuns: „Cinci mii de rupii e destul.
+00:10:45,672 --> 00:10:48,731
+însă gloria îi revine lui Jhansi Ki Rani”.
 
 127
-00:13:32,000 --> 00:13:34,625
-Dar - a spus - dacă se dărâmă
+00:10:48,932 --> 00:10:50,793
+Am avut femei măreţe în India,
 
 128
-00:13:34,834 --> 00:13:37,333
-sau ceva e în neregulă, dacă nu se aprinde
+00:10:50,994 --> 00:10:53,449
+așa cum a fost Nur Jahan, o altă femeie deosebită,
 
 129
-00:13:37,417 --> 00:13:39,625
-este responsabilitatea Dumneavoastră.” Eu am spus: „Nu contează,
+00:10:53,650 --> 00:10:55,706
+am avut-o pe Chand Bibi, Ahilyabai,
 
 130
-00:13:40,750 --> 00:13:42,625
-fă un cuptor pentru mine.“
+00:10:55,907 --> 00:10:57,373
+dar erau toate femei.
 
 131
-00:13:42,999 --> 00:13:45,999
-Aşa că am cumpărat un cuptor întreg de la el.
+00:10:57,574 --> 00:11:00,074
+Nu aveau egoul unui bărbat.
 
 132
-00:13:49,333 --> 00:13:54,291
-Cuptorul - cuptorul este acela unde se pun toate cărămizile - înţelegeţi?
+00:11:02,221 --> 00:11:05,498
+Atunci când e nevoie, femeile pot munci,
 
 133
-00:13:54,417 --> 00:13:58,291
-apoi îl acoperă cu nămol şi-i dau foc pe dedesubt.
+00:11:05,699 --> 00:11:08,856
+pot lucra în birouri alături de bărbaţi,
 
 134
-00:13:58,417 --> 00:14:01,834
-Uneori se poate întâmpla ca totul să se fărâmiţeze
+00:11:09,057 --> 00:11:11,890
+dar nu este nevoie să devină ca ei.
 
 135
-00:14:02,834 --> 00:14:05,834
-sau să se prăbuşească.
+00:11:12,091 --> 00:11:15,002
+Vă voi da un exemplu personal.
 
 136
-00:14:05,959 --> 00:14:08,583
-I-am spus: „Bine, fă aşa, cu doar cinci mii de rupii.“
+00:11:16,431 --> 00:11:19,548
+A trebuit să construiesc casa noastră din Lucknow
 
 137
-00:14:11,999 --> 00:14:14,083
-Atunci când se aprindea bine şi mergea totul bine,
+00:11:21,954 --> 00:11:27,254
+dar am făcut-o într-un stil cu adevărat feminin.
 
 138
-00:14:14,208 --> 00:14:17,208
-nu costa mai puţin de cincizeci de mii de rupii.
+00:11:28,463 --> 00:11:30,342
+Și am construit o casă foarte bună,
 
 139
-00:14:20,000 --> 00:14:25,041
-Apoi am mers la râu şi am întrebat
+00:11:30,543 --> 00:11:32,967
+mai bună decât ar fi putut-o face orice bărbat,
 
 140
-00:14:25,208 --> 00:14:31,000
-cât costă o „parte” - cum spun ei - o cantitate mare de nisip.
+00:11:33,168 --> 00:11:37,494
+la nişte costuri foarte, foarte reduse.
 
 141
-00:14:31,959 --> 00:14:37,542
-Mi-au spus: „Acum, că e vară, costă foarte puţin,
+00:11:39,260 --> 00:11:43,031
+Un bărbat ar căuta mai întâi un arhitect.
 
 142
-00:14:37,999 --> 00:14:40,999
-dar pe timpul iernii preţul este foarte ridicat.”
+00:11:44,128 --> 00:11:46,396
+S-ar duce să facă toate măsurătorile
 
 143
-00:14:41,542 --> 00:14:45,917
-Un om a venit şi a spus: „Acum aveţi nevoie de atât. Vi-l aducem.
+00:11:46,597 --> 00:11:50,173
+și ar încerca înainte de toate să vadă dacă îi încape totul.
 
 144
-00:14:45,999 --> 00:14:48,417
-Pe urmă, dacă aveţi nevoie de mai mult, vă mai aducem.”
+00:11:50,374 --> 00:11:54,814
+Apoi, în egoul lui, ar merge într-un loc foarte scump,
 
 145
-00:14:48,500 --> 00:14:52,291
-Dar eu n-am fost de acord. Am spus:
+00:11:55,015 --> 00:11:58,454
+să cumpere ceva foarte costisitor şi să fie înşelat.
 
 146
-00:14:52,333 --> 00:14:54,625
-„Dacă vara e atât de ieftin, de ce să nu-l cumpăr pe tot acum?”
+00:12:03,051 --> 00:12:04,419
+Apoi, persistând în ego,
 
 147
-00:14:54,709 --> 00:14:59,999
-Şi aşa am cumpărat toată „partea”, toată cantitatea de nisip.
+00:12:04,620 --> 00:12:08,659
+va merge şi va găsi mână de lucru foarte scumpă,
 
 148
-00:15:02,125 --> 00:15:05,542
-Apoi am mers la negustorii de fier
+00:12:08,860 --> 00:12:10,348
+va angaja pe cineva,
 
 149
-00:15:05,625 --> 00:15:07,709
-şi i-am întrebat de preţ.
+00:12:10,549 --> 00:12:13,782
+va conduce totul, va dirija!
 
 150
-00:15:07,999 --> 00:15:10,417
-Ei au spus: „Trebuie să faceţi comandă;
+00:12:15,813 --> 00:12:19,392
+Însă Eu am procedat într-un mod complet diferit.
 
 151
-00:15:10,999 --> 00:15:15,999
-dar dacă o să comandaţi en gros, vi-l dăm mult mai ieftin;
+00:12:20,543 --> 00:12:22,977
+Aveam bani,
 
 152
-00:15:16,750 --> 00:15:19,083
-dacă plătiţi cu bani lichizi, vă costă atât.“ Am spus: „În regulă,
+00:12:23,178 --> 00:12:25,598
+aşa că am căutat
 
 153
-00:15:19,125 --> 00:15:24,125
-voi face comanda.” Aşa că totul a fost gata. La fel procedăm şi atunci când gătim:
+00:12:25,798 --> 00:12:28,071
+meşterii cei mai buni,
 
 154
-00:15:24,208 --> 00:15:27,000
-pregătim totul – totul la îndemână.
+00:12:28,272 --> 00:12:30,895
+cărămizile cele mai bune.
 
 155
-00:15:27,083 --> 00:15:29,542
-Apoi aveam nevoie de lemn,
+00:12:31,757 --> 00:12:35,475
+Casa urma să fie construită din cărămizi.
 
 156
-00:15:29,625 --> 00:15:31,500
-iar ei au spus: „Lemnul va veni din Nepal.“
+00:12:35,854 --> 00:12:37,981
+Apoi M-am gândit de ce alte lucruri mai era nevoie.
 
 157
-00:15:31,625 --> 00:15:35,500
-Am spus: „În regulă, ce mai trebuie?”
+00:12:38,182 --> 00:12:41,246
+Exact așa cum ar găti o femeie, vedeţi?
 
 158
-00:15:35,625 --> 00:15:37,834
-Şi ei au spus: „Dar lemnul poate fi adus din orice altă pădure!”
+00:12:42,123 --> 00:12:45,232
+Era nevoie și de nisip,
 
 159
-00:15:37,999 --> 00:15:45,750
-Am mers deci într-o pădure numită Jabalpur, situată în centrul Indiei.
+00:12:45,433 --> 00:12:47,186
+de ciment,
 
 160
-00:15:45,834 --> 00:15:48,834
-Acolo am comandat lemn.
+00:12:47,387 --> 00:12:50,625
+bare de fier
 
 161
-00:15:48,999 --> 00:15:52,417
-Întreaga pădure fusese tăiată de curând
+00:12:50,826 --> 00:12:53,140
+şi bineînțeles mână de lucru.
 
 162
-00:15:52,917 --> 00:15:57,291
-şi era oferită la licitaţie. Am cumpărat mult lemn de acolo.
+00:12:54,849 --> 00:12:57,745
+Deci nu am procedat ca bărbaţii.
 
 163
-00:15:58,291 --> 00:16:03,000
-L-am cumpărat pe tot de acolo, şi am mai luat şi marmură, tot de acolo.
+00:13:00,040 --> 00:13:06,686
+Am găsit persoana care vindea cele mai bune cărămizi.
 
 164
-00:16:03,125 --> 00:16:06,500
-Această marmură nu mai fusese folosită niciodată înainte.
+00:13:09,426 --> 00:13:14,045
+Mi-a spus: „Nu am bani, trebuie să pornesc cuptoarele
 
 165
-00:16:08,125 --> 00:16:12,333
-Am spus: „E foarte simplu, pot folosi această marmură pentru tot.”
+00:13:14,246 --> 00:13:16,144
+să le umplu cu cărămizi,
 
 166
-00:16:12,417 --> 00:16:17,834
-Astfel că am luat şi marmură şi lemn din acel loc.
+00:13:16,345 --> 00:13:20,377
+şi pentru asta sunt necesari niște bani la început.”
 
 167
-00:16:19,083 --> 00:16:24,625
-Apoi – mâna de lucru. I-am întrebat pe prietenii mei
+00:13:21,364 --> 00:13:25,585
+I-am spus: „Bine, voi cumpăra un cuptor întreg de la tine.
 
 168
-00:16:24,709 --> 00:16:30,750
-dacă ştiau nişte zidari buni.
+00:13:26,833 --> 00:13:28,771
+Cât costă?”
 
 169
-00:16:30,834 --> 00:16:33,500
-Ei au spus: „Da, acesta este bun, este bun şi celălalt.”
+00:13:28,979 --> 00:13:31,475
+„Cinci mii de rupii sunt suficienți” – Mi-a răspuns el.
 
 170
-00:16:33,583 --> 00:16:36,625
-I-am chemat pe toţi şi le-am spus: „Puteţi locui cu mine în această casă,
+00:13:31,676 --> 00:13:34,558
+„Dar dacă cuptorul cedează
 
 171
-00:16:36,667 --> 00:16:40,000
-iar eu o să am grijă de voi,
+00:13:34,759 --> 00:13:37,212
+sau dacă sunt probleme, dacă dă rateuri,
 
 172
-00:16:40,083 --> 00:16:42,417
-o să vă hrănesc foarte bine.”
+00:13:37,413 --> 00:13:40,316
+este responsabilitatea Dvs.”. „Nu contează” - am zis.
 
 173
-00:16:42,959 --> 00:16:46,500
-Ei s-au stabilit acolo cu familiile lor,
+00:13:40,517 --> 00:13:42,501
+„Fă un cuptor de cărămizi pentru mine.”
 
 174
-00:16:47,000 --> 00:16:50,000
-iar eu găteam pentru ei.
+00:13:42,702 --> 00:13:46,392
+Aşa că am cumpărat un cuptor întreg de la el, complet.
 
 175
-00:16:50,542 --> 00:16:55,959
-Prin mâncare le-am câştigat admiraţia şi erau în stare să facă orice pentru mine,
+00:13:48,814 --> 00:13:53,772
+Cuptorul este locul unde se pun toate cărămizile,
 
 176
-00:16:58,542 --> 00:17:02,417
-orice. Erau foarte amabili cu mine.
+00:13:53,973 --> 00:13:58,356
+care se acoperă apoi cu pământ şi se ard dându-se foc la bază.
 
 177
-00:17:02,500 --> 00:17:07,667
-Foloseau la construcţie tehnici noi pe care le cunoşteau.
+00:13:58,557 --> 00:14:02,273
+Uneori se poate întâmpla ca toate să se strice,
 
 178
-00:17:07,999 --> 00:17:14,291
-Din ciment produceau un efect de marmură
+00:14:02,474 --> 00:14:04,595
+să crape.
 
 179
-00:17:15,291 --> 00:17:19,417
-tot meşteşugul lor era vădit acolo.
+00:14:06,051 --> 00:14:09,979
+I-am spus: „Fă așa cum îți spun”. Doar cinci mii de rupii.
 
 180
-00:17:21,000 --> 00:17:25,458
-O casă atât de mare, cu douăzeci de dormitoare şi cinci sufragerii
+00:14:11,567 --> 00:14:14,234
+Dacă cuptorul era pornit,
 
 181
-00:17:25,999 --> 00:17:29,417
-a fost creată în decursul unui singur an.
+00:14:14,435 --> 00:14:18,427
+totul nu ar fi costat mai puțin de cincizeci de mii de rupii.
 
 182
-00:17:30,500 --> 00:17:34,750
-Şi nu numai atât - nimeni n-ar crede -
+00:14:19,687 --> 00:14:24,010
+Apoi am mers la râu
 
 183
-00:17:35,999 --> 00:17:40,792
-dar preţul casei era de zece ori mai mic decât acela pe care l-ar fi cerut arhitectul.
+00:14:24,211 --> 00:14:31,163
+şi am întrebat cât costă o porțiune mare de nisip.
 
 184
-00:17:43,000 --> 00:17:45,500
-Însă totul fusese calculat atât de bine, totul fusese lucrat atât de bine.
+00:14:31,638 --> 00:14:36,231
+Mi-au spus: „Acum, vara,
 
 185
-00:17:45,542 --> 00:17:48,333
-Eu nu ştiu să ţin socoteli,
+00:14:36,432 --> 00:14:37,795
+costă foarte puţin,
 
 186
-00:17:49,000 --> 00:17:53,500
-dar obişnuiam să spun: „Astăzi am luat atâţia bani,
+00:14:37,996 --> 00:14:41,258
+dar pe timpul iernii preţul este foarte ridicat”.
 
 187
-00:17:54,417 --> 00:17:58,000
-am cheltuit atât.” Am scris aşa în fiecare zi
+00:14:41,459 --> 00:14:42,654
+Un bărbat ar spune:
 
 188
-00:17:59,000 --> 00:18:02,999
-şi astfel nu s-a pierdut nicio rupie.
+00:14:42,855 --> 00:14:45,834
+„Aduceți doar cantitatea de care aveți nevoie acum.
 
 189
-00:18:03,999 --> 00:18:07,125
-Deci nimeni nu m-a putut trage la răspundere. Nu a fost nicio problemă,
+00:14:46,035 --> 00:14:48,830
+Restul aduceți mai târziu, când veți avea nevoie”.
 
 190
-00:18:07,208 --> 00:18:10,291
-spre deosebire de toţi aceşti oficiali care şi-au construit case
+00:14:49,031 --> 00:14:50,242
+Dar Eu n-am făcut așa.
 
 191
-00:18:10,375 --> 00:18:12,500
-şi care au fost nevoiţi să înfrunte atâtea greutăţi,
+00:14:50,443 --> 00:14:52,932
+Am spus: „Dacă vara e atât de ieftin,
 
 192
-00:18:12,625 --> 00:18:16,625
-au plătit taxe pe venit, însă mie nu mi s-a întâmplat nimic, n-am avut nicio problemă
+00:14:53,133 --> 00:14:55,025
+de ce să nu-l cumpărăm pe tot acum?”
 
 193
-00:18:17,959 --> 00:18:21,417
-şi am construit o casă atât de mare cu bani atât de puţini
+00:14:55,226 --> 00:15:00,139
+Aşa că am cumpărat toată acea porțiune de nisip.
 
 194
-00:18:21,542 --> 00:18:23,542
-– şi ce casă! - oamenii spun
+00:15:02,793 --> 00:15:05,835
+Apoi am mers la fierari
 
 195
-00:18:23,625 --> 00:18:27,000
-că mai degrabă s-ar prăbuşi Taj Mahal, dar această casă va rezista.
+00:15:06,036 --> 00:15:07,893
+şi i-am întrebat cum să procedez.
 
 196
-00:18:28,417 --> 00:18:30,709
-Pentru că am făcut o fundaţie trainică,
+00:15:08,094 --> 00:15:10,968
+Mi-au spus: „Trebuie să faceţi comandă;
 
 197
-00:18:30,750 --> 00:18:32,875
-pentru că am avut cărămizi atât de ieftine.
+00:15:11,169 --> 00:15:13,496
+dar dacă comandaţi en-gros,
 
 198
-00:18:33,000 --> 00:18:37,166
-Am cumpărat întreg cuptorul la un preţ foarte mic
+00:15:13,697 --> 00:15:15,782
+vi-l dăm mult mai ieftin.
 
 199
-00:18:37,291 --> 00:18:40,999
-şi apoi am vândut jumătate, pentru că a rămas atât de mult.
+00:15:16,437 --> 00:15:19,260
+Și dacă plătiţi cu bani lichizi, vi-l dăm cu atât” „Bine” – am zis.
 
 200
-00:18:42,834 --> 00:18:45,208
-Apoi, din tot ceea ce cumpărasem – din nisipul pe care îl cumpărasem
+00:15:19,461 --> 00:15:21,293
+Așa că l-am comandat.
 
 201
-00:18:45,291 --> 00:18:47,999
-jumătate am vândut, pentru că nu-mi mai trebuia
+00:15:21,494 --> 00:15:22,849
+Deci totul a fost pregătit,
 
 202
-00:18:48,000 --> 00:18:51,834
-l-am vândut la preţ dublu. Practic, nisipul l-am primit gratis.
+00:15:23,050 --> 00:15:27,148
+exact ca atunci când gătesc, pregătind totul dinainte.
 
 203
-00:18:54,208 --> 00:18:56,250
-Lemnul pe care l-am adus de acolo,
+00:15:27,725 --> 00:15:29,439
+Apoi aveam nevoie de lemn,
 
 204
-00:18:56,333 --> 00:18:59,125
-am pus să-l taie
+00:15:29,640 --> 00:15:31,457
+și Mi s-a spus că lemnul va veni din Nepal.
 
 205
-00:18:59,375 --> 00:19:01,333
-şi l-am depozitat într-un mic depozit ce-l aveam,
+00:15:31,658 --> 00:15:34,343
+Am spus: „Bine.
 
 206
-00:19:01,417 --> 00:19:08,625
-deci se poate spune că a fost ferit foarte bine de intemperii.
+00:15:34,543 --> 00:15:35,856
+De unde îl mai putem lua?”
 
 207
-00:19:08,999 --> 00:19:14,625
-Când am avut nevoie l-am scos şi am folosit doar jumătate, doar jumătate,
+00:15:36,057 --> 00:15:38,430
+„Din orice altă pădure!” – Mi-au răspuns.
 
 208
-00:19:14,999 --> 00:19:20,000
-pentru o sută de ferestre şi şaizeci de uşi - restul l-am vândut.
+00:15:38,631 --> 00:15:40,467
+Am mers deci într-o pădure,
 
 209
-00:19:20,083 --> 00:19:24,834
-Chiar şi surcelele au fost vândute,
+00:15:40,668 --> 00:15:42,961
+situată în centrul Indiei,
 
 210
-00:19:24,917 --> 00:19:27,999
-pentru foc, ce ziceţi de asta?
+00:15:44,954 --> 00:15:46,260
+numită Jabalpur,
 
 211
-00:19:28,417 --> 00:19:30,792
-Aşadar, imaginaţi-vă, o parte a fost vândută drept cherestea
+00:15:46,461 --> 00:15:49,206
+și am comandat lemnul acolo.
 
 212
-00:19:30,999 --> 00:19:33,083
-şi cealaltă pentru barăci.
+00:15:49,407 --> 00:15:53,030
+Tot lemnul fusese tăiat de curând
 
 213
-00:19:35,500 --> 00:19:37,834
-Dar eu a trebuit să gătesc pentru ei,
+00:15:53,231 --> 00:15:56,963
+și am cumpărat o cantitate mare la licitație.
 
 214
-00:19:37,999 --> 00:19:40,208
-să am grijă de ei.
+00:15:58,217 --> 00:15:59,763
+Am obținut tot lemnul de acolo.
 
 215
-00:19:40,417 --> 00:19:45,834
-Le-am adus nişte pături foarte bune, paturi foarte bune unde să se odihnească,
+00:15:59,964 --> 00:16:02,822
+Mai mult decât atât, am cumpărat şi marmură tot de acolo.
 
 216
-00:19:45,999 --> 00:19:47,999
-iar ei au fost foarte fericiţi cu toţii.
+00:16:03,023 --> 00:16:07,030
+Tipul acela de marmură nu mai fusese folosită niciodată.
 
 217
-00:19:48,542 --> 00:19:52,000
-Aşa procedează o femeie - şi toată lumea a fost uimită,
+00:16:07,792 --> 00:16:09,750
+Am spus: „E foarte simplu.
 
 218
-00:19:52,083 --> 00:19:54,959
-pentru că nu mi-au găsit nicio greşeală în socoteli,
+00:16:09,950 --> 00:16:12,862
+Pot folosi această marmură pentru absolut tot”.
 
 219
-00:19:54,999 --> 00:19:57,000
-nu au găsit nicio greşeală în nimic,
+00:16:13,063 --> 00:16:17,646
+Așa că am luat marmură şi lemn din acel loc.
 
 220
-00:19:57,083 --> 00:20:01,959
-iar eu le-am spus tuturor prietenilor soţului meu să mă ocolească cinci mile când mă văd.
+00:16:19,223 --> 00:16:21,040
+Apoi – mâna de lucru.
 
 221
-00:20:06,500 --> 00:20:08,709
-Pentru că el lucra cu primul ministru,
+00:16:21,241 --> 00:16:24,765
+Mi-am întrebat prietenii
 
 222
-00:20:09,542 --> 00:20:13,667
-iar oamenii ar fi spus: „Sigur că da, primeşte mită şi face tot felul de lucruri.”
+00:16:24,966 --> 00:16:30,999
+dacă ştiau nişte zidari buni,
 
 223
-00:20:13,999 --> 00:20:17,000
-Apoi mai era o problemă:
+00:16:31,200 --> 00:16:33,653
+iar ei M-au informat de toți cei pe care îi cunoșteau.
 
 224
-00:20:17,083 --> 00:20:21,125
-ar fi putut veni să-mi spună că: „Asta nu e bine, aia nu e bine.”
+00:16:33,854 --> 00:16:36,915
+I-am chemat pe toţi şi le-am spus: „Puteţi locui cu Mine în casă.
 
 225
-00:20:21,166 --> 00:20:25,999
-Dar eu i-am ţinut la distanţă, pentru că ei doar se ceartă, bărbaţii ştiu doar să se certe
+00:16:37,116 --> 00:16:39,891
+Vă voi hrăni foarte bine
 
 226
-00:20:27,500 --> 00:20:29,417
-femeile vin cu rezultate!
+00:16:40,092 --> 00:16:42,401
+și voi avea foarte multă grijă de voi.”
 
 227
-00:20:33,000 --> 00:20:36,250
-Fără prelegeri, fără nimic - am spus că nu va fi nimic de acest fel.
+00:16:42,602 --> 00:16:46,079
+Așa că au venit împreună cu familiile lor,
 
 228
-00:20:36,333 --> 00:20:38,417
-Lăsaţi-mă să-mi fac singură treaba!
+00:16:47,802 --> 00:16:50,207
+iar Eu obișnuiam să le gătesc.
 
 229
-00:20:38,500 --> 00:20:43,709
-Şi am construit casa foarte bine, cu ajutorul acestor oameni,
+00:16:50,408 --> 00:16:53,212
+Pregătindu-le mâncare gustoasă i-am făcut să Mă îndrăgească.
 
 230
-00:20:43,750 --> 00:20:48,917
-o casă frumoasă, pe care cred că au filmat-o,
+00:16:53,413 --> 00:16:56,342
+Ar fi făcut orice pentru Mine,
 
 231
-00:20:49,625 --> 00:20:53,208
-iar voi veţi vedea, probabil, casa pe care am construit-o acolo.
+00:16:58,825 --> 00:17:00,501
+absolut orice.
 
 232
-00:20:56,125 --> 00:20:59,583
-Astfel că femeia, care este o sahaja yoghină,
+00:17:00,702 --> 00:17:02,338
+Erau foarte amabili cu Mine.
 
 233
-00:20:59,625 --> 00:21:02,583
-trebuie să-şi dezvolte aceste calităţi speciale;
+00:17:02,539 --> 00:17:07,611
+Foloseau în construcţie tehnici noi, pe care le cunoşteau.
 
 234
-00:21:02,834 --> 00:21:05,917
-pentru că are intuiţie, femeia are o intuiţie foarte bună.
+00:17:07,811 --> 00:17:14,165
+Cimentului îi dădeau un aspect de marmură.
 
 235
-00:21:05,959 --> 00:21:09,291
-Ea ajunge întotdeauna pe loc la concluzia corectă,
+00:17:14,946 --> 00:17:19,072
+Au pus practic toată măiestria lor în acea casă.
 
 236
-00:21:09,333 --> 00:21:14,333
-dacă este femeie. Dar dacă este pe jumătate bărbat şi doar puţin femeie,
+00:17:21,171 --> 00:17:25,743
+O casă atât de mare, cu douăzeci de dormitoare şi cinci sufragerii
 
 237
-00:21:14,417 --> 00:21:17,999
-atunci nu ştiu ce fel de creatură este.
+00:17:26,456 --> 00:17:29,874
+a fost ridicată în decursul unui singur an.
 
 238
-00:21:19,500 --> 00:21:22,959
-Deci femeia ar trebui să încerce să fie femeie, ea este atât de puternică.
+00:17:30,877 --> 00:17:35,532
+Şi nu numai atât - nimeni n-ar crede - dar prețul casei
 
 239
-00:21:23,000 --> 00:21:26,709
-Ea este puternică asemenea Mamei Pământ care poate îndura orice
+00:17:35,733 --> 00:17:37,371
+a fost de zece ori mai mic
 
 240
-00:21:27,542 --> 00:21:33,083
-şi poate dărui ce e mai bun,
+00:17:37,572 --> 00:17:40,783
+decât cel pe care l-ar fi cerut un arhitect.
 
 241
-00:21:34,000 --> 00:21:43,000
-prin sacrificiul extrem, prin generozitate, toleranţă, blândeţe, iubire, iertare.
+00:17:42,685 --> 00:17:45,543
+Însă totul a fost atât de bine pus pe hârtie, atât de bine făcut.
 
 242
-00:21:43,959 --> 00:21:49,000
-Atunci când bărbaţii dezvoltă calităţile unei femei, ei devin sfinţi.
+00:17:45,744 --> 00:17:48,385
+Asta pentru că Eu nu ştiu să ţin contabilitate,
 
 243
-00:21:52,000 --> 00:21:57,959
-Dar asta nu înseamnă că încep să alerge după femei,
+00:17:48,586 --> 00:17:53,982
+așa că în fiecare zi scoteam o sumă de bani
 
 244
-00:21:58,333 --> 00:22:00,709
-nu e vorba de acest gen de nonsens, nu asta vreau să spun.
+00:17:54,183 --> 00:17:55,937
+și îmi notam cât am cheltuit.
 
 245
-00:22:00,750 --> 00:22:03,542
-Ei trebuie să fie viras, trebuie să fie cavaleri,
+00:17:56,138 --> 00:17:58,607
+Am notat deci cheltuielile din fiecare zi
 
 246
-00:22:03,625 --> 00:22:07,000
-trebuie să fie curajoşi.
+00:17:58,808 --> 00:18:03,348
+până la ultima centimă.
 
 247
-00:22:07,083 --> 00:22:14,999
-Dar prin asta trebuie să dezvolte compasiunea, iertarea.
+00:18:03,885 --> 00:18:06,014
+Deci nimeni nu M-a putut urmări în justiție,
 
 248
-00:22:19,834 --> 00:22:22,917
-Dar cred că în Germania este exact pe dos,
+00:18:06,215 --> 00:18:07,339
+nu au fost probleme,
 
 249
-00:22:22,999 --> 00:22:25,500
-şi observ că şi printre sahaja yoghinii din vest
+00:18:07,540 --> 00:18:10,538
+spre deosebire de toţi ceilalți oficiali care şi-au construit case
 
 250
-00:22:25,583 --> 00:22:27,834
-este un lucru foarte obişnuit.
+00:18:10,739 --> 00:18:12,776
+şi s-au confruntat cu atâtea probleme,
 
 251
-00:22:27,917 --> 00:22:31,333
-Femeile dezvoltă un ego oribil.
+00:18:12,977 --> 00:18:14,594
+au plătit taxe pe venit.
 
 252
-00:22:33,625 --> 00:22:38,125
-În India femeile muncesc, ele fac toată treaba.
+00:18:14,795 --> 00:18:17,437
+Mie nu mi s-a întâmplat nimic din toate astea.
 
 253
-00:22:39,542 --> 00:22:44,208
-Din vechime noi am avut oratori foarte buni, renumiţi,
+00:18:17,638 --> 00:18:21,330
+Am construit o casă atât de mare cu atât de puţini bani.
 
 254
-00:22:45,417 --> 00:22:50,917
-dar ei nu aveau ego. Mama era licenţiată cu distincţie,
+00:18:21,531 --> 00:18:23,840
+Și este atât de solidă, încât oamenii îmi spun
 
 255
-00:22:51,000 --> 00:22:53,417
-în vremurile în care doar două-trei femei
+00:18:24,041 --> 00:18:27,140
+că va supraviețui chiar și Taj Mahalului.
 
 256
-00:22:53,500 --> 00:22:55,417
-reuşiseră acest lucru.
+00:18:28,122 --> 00:18:30,530
+Asta pentru că am făcut o fundaţie atât de trainică,
 
 257
-00:22:55,500 --> 00:22:58,999
-Dar eu nu am văzut niciodată vreo urmă de ego la ea.
+00:18:30,731 --> 00:18:32,895
+având atâtea cărămizi la un preț redus.
 
 258
-00:23:01,000 --> 00:23:04,709
-Chiar fiicele mele - una a studiat arhitectură
+00:18:33,096 --> 00:18:37,239
+Am cumpărat un întreg cuptor de cărămizi la un preţ foarte mic
 
 259
-00:23:06,291 --> 00:23:09,125
-şi decoraţiuni interioare; ea nu mai lucrează acum,
+00:18:37,440 --> 00:18:38,870
+şi apoi am vândut jumătate din ele,
 
 260
-00:23:09,208 --> 00:23:11,125
-pentru că soţul ei face asta - este în regulă -
+00:18:39,071 --> 00:18:41,852
+pentru că Mi-au rămas atât de multe.
 
 261
-00:23:11,208 --> 00:23:13,917
-ci proiectează case pentru alţii, le face planurile caselor,
+00:18:42,450 --> 00:18:45,425
+Apoi, din nisipul pe care îl cumpărasem
 
 262
-00:23:13,959 --> 00:23:19,709
-îi ajută pe alţii gratis şi are atât de mulţi prieteni.
+00:18:45,626 --> 00:18:49,702
+am vândut jumătate la preţ dublu, pentru că îmi prisosea,
 
 263
-00:23:21,083 --> 00:23:24,000
-Deci marea realizare a unei femei este
+00:18:49,902 --> 00:18:53,150
+așa că a fost ca și cum aș fi primit nisipul gratis.
 
 264
-00:23:24,208 --> 00:23:28,250
-că ea are mereu mai mulţi oameni în jurul său.
+00:18:53,885 --> 00:18:56,448
+Lemnul pe care l-am adus de acolo,
 
 265
-00:23:31,417 --> 00:23:33,000
-Puterea umană,
+00:18:56,649 --> 00:18:59,049
+a fost șlefuit corespunzător
 
 266
-00:23:34,125 --> 00:23:37,291
-ea are mai multe fiinţe umane în jur.
+00:18:59,250 --> 00:19:01,282
+şi tratat într-un mic rezervor,
 
 267
-00:23:38,333 --> 00:23:40,208
-Şi care sunt puterile bărbaţilor?
+00:19:01,483 --> 00:19:07,225
+deci a devenit complet
 
 268
-00:23:40,333 --> 00:23:42,959
-Ei au de plătit toate facturile casei,
+00:19:07,455 --> 00:19:09,852
+hidrofugat.
 
 269
-00:23:43,000 --> 00:23:49,417
-trebuie să plătească asigurarea, reparaţia maşinii -
+00:19:10,053 --> 00:19:13,049
+L-am scos şi am folosit doar jumătate,
 
 270
-00:23:49,500 --> 00:23:53,417
-lăsaţi-i pe ei să facă această muncă de jos.
+00:19:13,250 --> 00:19:14,722
+doar jumătate,
 
 271
-00:23:56,291 --> 00:24:00,125
-Noi primim toate scrisorile drăguţe de la copii,
+00:19:14,930 --> 00:19:18,228
+pentru o sută de ferestre şi şaizeci de uşi.
 
 272
-00:24:00,208 --> 00:24:02,542
-de la soţ, de la toată lumea;
+00:19:18,429 --> 00:19:20,482
+Restul l-am vândut.
 
 273
-00:24:03,000 --> 00:24:07,500
-ele sunt iubite, ceilalţi au grijă de ele.
+00:19:20,683 --> 00:19:24,856
+Chiar şi așchiile au fost vândute pentru foc,
 
 274
-00:24:09,542 --> 00:24:11,500
-Dar acum, pentru că femeile au devenit asemenea bărbaţilor,
+00:19:25,057 --> 00:19:27,749
+ca lemn de foc - cum le numiți?
 
 275
-00:24:11,959 --> 00:24:14,083
-nu mai au aceste avantaje.
+00:19:28,057 --> 00:19:31,066
+Aşadar, imaginaţi-vă, o parte a fost vândută drept cherestea
 
 276
-00:24:14,208 --> 00:24:18,750
-Mai demult, când călătoream cu autobuzul, se obişnuia să se cedeze locul unei doamne.
+00:19:31,267 --> 00:19:33,979
+iar cealaltă pentru barăci.
 
 277
-00:24:18,834 --> 00:24:20,291
-Acum nimeni nu mai face asta.
+00:19:35,062 --> 00:19:37,692
+Dar a trebuit să gătesc pentru ei,
 
 278
-00:24:20,709 --> 00:24:25,375
-Odată o doamnă călătorea – o doamnă în vârstă -
+00:19:37,893 --> 00:19:40,102
+a trebuit să am grijă de confortul lor.
 
 279
-00:24:25,417 --> 00:24:28,000
-iar un tânăr stătea jos.
+00:19:40,303 --> 00:19:45,566
+Le-am adus paturi și pături foarte bune,
 
 280
-00:24:28,125 --> 00:24:30,417
-L-am întrebat: „De ce nu-i oferi locul tău?”
+00:19:45,767 --> 00:19:48,060
+așa că au fost foarte fericiţi cu toţii.
 
 281
-00:24:30,500 --> 00:24:31,417
-El a răspuns: „De ce aş face-o?
+00:19:48,261 --> 00:19:50,304
+Aşa rezolvă totul o femeie.
 
 282
-00:24:31,500 --> 00:24:33,917
-Şi ea poartă nădragi, şi eu port nădragi!“
+00:19:50,505 --> 00:19:52,022
+Și toată lumea a fost uimită,
 
 283
-00:24:33,959 --> 00:24:37,291
-Vedeţi, această doamnă în vârstă purta pantaloni,
+00:19:52,223 --> 00:19:54,938
+pentru că nu Mi-au găsit nicio greşeală în socoteli,
 
 284
-00:24:37,333 --> 00:24:40,834
-aşa că el argumenta: „De ce să-i dau locul? Şi ea poartă pantaloni,
+00:19:55,139 --> 00:19:56,856
+nimic de reproșat
 
 285
-00:24:40,999 --> 00:24:43,834
-şi eu port pantaloni, care este diferenţa?”
+00:19:57,057 --> 00:19:59,610
+și le-am spus tuturor prietenilor soţului Meu
 
 286
-00:24:47,291 --> 00:24:50,000
-Astfel, tot ce este avantaj şi privilegiu pentru noi
+00:19:59,811 --> 00:20:02,954
+să stea la cinci mile distanță de Mine.
 
 287
-00:24:50,417 --> 00:24:53,625
-pierdem devenind bărbaţi.
+00:20:06,412 --> 00:20:09,527
+Asta pentru că soțul Meu lucra cu prim-ministrul,
 
 288
-00:24:55,000 --> 00:25:01,000
-Şi ce câştigăm?
+00:20:09,728 --> 00:20:11,120
+iar oamenii ar fi spus:
 
 289
-00:25:01,417 --> 00:25:04,834
-De fapt cred că, în mod contrar, în vremurile moderne
+00:20:11,321 --> 00:20:13,938
+„Soția lui sigur primeşte mită” - astfel de lucruri.
 
 290
-00:25:04,917 --> 00:25:08,709
-femeile sunt mult mai mult sclave ale bărbaţilor decât erau înainte.
+00:20:14,139 --> 00:20:16,909
+Apoi ar mai fi fost o problemă,
 
 291
-00:25:10,208 --> 00:25:14,000
-Ele se supără foarte tare. De pildă o sahaja yoghină:
+00:20:17,110 --> 00:20:20,993
+aceea că ar fi venit să-Mi spună: „Asta nu e bine, aia nu e bine”.
 
 292
-00:25:15,000 --> 00:25:18,875
-are blocaje serioase şi are anumite probleme.
+00:20:21,194 --> 00:20:22,499
+I-am ţinut la distanţă însă,
 
 293
-00:25:18,999 --> 00:25:21,000
-Primul lucru la care se gândeşte este:
+00:20:22,700 --> 00:20:26,037
+pentru că bărbaţii ştiu doar să se certe,
 
 294
-00:25:21,083 --> 00:25:23,333
-„Oh, Doamne, acum soţul meu mă va părăsi,
+00:20:27,172 --> 00:20:30,228
+dar femeile obțin rezultate!
 
 295
-00:25:23,417 --> 00:25:27,208
-îmi va lua şi copiii, unde să mă duc?”
+00:20:33,355 --> 00:20:34,619
+Fără discuții, fără nimic.
 
 296
-00:25:27,291 --> 00:25:29,083
-Niciodată nu se gândeşte la Sahaja Yoga.
+00:20:34,820 --> 00:20:37,985
+Le-am spus: „Nu vreau așa ceva. Lăsaţi-Mă să-Mi fac treaba!”
 
 297
-00:25:30,333 --> 00:25:33,750
-Dar am întâlnit o doamnă extraordinară, trebuie s-o spun, o doamnă adevărată.
+00:20:38,186 --> 00:20:44,022
+Şi am construit frumos casa, cu ajutorul acestor oameni,
 
 298
-00:25:34,542 --> 00:25:37,750
-Ea mi-a spus: „Mamă, pentru că sunt schizofrenică,
+00:20:44,223 --> 00:20:46,476
+o casă splendidă,
 
 299
-00:25:37,834 --> 00:25:42,083
-vreau să ies din Sahaja Yoga, vreau să divorţez,
+00:20:46,677 --> 00:20:49,332
+care cred că a fost filmată
 
 300
-00:25:42,834 --> 00:25:44,083
-nu vreau să mai las copiii să mă vadă.
+00:20:49,533 --> 00:20:52,636
+și probabil o veți putea vedea.
 
 301
-00:25:44,125 --> 00:25:47,083
-Sahaja Yoga este mult mai importantă decât mine,
+00:20:56,477 --> 00:20:59,502
+Așadar o femeie, care este Sahaja Yoghină,
 
 302
-00:25:47,208 --> 00:25:51,875
-decât soţul meu sau copiii mei.”
+00:20:59,703 --> 00:21:02,449
+trebuie să-şi dezvolte aceste calităţi speciale,
 
 303
-00:25:51,999 --> 00:25:53,583
-„Asta da femeie!” – am spus.
+00:21:02,650 --> 00:21:04,235
+pentru că are intuiţie.
 
 304
-00:25:53,625 --> 00:25:55,917
-Ea a continuat: „Sunt schizofrenică din copilărie.
+00:21:04,436 --> 00:21:06,317
+Femeia are o intuiţie foarte bună.
 
 305
-00:25:56,000 --> 00:25:58,709
-Am descoperit-o acum şi ea revine.”
+00:21:06,518 --> 00:21:09,564
+Ea ajunge imediat la concluzia corectă,
 
 306
-00:25:58,834 --> 00:26:01,125
-Dar cel mai mult femeile îşi fac probleme pentru ele însele:
+00:21:09,765 --> 00:21:11,260
+dacă este cu adevărat femeie.
 
 307
-00:26:01,208 --> 00:26:03,208
-„Oh, Doamne, trebuie să-mi părăsesc soţul!”
+00:21:11,461 --> 00:21:13,006
+Dar dacă este pe jumătate bărbat
 
 308
-00:26:04,333 --> 00:26:07,750
-Asta înseamnă că ele erau foarte ataşate de soţii lor, depindeau de ei.
+00:21:13,207 --> 00:21:15,330
+și are doar într-o mică măsură calități feminine,
 
 309
-00:26:08,750 --> 00:26:11,750
-„Va trebui să-mi părăsesc copiii.”
+00:21:15,531 --> 00:21:18,531
+atunci nu ştiu ce fel de creatură este.
 
 310
-00:26:13,917 --> 00:26:16,999
-Dar Sahaja Yoga?
+00:21:19,852 --> 00:21:21,866
+Deci femeia ar trebui să încerce să fie femeie;
 
 311
-00:26:17,750 --> 00:26:20,417
-Dacă voi credeţi că Sahaja Yoga este cel mai important lucru,
+00:21:22,067 --> 00:21:24,982
+ea este atât de puternică, puternică asemeni Mamei Pământ;
 
 312
-00:26:20,625 --> 00:26:22,917
-puteţi scăpa şi de schizofrenie.
+00:21:25,183 --> 00:21:27,340
+poate îndura orice
 
 313
-00:26:22,959 --> 00:26:26,208
-De ce să vă ajute Dumnezeu? Voi gândiţi asemenea unor femei obişnuite
+00:21:27,541 --> 00:21:32,550
+şi poate dărui tot ce are mai bun.
 
 314
-00:26:26,291 --> 00:26:28,625
-vă îngrijoraţi doar pentru voi înşivă.
+00:21:34,066 --> 00:21:37,004
+Are o imensă putere de sacrificiu,
 
 315
-00:26:31,083 --> 00:26:34,000
-Nu vă faceţi griji pentru Sahaja Yoga.
+00:21:37,205 --> 00:21:39,343
+o mare generozitate,
 
 316
-00:26:37,291 --> 00:26:41,291
-La fel se întâmplă şi cu unii bărbaţi, dar ei nu sunt atât de speriaţi,
+00:21:39,544 --> 00:21:43,156
+are toleranţă, iubire și iertare.
 
 317
-00:26:42,917 --> 00:26:45,750
-pentru că se gândesc că ei pot sta pe picioarele lor.
+00:21:43,733 --> 00:21:46,489
+Atunci când bărbaţii dezvoltă calităţile feminine,
 
 318
-00:26:46,709 --> 00:26:49,000
-Iar femeile ar trebui să ştie şi ele – fiind acum sahaja yoghine -
+00:21:46,690 --> 00:21:48,974
+ei devin sfinţi.
 
 319
-00:26:49,083 --> 00:26:52,000
-că sunt sahaja yoghine şi Mama va avea grijă de ele.
+00:21:52,318 --> 00:21:57,370
+Dar a avea calități feminine nu înseamnă să alerge după femei,
 
 320
-00:26:52,834 --> 00:26:55,500
-Dar, dacă sunteţi îngrijorate doar pentru voi înşivă, pentru soţii voştri,
+00:21:57,896 --> 00:22:00,185
+nu înseamnă în niciun caz un lucru atât de stupid.
 
 321
-00:26:55,583 --> 00:27:01,333
-pentru „familia mea, casa mea, copiii mei”, atunci sunteţi…
+00:22:00,386 --> 00:22:01,658
+Ei trebuie să fie „viras”,
 
 322
-00:27:01,417 --> 00:27:04,417
-Nu mai sunteţi o simplă femeie acum. Acesta nu este semnul unei femei bune.
+00:22:01,867 --> 00:22:03,167
+trebuie să fie cavaleri,
 
 323
-00:27:06,208 --> 00:27:10,333
-Femeia bună este aceea care iubeşte pe toţi copiii;
+00:22:03,368 --> 00:22:05,169
+trebuie să fie curajoşi.
 
 324
-00:27:13,208 --> 00:27:16,917
-capacitatea sa de a iubi este foarte mare. Dar dacă ea este limitată,
+00:22:05,370 --> 00:22:06,722
+Trebuie să fie curajoși,
 
 325
-00:27:18,000 --> 00:27:21,625
-dacă este îngustă, atunci nu este o femeie.
+00:22:06,923 --> 00:22:11,751
+însă trebuie să-și dezvolte totodată compasiunea,
 
 326
-00:27:22,959 --> 00:27:24,417
-V-am povestit despre nepoatele mele.
+00:22:12,720 --> 00:22:14,826
+puterea de a ierta.
 
 327
-00:27:24,500 --> 00:27:27,208
-Le-am întrebat: „Ce vreţi să vă faceţi când veţi fi mari?” Erau foarte mici.
+00:22:19,403 --> 00:22:22,556
+Însă cred că în Germania lucrurile stau exact invers,
 
 328
-00:27:27,709 --> 00:27:33,999
-„Vrem să devenim asistentă medicală sau stewardesă.”
+00:22:22,757 --> 00:22:24,122
+şi observ
 
 329
-00:27:34,750 --> 00:27:37,083
-Am întrebat: „De ce, ce este atât de frumos la aceste meserii?”
+00:22:24,323 --> 00:22:27,688
+că e ceva comun şi printre Sahaja Yoghinii occidentali.
 
 330
-00:27:38,125 --> 00:27:41,834
-Ele au spus: „Bunico, doar în aceste două meserii poţi hrăni oamenii.
+00:22:27,889 --> 00:22:31,038
+Femeile dezvoltă un ego oribil.
 
 331
-00:27:44,417 --> 00:27:47,083
-Nu mai este nicio altă meserie în care să poţi cu adevărat să-i hrăneşti pe ceilalţi.”
+00:22:33,304 --> 00:22:35,823
+În India femeile muncesc,
 
 332
-00:27:47,166 --> 00:27:53,000
-Bucuria de a-i hrăni pe alţii este mai mare decât aceea de a scrie dosare într-un birou
+00:22:36,557 --> 00:22:39,060
+fac absolut totul.
 
 333
-00:27:55,625 --> 00:28:00,208
-- vă spun - este un adevăr. A scrie tot felul de dosare la birou este o slujbă oribilă.
+00:22:39,261 --> 00:22:43,927
+Am avut oratori foarte buni încă din timpuri străvechi - renumiţi.
 
 334
-00:28:05,625 --> 00:28:07,709
-Este mai bine să gătiţi ceva bun,
+00:22:45,016 --> 00:22:47,715
+Dar cu toate astea nu aveau ego.
 
 335
-00:28:07,792 --> 00:28:13,000
-gândindu-vă că atât de mulţi vor mânca şi se vor bucura de acea mâncare,
+00:22:48,694 --> 00:22:51,986
+Mama avea diplomă de onoare, în vremuri
 
 336
-00:28:13,083 --> 00:28:16,417
-decât să faceţi această muncă de jos.
+00:22:52,187 --> 00:22:55,514
+în care doar două-trei femei absolveau cu un asemenea grad,
 
 337
-00:28:17,709 --> 00:28:20,917
-Dar femeile şi-au pierdut capul, nu mai gândesc cu mintea,
+00:22:55,715 --> 00:22:59,496
+însă nu am văzut niciodată vreo urmă de ego la ea.
 
 338
-00:28:20,999 --> 00:28:23,999
-s-au prostit!
+00:23:01,489 --> 00:23:03,288
+Chiar și fiicele Mele -
 
 339
-00:28:26,125 --> 00:28:30,291
-În Germania trebuie să fiţi foarte atenţi,
+00:23:03,489 --> 00:23:05,849
+una a studiat arhitectură
 
 340
-00:28:30,333 --> 00:28:32,000
-în Austria trebuie să fiţi foarte atenţi.
+00:23:06,050 --> 00:23:07,703
+şi decoraţiuni interioare.
 
 341
-00:28:32,083 --> 00:28:35,125
-Femeile din Austria sunt grozave, dar le-aş spune doamnelor din Germania:
+00:23:07,904 --> 00:23:11,114
+Nu lucrează acum pentru că soţul ei câștigă bine,
 
 342
-00:28:35,208 --> 00:28:37,208
-„Nu încercaţi să deveniţi bărbaţi.”
+00:23:11,315 --> 00:23:14,177
+dar face planuri de casă pentru alţii, face proiecte,
 
 343
-00:28:37,291 --> 00:28:42,208
-În primul rând, cel mai bun lucru pentru a stopa acest lucru este să nu vorbiţi prea mult.
+00:23:14,378 --> 00:23:17,056
+îi ajută în mod gratuit.
 
 344
-00:28:45,417 --> 00:28:49,750
-Dacă începeţi să vorbiţi ca bărbaţii, toţi bhoots vor intra în voi
+00:23:17,643 --> 00:23:20,394
+Și și-a făcut prieteni atât de buni.
 
 345
-00:28:49,834 --> 00:28:52,500
-şi veţi vorbi doar aşa.
+00:23:22,251 --> 00:23:24,259
+Deci marea realizare a unei femei
 
 346
-00:28:52,750 --> 00:28:55,291
-Şi atunci veţi vedea cum sunt controlaţi bărbaţii.
+00:23:24,460 --> 00:23:28,450
+este că ea are mulţi oameni în jurul ei.
 
 347
-00:28:55,375 --> 00:28:59,709
-Noi, femeile indiene, ştim cum să ne controlăm bărbaţii mult mai bine decât voi.
+00:23:31,215 --> 00:23:33,651
+Are puterea umană de partea ei,
 
 348
-00:29:02,959 --> 00:29:06,750
-De ce noi nu avem divorţuri? De ce nu avem probleme?
+00:23:33,852 --> 00:23:37,038
+are mai multe fiinţe umane în jur.
 
 349
-00:29:06,834 --> 00:29:08,750
-Ne mai certăm şi noi, asta e, nu contează,
+00:23:38,363 --> 00:23:40,272
+Şi care este capacitatea bărbaţilor?
 
 350
-00:29:08,834 --> 00:29:11,291
-dar bărbaţi noştri nu aleargă după alte femei.
+00:23:40,473 --> 00:23:43,246
+Ei au de plătit toate facturile casei,
 
 351
-00:29:13,542 --> 00:29:17,959
-Noi nu acordăm o atenţie aşa de mare hainelor, nu mergem la coafor,
+00:23:43,447 --> 00:23:46,586
+au de plătit asigurarea,
 
 352
-00:29:18,000 --> 00:29:21,291
-nu avem cosmeticale şi toate astea.
+00:23:47,754 --> 00:23:49,411
+reparaţiile maşinii -
 
 353
-00:29:23,333 --> 00:29:25,917
-Aşadar, dezvoltaţi-vă respectul de sine:
+00:23:49,612 --> 00:23:52,744
+lăsaţi-i pe ei să facă aceste munci anoste.
 
 354
-00:29:25,999 --> 00:29:30,291
-sunteţi Shakti, sunteţi puterea.
+00:23:56,224 --> 00:23:58,980
+Femeile primesc scrisori pline de iubire
 
 355
-00:29:32,125 --> 00:29:35,834
-Dacă vă transformaţi soţii în foi de varză, ce fel de copii veţi avea?
+00:23:59,181 --> 00:24:02,851
+de la copii, de la soţ, de la toată lumea;
 
 356
-00:29:35,917 --> 00:29:40,333
-Foi de varză! Respectaţi-i,
+00:24:03,052 --> 00:24:05,331
+ele sunt iubite,
 
 357
-00:29:41,125 --> 00:29:43,917
-lăsaţi-i să fie bărbaţi, bucuraţi-vă de această calitate a lor.
+00:24:06,422 --> 00:24:08,847
+toată lumea are grijă de ele.
 
 358
-00:29:45,542 --> 00:29:49,000
-Atunci ei nu vă vor părăsi niciodată.
+00:24:09,299 --> 00:24:12,123
+Dar acum, pentru că femeile au devenit asemeni bărbaţilor,
 
 359
-00:29:50,291 --> 00:29:52,625
-Nu este niciun fel de competiţie între voi.
+00:24:12,324 --> 00:24:14,433
+ele nu se mai bucură de aceste avantaje.
 
 360
-00:29:54,291 --> 00:29:57,750
-Cred că astăzi, principala problemă în Germania este
+00:24:14,634 --> 00:24:17,024
+În trecut, când călătoreai cu autobuzul,
 
 361
-00:29:57,834 --> 00:30:00,709
-că femeile au luat-o razna -
+00:24:17,224 --> 00:24:18,763
+bărbații cedau locul doamnelor.
 
 362
-00:30:00,792 --> 00:30:04,917
-exact asta simt despre Germania.
+00:24:18,964 --> 00:24:21,224
+Acum nimeni nu mai face asta.
 
 363
-00:30:07,000 --> 00:30:13,625
-În muzică, în artă, sunt atât de multe plagiate,
+00:24:21,425 --> 00:24:24,129
+Am văzut odată o doamnă care călătorea în picioare,
 
 364
-00:30:13,709 --> 00:30:19,500
-încât cine mai e pomenit, vedeţi? Cine este pomenit?
+00:24:24,329 --> 00:24:25,658
+o doamnă în vârstă,
 
 365
-00:30:19,542 --> 00:30:24,083
-Muzicianul Mozart. Toată lumea îl ştie pe Mozart,
+00:24:25,859 --> 00:24:28,140
+iar alături era un tânăr care stătea jos.
 
 366
-00:30:24,166 --> 00:30:28,417
-chiar şi pe ciocolată găsim chipul lui Mozart.
+00:24:28,341 --> 00:24:30,154
+L-am întrebat: „De ce nu îi cedezi locul?”
 
 367
-00:30:30,208 --> 00:30:33,917
-Nu ştiu – bietul de el – o fi mâncat vreodată ciocolată ori nu?
+00:24:30,355 --> 00:24:31,805
+„De ce aş face-o?” – Mi-a spus el.
 
 368
-00:30:37,125 --> 00:30:43,000
-Sau şi-l amintesc pe Michelangelo
+00:24:32,006 --> 00:24:34,928
+„Poartă pantaloni la fel ca și mine!”
 
 369
-00:30:43,083 --> 00:30:48,542
-sau pe Leonardo Da Vinci sau pe altcineva de acelaşi calibru.
+00:24:35,129 --> 00:24:37,568
+Doamna în vârstă purta pantaloni,
 
 370
-00:30:52,000 --> 00:30:56,000
-Nimeni nu-şi aminteşte cine era la birocratul acelor timpuri,
+00:24:37,769 --> 00:24:39,774
+aşa că el argumenta: „De ce să-i dau locul?
 
 371
-00:30:57,208 --> 00:30:59,291
-cine alerga de colo-colo cu hârţoagele!
+00:24:39,975 --> 00:24:44,006
+Poartă pantaloni, la fel ca și mine. Care este diferenţa?”
 
 372
-00:31:06,083 --> 00:31:10,917
-Deci femeile au un ceva care le dă valoare eternă.
+00:24:47,606 --> 00:24:50,249
+Astfel pierdem toate avantajele şi privilegiile,
 
 373
-00:31:11,291 --> 00:31:12,709
-Acest lucru ar trebui să-l dezvolte.
+00:24:50,450 --> 00:24:53,685
+încercând să devenim asemeni bărbaţilor.
 
 374
-00:31:12,792 --> 00:31:16,500
-Cel mai măreţ lucru este acela că o femeie poate să iubească şi iar să iubească.
+00:24:54,878 --> 00:24:57,727
+Şi ce câştigăm cu asta?
 
 375
-00:31:16,583 --> 00:31:18,750
-Dar când devine egoistă şi limitată la sine,
+00:25:00,242 --> 00:25:01,539
+Ce câștigăm?
 
 376
-00:31:18,834 --> 00:31:23,083
-când îşi face griji doar pt ea, atunci nu mai este nicio urmă de frumuseţe în dragostea ei
+00:25:01,740 --> 00:25:04,530
+Dimpotrivă, cred că în vremurile moderne
 
 377
-00:31:25,917 --> 00:31:28,000
-Astăzi am abordat în mod intenţionat acest subiect special,
+00:25:04,731 --> 00:25:06,234
+femeile sunt sclave ale bărbaţilor
 
 378
-00:31:28,083 --> 00:31:31,000
-pentru că azi mă veneraţi ca Shri Kartikeya.
+00:25:06,435 --> 00:25:09,798
+într-o mai mare măsură decât erau înainte.
 
 379
-00:31:33,750 --> 00:31:37,000
-Kartikeya a fost fiul lui Parvati-Uma,
+00:25:10,558 --> 00:25:12,368
+Se enervează foarte rău.
 
 380
-00:31:44,542 --> 00:31:50,500
-ai cărei singuri copii au fost Ganesha şi Kartikeya.
+00:25:12,569 --> 00:25:14,479
+Spre exemplu o Sahaja Yoghină
 
 381
-00:31:53,625 --> 00:32:04,333
-Şi într-o zi, părinţii lor, Shankara şi Parvati, au spus:
+00:25:14,680 --> 00:25:17,114
+care are blocaje serioase
 
 382
-00:32:04,417 --> 00:32:13,709
-„Acela dintre voi care o va înconjura mai repede pe Mama Pământ,
+00:25:17,315 --> 00:25:19,239
+şi are anumite probleme,
 
 383
-00:32:14,000 --> 00:32:17,999
-va primi un premiu deosebit.”
+00:25:19,440 --> 00:25:21,022
+primul lucru la care se va gândi este:
 
 384
-00:32:20,000 --> 00:32:27,208
-Kartikeya era într-adevăr foarte puternic şi a spus:
+00:25:21,223 --> 00:25:23,729
+„Oh, Doamne, soţul meu mă va părăsi,
 
 385
-00:32:27,291 --> 00:32:32,542
-Ei, bine, voi porni cu propriul meu vehicul“, acesta fiind un păun.
+00:25:23,930 --> 00:25:25,792
+îmi va lua şi copiii.
 
 386
-00:32:32,999 --> 00:32:36,125
-Ganesha şi-a spus:
+00:25:25,993 --> 00:25:27,109
+Unde mă voi duce?”
 
 387
-00:32:36,208 --> 00:32:38,709
-„Eu sunt un băieţel,
+00:25:27,310 --> 00:25:29,828
+Nu se va gândi la Sahaja Yoga.
 
 388
-00:32:39,417 --> 00:32:44,709
-nu sunt ca el, iar vehiculul meu e doar un şoricel,
+00:25:30,029 --> 00:25:32,208
+Dar am întâlnit o femeie extraordinară,
 
 389
-00:32:44,750 --> 00:32:48,917
-cum o s-o scot la capăt?“ Dar mai apoi s-a gândit:
+00:25:32,408 --> 00:25:34,189
+trebuie să spun, o adevărată femeie.
 
 390
-00:32:50,125 --> 00:32:54,417
-„Mama mea este mai presus decât tot Universul.
+00:25:34,390 --> 00:25:38,431
+Mi-a spus: „Mamă, pentru că sunt schizofrenică,
 
 391
-00:32:54,625 --> 00:32:57,542
-Cine este Mama Pământ?”
+00:25:38,632 --> 00:25:40,606
+vreau să ies din Sahaja Yoga.
 
 392
-00:32:57,999 --> 00:33:02,291
-Deci Kartikeya a înconjurat Pământul de trei ori,
+00:25:40,807 --> 00:25:42,336
+Voi divorţa de soțul meu,
 
 393
-00:33:03,417 --> 00:33:06,333
-pe când Shri Ganesha a înconjurat-o pe Mama sa de trei ori,
+00:25:42,537 --> 00:25:44,078
+nu vreau să-mi mai văd copiii.
 
 394
-00:33:07,125 --> 00:33:10,417
-şi astfel a obţinut premiul.
+00:25:44,279 --> 00:25:46,209
+Sahaja Yoga este mult mai importantă
 
 395
-00:33:12,125 --> 00:33:16,208
-Datorită acestor calităţi materne, Ea este pentru el cea mai presus,
+00:25:46,410 --> 00:25:50,360
+decât mine, decât soţul sau copiii mei.”
 
 396
-00:33:16,291 --> 00:33:19,125
-mai presus chiar decât Sadashiva.
+00:25:52,183 --> 00:25:53,743
+„O adevărată femeie!” – Mi-am spus.
 
 397
-00:33:21,709 --> 00:33:24,999
-Dar, în mod surprinzător, lui Sadashiva chiar asta îi place,
+00:25:53,944 --> 00:25:56,301
+„Sunt schizofrenică din copilărie” – Mi-a mărturisit.
 
 398
-00:33:25,291 --> 00:33:28,834
-să vă respectaţi mama, maternitatea din voi,
+00:25:56,502 --> 00:25:58,690
+„Am descoperit asta acum şi boala revine”.
 
 399
-00:33:29,917 --> 00:33:31,999
-feminitatea din voi.
+00:25:58,891 --> 00:26:01,418
+Dar majoritatea femeilor se îngrijorează de propria persoană:
 
 400
-00:33:32,750 --> 00:33:39,417
-„Acolo unde femeile sunt respectabile şi respectate,
+00:26:01,619 --> 00:26:04,339
+„Oh, Doamne, va trebui să-mi părăsesc soţul!”
 
 401
-00:33:39,500 --> 00:33:41,709
-acolo rezidă zeii.”
+00:26:04,540 --> 00:26:08,348
+Asta înseamnă că sunt complet dependente de soții lor.
 
 402
-00:33:42,625 --> 00:33:44,417
-Femeile sunt foarte importante.
+00:26:08,549 --> 00:26:11,648
+„Va trebui să-mi părăsesc copiii”.
 
 403
-00:33:44,458 --> 00:33:46,792
-Desigur că trebuie să fie traşi la răspundere şi bărbaţii occidentali
+00:26:13,381 --> 00:26:16,646
+Dar dacă ar trebui să părăsiți Sahaja Yoga?
 
 404
-00:33:46,834 --> 00:33:49,000
-pentru felul greşit în care şi-au tratat femeile,
+00:26:17,683 --> 00:26:20,398
+Dacă considerați Sahaja Yoga ca fiind cel mai important lucru,
 
 405
-00:33:49,417 --> 00:33:53,083
-interzicându-le să se implice în viaţa religioasă, asuprindu-le mereu.
+00:26:20,599 --> 00:26:22,776
+puteţi scăpa chiar şi de schizofrenie.
 
 406
-00:33:53,166 --> 00:33:55,000
-În India musulmanii au procedat astfel,
+00:26:22,977 --> 00:26:24,337
+De ce v-ar ajuta Dumnezeu,
 
 407
-00:33:55,208 --> 00:33:58,834
-dar ei sunt chiar mai sofisticaţi, agresivi ...
+00:26:24,538 --> 00:26:26,535
+dacă gândiţi ca niște femei obişnuite,
 
 408
-00:33:58,875 --> 00:34:02,625
-au tratat foarte rău femeile şi le-au asuprit.
+00:26:26,736 --> 00:26:29,589
+îngrijorate doar pentru propria persoană,
 
 409
-00:34:02,667 --> 00:34:04,999
-Dar asta nu contează totuşi,
+00:26:31,652 --> 00:26:34,535
+nu pentru Sahaja Yoga?
 
 410
-00:34:06,000 --> 00:34:13,000
-iertaţi-i şi încercaţi să fiţi femei
+00:26:37,397 --> 00:26:39,045
+La fel se întâmplă şi cu unii bărbaţi,
 
 411
-00:34:13,208 --> 00:34:20,834
-foarte puternice. Puterea unei femei stă în iubire,
+00:26:39,246 --> 00:26:42,240
+măcar ei nu sunt atât de speriaţi
 
 412
-00:34:21,000 --> 00:34:27,625
-care este Puterea lui Dumnezeu şi aceasta trebuie folosită
+00:26:42,441 --> 00:26:45,428
+pentru că simt că pot sta pe propriile picioare.
 
 413
-00:34:27,750 --> 00:34:31,834
-în locul argumentelor intelectualiste şi a tot felul de prostii -
+00:26:46,333 --> 00:26:49,983
+Femeile ar trebui să ştie la rândul lor, că acum sunt Sahaja Yoghine
 
 414
-00:34:32,709 --> 00:34:34,625
-nu vă risipiţi energia cu ele.
+00:26:50,184 --> 00:26:52,093
+iar Mama va avea grijă de ele.
 
 415
-00:34:34,999 --> 00:34:38,625
-Aş dori ca, în special sahaja yoghinele din Germania,
+00:26:52,294 --> 00:26:54,645
+Dar dacă sunteţi îngrijorate doar pentru voi înşivă,
 
 416
-00:34:40,083 --> 00:34:43,000
-să devină din ce în ce mai feminine.
+00:26:54,845 --> 00:26:56,105
+pentru soţii voştri,
 
 417
-00:34:43,959 --> 00:34:48,291
-Asta nu înseamnă doar a găti bine, ci este atitudinea faţă de viaţă.
+00:26:56,306 --> 00:26:59,843
+pentru casa sau copiii voștri,
 
 418
-00:34:50,000 --> 00:34:53,000
-Să gândească mai larg:
+00:27:00,044 --> 00:27:02,965
+atunci sunteți un caz pierdut, nu mai sunteți o femeie.
 
 419
-00:34:54,417 --> 00:34:58,333
-că toată Sahaja Yoga depinde de capacitatea noastră de a iubi.
+00:27:03,165 --> 00:27:05,969
+Acesta nu este semnul unei femei în adevăratul sens al cuvântului.
 
 420
-00:34:58,417 --> 00:35:02,125
-Trebuie să fim extrem de iubitoare, extrem de amabile,
+00:27:06,170 --> 00:27:10,388
+O femeie adevărată iubeşte toţi copiii.
 
 421
-00:35:02,208 --> 00:35:05,667
-să avem grijă de sahaja yoghini,
+00:27:13,221 --> 00:27:15,126
+Capacitatea ei de a iubi este foarte mare.
 
 422
-00:35:07,999 --> 00:35:10,417
-dându-le toată bucuria posibilă,
+00:27:15,327 --> 00:27:17,446
+Dar dacă ea devine zgârcită,
 
 423
-00:35:13,291 --> 00:35:17,999
-altfel în această ţară ei pot deveni ca vampirii.
+00:27:17,647 --> 00:27:19,371
+dacă devine meschină,
 
 424
-00:35:19,000 --> 00:35:23,291
-Deci, fiţi foarte atente! Iar bărbaţilor trebuie să le spun:
+00:27:19,572 --> 00:27:21,831
+atunci nu mai este femeie.
 
 425
-00:35:23,333 --> 00:35:26,999
-dacă există astfel de femei, trebuie să le respectaţi,
+00:27:22,614 --> 00:27:24,207
+V-am povestit despre nepoatele Mele.
 
 426
-00:35:27,542 --> 00:35:32,000
-trebuie să le acordaţi toate privilegiile, să aveţi grijă de ele.
+00:27:24,408 --> 00:27:26,308
+Le-am întrebat: „Ce vreţi să deveniți?”
 
 427
-00:35:33,125 --> 00:35:35,834
-Ele au grijă de copii, dar voi daţi-le tot ajutorul,
+00:27:26,509 --> 00:27:27,860
+Erau încă foarte mici.
 
 428
-00:35:35,917 --> 00:35:39,125
-toţi banii, tot ceea ce au nevoie.
+00:27:28,061 --> 00:27:34,115
+„Vrem să devenim asistente medicale sau stewardese” – Mi-au zis ele.
 
 429
-00:35:40,291 --> 00:35:43,834
-Nu le cereţi să justifice banii cheltuiţi, lăsaţi-le pe ele să-i gospodărească.
+00:27:34,416 --> 00:27:35,416
+Le-am întrebat: „De ce?
 
 430
-00:35:43,999 --> 00:35:47,500
-Cel mai rău lucru este să rămâneţi fără niciun ban, dar deja sunteţi în această situaţie.
+00:27:35,617 --> 00:27:37,661
+Ce este atât de măreț în aceste meserii?”
 
 431
-00:35:51,834 --> 00:35:56,083
-Dar mai întâi vedeţi care este atitudinea lor faţă de Sahaja Yoga.
+00:27:37,862 --> 00:27:42,635
+„Bunico, doar în aceste două meserii mai poţi hrăni oamenii”.
 
 432
-00:35:56,125 --> 00:36:01,125
-Am văzut că de la familiile în care doamnele gospodăresc banii
+00:27:44,648 --> 00:27:47,064
+În nicio altă meserie nu poți hrăni cu adevărat oamenii.
 
 433
-00:36:01,208 --> 00:36:04,208
-primim întotdeauna mult mai mulţi bani pentru munca Sahaja Yoga,
+00:27:47,265 --> 00:27:49,774
+Bucuria de a-i hrăni pe alţii
 
 434
-00:36:04,417 --> 00:36:08,000
-decât de la familiile unde bărbaţii deţin controlul.
+00:27:49,975 --> 00:27:54,037
+este mai mare decât cea de a scrie dosare într-un birou.
 
 435
-00:36:09,000 --> 00:36:12,542
-Este foarte surprinzător - atunci când bărbaţii deţin controlul,
+00:27:55,280 --> 00:27:56,961
+Așa este - vă spun.
 
 436
-00:36:12,625 --> 00:36:15,208
-ei trebuie să se gândească la maşinile lor,
+00:27:57,162 --> 00:28:00,866
+A completa hârtii într-un birou este o muncă oribilă.
 
 437
-00:36:16,750 --> 00:36:18,917
-trebuie să se gândească la alte multe alte lucruri aşa-zis importante,
+00:28:05,249 --> 00:28:08,139
+Mai bine gătiţi ceva bun,
 
 438
-00:36:18,999 --> 00:36:23,083
-dar atunci când femeile se ocupă de bani, ele ştiu cum să facă economii,
+00:28:09,052 --> 00:28:11,557
+gândindu-vă câți vor mânca
 
 439
-00:36:23,166 --> 00:36:25,500
-la fel cum v-am povestit că am economisit eu.
+00:28:11,758 --> 00:28:13,406
+și se vor bucura de acea mâncare,
 
 440
-00:36:25,583 --> 00:36:28,750
-Bărbaţii nu sunt niciodată în stare să facă economii, nu economisesc bani,
+00:28:13,607 --> 00:28:16,964
+decât să faceţi o astfel de muncă lipsită de satisfacție.
 
 441
-00:36:29,750 --> 00:36:32,542
-numai femeile pot economisi - asta doar în cazul în care au vederi largi.
+00:28:17,516 --> 00:28:19,191
+Dar femeile şi-au pierdut capul,
 
 442
-00:36:32,625 --> 00:36:36,834
-Altfel, dacă se interesează doar de propria persoană, risipesc imediat banii.
+00:28:19,392 --> 00:28:21,040
+nu mai sunt echilibrate,
 
 443
-00:36:36,917 --> 00:36:40,083
-Mergând la magazin să cumpere o cămaşă pentru un bărbat,
+00:28:21,241 --> 00:28:23,259
+au devenit stupide.
 
 444
-00:36:40,208 --> 00:36:44,208
-vor cumpăra o groază de sariuri pentru ele însele - pot face asta.
+00:28:26,343 --> 00:28:29,996
+Ei bine, în Germania trebuie să fii foarte atent acum.
 
 445
-00:36:45,291 --> 00:36:48,542
-Dacă însă au o viziune mai largă, altruistă,
+00:28:30,197 --> 00:28:31,923
+La fel și în Austria.
 
 446
-00:36:48,625 --> 00:36:53,208
-vor folosi banii într-un mod atât de inteligent,
+00:28:32,124 --> 00:28:33,595
+Femeile din Austria sunt excelente,
 
 447
-00:36:53,291 --> 00:36:57,834
-încât vor avea întotdeauna bani să-i cheltuiască în folosul celorlalţi. Cum procedez eu?
+00:28:33,796 --> 00:28:35,273
+dar voi, femeile din Germania,
 
 448
-00:36:57,917 --> 00:37:00,291
-Suma pe care soţul meu mi-o dă pentru gospodărie
+00:28:35,474 --> 00:28:37,659
+n-ar trebui să încercați să deveniți bărbaţi.
 
 449
-00:37:00,417 --> 00:37:03,709
-este mai mult decât suficientă, aş spune, dar eu nu cumpăr scump,
+00:28:37,860 --> 00:28:39,999
+Cea mai bună metodă de a împiedica asta
 
 450
-00:37:03,792 --> 00:37:08,333
-merg la supermarket şi cumpăr de acolo,
+00:28:40,200 --> 00:28:42,592
+este să nu vorbiţi prea mult.
 
 451
-00:37:08,417 --> 00:37:11,709
-încerc să fac economii pe ici şi pe dincolo, să nu cheltui prea mult cu hainele Mele.
+00:28:45,247 --> 00:28:47,747
+Dacă începeţi să vorbiţi ca bărbaţii,
 
 452
-00:37:11,834 --> 00:37:18,208
-Prima dată mi-am dat puloverele la o curăţătorie foarte bună.
+00:28:47,948 --> 00:28:49,716
+toţi bhoots vor intra în voi
 
 453
-00:37:19,000 --> 00:37:23,834
-Aşa face economii o femeie, şi apoi cheltuie bani pentru celelalte bunuri.
+00:28:49,917 --> 00:28:52,588
+şi veţi face asta tot timpul.
 
 454
-00:37:25,000 --> 00:37:27,000
-Pentru că aceasta este adevărata ei satisfacţie.
+00:28:52,789 --> 00:28:55,110
+Apoi veţi înțelege cum pot fi controlaţi bărbaţii -
 
 455
-00:37:29,000 --> 00:37:32,959
-Dacă dezvoltăm o viziune echilibrată asupra vieţii noastre de familie,
+00:28:55,311 --> 00:28:57,615
+femeile din India ştiu cum să-și controleze bărbaţii,
 
 456
-00:37:33,000 --> 00:37:37,834
-asupra vieţii noastre sociale, vom fi persoane ideale în această lume.
+00:28:57,816 --> 00:28:59,998
+mult mai bine decât voi.
 
 457
-00:37:38,542 --> 00:37:41,959
-De asemenea în legătură cu şcoala; m-am referit foarte clar la asta.
+00:29:03,031 --> 00:29:05,277
+De ce noi nu avem divorţuri?
 
 458
-00:37:42,000 --> 00:37:44,125
-Dacă vreţi să aflaţi mai multe,
+00:29:05,478 --> 00:29:06,838
+De ce nu avem probleme?
 
 459
-00:37:44,208 --> 00:37:46,999
-v-aş sugera să ascultaţi. Aţi adus pamfletul?
+00:29:07,039 --> 00:29:08,705
+Și noi ne mai certăm, nu contează,
 
 460
-00:37:47,083 --> 00:37:49,834
-Voiam să îl citesc.
+00:29:08,906 --> 00:29:12,594
+dar bărbaţii noştri nu aleargă după alte femei.
 
 461
-00:37:56,333 --> 00:38:03,917
-Nu l-ai adus! Vedeţi, este tipic pentru bărbaţi!
+00:29:13,740 --> 00:29:16,171
+Noi nu acordăm o atenţie atât de mare hainelor,
 
 462
-00:38:07,208 --> 00:38:10,750
-Chiar ei au spus că ar vrea să îl citească aici!
+00:29:16,372 --> 00:29:18,438
+nu mergem la coafor,
 
 463
-00:38:16,542 --> 00:38:23,125
-Vedeţi, dacă le cereţi bărbaţilor să gătească, toate ingredientele vor lipsi! Aşa e!
+00:29:18,639 --> 00:29:22,150
+nu folosim machiaj şi așa mai departe.
 
 464
-00:38:24,625 --> 00:38:28,750
-Gregoire: Shri Mataji, pot să vă întreb cu tot respectul,
+00:29:23,797 --> 00:29:25,981
+Aşadar, dezvoltaţi-vă respectul de sine!
 
 465
-00:38:28,834 --> 00:38:32,917
-este vreun avantaj cât de mic în a fi bărbat?
+00:29:26,182 --> 00:29:27,713
+Voi sunteţi Shakti,
 
 466
-00:38:46,208 --> 00:38:49,291
-Fără ajutorul bărbatului, femeia nu se poate exprima pe ea însăşi,
+00:29:27,914 --> 00:29:30,160
+sunteţi puterea!
 
 467
-00:38:49,417 --> 00:38:53,625
-nu se poate exprima, pentru că ea este potenţialul;
+00:29:32,147 --> 00:29:34,273
+Dacă vă faceţi soţii să fie ca niște legume,
 
 468
-00:38:54,834 --> 00:38:58,625
-el este forţa cinetică. E o terminologie absolut relativă.
+00:29:34,474 --> 00:29:37,895
+ce fel de copii veţi avea? Niște legume și ei.
 
 469
-00:38:58,709 --> 00:39:02,834
-Nu puteţi exista fără bărbaţi, nu se poate.
+00:29:39,351 --> 00:29:41,223
+Respectaţi-vă soții!
 
 470
-00:39:02,917 --> 00:39:06,709
-Chiar dacă, să presupunem, există toate miresmele în Mama Pământ,
+00:29:41,424 --> 00:29:45,283
+Faceţi-i să fie bărbaţi și bucuraţi-vă de această calitate a lor!
 
 471
-00:39:06,834 --> 00:39:08,625
-dacă nu există şi florile,
+00:29:46,772 --> 00:29:49,634
+În acest caz nu vă vor părăsi niciodată.
 
 472
-00:39:08,709 --> 00:39:11,709
-cum veţi şti că aceste miresme există în Mama Pământ?
+00:29:50,391 --> 00:29:53,418
+Nu este niciun fel de competiţie între voi.
 
 473
-00:39:14,291 --> 00:39:17,291
-Bărbaţii sunt foarte importanţi, altfel ce-ar face?
+00:29:55,130 --> 00:29:58,616
+Cred că principala problemă din ziua de azi în Germania
 
 474
-00:39:17,333 --> 00:39:20,333
-Întreaga lor energie s-ar risipi.
+00:29:58,817 --> 00:30:00,731
+este că femeile au luat-o razna -
 
 475
-00:39:26,083 --> 00:39:29,500
-Astfel că, dacă femeile sunt Mama Pământ, voi sunteţi florile.
+00:30:00,932 --> 00:30:04,650
+asta simt cu privire la femeile din Germania.
 
 476
-00:39:34,083 --> 00:39:39,709
-Avantajul este că voi sunteţi bărbaţii, toată lumea vă vede.
+00:30:07,378 --> 00:30:09,560
+Dedicați-vă muzicii,
 
 477
-00:39:46,750 --> 00:39:49,750
-Gregoire: Alergând de colo-colo precum Kartikeya!
+00:30:09,761 --> 00:30:12,042
+dedicați-vă artei -
 
 478
-00:39:55,333 --> 00:39:59,083
-Ce să-i faci, aşa sunteţi voi,
+00:30:12,243 --> 00:30:13,765
+sunt atât de multe domenii.
 
 479
-00:39:59,917 --> 00:40:05,625
-nu puteţi sta acasă! Nu puteţi sta locului nici în tren,
+00:30:13,966 --> 00:30:17,449
+De cine își amintesc oamenii chiar și în ziua de azi?
 
 480
-00:40:05,709 --> 00:40:09,542
-vedeţi, atunci când trenul se pune în mişcare,
+00:30:18,259 --> 00:30:19,640
+Cine a rezistat timpului?
 
 481
-00:40:09,625 --> 00:40:12,999
-toţi bărbaţii ies din compartiment. Nu pot sta locului.
+00:30:19,841 --> 00:30:22,160
+Marele muzician Mozart.
 
 482
-00:40:18,625 --> 00:40:22,709
-Cum i-am spus soţului meu:
+00:30:22,361 --> 00:30:24,440
+Toată lumea ştie cine a fost Mozart.
 
 483
-00:40:22,750 --> 00:40:25,834
-„Ce-i asta, de ce ieşi tot timpul,
+00:30:24,641 --> 00:30:28,341
+Chiar şi pe ciocolată găsim chipul lui Mozart,
 
 484
-00:40:25,999 --> 00:40:28,417
-de ce nu poţi sta în casă câteva minute? Trebuie să te linişteşti! “
+00:30:30,157 --> 00:30:35,021
+deși nu ştiu dacă bietul de el a mâncat vreodată ciocolată sau nu.
 
 485
-00:40:28,625 --> 00:40:33,291
-El a spus: „Pe la noi, dacă stai tot timpul în casă,
+00:30:37,598 --> 00:30:43,371
+Sau oamenii îşi amintesc de Michelangelo,
 
 486
-00:40:33,333 --> 00:40:34,834
-eşti numit ghargusana",
+00:30:43,604 --> 00:30:45,697
+de Leonardo Da Vinci
 
 487
-00:40:34,917 --> 00:40:37,750
-adică cel care stă tot timpul în casă, înţelegi?”
+00:30:45,898 --> 00:30:48,943
+sau de altcineva de acelaşi calibru.
 
 488
-00:40:37,834 --> 00:40:39,333
-Iar eu l-am întrebat: „Şi cum îl numiţi pe acela
+00:30:52,266 --> 00:30:56,657
+Nimeni nu-şi aminteşte de vreun birocrat al acelor timpuri,
 
 489
-00:40:39,417 --> 00:40:41,125
-care aleargă tot timpul?” - gharbhagna
+00:30:57,268 --> 00:31:00,573
+care alerga cu hârtii în mână de colo-colo!
 
 490
-00:40:41,208 --> 00:40:43,917
-„însemnând cel care aleargă tot timpul”.
+00:31:06,250 --> 00:31:10,449
+Deci femeile au o calitate care le poate da valoare eternă
 
 491
-00:40:43,999 --> 00:40:45,709
-Ar trebui să fie ceva între acestea două.
+00:31:10,890 --> 00:31:12,557
+și pe care ar trebui să o dezvolte.
 
 492
-00:40:45,750 --> 00:40:47,834
-Dar asta e a bărbaţilor, aşa e.
+00:31:12,758 --> 00:31:16,134
+Cea mai mare calitate este capacitatea lor nelimitată de a iubi.
 
 493
-00:40:47,875 --> 00:40:50,959
-Însă noi, în Sahaja Yoga,
+00:31:16,335 --> 00:31:18,651
+Dar atunci când devin egoiste și centrate pe ele însele,
 
 494
-00:40:50,999 --> 00:40:54,834
-putem să stabilim un echilibru între aceste două extreme.
+00:31:18,852 --> 00:31:20,373
+îngrijorate de propria persoană,
 
 495
-00:40:57,709 --> 00:41:00,917
-Asta însemnă Sahaja Yoga: ceva ce vă dă echilibru.
+00:31:20,574 --> 00:31:24,207
+atunci nu mai este nicio urmă de frumuseţe în dragostea lor.
 
 496
-00:41:01,000 --> 00:41:04,542
-Apoi începeţi să vă bucuraţi atât de mult de compania celorlalţi,
+00:31:25,645 --> 00:31:27,909
+Astăzi am abordat în mod intenţionat acest subiect,
 
 497
-00:41:04,625 --> 00:41:08,000
-încât nu mai contează dacă sunteţi afară sau în casă.
+00:31:28,110 --> 00:31:31,541
+pentru că astăzi Mă veneraţi ca Shri Kartikeya.
 
 498
-00:41:08,208 --> 00:41:12,291
-Puteţi fi împreună atât în casă, cât şi în afara ei.
+00:31:33,524 --> 00:31:37,490
+Shri Kartikeya a fost fiul lui Shri Parvati-Uma,
 
 499
-00:41:13,959 --> 00:41:18,208
-Interesele sunt aceleaşi, pentru că devin aceleaşi.
+00:31:44,713 --> 00:31:47,909
+care a avut doar doi copii:
 
 500
-00:41:20,083 --> 00:41:23,959
-Aşa cum florile care cad pe Mama Pământ
+00:31:48,110 --> 00:31:50,959
+Shri Ganesha şi Shri Kartikeya.
 
 501
-00:41:25,083 --> 00:41:27,000
-îi transmit parfumul lor,
+00:31:54,047 --> 00:31:56,137
+Iar într-o zi,
 
 502
-00:41:27,208 --> 00:41:29,917
-iar noi spunem că Mama Pământ este înmiresmată,
+00:31:59,137 --> 00:32:01,552
+părinţii lor,
 
 503
-00:41:31,542 --> 00:41:37,000
-este foarte frumoasă.
+00:32:01,753 --> 00:32:04,356
+Shri Shankara şi Shri Parvati, au spus:
 
 504
-00:41:38,208 --> 00:41:41,083
-Aşadar în ceea ce priveşte educaţia am dat deja instrucţiuni,
+00:32:04,557 --> 00:32:07,010
+„Acela dintre voi
 
 505
-00:41:42,083 --> 00:41:43,834
-am vorbit deja despre asta -
+00:32:07,705 --> 00:32:11,425
+care o va înconjura pe Mama Pământ
 
 506
-00:41:43,875 --> 00:41:47,542
-că nu trebuie chiar să o venerăm pe această Maria Montessori.
+00:32:12,955 --> 00:32:14,253
+cel dintâi,
 
 507
-00:41:47,583 --> 00:41:52,834
-Vom avea şcoli Sahaja Yoga.
+00:32:14,454 --> 00:32:16,872
+va primi un premiu deosebit.”
 
 508
-00:41:52,917 --> 00:41:55,333
-Restul sunt nonsensuri, pentru că i-am văzut
+00:32:20,116 --> 00:32:25,024
+Shri Kartikeya era puterea masculină - complet -
 
 509
-00:41:55,417 --> 00:41:57,000
-pe cei care predau în stilul Mariei Montessori,
+00:32:25,738 --> 00:32:33,091
+şi a spus: „Ei bine, voi porni cu vehiculul Meu, păunul”.
 
 510
-00:41:57,208 --> 00:41:59,834
-femeile au devenit oribile.
+00:32:33,922 --> 00:32:36,438
+Shri Ganesha şi-a spus:
 
 511
-00:42:01,500 --> 00:42:06,083
-Am fost uimită ce ego şi-au dezvoltat.
+00:32:36,639 --> 00:32:39,250
+„Iată-Mă, sunt doar un copil,
 
 512
-00:42:07,291 --> 00:42:10,625
-Deci voi veţi deveni profesori sahaja yoghini
+00:32:39,451 --> 00:32:40,797
+nu sunt ca El,
 
 513
-00:42:11,000 --> 00:42:13,125
-şi va fi o şcoală Sahaja Yoga
+00:32:40,998 --> 00:32:44,865
+iar vehiculul Meu este un biet şoricel.
 
 514
-00:42:13,208 --> 00:42:21,125
-în Sydney sau în Melbourne.
+00:32:45,066 --> 00:32:47,122
+Cum voi face față?”
 
 515
-00:42:21,208 --> 00:42:24,750
-Am început foarte bine şcoala în Melbourne,
+00:32:47,983 --> 00:32:49,824
+Dar apoi s-a gândit:
 
 516
-00:42:25,000 --> 00:42:28,208
-iar acum urmează o şcoală la fel în Sydney.
+00:32:50,586 --> 00:32:54,663
+„Mama Mea este mai presus decât întreg universul.
 
 517
-00:42:28,542 --> 00:42:31,959
-Este declarată în mod deschis o şcoală Sahaja Yoga, fără nicio teamă.
+00:32:54,864 --> 00:32:57,682
+Cine este Mama Pământ?”
 
 518
-00:42:32,000 --> 00:42:34,625
-Este oficial o şcoală Sahaja Yoga,
+00:32:58,563 --> 00:33:03,036
+Deci în timp ce Shri Kartikeya înconjura Pământul,
 
 519
-00:42:34,834 --> 00:42:38,333
-iar oamenii au obţinut atât de multe lucruri de pe urma ei.
+00:33:03,237 --> 00:33:06,929
+Shri Ganesha S-a rotit în jurul Mamei Lui de trei ori
 
 520
-00:42:39,083 --> 00:42:41,750
-De ce să ne ascundem sub un văl?
+00:33:07,130 --> 00:33:09,537
+şi a primit premiul.
 
 521
-00:42:41,834 --> 00:42:44,834
-Ar trebui să spunem tuturor că este o şcoală Sahaja Yoga.
+00:33:12,161 --> 00:33:16,288
+Datorită acestor calităţi materne, Ea este supremul pentru El,
 
 522
-00:42:44,917 --> 00:42:48,000
-Deci şi voi, profesorii, să deveniţi experţi în Sahaja Yoga,
+00:33:16,489 --> 00:33:19,718
+mai presus chiar decât Shri Sadashiva.
 
 523
-00:42:48,417 --> 00:42:53,333
-astfel încât să fiţi buni sahaja yoghini şi sahaja yoghine.
+00:33:21,849 --> 00:33:25,336
+Dar, surprinzător, asta este ceea ce îi place lui Shri Sadashiva:
 
 524
-00:42:53,417 --> 00:42:56,959
-Nu ar trebui să fiţi egoişti, să nu fie nicio urmă de ego.
+00:33:25,537 --> 00:33:27,307
+să vă respectaţi Mama,
 
 525
-00:42:57,000 --> 00:42:57,917
-Profesorii nu ar trebui să se blocheze.
+00:33:27,508 --> 00:33:29,625
+calitățile materne din interiorul vostru,
 
 526
-00:42:58,000 --> 00:43:00,500
-Cine se blochează nu este un bun profesor în Sahaja Yoga.
+00:33:29,826 --> 00:33:32,236
+feminitatea din interiorul vostru.
 
 527
-00:43:00,542 --> 00:43:05,291
-Nu este ca într-o şcoală de tip Maria Montessori,
+00:33:32,437 --> 00:33:35,263
+Yatra narya poojayantey tatra ramantey devata.
 
 528
-00:43:05,333 --> 00:43:07,917
-unde noaptea profesoara bea, fumează,
+00:33:35,464 --> 00:33:39,360
+„Acolo unde femeile sunt respectabile şi respectate,
 
 529
-00:43:07,959 --> 00:43:10,500
-iar dimineaţa devine profesoară în stilul Maria Montessori.
+00:33:39,561 --> 00:33:41,770
+acolo rezidă zeii.”
 
 530
-00:43:11,291 --> 00:43:13,291
-Aici trebuie să fiţi în primul rând o sahaja yoghină
+00:33:42,521 --> 00:33:44,169
+Femeile sunt foarte importante.
 
 531
-00:43:13,333 --> 00:43:17,083
-şi numai după aceea puteţi preda într-o şcoală Sahaja Yoga.
+00:33:44,370 --> 00:33:46,669
+Desigur că sunt răspunzători şi bărbaţii din Occident
 
 532
-00:43:18,333 --> 00:43:21,417
-Trebuie să aveţi această calitate. Este foarte important,
+00:33:46,870 --> 00:33:49,283
+pentru modul greşit în care şi-au tratat femeile,
 
 533
-00:43:21,500 --> 00:43:25,208
-la fel de important cum este a avea elevi care sunt suflete realizate
+00:33:49,484 --> 00:33:52,812
+neacordându-le un loc în religie, reprimându-le mereu.
 
 534
-00:43:25,291 --> 00:43:27,083
-sau care pot primi Realizarea.
+00:33:53,013 --> 00:33:55,174
+În India musulmanii au făcut asta,
 
 535
-00:43:29,333 --> 00:43:35,083
-E bine. Deci Puja de astăzi este special dedicată lui Shri Kartikeya.
+00:33:55,375 --> 00:33:59,252
+având chiar o agresivitate sofisticată,
 
 536
-00:43:36,542 --> 00:43:53,709
-El reprezintă marele conducător al Ganasurilor sau căpitanul lor
+00:33:59,453 --> 00:34:02,654
+tratând foarte urât femeile şi asuprindu-le.
 
 537
-00:43:55,125 --> 00:44:01,000
-- am putea spune - asemenea unui comandant activ.
+00:34:02,855 --> 00:34:04,951
+Dar nu contează!
 
 538
-00:44:02,500 --> 00:44:07,208
-Ganesha este regele, dar el este comandantul activ,
+00:34:06,036 --> 00:34:09,149
+Cu toate astea iertaţi-i
 
 539
-00:44:07,291 --> 00:44:14,625
-tot aşa cum firea germană este a comanda totul.
+00:34:10,054 --> 00:34:12,961
+şi încercaţi să fiţi femei,
 
 540
-00:44:14,999 --> 00:44:18,959
-Vom săvârşi această Puja
+00:34:13,162 --> 00:34:15,416
+femei foarte puternice.
 
 541
-00:44:19,000 --> 00:44:24,500
-în care bărbaţii vor avea comanda spiritului lor
+00:34:18,059 --> 00:34:20,851
+Puterea unei femei este iubirea,
 
 542
-00:44:26,000 --> 00:44:27,750
-şi a calităţilor lor masculine,
+00:34:21,052 --> 00:34:23,883
+care este Puterea lui Dumnezeu.
 
 543
-00:44:28,542 --> 00:44:32,500
-iar doamnele vor avea comanda calităţilor lor feminine.
+00:34:25,653 --> 00:34:27,412
+Iar această putere trebuie folosită
 
 544
-00:44:33,542 --> 00:44:38,959
-A fi la comandă înseamnă altceva decât a fi propriul stăpân.
+00:34:27,613 --> 00:34:32,234
+în locul argumentelor, a intelectului, a acestor lucruri fără sens.
 
 545
-00:44:40,291 --> 00:44:43,917
-Un stăpân posedă, dar un comandant nu,
+00:34:32,435 --> 00:34:34,834
+Nu vă risipiţi energia cu ele.
 
 546
-00:44:46,291 --> 00:44:50,917
-nu posedă.
+00:34:35,035 --> 00:34:39,383
+Aş dori ca, în special Sahaja Yoghinele din Germania,
 
 547
-00:44:51,625 --> 00:44:54,959
-Sentimentul posesiunii se pierde şi el. Voi doar aveţi comanda lui,
+00:34:39,986 --> 00:34:43,445
+să devină din ce în ce mai feminine.
 
 548
-00:44:57,125 --> 00:44:59,959
-şi aceasta este starea la care trebuie să ajungem.
+00:34:43,646 --> 00:34:45,370
+Asta nu înseamnă doar să gătească bine,
 
 549
-00:45:00,000 --> 00:45:07,417
-Trebuie să mergem de la stadiul de Ganesha la stadiul de Kartikeya.
+00:34:45,571 --> 00:34:48,957
+ci să devină feminine în atitudinea lor faţă de viaţă.
 
 550
-00:45:07,500 --> 00:45:08,917
-Invers.
+00:34:50,242 --> 00:34:52,860
+Să aibă vederi mai largi,
 
 551
-00:45:08,959 --> 00:45:11,208
-Ganesha este drăguţ, el este regele,
+00:34:54,216 --> 00:34:56,206
+pentru că Sahaja Yoga
 
 552
-00:45:11,291 --> 00:45:16,999
-el există acolo cu toate puterile - în regulă -
+00:34:56,407 --> 00:34:59,013
+depinde în întregime de capacitatea de a iubi a femeilor.
 
 553
-00:45:17,125 --> 00:45:20,500
-inocenţa este prezentă.
+00:34:59,214 --> 00:35:02,726
+Trebuie să fim extrem de iubitoare, extrem de amabile,
 
 554
-00:45:20,542 --> 00:45:27,709
-Dar Kartikeya este cel care are comanda asupra inocenţei,
+00:35:02,927 --> 00:35:06,539
+să avem grijă de Sahaja Yoghini,
 
 555
-00:45:29,542 --> 00:45:32,750
-el vă dă puterea acestui control.
+00:35:07,551 --> 00:35:10,256
+dându-le din plin bucurie.
 
 556
-00:45:35,458 --> 00:45:38,291
-El comandă. După Guru Puja
+00:35:13,359 --> 00:35:15,160
+Altfel locuitorii acestei țări
 
 557
-00:45:38,417 --> 00:45:42,625
-este bine să avem această putere de a-i conduce pe alţii,
+00:35:15,361 --> 00:35:18,323
+pot deveni asemeni vampirilor.
 
 558
-00:45:43,000 --> 00:45:50,417
-iar acest spirit conducător se manifestă la bărbaţi
+00:35:19,139 --> 00:35:20,839
+Deci, fiţi foarte atente!
 
 559
-00:45:50,500 --> 00:45:55,999
-prin modul lor de a vorbi, prin dinamismul lor,
+00:35:21,040 --> 00:35:23,375
+Iar bărbaţilor trebuie să le spun
 
 560
-00:45:56,000 --> 00:45:59,208
-prin realizările personale.
+00:35:23,576 --> 00:35:27,139
+că trebuie să respecte astfel de femei,
 
 561
-00:45:59,291 --> 00:46:03,500
-La femei acest lucru se manifestă prin puterea lor de a iubi,
+00:35:28,056 --> 00:35:30,668
+trebuie să le acorde toate privilegiile,
 
 562
-00:46:03,583 --> 00:46:09,125
-prin capacitatea de a îndura, prin purtarea lor plină de graţie,
+00:35:30,869 --> 00:35:32,914
+să aibă grijă de ele.
 
 563
-00:46:10,542 --> 00:46:13,208
-prin iertare, prin compasiune.
+00:35:33,115 --> 00:35:34,331
+Ele au grijă de copii,
 
 564
-00:46:13,417 --> 00:46:18,625
-Deci să consolidăm astăzi această calitate de a comanda –
+00:35:34,532 --> 00:35:36,292
+dar voi trebuie să le acordaţi tot ajutorul,
 
 565
-00:46:18,834 --> 00:46:21,792
-ceea ce înseamnă nu ceea ce posedăm,
+00:35:36,493 --> 00:35:39,330
+toţi banii de care au nevoie.
 
 566
-00:46:21,834 --> 00:46:24,417
-ci poziţia de comandant.
+00:35:40,431 --> 00:35:42,401
+Nu le cereţi să vă justifice banii cheltuiţi,
 
 567
-00:46:25,208 --> 00:46:28,709
-Sper că înţelegeţi ce este Kartikeya.
+00:35:42,602 --> 00:35:44,115
+lăsaţi-le pe ele să-i administreze.
 
 568
-00:46:28,750 --> 00:46:31,125
-Dumnezeu să vă binecuvânteze!
+00:35:44,316 --> 00:35:48,346
+Cel mult veți deveni faliți, așa cum și sunteţi de fapt.
 
 569
-00:46:34,542 --> 00:46:37,458
-Să începem Puja.
+00:35:52,583 --> 00:35:56,447
+Dar mai întâi observaţi care e atitudinea lor faţă de Sahaja Yoga.
 
 570
-00:46:49,999 --> 00:46:55,291
-Cine a făcut asta? Tu l-ai făcut – acest Ganesha?
+00:35:56,648 --> 00:36:00,981
+Am observat că familiile în care femeile au controlul banilor
 
 571
-00:46:55,417 --> 00:46:57,917
-Atât de frumos.
+00:36:01,182 --> 00:36:04,522
+donează întotdeauna mai mulţi bani pentru munca Sahaja Yoga
 
 572
-00:47:01,417 --> 00:47:06,834
-Eşti foarte înzestrată, trebuie să recunosc. Dumnezeu să te binecuvânteze!
+00:36:04,723 --> 00:36:08,415
+decât cele în care banii sunt administrați de bărbați.
 
 573
-00:47:12,250 --> 00:47:17,333
-Chemaţi şi câţiva oameni din Germania de asemenea.
+00:36:09,655 --> 00:36:11,034
+Este foarte surprinzător -
 
 574
-00:47:29,999 --> 00:47:33,417
-Să fie mai mulţi din Germania.
+00:36:11,235 --> 00:36:13,040
+atunci când bărbaţii deţin banii în casă,
 
 575
-00:47:34,999 --> 00:47:37,792
-Şi doamne, desigur.
+00:36:13,241 --> 00:36:15,788
+ei se gândesc la maşinile lor,
 
 576
-00:48:43,999 --> 00:48:46,959
-Cea care l-a făcut pe Ganesha – este şi ea din Germania?
+00:36:16,389 --> 00:36:18,654
+la multe alte lucruri „importante”,
 
 577
-00:48:50,875 --> 00:48:54,999
-Şi acesta ar trebui să spele.
+00:36:18,855 --> 00:36:21,249
+dar atunci când femeile se ocupă de bani,
 
 578
-00:49:06,166 --> 00:49:10,000
-Toţi cei care mi-au scris să vin în Germania
+00:36:21,450 --> 00:36:23,152
+ele ştiu cum să facă economii,
 
 579
-00:49:10,125 --> 00:49:12,792
-să vină să-mi spele picioarele.
+00:36:23,353 --> 00:36:25,358
+așa cum v-am povestit că am făcut Eu însămi.
 
 580
-00:49:13,041 --> 00:49:16,750
-Dumnezeu să vă binecuvânteze! Dumnezeu să vă binecuvânteze! Vă mulţumesc!
+00:36:25,559 --> 00:36:27,151
+Bărbaţii nu pot fi deloc economi,
 
 581
-00:49:18,999 --> 00:49:25,834
-Scoate asta. Scoate-o. Nu este necesară.
+00:36:27,352 --> 00:36:29,135
+nu pot pune bani deoparte.
 
 582
-00:55:48,875 --> 00:55:50,583
-O numim Kamala, Kamala.
+00:36:29,336 --> 00:36:30,839
+Numai femeile pot economisi –
 
 583
-00:55:50,999 --> 00:55:53,500
-Kamala este numele zeiţei, în regulă?
+00:36:31,040 --> 00:36:32,758
+însă doar atunci când au vederi largi.
 
 584
-00:55:53,667 --> 00:56:02,166
-Kamal Laksmi. Kamala. Dumnezeu să vă binecuvânteze.
+00:36:32,959 --> 00:36:35,102
+Altfel, dacă sunt extravagante,
 
 585
-00:56:20,834 --> 00:56:25,583
-Putem să mai cântăm încă puţin pentru că mai sunt două doamne.
+00:36:35,303 --> 00:36:36,974
+vor risipi toți banii.
 
 586
-00:56:27,834 --> 00:56:31,667
-Şi mai este şi Hugo.
+00:36:37,175 --> 00:36:40,206
+Mergând la magazin să cumpere o cămaşă pentru soț,
 
 587
-00:56:43,458 --> 00:56:46,208
-În regulă.
+00:36:40,407 --> 00:36:42,929
+vor cumpăra o grămadă de sariuri pentru ele însele.
 
 588
-00:57:07,000 --> 00:57:10,000
-Asta a fost.
+00:36:43,130 --> 00:36:45,026
+Se poate întâmpla asta.
 
 589
-00:57:13,000 --> 00:57:15,000
-Dumnezeu să vă binecuvânteze.
+00:36:45,227 --> 00:36:49,186
+Dacă însă au interese mai largi, mai înalte,
 
 590
-00:57:19,000 --> 00:57:21,834
-Veniţi pe partea cealaltă.
+00:36:49,387 --> 00:36:53,398
+pot folosi banii într-un mod atât de inteligent,
 
 591
-00:57:23,000 --> 00:57:26,917
-Care doamne urmează? Mai sunt doamne? Gata?
+00:36:53,599 --> 00:36:56,862
+încât vor avea întotdeauna bani pentru alţii.
 
 592
-00:57:42,000 --> 00:57:44,000
-Bine.
+00:36:57,063 --> 00:36:58,104
+Cum procedez Eu?
 
 593
-00:59:42,000 --> 00:59:46,083
-Folosiţi aceeaşi apă.
+00:36:58,305 --> 00:37:00,602
+Banii pe care Mi-i dă soţul Meu pentru gospodărie -
 
 594
-01:00:46,417 --> 01:00:50,667
-Pot să folosească aceeaşi apă, deoarece e deja prea multă apă.
+00:37:00,803 --> 00:37:02,482
+sunt o sumă considerabilă, aş spune -
 
 595
-01:04:36,000 --> 01:04:40,250
-Deci, acum putem să rostim cele 1000 de nume ale lui Kartikeya.
+00:37:02,683 --> 00:37:06,911
+dar Eu păstrez lucrurile, merg în cele mai mari piețe,
 
 596
-01:04:41,625 --> 01:04:46,000
-Nu, cele 108.
+00:37:07,112 --> 00:37:09,912
+cumpăr de acolo, încerc să fac economii,
 
 597
-01:04:49,083 --> 01:04:54,000
-Am crezut că cele 1000 de nume ar fi o idee bună, dar fie şi cele 108.
+00:37:10,113 --> 00:37:12,068
+să nu cheltuiesc mult pe hainele Mele.
 
 598
-01:04:58,999 --> 01:05:01,834
-Să vedem cum merge cu cele 108.
+00:37:12,269 --> 00:37:16,895
+Asta este prima dată când Mi-am dat puloverele
 
 599
-01:05:03,999 --> 01:05:06,166
-Spuneţi tare.
+00:37:17,096 --> 00:37:18,985
+la o curăţătorie de bună calitate.
 
 600
-01:05:56,417 --> 01:05:59,291
-Spuneţi tare, nu e clar.
+00:37:19,186 --> 00:37:20,854
+Aşa face economii o femeie,
 
 601
-01:06:05,999 --> 01:06:08,208
-Nu, nu încă. Daţi-i altul,
+00:37:21,055 --> 00:37:24,613
+iar apoi cheltuie acești bani pentru folosul tuturor,
 
 602
-01:06:08,834 --> 01:06:10,625
-daţi-i încă unul,
+00:37:24,814 --> 00:37:27,821
+asta fiind adevărata ei satisfacţie.
 
 603
-01:06:10,750 --> 01:06:14,000
-deoarece trebuie să se audă clar, altfel nu are niciun înţeles.
+00:37:29,072 --> 00:37:31,502
+Dacă dezvoltăm o asemenea viziune echilibrată
 
 604
-01:28:54,417 --> 01:28:58,375
-În aceste 108 nume, aţi observat,
+00:37:31,703 --> 00:37:33,473
+asupra vieţii de familie,
 
 605
-01:28:59,792 --> 01:29:06,458
-se spune cum Kartikeya este inocenţa
+00:37:33,674 --> 00:37:35,411
+asupra vieţii noastre sociale,
 
 606
-01:29:06,834 --> 01:29:11,542
-care acţionează pe partea dreaptă, pe Pingala,
+00:37:35,612 --> 00:37:38,981
+vom fi persoane ideale în această lume.
 
 607
-01:29:11,834 --> 01:29:17,000
-şi de asemenea este în strânsă legătura cu prana.
+00:37:39,182 --> 00:37:42,250
+Am vorbit de asemenea foarte clar despre şcoală.
 
 608
-01:29:17,417 --> 01:29:23,208
-Vă dă prana. Prana este suflul vital pe care îl absorbiţi.
+00:37:42,451 --> 00:37:44,485
+Dacă vreţi să aflaţi mai multe, v-aş sugera...
 
 609
-01:29:23,333 --> 01:29:26,166
-Inspiraţi şi pe urmă expiraţi.
+00:37:44,686 --> 00:37:47,139
+Aţi adus acel fluturaș?
 
 610
-01:29:26,417 --> 01:29:28,375
-Deci este în legătură cu canalul drept.
+00:37:47,645 --> 00:37:50,105
+Voiam să îl citesc.
 
 611
-01:29:28,500 --> 01:29:32,834
-De asemenea are legătură cu eternitatea – Anantari.
+00:37:58,367 --> 00:38:00,353
+Nu l-ați adus!
 
 612
-01:29:32,999 --> 01:29:37,834
-Anatar este şarpele, Shesha,
+00:38:01,361 --> 00:38:04,110
+Vedeţi, este tipic pentru bărbați!
 
 613
-01:29:37,999 --> 01:29:41,458
-care este fratele lui Vishnu.
+00:38:06,989 --> 00:38:10,531
+Ei înșiși au spus că ar vrea să îl citească aici!
 
 614
-01:29:41,625 --> 01:29:46,999
-Deci el este cel reprezentat aici drept Kartikeya.
+00:38:16,705 --> 00:38:20,114
+Dacă le cereţi bărbaţilor să gătească,
 
 615
-01:29:47,000 --> 01:29:49,417
-Este numit Anantar.
+00:38:20,315 --> 00:38:22,653
+toate ingredientele vor lipsi!
 
 616
-01:29:49,500 --> 01:29:51,375
-Deci el este focul.
+00:38:24,167 --> 00:38:28,614
+Shri Mataji, pot să vă întreb cu tot respectul:
 
 617
-01:29:52,000 --> 01:29:58,583
-El este cel care aprinde în voi capacitatea
+00:38:28,815 --> 00:38:33,057
+există vreun avantaj, oricât de mic, în a fi bărbat?
 
 618
-01:29:58,667 --> 01:30:01,000
-de a consuma forţa,
+00:38:46,342 --> 00:38:49,983
+Fără bărbat, femeia nu se poate exprima.
 
 619
-01:30:02,000 --> 01:30:07,000
-de asemenea capacitatea de a conduce oamenii,
+00:38:50,184 --> 00:38:51,810
+Nu se poate exprima,
 
 620
-01:30:07,417 --> 01:30:16,750
-precum şi capacitatea de a fi o persoană măreaţă.
+00:38:52,011 --> 00:38:54,237
+pentru că ea este energia potenţială
 
 621
-01:30:16,875 --> 01:30:20,917
-Vedeţi, o persoană inocentă poate fi măreaţă.
+00:38:54,438 --> 00:38:56,142
+iar bărbatul este forţa cinetică.
 
 622
-01:30:20,999 --> 01:30:27,792
-Toate aceste capacităţi sunt exprimate în Kartikeya Swarupa
+00:38:56,343 --> 00:38:58,594
+E o terminologie relativă - absolut.
 
 623
-01:30:27,875 --> 01:30:30,000
-în acea stare.
+00:38:58,795 --> 00:39:03,084
+Nu puteţi exista fără bărbaţi, nu se poate.
 
 624
-01:30:30,208 --> 01:30:34,000
-Astăzi, venerându-l pe Kartikeya, trebuie să ştim
+00:39:03,285 --> 00:39:06,661
+Chiar dacă Mama Pământ are în interiorul Ei toate miresmele,
 
 625
-01:30:34,417 --> 01:30:38,250
-că el este trezit în noi.
+00:39:06,862 --> 00:39:08,497
+în absența florilor
 
 626
-01:30:38,999 --> 01:30:44,999
-Şi această capacitate este arma noastră de luptă.
+00:39:08,698 --> 00:39:12,360
+cum veţi ști că aceste miresme există în Mama Pământ?
 
 627
-01:30:45,208 --> 01:30:47,000
-În ultimul rând el este Nishkalanka.
+00:39:13,943 --> 00:39:17,163
+Bărbaţii sunt foarte importanţi. Altfel, ce vor face femeile?
 
 628
-01:30:47,208 --> 01:30:49,417
-El este luptătorul.
+00:39:17,364 --> 00:39:20,525
+Întreaga lor energie ar fi irosită.
 
 629
-01:30:49,500 --> 01:30:53,999
-Deci de la Ganesha la Cristos şi la Nishkalanka.
+00:39:25,960 --> 00:39:29,990
+Deci dacă femeile sunt Mama Pământ, voi sunteţi florile.
 
 630
-01:30:54,208 --> 01:30:56,208
-Acestea sunt cele trei stadii
+00:39:33,727 --> 00:39:35,227
+Care e avantajul de a fi bărbat?
 
 631
-01:30:56,291 --> 01:30:59,208
-prin care trece inocenţa.
+00:39:35,428 --> 00:39:39,459
+Voi sunteţi cei pe care îi vede toată lumea.
 
 632
-01:30:59,291 --> 01:31:07,834
-De la Ganesha la Kartikeya şi acum la Cristos.
+00:39:47,348 --> 00:39:51,182
+Alergând de colo-colo precum Shri Kartikeya!
 
 633
-01:31:07,999 --> 01:31:11,208
-Iar de la Cristos la Nishkalanka.
+00:39:55,841 --> 00:39:59,223
+Ce să facem? Aşa sunteţi voi!
 
 634
-01:31:11,417 --> 01:31:14,834
-În forma Nishkalanka el este inocenţa.
+00:39:59,889 --> 00:40:02,180
+Nu puteţi sta acasă!
 
 635
-01:31:14,917 --> 01:31:18,208
-Deci nu există kalanka, nu are nicio pată, nimic.
+00:40:04,053 --> 00:40:07,165
+Nu puteți! Nici măcar în tren - dacă mergeți cu trenul undeva,
 
 636
-01:31:18,291 --> 01:31:20,417
-Este absolut curat, imaculat.
+00:40:07,366 --> 00:40:09,720
+veți constata că, de îndată ce trenul va opri în stație,
 
 637
-01:31:20,500 --> 01:31:22,999
-În plus este aprig la mânie.
+00:40:09,921 --> 00:40:13,711
+toţi bărbaţii vor coborî. Nu vor putea rămâne așezați.
 
 638
-01:31:24,000 --> 01:31:27,500
-Pe deasupra are toate calităţile lui Ekadesha Rudra.
+00:40:18,313 --> 00:40:22,745
+Spre exemplu, i-am spus soţului Meu:
 
 639
-01:31:27,583 --> 01:31:31,709
-Adică cele 11 calităţi sau puterile lui Shiva
+00:40:22,946 --> 00:40:25,627
+„Ce-i asta? De ce pleci tot timpul de acasă?
 
 640
-01:31:31,792 --> 01:31:33,709
-care pot să ucidă...
+00:40:25,828 --> 00:40:28,564
+De ce nu stai acasă pentru un timp? Ar trebui să mai stai și jos!”
 
 641
-01:31:33,999 --> 01:31:39,709
-Deci el are capacitatea să ucidă şi să distrugă ce este rău,
+00:40:28,765 --> 00:40:33,326
+„În comunitatea noastră, un bărbat care stă tot timpul în casă
 
 642
-01:31:39,875 --> 01:31:46,999
-şi să dea binecuvântări şi curaj discipolilor lui.
+00:40:33,527 --> 00:40:35,011
+este numit «ghar gusana»,
 
 643
-01:31:48,625 --> 01:31:52,375
-Aceasta este ultima încarnare care se numeşte Kalaki.
+00:40:35,212 --> 00:40:37,511
+adică «cel care stă tot timpul în casă»” – Mi-a spus el.
 
 644
-01:31:52,500 --> 01:31:56,166
-În limbajul comun îi spuneţi Kalaki, dar de fapt este Nishkalanka.
+00:40:37,712 --> 00:40:40,717
+L-am întrebat: „Cum e numit atunci cel ce fuge tot timpul de acasă?
 
 645
-01:31:56,250 --> 01:31:58,000
-Este calul alb.
+00:40:40,918 --> 00:40:43,732
+Ghar bhagna? (n.tr. «cel care fuge, dispare»).
 
 646
-01:31:58,125 --> 01:32:03,208
-Deci Kartikeya este cel care stă pe calul alb.
+00:40:43,933 --> 00:40:46,150
+Ar trebui să fie undeva între aceste două extreme”.
 
 647
-01:32:03,417 --> 01:32:06,999
-Deci acum inocenţa creşte în voi
+00:40:46,351 --> 00:40:48,158
+Dar e specific bărbaților, în regulă.
 
 648
-01:32:07,000 --> 01:32:11,417
-până la stadiul de Kartikeya.
+00:40:48,359 --> 00:40:51,088
+Însă noi, în Sahaja Yoga,
 
 649
-01:32:11,542 --> 01:32:14,999
-Acest lucru s-a înfăptuit astăzi pe acest pământ,
+00:40:51,289 --> 00:40:55,339
+putem să stabilim un echilibru între aceste două ipostaze.
 
 650
-01:32:15,000 --> 01:32:16,999
-pe care voi îl numiţi Deutschland,
+00:40:57,952 --> 00:41:01,240
+Asta face Sahaja Yoga: vă dă echilibru.
 
 651
-01:32:17,000 --> 01:32:21,834
-şi unde Kartikeya se va naşte în voi, se va trezi în voi.
+00:41:01,441 --> 00:41:04,564
+Apoi începeţi să vă bucuraţi atât de mult unul de celălalt,
 
 652
-01:32:21,999 --> 01:32:24,000
-Dumnezeu să vă binecuvânteze.
+00:41:04,765 --> 00:41:08,612
+încât vă bucurați atât în casă cât și în exterior.
 
 653
-01:32:40,208 --> 01:32:43,000
-Acum dacă vreţi puteţi să cântaţi ceva,
+00:41:08,813 --> 00:41:12,849
+Puteţi fi împreună atât în casă, cât şi în afara ei.
 
 654
-01:32:43,208 --> 01:32:45,999
-de exemplu Ya Devi Sarva Buteshu sau ce vă place.
+00:41:13,662 --> 00:41:15,036
+Interesele sunt aceleaşi,
 
 655
-01:32:46,083 --> 01:32:49,417
-Aş vrea să vină aici şapte femei căsătorite
+00:41:15,237 --> 00:41:18,870
+pentru că încep să vă intereseze aceleaşi lucruri.
 
 656
-01:32:54,625 --> 01:32:56,417
-să mă ajute.
+00:41:20,547 --> 00:41:24,656
+Aşa cum florile, care cad pe Mama Pământ,
 
 657
-01:32:56,500 --> 01:33:01,417
-Pentru început să vină fetiţe dacă sunt.
+00:41:24,857 --> 00:41:26,735
+o înmiresmează,
 
 658
-01:33:01,500 --> 01:33:03,625
-Să vină fetiţele.
+00:41:26,936 --> 00:41:30,971
+iar apoi putem spune că Mama Pământ este plină de miresme -
 
 659
-01:33:06,999 --> 01:33:10,041
-Puţin mai încolo, când îmi puneţi ghirlanda, bine?
+00:41:31,840 --> 00:41:34,561
+atât de frumos este.
 
 660
-01:33:10,125 --> 01:33:12,999
-Acum să vină fetele.
+00:41:36,284 --> 00:41:38,178
+În regulă.
 
 661
-01:33:13,000 --> 01:33:16,417
-Unde sunt fetele? Să vină toate fetele.
+00:41:38,379 --> 00:41:41,608
+Aşadar în ceea ce priveşte educaţia am dat deja instrucţiuni;
 
 662
-01:33:16,500 --> 01:33:18,417
-Care sunt celelalte fete care trebuie să vină?
+00:41:41,809 --> 00:41:45,386
+și am spus deja că nu trebuie să o ridicăm în slăvi
 
 663
-01:33:20,000 --> 01:33:25,417
-Bine. Veniţi. Aşa, veniţi.
+00:41:45,587 --> 00:41:49,087
+pe această Maria Montessori și așa mai departe.
 
 664
-01:33:28,000 --> 01:33:29,999
-Şi voi puteţi veni, amândouă.
+00:41:49,946 --> 00:41:53,205
+Vom avea şcoli pe principiile Sahaja Yoga.
 
 665
-01:33:30,000 --> 01:33:34,000
-E-n regulă, veniţi şi voi, amândouă.
+00:41:53,406 --> 00:41:54,822
+Restul sunt metode lipsite de sens!
 
 666
-01:33:44,417 --> 01:33:46,500
-Aşezaţi-vă, aşezaţi-vă.
+00:41:55,023 --> 00:41:58,032
+Fiindcă am văzut că femeile care predau în stilul Mariei Montessori
 
 667
-01:33:47,625 --> 01:33:53,834
-Dacă e vreo fata nemăritată, orice fată nemăritată, vă rog veniţi.
+00:41:58,233 --> 00:42:00,434
+au devenit oribile.
 
 668
-01:34:02,999 --> 01:34:05,625
-Cele care nu sunteţi încă măritate.
+00:42:01,689 --> 00:42:05,944
+Am fost uimită de egoul pe care l-au dezvoltat.
 
 669
-01:34:07,000 --> 01:34:10,999
-Oricare – veniţi.
+00:42:07,605 --> 00:42:10,902
+Deci voi deveniți profesori Sahaja Yoghini
 
 670
-01:34:20,000 --> 01:34:22,709
-Scoate asta, cred. Roagă pe cineva să scoată asta.
+00:42:11,103 --> 00:42:14,892
+şi vom avea o şcoală pe principiile Sahaja Yoga.
 
 671
-01:35:25,417 --> 01:35:29,792
-Gregoire: Shri Mataji, înainte să cântăm imnul către Zeiţă,
+00:42:19,332 --> 00:42:21,924
+În Sydney sau în Melbourne -
 
 672
-01:35:29,917 --> 01:35:35,917
-am dori să vă citim o versiune modificată a rugăciunii Tatăl nostru.
+00:42:22,125 --> 00:42:25,120
+am început cu o şcoală în Melbourne, care merge bine,
 
 673
-01:35:39,999 --> 01:35:41,208
-Mama noastră
+00:42:25,321 --> 00:42:28,452
+iar acum urmează să avem o şcoală la fel și în Sydney.
 
 674
-01:35:41,417 --> 01:35:43,000
-Care eşti pe Pământ,
+00:42:28,653 --> 00:42:31,854
+Am spus deschis, fără teamă, că e o şcoală ce aparține Sahaja Yogăi.
 
 675
-01:35:43,208 --> 01:35:45,709
-Sfinţească-se numele Tău,
+00:42:32,055 --> 00:42:34,854
+Este în mod deschis o şcoală bazată pe principiile din Sahaja Yoga
 
 676
-01:35:45,999 --> 01:35:48,333
-Vie împărăţia Ta,
+00:42:35,055 --> 00:42:38,775
+și s-au obţinut atâtea rezultate prin intermediul ei.
 
 677
-01:35:48,500 --> 01:35:50,500
-Facă-se voia Ta
+00:42:38,976 --> 00:42:41,561
+De ce să ne ascundem?
 
 678
-01:35:50,625 --> 01:35:53,875
-Precum în cer aşa şi pe Pământ.
+00:42:41,762 --> 00:42:44,581
+Ar trebui să spunem tuturor că este o şcoală Sahaja Yoga.
 
 679
-01:35:54,000 --> 01:35:58,208
-Dă-ne nouă astăzi vibraţiile Tale divine
+00:42:44,782 --> 00:42:47,927
+Deci voi, profesorii, trebuie să deveniţi experţi în Sahaja Yoga,
 
 680
-01:35:58,417 --> 01:35:59,208
-Şi iartă-ne nouă greşelile noastre
+00:42:48,128 --> 00:42:53,611
+astfel încât copiii să devină buni Sahaja Yoghini și Sahaja Yoghine.
 
 681
-01:36:03,625 --> 01:36:04,834
-Precum şi noi iertăm
+00:42:53,812 --> 00:42:55,537
+Profesorii nu ar trebui să fie egoişti,
 
 682
-01:36:04,834 --> 01:36:07,208
-Greşiţilor noştri.
+00:42:55,738 --> 00:42:57,907
+nu ar trebui să aibă deloc ego sau blocaje.
 
 683
-01:36:07,208 --> 01:36:09,625
-Şi nu ne duce pe noi în Maya
+00:42:58,108 --> 00:43:00,929
+Cine captează nu este un bun profesor din perspectiva Sahaja Yogăi.
 
 684
-01:36:10,208 --> 01:36:12,625
-Ci ne izbăveşte de tot răul,
+00:43:01,130 --> 00:43:05,072
+Nu este ca într-o şcoală de tip Maria Montessori,
 
 685
-01:36:12,625 --> 01:36:14,417
-Căci ale Tale sunt Tatăl,
+00:43:05,273 --> 00:43:07,898
+în care profesoara bea și fumează noaptea,
 
 686
-01:36:15,000 --> 01:36:16,834
-Copiii şi mărirea,
+00:43:08,099 --> 00:43:10,760
+iar dimineaţa este profesoară în stilul Maria Montessori.
 
 687
-01:36:16,834 --> 01:36:21,625
-În vecii vecilor. Amin.
+00:43:10,961 --> 00:43:13,629
+Aici trebuie să fiţi în primul rând adevărate Sahaja Yoghine
 
 688
-01:36:36,000 --> 01:36:40,208
-Atât de frumos.
+00:43:13,830 --> 00:43:17,455
+şi numai pe urmă puteţi preda în şcoli bazate pe Sahaja Yoga.
+
+689
+00:43:18,194 --> 00:43:19,915
+Trebuie să aveţi această calitate -
+
+690
+00:43:20,116 --> 00:43:21,610
+este foarte important,
+
+691
+00:43:21,811 --> 00:43:25,348
+la fel cum este important să avem elevi care sunt suflete realizate
+
+692
+00:43:25,549 --> 00:43:28,141
+sau care își pot primi Realizarea.
+
+693
+00:43:29,873 --> 00:43:31,303
+Bine.
+
+694
+00:43:31,504 --> 00:43:35,700
+Deci Puja de astăzi este special pentru Shri Kartikeya.
+
+695
+00:43:36,737 --> 00:43:39,618
+El reprezintă
+
+696
+00:43:39,819 --> 00:43:49,406
+marele căpitan, putem spune,
+
+697
+00:43:50,353 --> 00:43:57,220
+sau conducătorul tuturor ganas.
+
+698
+00:43:57,421 --> 00:44:01,611
+Este asemeni unui Comandant Suprem.
+
+699
+00:44:02,640 --> 00:44:05,130
+Shri Ganesha este Regele,
+
+700
+00:44:05,331 --> 00:44:07,761
+dar Shri Kartikeya este Comandantul Suprem.
+
+701
+00:44:07,962 --> 00:44:15,300
+Și pentru că este în caracterul germanilor să comande totul,
+
+702
+00:44:16,597 --> 00:44:18,632
+vom oferi această Puja,
+
+703
+00:44:18,833 --> 00:44:24,852
+prin care bărbaţii vor dobândi controlul Spiritului lor
+
+704
+00:44:26,052 --> 00:44:28,481
+şi a calităţilor lor masculine,
+
+705
+00:44:28,682 --> 00:44:33,006
+iar femeile vor obține controlul calităţilor lor feminine.
+
+706
+00:44:33,836 --> 00:44:39,247
+A comanda înseamnă cu totul altceva decât a fi stăpân.
+
+707
+00:44:40,339 --> 00:44:41,658
+Un stăpân posedă,
+
+708
+00:44:41,859 --> 00:44:44,599
+pe când un comandant nu.
+
+709
+00:44:46,551 --> 00:44:49,320
+El nu deține,
+
+710
+00:44:49,521 --> 00:44:51,564
+acest sentiment îi lipsește.
+
+711
+00:44:51,765 --> 00:44:53,427
+Sentimentul posesiunii dispare şi el,
+
+712
+00:44:53,628 --> 00:44:55,664
+voi fiind doar la cârmă.
+
+713
+00:44:57,265 --> 00:44:59,769
+Aceasta este starea la care trebuie să ajungeți,
+
+714
+00:44:59,970 --> 00:45:02,611
+să transcendeți de la nivelul lui Shri Ganesha
+
+715
+00:45:02,812 --> 00:45:07,539
+la cel al lui Shri Kartikeya.
+
+716
+00:45:07,740 --> 00:45:09,262
+Exact invers.
+
+717
+00:45:09,463 --> 00:45:13,167
+Shri Ganesha este binevoitor, este regele, stă așezat frumos
+
+718
+00:45:13,729 --> 00:45:16,852
+deținând într-adevăr toate puterile -
+
+719
+00:45:17,053 --> 00:45:19,335
+inocenţa este prezentă.
+
+720
+00:45:20,081 --> 00:45:27,389
+Dar Kartikeya este cel care comandă inocenţa.
+
+721
+00:45:30,055 --> 00:45:33,263
+El vă dă puterea de a fi la cârma ei.
+
+722
+00:45:35,746 --> 00:45:36,750
+El comandă.
+
+723
+00:45:36,951 --> 00:45:39,473
+După Guru Puja este bine
+
+724
+00:45:39,674 --> 00:45:43,062
+să avem puterea de a-i conduce pe alţii.
+
+725
+00:45:44,473 --> 00:45:50,352
+Iar acest spirit conducător se manifestă la bărbaţi
+
+726
+00:45:50,811 --> 00:45:52,863
+prin modul lor de a vorbi,
+
+727
+00:45:53,064 --> 00:45:56,279
+prin dinamismul lor,
+
+728
+00:45:56,480 --> 00:45:59,473
+prin realizările personale.
+
+729
+00:45:59,674 --> 00:46:03,558
+Iar la femei se manifestă prin puterea lor de a iubi,
+
+730
+00:46:03,759 --> 00:46:05,531
+prin puterea de a îndura,
+
+731
+00:46:05,732 --> 00:46:09,465
+prin comportamentul lor plin de grație,
+
+732
+00:46:10,348 --> 00:46:13,014
+prin iertare, prin compasiune.
+
+733
+00:46:14,132 --> 00:46:18,419
+Deci haideți să dezvoltăm astăzi calitatea de a comanda –
+
+734
+00:46:18,620 --> 00:46:21,545
+care se referă nu la ceea ce posedăm,
+
+735
+00:46:21,746 --> 00:46:24,655
+ci la poziţia pe care o avem pentru a avea controlul.
+
+736
+00:46:25,123 --> 00:46:28,443
+Sper că înţelegeţi cine este Shri Kartikeya.
+
+737
+00:46:28,644 --> 00:46:31,545
+Dumnezeu să vă binecuvânteze!
+
+738
+00:46:34,031 --> 00:46:36,947
+Deci haideți să începem Puja.
+
+739
+00:46:49,242 --> 00:46:51,661
+Cine a făcut acest Shri Ganesha?
+
+740
+00:46:53,138 --> 00:46:55,251
+Tu l-ai făcut?
+
+741
+00:46:55,452 --> 00:46:57,952
+E atât de drăguț.
+
+742
+00:47:01,557 --> 00:47:06,974
+Ai multă îndemânare. Dumnezeu să te binecuvânteze!
+
+743
+00:47:12,390 --> 00:47:17,473
+Chemaţi şi câţiva Sahaja Yoghini germani.
+
+744
+00:47:30,139 --> 00:47:33,557
+Să vină mai multe persoane din Germania.
+
+745
+00:47:35,139 --> 00:47:37,932
+Şi doamne, desigur.
+
+746
+00:48:44,139 --> 00:48:47,099
+Cea care a făcut statueta lui Shri Ganesha este din Germania?
+
+747
+00:48:51,015 --> 00:48:55,139
+Spală și acest picior. Pe amândouă.
+
+748
+00:49:06,306 --> 00:49:10,065
+Toţi cei care Mi-au scris să vin în Germania
+
+749
+00:49:10,265 --> 00:49:12,932
+să vină să-Mi spele Picioarele.
+
+750
+00:49:13,181 --> 00:49:16,890
+Dumnezeu să vă binecuvânteze! Dumnezeu să vă binecuvânteze! Vă mulţumesc!
+
+751
+00:49:19,139 --> 00:49:25,974
+Scoate asta. Scoate-o. Nu este necesară.
+
+752
+00:55:49,015 --> 00:55:50,723
+Numiți-o Kamala, Kamala.
+
+753
+00:55:51,139 --> 00:55:53,607
+Kamala este numele Zeiţei, bine?
+
+754
+00:55:53,807 --> 00:56:02,306
+A zeiței Laksmi. Kamala. Dumnezeu să vă binecuvânteze.
+
+755
+00:56:20,974 --> 00:56:25,723
+Puteți cânta pentru scurt timp pentru că mai sunt două doamne.
+
+756
+00:56:27,974 --> 00:56:31,807
+Şi mai este şi Guido. Adică Hugo. Hugo trebuie să ofere baia de picioare de asemenea.
+
+757
+00:56:43,598 --> 00:56:46,348
+E bine.
+
+758
+00:57:07,140 --> 00:57:10,140
+Atât.
+
+759
+00:57:13,140 --> 00:57:15,140
+Dumnezeu să vă binecuvânteze.
+
+760
+00:57:19,140 --> 00:57:21,974
+Veniţi pe partea cealaltă.
+
+761
+00:57:23,140 --> 00:57:27,057
+Ce doamne mai sunt? Mai sunt doamne? Sau nu mai sunt?
+
+762
+00:57:42,140 --> 00:57:44,140
+Bine. Dumnezeu să vă binecuvânteze. Cu mai multă putere. Mai tare. Spune-i să maseze cu mai multă putere. Tare. Tare. E bine.
+
+763
+00:59:42,140 --> 00:59:46,223
+Folosiţi aceeaşi apă. Folosiți aceeași apă. Este foarte multă. Folosiți aceeași apă. Nu e nevoie să turnați. E deja prea multă apă. Folosiți-o tot pe asta. Masați cu putere. Masează cu putere. Masează cu putere. Masează cu mâinile. Acum puteți veni voi.
+
+764
+01:00:46,557 --> 01:00:50,807
+Pot folosi aceeaşi apă, deoarece e deja prea multă apă.
+
+765
+01:04:36,140 --> 01:04:40,390
+Deci, acum putem să rostim cele 1000 de nume ale lui Shri Kartikeya.
+
+766
+01:04:41,765 --> 01:04:46,140
+Nu, cele 108.
+
+767
+01:04:49,223 --> 01:04:54,140
+M-am gândit că ar fi o idee bună să spunem cele 1000 de nume, dar hai să lăsăm numai 108.
+
+768
+01:04:59,139 --> 01:05:01,974
+Să vedem cum merge cu cele 108 nume.
+
+769
+01:05:04,139 --> 01:05:06,306
+Spuneţi-le cu voce tare.
+
+770
+01:05:56,557 --> 01:05:59,431
+Spune tare, tare. Nu este clar.
+
+771
+01:06:06,139 --> 01:06:08,348
+Nu, nu. Daţi-i alt microfon,
+
+772
+01:06:08,974 --> 01:06:10,690
+daţi-i încă unul,
+
+773
+01:06:10,890 --> 01:06:14,140
+deoarece trebuie să se audă clar, altfel nu are niciun înţeles.
+
+774
+01:28:54,557 --> 01:28:58,515
+Aceste 108 nume, dacă aţi observat,
+
+775
+01:28:59,932 --> 01:29:06,598
+arată că Shri Kartikeya este inocenţa
+
+776
+01:29:06,974 --> 01:29:11,682
+care acţionează pe partea dreaptă, pe Pingala nadi.
+
+777
+01:29:11,974 --> 01:29:17,140
+Iar asta înseamnă că este de asemenea în strânsă legătura cu prana.
+
+778
+01:29:17,557 --> 01:29:23,273
+Vă dă prana. Prana este suflul vital
+
+779
+01:29:23,473 --> 01:29:26,306
+din timpul inspirației și expirației.
+
+780
+01:29:26,557 --> 01:29:28,440
+Deci este în legătură cu partea dreptă.
+
+781
+01:29:28,640 --> 01:29:32,939
+De asemenea are legătură cu eternitatea – Anantari (Hindi to be checked).
+
+782
+01:29:33,139 --> 01:29:37,939
+Anantar (Hindi to be checked) este şarpele, Shesha,
+
+783
+01:29:38,139 --> 01:29:41,565
+care este fratele lui Vishnu.
+
+784
+01:29:41,765 --> 01:29:46,940
+Deci El este cel reprezentat aici în forma lui Shri Kartikeya.
+
+785
+01:29:47,140 --> 01:29:49,440
+El este numit Anantar.
+
+786
+01:29:49,640 --> 01:29:51,515
+Deci El este focul.
+
+787
+01:29:52,140 --> 01:29:58,607
+El este cel care aprinde în voi capacitatea
+
+788
+01:29:58,807 --> 01:30:01,140
+de a consuma forţa,
+
+789
+01:30:02,140 --> 01:30:07,140
+capacitatea de a conduce oamenii,
+
+790
+01:30:07,557 --> 01:30:16,815
+precum şi capacitatea de a fi o persoană genială.
+
+791
+01:30:17,015 --> 01:30:20,939
+Vedeţi, o persoană inocentă poate fi extrem de inteligentă.
+
+792
+01:30:21,139 --> 01:30:27,815
+Toate aceste capacităţi sunt exprimate în Kartikeya Swarupa,
+
+793
+01:30:28,015 --> 01:30:30,140
+în acea stare.
+
+794
+01:30:30,348 --> 01:30:34,140
+Astăzi, venerându-l pe Shri Kartikeya, trebuie să ştim
+
+795
+01:30:34,557 --> 01:30:38,390
+că El este trezit în noi.
+
+796
+01:30:39,139 --> 01:30:45,139
+Şi având forța Lui în interior trebuie să luptăm.
+
+797
+01:30:45,348 --> 01:30:47,140
+În definitiv El este Nishkalanka.
+
+798
+01:30:47,348 --> 01:30:49,440
+El este luptătorul.
+
+799
+01:30:49,640 --> 01:30:54,139
+Deci de la Shri Ganesha la Cristos şi apoi la Nishkalanka.
+
+800
+01:30:54,348 --> 01:30:56,231
+Acestea sunt cele trei stadii
+
+801
+01:30:56,431 --> 01:30:59,231
+prin care a trecut inocenţa.
+
+802
+01:30:59,431 --> 01:31:07,939
+De la Shri Ganesha la Shri Kartikeya iar acum la Cristos.
+
+803
+01:31:08,139 --> 01:31:11,348
+Iar de la Cristos la Nishkalanka.
+
+804
+01:31:11,557 --> 01:31:14,857
+În forma Nishkalanka - El este inocent,
+
+805
+01:31:15,057 --> 01:31:18,231
+deci nu există kalanka (Hindi to be checked), nu are nicio pată, nimic.
+
+806
+01:31:18,431 --> 01:31:20,440
+Este absolut pur, imaculat.
+
+807
+01:31:20,640 --> 01:31:23,139
+În plus este arzător.
+
+808
+01:31:24,140 --> 01:31:27,523
+Mai mult de atât, are toate calităţile lui Ekadesha Rudra,
+
+809
+01:31:27,723 --> 01:31:31,732
+adică cele 11 calităţi sau puteri ale lui Shri Shiva,
+
+810
+01:31:31,932 --> 01:31:33,849
+care pot ucide...
+
+811
+01:31:34,139 --> 01:31:39,815
+Deci El are capacitatea să ucidă şi să distrugă ce este rău,
+
+812
+01:31:40,015 --> 01:31:47,139
+şi să dea binecuvântări şi curaj discipolilor Lui.
+
+813
+01:31:48,765 --> 01:31:52,440
+Aceasta este ultima încarnare care se numeşte Kalki.
+
+814
+01:31:52,640 --> 01:31:56,190
+În mod normal îl numiţi Kalki, dar de fapt este Nishkalanka,
+
+815
+01:31:56,390 --> 01:31:58,065
+pe calul alb.
+
+816
+01:31:58,265 --> 01:32:03,348
+Deci Shri Kartikeya este cel care stă pe calul alb.
+
+817
+01:32:03,557 --> 01:32:06,940
+Deci modul în care inocenţa creşte în voi acum
+
+818
+01:32:07,140 --> 01:32:11,482
+este până la nivelul lui Shri Kartikeya.
+
+819
+01:32:11,682 --> 01:32:14,940
+Acest lucru s-a înfăptuit astăzi pe acest tărâm,
+
+820
+01:32:15,140 --> 01:32:16,940
+Deutschland, așa cum îl numiți voi,
+
+821
+01:32:17,140 --> 01:32:21,939
+unde Kartikeya trebuie să se nască în voi, se se trezească în voi.
+
+822
+01:32:22,139 --> 01:32:24,140
+Dumnezeu să vă binecuvânteze.
+
+823
+01:32:40,348 --> 01:32:43,140
+Acum dacă vreţi puteţi să cântaţi ceva,
+
+824
+01:32:43,348 --> 01:32:46,023
+sau puteți spune Ya Devi Sarva Buteshu, orice doriți.
+
+825
+01:32:46,223 --> 01:32:49,557
+Aş vrea să vină aici şapte femei căsătorite
+
+826
+01:32:54,765 --> 01:32:56,440
+să Mă ajute.
+
+827
+01:32:56,640 --> 01:33:01,440
+Pentru început să vină niște fetiţe, dacă sunt prezente aici.
+
+828
+01:33:01,640 --> 01:33:03,765
+Să vină niște fetiţe pe scenă.
+
+829
+01:33:07,139 --> 01:33:10,065
+Puţin mai târziu, când îmi veți oferi ghirlanda.
+
+830
+01:33:10,265 --> 01:33:12,940
+Acum să vină fetițele.
+
+831
+01:33:13,140 --> 01:33:16,440
+Unde sunt fetițele? Să vină toate fetele.
+
+832
+01:33:16,640 --> 01:33:18,557
+Ce alte fetițe mai sunt aici?
+
+833
+01:33:20,140 --> 01:33:25,557
+Bine. Urcaţi pe scenă. În regulă, veniţi, veniți.
+
+834
+01:33:28,140 --> 01:33:29,940
+Şi voi puteţi veni, amândouă.
+
+835
+01:33:30,140 --> 01:33:34,140
+În regulă, veniţi şi voi, amândouă.
+
+836
+01:33:44,557 --> 01:33:46,640
+Stați jos, stați jos.
+
+837
+01:33:47,765 --> 01:33:53,974
+Acum dacă este aici o fată nemăritată, o adolescentă, am să o rog să vină.
+
+838
+01:34:03,139 --> 01:34:05,765
+O fată care nu este căsătorită încă.
+
+839
+01:34:07,140 --> 01:34:11,139
+Vino.
+
+840
+01:34:20,140 --> 01:34:22,849
+Dă la o parte asta. Roagă pe cineva să o scoată. Înlăturați și prosoapele. Acum, unde este (Sharmin Dharma) sau Maggie sau (unclear). Maggie, dă-le kumkum fetițelor. (Hindi)
+
+841
+01:35:25,557 --> 01:35:29,857
+Gregoire: Shri Mataji, înainte să cântăm imnul Zeiţei,
+
+842
+01:35:30,057 --> 01:35:36,057
+am dori să vă citim o versiune modificată a rugăciunii Tatăl nostru.
+
+843
+01:35:40,139 --> 01:35:41,348
+Mama noastră
+
+844
+01:35:41,557 --> 01:35:43,140
+Care eşti pe Pământ,
+
+845
+01:35:43,348 --> 01:35:45,849
+Sfinţească-se numele Tău,
+
+846
+01:35:46,139 --> 01:35:48,440
+Vie împărăţia Ta,
+
+847
+01:35:48,640 --> 01:35:50,565
+Facă-se voia Ta
+
+848
+01:35:50,765 --> 01:35:53,940
+Precum în cer aşa şi pe pământ.
+
+849
+01:35:54,140 --> 01:35:58,348
+Dă-ne nouă astăzi vibraţiile Tale divine
+
+850
+01:35:58,557 --> 01:35:59,348
+și iartă-ne nouă greşelile noastre
+
+851
+01:36:03,765 --> 01:36:04,774
+precum şi noi iertăm
+
+852
+01:36:04,974 --> 01:36:07,148
+greşiţilor noştri.
+
+853
+01:36:07,348 --> 01:36:09,765
+Şi nu ne duce pe noi în maya
+
+854
+01:36:10,348 --> 01:36:12,565
+ci ne izbăveşte de cel rău,
+
+855
+01:36:12,765 --> 01:36:14,557
+căci ale Tale sunt Tatăl,
+
+856
+01:36:15,140 --> 01:36:16,774
+copiii şi slava,
+
+857
+01:36:16,974 --> 01:36:21,765
+acum și în vecii vecilor. Amin.
+
+858
+01:36:36,140 --> 01:36:40,348
+Foarte drăguț.
 
