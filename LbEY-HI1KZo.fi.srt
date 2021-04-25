@@ -137,7 +137,7 @@ Minusta meidän pitää olla hyvin varovaisia
 
 33
 00:01:43,720 --> 00:01:46,800
-koska meillä on ollut kaksi suurta
+koska olemme tehneet kaksi suurta
   kuperkeikkaa, voidaan sanoa,
 
 34
@@ -1070,7 +1070,7 @@ Hän pelästyi pahanpäiväisesti.
 Katsokaas, jos teillä on joku lapsistanne mukana,
 
 259
-00:11:51,320 --> 00:11:53,360
+00:11:51,520 --> 00:11:53,360
 teidän pitää kertoa heille tarinoita. Kerron miten.
 
 260
@@ -2012,16 +2012,16 @@ sahaja-joogeja, aivan erityisiä ihmisiä,
 joilla on erityinen asema,
 
 490
-00:22:24,080 --> 00:22:26,920
+00:22:25,080 --> 00:22:27,920
 ja meillä on hyvin paljon etuoikeuksia,
 
 491
-00:22:26,920 --> 00:22:29,760
+00:22:27,920 --> 00:22:30,160
 joten meidän on käyttäydyttävä
   äärimmäisen arvokkaasti.
 
 492
-00:22:30,160 --> 00:22:32,840
+00:22:30,160 --> 00:22:33,140
 Olen nähnyt ihmisten nauravan aivan tyhjästä.
 
 493
@@ -2044,12 +2044,12 @@ Vaikka Minä istuisin täällä edessä,
 ja jutteluaan, missä ei ole mitään järkeä.
 
 497
-00:22:45,840 --> 00:22:48,840
+00:22:45,840 --> 00:22:49,240
 Jos Gurunne istuu edessänne,
   teidän täytyy pysyä hiljaa,
 
 498
-00:22:48,840 --> 00:22:50,720
+00:22:49,240 --> 00:22:50,720
 teidän pitää olla nöyriä,
 
 499
@@ -2069,12 +2069,12 @@ mikä meidän täytyy oppia vähitellen,
 koska teillä ei ole koskaan ollut
 
 503
-00:22:58,920 --> 00:23:01,800
+00:22:59,120 --> 00:23:01,800
 kunnollista opetusta henkisestä elämästä.
 
 504
 00:23:01,800 --> 00:23:04,800
-Näissä kirkoilla tai
+Näillä kirkoilla tai
 
 505
 00:23:04,800 --> 00:23:06,840
@@ -2082,7 +2082,7 @@ temppeleillä, joita olette nähneet
 
 506
 00:23:06,840 --> 00:23:09,040
-tai mitä tahansa muuta teillä on ollut,
+tai millä tahansa muilla,
 
 507
 00:23:09,040 --> 00:23:13,800
@@ -2134,151 +2134,148 @@ menkää seisomaan peilin eteen ja sanokaa:
 "No, ruvetaanpas vihaiseksi!"
 
 519
-00:23:41,760 --> 00:23:45,880
-Kohdatkaa aina itsenne, ja se auttaa.
+00:23:41,760 --> 00:23:48,080
+Arvioikaa koko ajan itseänne,
+ei muita, siitä on apua.
 
 520
-00:23:45,880 --> 00:23:47,720
-Älkää arvioiko muita.
+00:23:48,100 --> 00:23:51,480
+Minun on kerrottava teille, että aina, kun huomaa
 
 521
-00:23:47,800 --> 00:23:50,880
-Minun on kerrottava teille, että aina, kun huomaatte
-
-522
-00:23:50,880 --> 00:23:54,400
+00:23:51,480 --> 00:23:54,400
 sellaisten ihmisten tulevan esiin,
   he muodostavat ryhmän.
 
-523
+522
 00:23:54,400 --> 00:23:57,760
 Ja tämä ryhmä voi kasvaa suureksi
   tai kutistua pieneksi,
 
-524
+523
 00:23:57,760 --> 00:23:59,000
 teistä riippuen.
 
-525
+524
 00:23:59,000 --> 00:24:00,840
 Teidän pitää vain sanoa:
 
-526
+525
 00:24:00,860 --> 00:24:03,880
 "Äiti on sanonut, että ei pidä
   kuunnella sanaakaan toisia vastaan".
 
-527
+526
 00:24:03,880 --> 00:24:05,120
 Ei pidä kuunnella.
 
-528
+527
 00:24:05,800 --> 00:24:07,880
 Alussa joutuu tietysti
 
-529
+528
 00:24:07,880 --> 00:24:09,720
 sietämään aika paljon.
 
-530
+529
 00:24:09,720 --> 00:24:13,440
 Jos vaikka katsoo Minulle kirjoitettuja kirjeitä
 
-531
+530
 00:24:13,720 --> 00:24:15,720
 Sahaja Yogan alkuaikoina,
 
-532
+531
 00:24:15,720 --> 00:24:17,880
 ne tekevät aivan hulluksi.
 
-533
+532
 00:24:17,880 --> 00:24:19,920
 Yksi puhuu pahaa siitä,
 
-534
+533
 00:24:19,920 --> 00:24:21,760
 toinen puhuu pahaa tuosta,
 
-535
+534
 00:24:21,760 --> 00:24:24,920
 kuka tahansa tulisi hulluksi kaiken sen lukemisesta.
 
-536
+535
 00:24:24,920 --> 00:24:26,720
 Niinpä en koskaan lukenut niitä.
 
-537
+536
 00:24:26,720 --> 00:24:29,000
 Minä vain poltin kaikki ne kirjeet.
 
-538
+537
 00:24:29,000 --> 00:24:31,720
 Mutta onneksi näistä ihmisistä on nyt tullut
 
-539
+538
 00:24:31,720 --> 00:24:32,840
 äärettömän järkeviä,
 
-540
+539
 00:24:32,840 --> 00:24:34,720
 he ymmärtävät vastuunsa
 
-541
+540
 00:24:34,720 --> 00:24:36,880
 ja heistä on tullut hyvin kauniita ihmisiä,
 
-542
+541
 00:24:36,880 --> 00:24:38,720
 hyvin ymmärtäväisiä,
 
-543
+542
 00:24:38,720 --> 00:24:40,880
 ja he tuntevat suurta rakkautta toisiaan kohtaan,
 
-544
+543
 00:24:40,880 --> 00:24:42,720
 se on hyvin mielenkiintoista.
 
-545
+544
 00:24:42,720 --> 00:24:46,720
 Vain rakkaudessa voitte oppia tuntemaan
   toiset ihmiset, ette vihassa.
 
-546
+545
 00:24:46,720 --> 00:24:49,920
 Jos vihaatte jotakin ihmistä,
   miten voitte oppia tuntemaan hänet
 
-547
+546
 00:24:49,920 --> 00:24:51,520
 ja hänen kauneutensa?
 
-548
+547
 00:24:51,520 --> 00:24:54,260
 Silloin alatte nähdä tämän ihmisen kauneuden
 
-549
+548
 00:24:54,260 --> 00:24:56,460
 ja alatte nauttia tästä ihmisestä.
 
-550
+549
 00:24:56,460 --> 00:24:58,260
 Tätä on Sahaja Yoga.
 
-551
+550
 00:24:58,280 --> 00:25:01,480
 Haluaisin teidän kasvattavan lapsenne
 
-552
+551
 00:25:01,720 --> 00:25:06,840
 sillä tavalla, että he tuntevat vastuunsa
 
-553
+552
 00:25:06,880 --> 00:25:08,760
 sahaja-joogeina.
 
-554
+553
 00:25:11,920 --> 00:25:13,760
 Jumala siunatkoon teitä!
 
