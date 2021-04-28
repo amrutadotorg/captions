@@ -1004,19 +1004,19 @@ Pagrindinis gyvybės, kurią turime, principas yra mūsų ašis.
 
 252
 00:15:15,217 --> 00:15:17,592
-Mes turime stovėti ant savo ašies.
+Mes turime laikytis savo ašies.
 
 253
 00:15:18,009 --> 00:15:20,425
-Tie, kurie nestovi ant savo ašies,
+Tie, kurie nesilaiko savo ašies,
 
 254
 00:15:20,426 --> 00:15:23,801
-stovi labiau kairėje ar dešinėje,
+yra nukrypę labiau į kairę ar dešinę
 
 255
 00:15:24,051 --> 00:15:28,342
-jie gali save visiškai sunaikinti.
+ir gali visiškai susinaikinti.
 
 256
 00:15:28,759 --> 00:15:31,467
@@ -1024,27 +1024,27 @@ Jie gali būti sunaikinti
 
 257
 00:15:31,467 --> 00:15:35,217
-ir dėl per didelio dešiniapusiškumo, ir kairiapusiškumo.
+tiek dėl per didelio dešiniapusiškumo, tiek dėl kairiapusiškumo.
 
 258
 00:15:35,467 --> 00:15:40,051
-Taigi mes turime teisingai elgtis su savo ašimi.
+Taigi, turime tinkamai elgtis su savo ašimi.
 
 259
 00:15:40,342 --> 00:15:43,300
-Žmonėms, neturintiems geros ašies,
+Žmonės, kurių ašis yra silpna,
 
 260
 00:15:43,884 --> 00:15:46,675
-gali būti įvairių čakrų problemų,
+gali turėti įvairių čakrų problemų
 
 261
 00:15:47,051 --> 00:15:52,426
-įvairių asmeninių ydų.
+ir asmeninių ydų.
 
 262
 00:15:53,676 --> 00:15:56,634
-Žmogus, per daug ištempiantis savo ašį,
+Žmogus, kuris per daug įtempia savo ašį,
 
 263
 00:15:56,634 --> 00:15:58,675
@@ -1052,43 +1052,43 @@ iškelia galvą,
 
 264
 00:15:58,676 --> 00:16:00,926
-tai labai dešiniapusiškas žmogus
+jis yra labai dešiniapusiškas
 
 265
 00:16:00,926 --> 00:16:03,634
-ir turintis ego problemų,
+ir turi ego problemų,
 
 266
 00:16:03,634 --> 00:16:06,009
-taip pat ir tas, kuris visiškai nunarina galvą,
+lygiai toks pats yra ir tas, kuris visiškai nunarina galvą,
 
 267
 00:16:06,009 --> 00:16:10,925
-vergiškas žmogus taip pat yra žmogus,
+vergiškas žmogus taip pat
 
 268
 00:16:10,926 --> 00:16:13,467
-vedantis save susinaikinimo link.
+veda save susinaikinimo link.
 
 269
 00:16:13,467 --> 00:16:18,342
-Yra didelė problema tarp šių dviejų tipų.
+Tarp šių dviejų tipų egzistuoja didžiulė problema.
 
 270
 00:16:18,676 --> 00:16:20,676
-Vieni stengiasi dominuoti prieš kitus,
+Vieni stengiasi užvaldyti kitus,
 
 271
 00:16:20,676 --> 00:16:24,926
-ir pradėję dominuoti
+o pradėję valdyti
 
 272
 00:16:24,926 --> 00:16:27,051
-jie iš tikrųjų naikina save,
+iš tikrųjų naikinasi,
 
 273
 00:16:27,051 --> 00:16:30,093
-taip pat kaip ir naikina tuos, prieš kuriuos dominuoja.
+taip pat kaip ir naikina tuos, kuriuos valdo.
 
 274
 00:16:30,093 --> 00:16:31,426
@@ -1108,23 +1108,23 @@ Matėme prancūzus, kurie ėjo ir valdė kitus žmones,
 
 278
 00:16:42,551 --> 00:16:44,384
-taip pat ir portugalai,
+taip pat portugalai,
 
 279
 00:16:44,384 --> 00:16:45,634
-kurie valdė dar kitus.
+valdę dar kitus.
 
 280
 00:16:46,135 --> 00:16:48,550
-Bet visa tai, ką jie darė, kad dominuotų,
+Bet viskas, ką jie darė tam, kad užvaldytų,
 
 281
 00:16:48,551 --> 00:16:50,634
-turi dvigubas reakcijas.
+turi dvigubą poveikį.
 
 282
 00:16:50,884 --> 00:16:53,217
-Pirmiausia dėl jų dominavimo
+Pirmiausia dėl jų užvaldymo
 
 283
 00:16:53,217 --> 00:16:55,300
@@ -1132,7 +1132,7 @@ indai tapo labai vergiški,
 
 284
 00:16:55,801 --> 00:16:58,884
-netgi šiandien jie itin vergiški.
+netgi šiandien yra jie itin vergiški.
 
 285
 00:16:59,217 --> 00:17:01,759
@@ -1144,7 +1144,7 @@ nors privalėtų turėti.
 
 287
 00:17:03,009 --> 00:17:05,299
-Jie labai vergiški žmonės.
+Jie yra labai vergiški žmonės.
 
 288
 00:17:05,551 --> 00:17:07,509
@@ -1160,7 +1160,7 @@ man jie atrodo labai vergiški.
 
 291
 00:17:11,884 --> 00:17:16,342
-Jie bando daryti įvairiausius vergiškus veiksmus,
+Jie bando įvairiai vergiškai elgtis,
 
 292
 00:17:16,342 --> 00:17:19,093
@@ -1180,15 +1180,15 @@ prisidėjo prie jų ego,
 
 296
 00:17:32,884 --> 00:17:35,093
-ir šiandien tai, ką matote,
+ir šiandien matote tai,
 
 297
 00:17:35,300 --> 00:17:37,217
-yra juos naikinantis ego.
+kas yra juos naikinantis ego.
 
 298
 00:17:37,634 --> 00:17:40,634
-Jie yra ant susinaikinimo ribos dėl savo ego.
+Dėl savo ego jie yra ties susinaikinimo riba.
 
 299
 00:17:40,884 --> 00:17:44,217
@@ -1212,11 +1212,10 @@ Turite gerbti kiekvieno žmogaus ašį.
 
 304
 00:17:56,217 --> 00:18:00,217
-Sahadža sogoje aš nelabai pažįstu jus pagal veidus;
-
+Sahadža jogoje aš pažįstu jus ne pagal veidus, 
 305
 00:18:00,676 --> 00:18:02,884
-aš pažįstu jus pagal jūsų čakras,
+o pagal jūsų čakras,
 
 306
 00:18:02,884 --> 00:18:04,135
@@ -1224,51 +1223,51 @@ pagal jūsų Sušumną,
 
 307
 00:18:04,135 --> 00:18:05,759
-kokio tipo Sušumną jūs turite.
+kokia yra jūsų Sušumna.
 
 308
 00:18:06,009 --> 00:18:09,135
-Jeigu jūsų Sušumna gili, aš pažįstu jus kaip gilų asmenį.
+Jeigu jūsų Sušumna – gili, pažįstu jus kaip gilią asmenybę.
 
 309
 00:18:09,342 --> 00:18:11,551
-Jeigu jūs turite paviršutinišką Sušumną,
+Jeigu jūsų Sušumna – paviršutiniška,
 
 310
 00:18:11,551 --> 00:18:14,968
-Aš pažįstu jus kaip asmenį su labai paviršutiniško
+pažįstu jus kaip tą, kurio labai paviršutiniška
 
 311
 00:18:14,968 --> 00:18:17,217
-tipo Sušumna.
+Sušumna yra labai paviršutiniška.
 
 312
 00:18:17,676 --> 00:18:21,634
-Ir net jeigu jūs vaizduojate kažką,
+Ir net jeigu jūs apsimetate kažkuo,
 
 313
 00:18:21,634 --> 00:18:25,093
-tarkim, būdami labai mieli ar geri,
+tarkim, apsimetate labai mielais ar gerais,
 
 314
 00:18:25,342 --> 00:18:27,300
-ar kalbėdami apie Sahadža jogą,
+arba kalbate apie Sahadža jogą,
 
 315
 00:18:27,300 --> 00:18:29,551
-ar žinodami per daug apie Sahadža jogą
+arba žinote per daug apie Sahadža jogą
 
 316
 00:18:29,551 --> 00:18:33,759
-ir sakydami tai, kas paprastai suglumins bet ką,
+ir sakote tai, kas paprastai suglumintų bet ką,
 
 317
 00:18:34,009 --> 00:18:36,135
-lyg jūs būtumėte Sahadža jogos meistrai,
+tarsi būtumėte Sahadža jogos meistrai.
 
 318
 00:18:36,135 --> 00:18:38,217
-aš žinau, kokie gilūs jūs esate.
+Aš žinau, kokie gilūs jūs esate.
 
 319
 00:18:39,551 --> 00:18:41,217
@@ -1276,7 +1275,7 @@ Taigi ašies gilumas
 
 320
 00:18:41,217 --> 00:18:43,551
-yra svarbiau už visą kitą.
+yra svarbiau už visa kita.
 
 321
 00:18:43,801 --> 00:18:47,300
@@ -1284,27 +1283,27 @@ Jūsų ašis turi būti labai gili.
 
 322
 00:18:47,300 --> 00:18:49,051
-Dabar jūs pasakysite „Motina,
+Dabar  pasakysite: „Motina,
 
 323
 00:18:49,051 --> 00:18:53,342
-ašis yra tokia, kokia yra, tai kaip ji gali būti gili?“
+ašis yra tokia, kokia yra, tad kaip ji gali būti gili?“
 
 324
 00:18:53,634 --> 00:18:57,800
-Taigi ašyje yra padaryta kaip ir žmoguje –
+Ašyje viskas yra sukurta kaip žmoguje –
 
 325
 00:18:58,051 --> 00:19:03,551
-kaip tris su puse karto susuktas į spiralę popierius – kaip daiktas,
+tarsi tris su puse karto susuktas popierius –
 
 326
 00:19:04,217 --> 00:19:07,676
-kurio viduje yra Brahma Nadi.
+tai, kieno viduje yra Brahma Nadi.
 
 327
 00:19:08,676 --> 00:19:11,217
-Brahma Nadi yra labai mažas mažutėlis,
+Brahma Nadi yra labai mažas,
 
 328
 00:19:11,467 --> 00:19:15,551
@@ -1312,11 +1311,11 @@ galima sakyti, plaukelio dydžio,
 
 329
 00:19:15,551 --> 00:19:20,551
-kur tik plauko dydžio Kundalini gali praeiti.
+kur tik plauko storio Kundalini tegali pratekėti.
 
 330
 00:19:20,801 --> 00:19:24,634
-Tačiau, kai žmogus yra gilus, šis Brahma Nadi yra didesnis,
+Tačiau, kai žmogus yra gilus, šis Brahma Nadi tampa didesnis,
 
 331
 00:19:24,884 --> 00:19:26,342
@@ -1324,19 +1323,19 @@ ir visi kiti kanalai,
 
 332
 00:19:26,342 --> 00:19:31,300
-kurie yra vienas kito viduje, yra mažesni,
+esantys vienas kito viduje, yra mažesni.
 
 333
 00:19:31,300 --> 00:19:34,217
-o tų žmonių, kurie nėra gilūs,
+Negilių žmonių
 
 334
 00:19:36,884 --> 00:19:40,342
-tai, kas dengia Brahma Nadi, yra dideli, bet
+visa Brahma Nadi išorinis apdangalas yra didelis,
 
 335
 00:19:40,342 --> 00:19:43,217
-vidus – mažas.
+o vidus – mažas.
 
 336
 00:19:43,467 --> 00:19:47,135
@@ -1348,19 +1347,19 @@ atrodyti labai inteligentiški, labai protingi,
 
 338
 00:19:50,217 --> 00:19:52,217
-būti išvaizdūs
+išvaizdūs
 
 339
 00:19:52,217 --> 00:19:54,426
-ir visa kita, kas tik gali būti išoriška,
+ir visa, kas tik gali būti išoriška,
 
 340
 00:19:55,217 --> 00:19:57,801
-tačiau vidumi jie nėra gilūs.
+tačiau viduje jie nėra gilūs.
 
 341
 00:19:58,217 --> 00:20:00,217
-Jeigu jie gilūs vidumi,
+Būdami gilūs
 
 342
 00:20:00,426 --> 00:20:04,051
@@ -1368,71 +1367,71 @@ jie yra gražūs visais aspektais.
 
 343
 00:20:04,342 --> 00:20:06,342
-Tai didelį džiaugsmą teikiantys žmonės,
+Šie žmonės teikia itin daug džiaugsmo,
 
 344
 00:20:06,884 --> 00:20:08,467
-teikiantys didelį džiaugsmą.
+suteikia itin daug džiaugsmo.
 
 345
 00:20:08,759 --> 00:20:13,217
-Ir juo labiau, jeigu sutinki asmenį kito tipo,
+O jeigu sutinki kitokio tipo žmogų,
 
 346
 00:20:13,551 --> 00:20:16,634
-jis gali atrodyti džiaugsmingas ir stengtis suteikti tau džiaugsmo,
+nors jis atrodys džiaugsmingas ir stengsis suteikti jums džiaugsmo,
 
 347
 00:20:16,634 --> 00:20:20,009
-bet džiaugsmas iš tiesų nebus toks gilus;
+tačiau tai bus ne gilus džiaugsmas,
 
 348
 00:20:20,217 --> 00:20:22,759
-jis bus džiaugsmo naikintojas.
+o džiaugsmo naikinimas.
 
 349
 00:20:24,759 --> 00:20:29,217
-Taigi mums yra svarbu padaryti savo ašis gilesnes,
+Todėl svarbu pagilinti savo ašis,
 
 350
 00:20:29,634 --> 00:20:34,009
-ir būtent čia mums trūksta prideramo uolumo,
+ir būtent tam mums trūksta deramo uolumo,
 
 351
 00:20:34,217 --> 00:20:38,676
-mes turime įdėti tikrų pastangų.
+turime iš tikrųjų pasistengti.
 
 352
 00:20:39,342 --> 00:20:44,342
-Kai kurie žmonės automatiškai turi labai gilią ašį,
+Kai kurie žmonių ašis savaime yra labai gili,
 
 353
 00:20:44,926 --> 00:20:50,009
-o kai kurie turi labai
+o kai kurių ašis
 
 354
 00:20:50,300 --> 00:20:55,009
-labai suspaustą ašį.
+yra labaiu suspausta.
 
 355
 00:20:55,426 --> 00:20:57,676
-Ši ašis turi būti auginama.
+Reikia ją išauginti.
 
 356
 00:20:57,676 --> 00:21:00,051
-Kai jūs ateinate į Mano pudžą ir visa kita,
+Kai jūs ateinate į mano pudžą ir visa kita,
 
 357
 00:21:00,051 --> 00:21:01,926
-Aš išskleidžiu ją, Aš sutinku,
+aš atpalaiduoju ją,
 
 358
 00:21:01,926 --> 00:21:05,676
-bet tai laikina.
+tačiau tai yra laikina.
 
 359
 00:21:06,009 --> 00:21:10,759
-Kad išlaikytumėt ją tokiame lygyje, reikia dirbti namuose
+Kad išlaikytumėte ją tokiame lygyje, turite dirbti namuose
 
 360
 00:21:11,009 --> 00:21:13,009
@@ -1448,15 +1447,15 @@ Tačiau tai turėtų būti atliekama rimtai.
 
 363
 00:21:21,467 --> 00:21:23,426
-Tai neturėtu būti tik juoko dėlei,
+Ne tik juoko dėlei,
 
 364
 00:21:23,801 --> 00:21:25,009
-lengvabūdiška,
+lengvabūdiškai,
 
 365
 00:21:25,217 --> 00:21:27,676
-kvaila – tai ne kelias.
+kvailai – taip netinka.
 
 366
 00:21:27,676 --> 00:21:31,551
@@ -1464,23 +1463,22 @@ Turėtų būti atliekama labai rimtai, prasmingai.
 
 367
 00:21:31,551 --> 00:21:34,342
-Tai uždavinys, reikalaująs atsidavimo, kurį jūs apsiėmėte,
-
+Jūs ėmėtės atsidavimo reikalaujančios užduoties,
 368
 00:21:34,759 --> 00:21:37,550
-tai meditacinis dalykas;
+tai yra meditatyvu;
 
 369
 00:21:37,926 --> 00:21:40,801
-tai galima pavadinti malda Dievui,
+galima pavadinti tai malda Dievui,
 
 370
 00:21:41,051 --> 00:21:42,801
-tai pudža Dievui.
+pudža Dievui.
 
 371
 00:21:44,467 --> 00:21:47,217
-Tai turi būti atliekama su tokia pagarba,
+Tai turi būti atliekama itin pagarbiai,
 
 372
 00:21:47,759 --> 00:21:54,425
@@ -1488,19 +1486,19 @@ nes pagarba – raktas į pasiekimus.
 
 373
 00:21:55,634 --> 00:21:58,675
-Jeigu jūs negerbiate savęs
+Jeigu negerbiate savęs
 
 374
 00:21:58,676 --> 00:22:00,467
-ir negerbiate kitų,
+ir kitų,
 
 375
 00:22:00,467 --> 00:22:02,426
-tada tai neįvykdoma.
+jums tai nepavyks.
 
 376
 00:22:02,426 --> 00:22:05,926
-Bet, pirma, jūs turite gerbti savo paties gyvenimą.
+Bet, pirma, turite gerbti savo pačių gyvenimą.
 
 377
 00:22:06,217 --> 00:22:07,759
@@ -1512,7 +1510,7 @@ Kur švaistau jį?
 
 379
 00:22:09,051 --> 00:22:10,217
-Kodėl turėčiau švaistyti jį?
+Kodėl turėčiau jį švaistyti?
 
 380
 00:22:10,217 --> 00:22:12,342
