@@ -1,11 +1,9 @@
-1
+﻿1
 00:00:00,500 --> 00:00:04,083
-NAVARATRI
-Shri Gauri's Birthday Puja
+Navaratri Puja, Shri Gauri’nin Doğum Günü
 
 2
 00:00:05,055 --> 00:00:07,555
-Nevele Grand Hotel,
 Ellenville, New York (USA), 12 Ekim 2003
 
 3
