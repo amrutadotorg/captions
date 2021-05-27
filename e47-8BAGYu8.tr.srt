@@ -1,4004 +1,4004 @@
-1
-00:02:50,871 --> 00:02:55,224
+﻿1
+00:00:00,000 --> 00:00:04,353
 Eğer işitemiyorsanız, lütfen bu kez Bana söyleyin.
 
 2
-00:02:58,569 --> 00:03:02,474
+00:00:07,698 --> 00:00:11,603
 Bu konuşmanın yapılmasında,
 
 3
-00:03:03,375 --> 00:03:08,450
+00:00:12,504 --> 00:00:17,579
 meydana gelen gecikmeden dolayı üzgünüm
 
 4
-00:03:09,787 --> 00:03:14,107
+00:00:18,916 --> 00:00:23,236
 ama bu deneyim hakkında açıklama yapmak için
 
 5
-00:03:14,305 --> 00:03:16,586
+00:00:23,434 --> 00:00:25,715
 Dr. Warren’ın zamanı vardı.
 
 6
-00:03:16,804 --> 00:03:23,306
+00:00:25,933 --> 00:00:32,435
 Bazen onuncu kattan konuşan birisi yerine,
 
 7
-00:03:23,542 --> 00:03:31,758
+00:00:32,671 --> 00:00:40,887
 buna ulaşmış  bir kimseden (dinleyerek) anlamak daha kolaydır.
 
 8
-00:03:32,515 --> 00:03:34,515
+00:00:41,644 --> 00:00:43,644
 İşte babamın Bana söylediği şey şuydu,
 
 9
-00:03:35,015 --> 00:03:38,423
+00:00:44,144 --> 00:00:47,552
 eğer birisi onuncu katta doğduysa
 
 10
-00:03:39,139 --> 00:03:41,913
+00:00:48,268 --> 00:00:51,042
 ve geri kalanlar ise birinci kattaysalar
 
 11
-00:03:42,413 --> 00:03:45,962
+00:00:51,542 --> 00:00:55,091
 ve sen bulunduğun noktadan onlara anlatmaya başlarsan,
 
 12
-00:03:46,462 --> 00:03:51,963
+00:00:55,591 --> 00:01:01,092
 öncelikle onlar dinlemeyecekler ne de sizin gördüğünüz şeyi anlamayacaklardır.
 
 13
-00:03:52,306 --> 00:03:57,465
+00:01:01,435 --> 00:01:06,594
 Bizim bir seviyeden onlara, akıllarının hala statik oldukları
 
 14
-00:03:57,828 --> 00:04:02,697
+00:01:06,957 --> 00:01:11,826
 başka bir seviyede bir şeyler anlatmaya çalışmamız uygun değildir.
 
 15
-00:04:02,996 --> 00:04:07,394
+00:01:12,125 --> 00:01:16,523
 Bu yüzden kişi, onların bilinçlerini  iki – üç seviye yükseltmelidir ki,
 
 16
-00:04:07,894 --> 00:04:13,145
+00:01:17,023 --> 00:01:22,274
  bu sayede onlar da ötede olan bir şeyler olduğunu görmeye başlarlar.
 
 17
-00:04:13,367 --> 00:04:23,388
+00:01:22,496 --> 00:01:32,517
 Ama böyle yaparak, öncesinden daha çok  hata oldu
 
 18
-00:04:23,872 --> 00:04:28,416
+00:01:33,001 --> 00:01:37,545
 ve bazı kişiler bunu kasten yaptılar,
 
 19
-00:04:29,088 --> 00:04:31,088
+00:01:38,217 --> 00:01:40,217
 bazıları ise yanlış yönlendirildiler
 
 20
-00:04:31,192 --> 00:04:33,533
+00:01:40,321 --> 00:01:42,662
 ve bazıları bunu özellikle tasarlayarak yapıyorlar.
 
 21
-00:04:34,494 --> 00:04:36,702
+00:01:43,623 --> 00:01:45,831
 Açık sonuç aynıdır.
 
 22
-00:04:36,822 --> 00:04:41,031
+00:01:45,951 --> 00:01:50,160
 Birisine zehiri yanlışlıkla da verseniz
 
 23
-00:04:41,180 --> 00:04:45,831
+00:01:50,309 --> 00:01:54,960
 veya onu yanlış yönlendirilerek de verseniz, sonuç aynıdır.
 
 24
-00:04:45,970 --> 00:04:50,669
+00:01:55,099 --> 00:01:59,798
 Aynı şekilde, yanlış yönlendirilmiş olsanız da
 
 25
-00:04:50,833 --> 00:04:54,308
+00:01:59,962 --> 00:02:03,437
 veya kasten yapsanız da, yanlış yapılan her ne ise,
 
 26
-00:04:54,700 --> 00:04:58,351
+00:02:03,829 --> 00:02:07,480
  bunun Kundalini üzerinde bir etkisi vardır.
 
 27
-00:04:59,141 --> 00:05:00,817
+00:02:08,270 --> 00:02:09,946
 Şimdi Kova burcu çağı,
 
 28
-00:05:00,929 --> 00:05:04,154
+00:02:10,058 --> 00:02:13,283
 Benim Dr. Warren’dan kaptığım bir kelime bu
 
 29
-00:05:04,308 --> 00:05:06,656
+00:02:13,437 --> 00:02:15,785
 ve bu gün çok doğru.
 
 30
-00:05:06,808 --> 00:05:10,049
+00:02:15,937 --> 00:02:19,178
 Kova, su taşıyan anlamına gelir
 
 31
-00:05:10,321 --> 00:05:13,702
+00:02:19,450 --> 00:02:22,831
 ve Sanskritçede buna “Kumbha “ adı verilir.
 
 32
-00:05:13,936 --> 00:05:17,897
+00:02:23,065 --> 00:02:27,026
 Kumbha, bizim Kundalini dediğimiz şeydir,
 
 33
-00:05:18,037 --> 00:05:20,654
+00:02:27,166 --> 00:02:29,783
 Mooladhara, Kundalininin bulunduğu
 
 34
-00:05:20,928 --> 00:05:25,014
+00:02:30,057 --> 00:02:34,143
 yer olan kumbhadır, Kundalininin gücü oradadır.
 
 35
-00:05:25,194 --> 00:05:28,644
+00:02:34,323 --> 00:02:37,773
 Bu yüzden de, bunu Kova çağı olarak adlandırmak,
 
 36
-00:05:28,897 --> 00:05:32,607
+00:02:38,026 --> 00:02:41,736
 bunu görebilen bazı aydınlanmış ruhların yapabileceği bir iştir,
 
 37
-00:05:32,676 --> 00:05:35,916
+00:02:41,805 --> 00:02:45,045
 Kundalini bu çağda uyanacak
 
 38
-00:05:36,037 --> 00:05:44,026
+00:02:45,166 --> 00:02:53,155
 ve insanların Kundalinilerini uyandırdıkları bir çağ başlayacak.
 
 39
-00:05:44,416 --> 00:05:47,484
+00:02:53,545 --> 00:02:56,613
 Bizlere sürdürebilme gücünü
 
 40
-00:05:47,593 --> 00:05:51,592
+00:02:56,722 --> 00:03:00,721
 ve aynı zamanda yaratma gücümüzü veren,
 
 41
-00:05:51,864 --> 00:05:54,499
+00:03:00,993 --> 00:03:03,628
 Swadhisthana adı verilen bu ikinci merkez hakkında
 
 42
-00:05:54,626 --> 00:05:56,954
+00:03:03,755 --> 00:03:06,083
 zaten geçen gün sizlerle konuştum.
 
 43
-00:05:57,126 --> 00:06:00,038
+00:03:06,255 --> 00:03:09,167
 Sürdürebilme içeride yaratıldı,
 
 44
-00:06:00,091 --> 00:06:03,485
+00:03:09,220 --> 00:03:12,614
 temel  on adet  Ezeli Üstat ile
 
 45
-00:06:04,340 --> 00:06:09,894
+00:03:13,469 --> 00:03:19,023
  temsil edilen bu yeşil kısımda,
 
 46
-00:06:10,105 --> 00:06:13,493
+00:03:19,234 --> 00:03:22,622
 bu on Ezeli Efendi, Müritlik Prensipleri
 
 47
-00:06:13,562 --> 00:06:16,913
+00:03:22,691 --> 00:03:26,042
 adı verilen üstatlığın başka bir
 
 48
-00:06:17,016 --> 00:06:19,016
+00:03:26,145 --> 00:03:28,145
  serisine sahip olmuşlardı.
 
 49
-00:06:19,473 --> 00:06:23,117
+00:03:28,602 --> 00:03:32,246
 Son seferinde, bu insanlar hakkında sizinle konuşmuştum
 
 50
-00:06:23,117 --> 00:06:25,630
+00:03:32,246 --> 00:03:34,759
 ama bu gün diğer merkezler hakkında
 
 51
-00:06:25,807 --> 00:06:29,696
+00:03:34,936 --> 00:03:38,825
  konuşmak istiyorum, özellikle de,
 
 52
-00:06:29,863 --> 00:06:36,724
+00:03:38,992 --> 00:03:45,853
 insanoğlunda çok önemli olan ve göbek de bulunan
 Nabhi merkezi hakkında.
 
 53
-00:06:36,985 --> 00:06:40,420
+00:03:46,114 --> 00:03:49,549
 Burası, kendisi vasıtası ile bizlerin
 
 54
-00:06:40,606 --> 00:06:45,188
+00:03:49,735 --> 00:03:54,317
 arayış içinde olduğumuz merkezdir.
 
 55
-00:06:45,549 --> 00:06:48,908
+00:03:54,678 --> 00:03:58,037
 Amip konumunda yiyecek ararız, daha yüksek bir seviyede ise,
 
 56
-00:06:48,999 --> 00:06:51,299
+00:03:58,128 --> 00:04:00,428
 yüksekleri aramaya başlarız.
 
 57
-00:06:51,390 --> 00:06:55,127
+00:04:00,519 --> 00:04:04,256
 Mamut ve bütün bu hayvanların olduğu zamanlarda,
 
 58
-00:06:55,281 --> 00:06:57,463
+00:04:04,410 --> 00:04:06,592
 onlar ağaçların üzerinden ilerlemek için,
 
 59
-00:06:57,544 --> 00:07:02,381
+00:04:06,673 --> 00:04:11,510
 onlara hâkim olabilmek, yaprakları yemek için
 bir yüksekliğe sahip olmak istediler
 
 60
-00:07:02,507 --> 00:07:05,932
+00:04:11,636 --> 00:04:15,061
 ama boyları ile o kadar büyük bir bedene sahip oldular ki.
 
 61
-00:07:05,987 --> 00:07:08,572
+00:04:15,116 --> 00:04:17,701
 Onlar daha küçük hayvanlar olmak zorundaydılar,
 
 62
-00:07:08,663 --> 00:07:11,342
+00:04:17,792 --> 00:04:20,471
 zeki hayvanlar gibi, söyleyin,
 
 63
-00:07:11,505 --> 00:07:17,220
+00:04:20,634 --> 00:04:26,349
 kediler ve bunun gibi şeyler, kedi ailesi.
 
 64
-00:07:17,652 --> 00:07:22,726
+00:04:26,781 --> 00:04:31,855
 Evrim bu şekilde, amip olarak arayışımızla ortaya çıkmıştır,
 
 65
-00:07:23,529 --> 00:07:27,525
+00:04:32,658 --> 00:04:36,654
 daha sonra hayvanlar olarak
 
 66
-00:07:27,642 --> 00:07:31,030
+00:04:36,771 --> 00:04:40,159
 ve şimdi de insan olarak.
 
 67
-00:07:31,185 --> 00:07:34,248
+00:04:40,314 --> 00:04:43,377
  Daha ve daha yükseğe evrimleştikçe,
 
 68
-00:07:34,409 --> 00:07:37,768
+00:04:43,538 --> 00:04:46,897
 arayışımızda da, daha süptil ve daha da süptil olduk.
 
 69
-00:07:38,089 --> 00:07:42,831
+00:04:47,218 --> 00:04:51,960
 Örneğin, güç arayan insanlar,
 
 70
-00:07:43,010 --> 00:07:48,495
+00:04:52,139 --> 00:04:57,624
 şüphe yok ki onlar, ruhlarını arayanlar kadar evrimleşmediler.
 
 71
-00:07:48,675 --> 00:07:51,209
+00:04:57,804 --> 00:05:00,338
 Çünkü sizler bunu aştınız, bunu yeterince yaptınız.
 
 72
-00:07:51,300 --> 00:07:54,136
+00:05:00,429 --> 00:05:03,265
 Belki de son yaşamlarınızda krallar
 ve kraliçeler olmuş olabilirsiniz,
 
 73
-00:07:54,313 --> 00:07:56,575
+00:05:03,442 --> 00:05:05,704
 bununla ilgili espriyi görmüş olmalısınız,
 
 74
-00:07:56,751 --> 00:07:58,884
+00:05:05,880 --> 00:05:08,013
 yani siz, bu yeter dediniz,
 
 75
-00:07:58,975 --> 00:08:01,350
+00:05:08,104 --> 00:05:10,479
 bu güç meselesi, biz böyle bir baş ağrısını istemiyoruz,
 
 76
-00:08:01,499 --> 00:08:03,755
+00:05:10,628 --> 00:05:12,884
  buna sahip olmak istemiyoruz, dediniz.
 
 77
-00:08:03,897 --> 00:08:06,618
+00:05:13,026 --> 00:05:15,747
 Para arayan insanlar,
 
 78
-00:08:06,773 --> 00:08:09,431
+00:05:15,902 --> 00:05:18,560
 bunu yeterince yapmış olan insanlar,
 
 79
-00:08:09,522 --> 00:08:12,263
+00:05:18,651 --> 00:05:21,392
 bundan bıkmışlardı, bu yüzden de, biz bunu yaptık dediler.
 
 80
-00:08:12,465 --> 00:08:17,157
+00:05:21,594 --> 00:05:26,286
 ama bu ötede olan şeyin arayışı,
 
 81
-00:08:17,327 --> 00:08:20,155
+00:05:26,456 --> 00:05:29,284
 çok fazla sayıda kimseye  anlatılmadı
 
 82
-00:08:20,245 --> 00:08:23,739
+00:05:29,374 --> 00:05:32,868
 ve onlarda, kendileri ötede olanın ne olduğunu
 anlamaya muktedir değillerdi,
 
 83
-00:08:23,959 --> 00:08:28,548
+00:05:33,088 --> 00:05:37,677
 işte bu yüzden, evrimsel sürecinizle ilgili
 
 84
-00:08:28,706 --> 00:08:33,595
+00:05:37,835 --> 00:05:42,724
 olan bu merkez,  çok önemlidir.
 
 85
-00:08:36,161 --> 00:08:41,428
+00:05:45,290 --> 00:05:50,557
 Yani her şeyden önce, size anlattığım gibi, denge de olmalıyız,
 
 86
-00:08:41,749 --> 00:08:45,036
+00:05:50,878 --> 00:05:54,165
 sahip olmamız gereken bir şeydir bu, yaşamdaki denge.
 
 87
-00:08:45,204 --> 00:08:47,437
+00:05:54,333 --> 00:05:56,566
 Demek istiyorum ki, sağduyu içinde de bunu görebiliriz,
 
 88
-00:08:47,524 --> 00:08:50,501
+00:05:56,653 --> 00:05:59,630
 varsayalım ki, sadece tek bir teker üzerinde
 gitmekte olan bir araba var,
 
 89
-00:08:50,604 --> 00:08:53,049
+00:05:59,733 --> 00:06:02,178
 bu araba ile ne kadar seyahat etmek istersiniz ki.
 
 90
-00:08:53,369 --> 00:08:57,242
+00:06:02,498 --> 00:06:06,371
 Yaşamda yaptığınız her şeyin bir dengesi olmalıdır,
 
 91
-00:08:57,311 --> 00:09:02,261
+00:06:06,440 --> 00:06:11,390
 aksi takdirde, her şey, bir şeyleri
 yakalamak bile, bir şeyleri tutmak
 
 92
-00:09:02,382 --> 00:09:07,461
+00:06:11,511 --> 00:06:16,590
 veya küçük küçük şeyler bile, hatta bisiklet sürmenin bile,
 
 93
-00:09:07,508 --> 00:09:10,151
+00:06:16,637 --> 00:06:19,280
 bilirsiniz ki bir dengesi olmalıdır.
 
 94
-00:09:10,330 --> 00:09:12,659
+00:06:19,459 --> 00:06:21,788
 Yani eğer Kundalini hareket etmeliyse,
 
 95
-00:09:12,750 --> 00:09:15,357
+00:06:21,879 --> 00:06:24,486
 sizde dengeli bir kişi olmalısınız,
 
 96
-00:09:15,555 --> 00:09:17,864
+00:06:24,684 --> 00:06:26,993
 ılımlı tabiatı olan bir kişilik olmalı
 
 97
-00:09:18,055 --> 00:09:23,576
+00:06:27,184 --> 00:06:32,705
 ve bu kişinin yaşama karşı dengeli bir tutumu olmak zorundadır.
 
 98
-00:09:23,754 --> 00:09:26,668
+00:06:32,883 --> 00:06:35,797
 Bu çok önemlidir ama… durumunda bu, bu böyle değil,
 
 99
-00:09:26,759 --> 00:09:32,790
+00:06:35,888 --> 00:06:41,919
 Sushumna’nın orta kanalına çekilebilirsiniz,
 evriminizin orta kanalında.
 
 100
-00:09:32,943 --> 00:09:36,941
+00:06:42,072 --> 00:06:46,070
 Evrim orta kanalda kalarak gerçekleşir.
 
 101
-00:09:37,086 --> 00:09:40,954
+00:06:46,215 --> 00:06:50,083
 Aşırılıklara gidenler bunun dışına çıkarlar.
 
 102
-00:09:41,614 --> 00:09:46,064
+00:06:50,743 --> 00:06:55,193
 Bizim çok yaygın şekilde acı çektiğimiz bir virüs,
 
 103
-00:09:46,179 --> 00:09:49,648
+00:06:55,308 --> 00:06:58,777
 evrim sürecinden çıkmış
 
 104
-00:09:49,760 --> 00:09:52,418
+00:06:58,889 --> 00:07:01,547
 bir bitkiden başka bir şey değildir.
 
 105
-00:09:52,756 --> 00:09:55,991
+00:07:01,885 --> 00:07:05,120
 Tütün dediğimiz bitki,  bütünüyle  evrimden çıkarılacak
 
 106
-00:09:56,219 --> 00:10:00,569
+00:07:05,348 --> 00:07:09,698
 ve bir kaç yıl sonra hiç bir yerde
 
 107
-00:10:01,112 --> 00:10:03,242
+00:07:10,241 --> 00:07:12,371
 yetişen tütün bulamayacaksınız
 
 108
-00:10:03,333 --> 00:10:07,752
+00:07:12,462 --> 00:07:16,881
 çünkü evrimden çıkarılacak,
 
 109
-00:10:08,097 --> 00:10:12,640
+00:07:17,226 --> 00:07:21,769
 tütünün rolünü yanlış anlayan insanoğluna teşekkürler.
 
 110
-00:10:13,040 --> 00:10:16,075
+00:07:22,169 --> 00:07:25,204
 Tütün bir böcek ilacıdır,
 
 111
-00:10:16,273 --> 00:10:19,756
+00:07:25,402 --> 00:07:28,885
 kendinizi öldürmeniz için değil,
 haşereleri öldürmek için kullanılmalıdır.
 
 112
-00:10:20,256 --> 00:10:25,714
+00:07:29,385 --> 00:07:34,843
 Ama bazen unutuyoruz,
 
 113
-00:10:25,891 --> 00:10:27,891
+00:07:35,020 --> 00:07:37,020
 Tanrı’nın iyi olması için yarattığı her ne varsa,
 
 114
-00:10:28,068 --> 00:10:31,367
+00:07:37,197 --> 00:07:40,496
 bazen bunu kendi yıkımımız için kullanıyoruz.
 
 115
-00:10:31,549 --> 00:10:35,618
+00:07:40,678 --> 00:07:44,747
 Alkolde aynı. Alkol parlatmak için yaratıldı,
 
 116
-00:10:35,752 --> 00:10:39,666
+00:07:44,881 --> 00:07:48,795
 bu iş için çok iyidir – örneğin,
 eğer kristallerinizi parlatmanız gerekirse,
 
 117
-00:10:39,800 --> 00:10:41,561
+00:07:48,929 --> 00:07:50,690
 cin kullanmalısınız,
 
 118
-00:10:41,652 --> 00:10:44,949
+00:07:50,781 --> 00:07:54,078
 elmaslar ve her şey için, iyidir.
 
 119
-00:10:45,670 --> 00:10:50,414
+00:07:54,799 --> 00:07:59,543
 İşi sadece parlatmaktır, her şey için parlatıcıdır,
 
 120
-00:10:50,511 --> 00:10:54,341
+00:07:59,640 --> 00:08:03,470
  parlaklık verir. Bakın, alkol bir parlatıcıdır
 
 121
-00:10:54,417 --> 00:10:58,586
+00:08:03,546 --> 00:08:07,715
 ve bileşimi sadece bir şeyi parlatmak içindir.
 
 122
-00:10:58,725 --> 00:11:02,536
+00:08:07,854 --> 00:08:11,665
 Tanrı sizin parlatılmış yüzeylere,
 parlatılmış şeylere sahip olmanızı istedi
 
 123
-00:11:02,697 --> 00:11:06,256
+00:08:11,826 --> 00:08:15,385
 ve tümünün temiz bir görünümde olmasını,
 bu yüzden de size bu parlatıcıyı verdi.
 
 124
-00:11:06,425 --> 00:11:10,222
+00:08:15,554 --> 00:08:19,351
 Siz onu içmeye başladınız, şimdi ne yapmalı.
 
 125
-00:11:11,751 --> 00:11:15,510
+00:08:20,880 --> 00:08:24,639
 O asla sizin içmenizi istemedi ama eğer bunu içerseniz,
 
 126
-00:11:15,607 --> 00:11:18,163
+00:08:24,736 --> 00:08:27,292
 o zaman alkol bağırsaklarınızı da parlatır.
 
 127
-00:11:18,303 --> 00:11:22,102
+00:08:27,432 --> 00:08:31,231
 Ama onun kendi tabiatı vardır. Onun her hangi bir
 
 128
-00:11:22,238 --> 00:11:26,623
+00:08:31,367 --> 00:08:35,752
 ahlak anlayışı yoktur, zavallı şey, bizler alkolü suçlayamayız
 
 129
-00:11:26,747 --> 00:11:31,128
+00:08:35,876 --> 00:08:40,257
 çünkü onun sadece parlatması gerekirdi,
 onu her nereye sürerseniz, orayı parlatır, tamam mı?
 
 130
-00:11:31,194 --> 00:11:34,631
+00:08:40,323 --> 00:08:43,760
 Bu yüzden de, karaciğerinizi de güzelce parlatır.
 
 131
-00:11:38,404 --> 00:11:41,945
+00:08:47,533 --> 00:08:51,074
 Karaciğer güzelce parlatıldığı zaman ne olur,
 
 132
-00:11:42,152 --> 00:11:46,985
+00:08:51,281 --> 00:08:56,114
 vücuttan atılması gereken, karaciğerden gelen ısının,
 
 133
-00:11:47,104 --> 00:11:50,408
+00:08:56,233 --> 00:08:59,537
  kan dolaşımına aktarılması gerekir
 
 134
-00:11:50,536 --> 00:11:54,430
+00:08:59,665 --> 00:09:03,559
 ama o bunu yapamaz çünkü bir bariyer vardır
 ve bu bariyer nedeni ile,
 
 135
-00:11:54,576 --> 00:11:57,030
+00:09:03,705 --> 00:09:06,159
  karaciğer ne yapacağını bilemez.
 
 136
-00:11:57,155 --> 00:12:00,652
+00:09:06,284 --> 00:09:09,781
 Tüm ısıyı kendi içinde biriktirmeye devam eder
 
 137
-00:12:00,770 --> 00:12:06,107
+00:09:09,899 --> 00:09:15,236
 ve işte bu şekilde karaciğer dolaşımdan çıkar
 
 138
-00:12:06,242 --> 00:12:10,470
+00:09:15,371 --> 00:09:19,599
 ve karaciğer problemleriniz olur. Kendinizi sersemlemiş
 ve mideniz bulanır halde bulursunuz.
 
 139
-00:12:10,677 --> 00:12:15,222
+00:09:19,806 --> 00:09:24,351
 Karaciğer gerçekten de,  dikkatinizi temizleyen organdır.
 
 140
-00:12:15,378 --> 00:12:18,402
+00:09:24,507 --> 00:09:27,531
 Dikkatinizle her ne toplarsanız, bunlar temizlenir.
 
 141
-00:12:18,574 --> 00:12:23,290
+00:09:27,703 --> 00:09:32,419
 Yani korkunç bir hale gelirsiniz,
 demek istiyorum ki sürekli olarak kızgın, öfkeli olur,
 
 142
-00:12:23,366 --> 00:12:26,878
+00:09:32,495 --> 00:09:36,007
 her zaman insanlara bağırırsınız,
 bütün bunlar tipik bir huysuzluktur.
 
 143
-00:12:27,039 --> 00:12:31,665
+00:09:36,168 --> 00:09:40,794
 Tamamen düz bir çizgi gibi uzun olursunuz,
 
 144
-00:12:31,804 --> 00:12:34,775
+00:09:40,933 --> 00:09:43,904
 çok öfkeli olursunuz.
 
 145
-00:12:34,944 --> 00:12:39,176
+00:09:44,073 --> 00:09:48,305
 Bazen şahin gibi olabilirsiniz, bilirsiniz, insanlar
 
 146
-00:12:39,336 --> 00:12:42,258
+00:09:48,465 --> 00:09:51,387
 böyle birisinin yakınında olmaktan korkarlar
 
 147
-00:12:42,472 --> 00:12:45,363
+00:09:51,601 --> 00:09:54,492
 çünkü böyle bir kişi çok kuru bir şahsiyet olabilir
 
 148
-00:12:45,498 --> 00:12:47,304
+00:09:54,627 --> 00:09:56,433
 ve işte bu yüzden de, siz şunu görürsünüz,
 
 149
-00:12:47,422 --> 00:12:50,792
+00:09:56,551 --> 00:09:59,921
 ayyaşlar, eğer aşırı içmişlerse ve sizde onların
 
 150
-00:12:50,889 --> 00:12:53,548
+00:10:00,018 --> 00:10:02,677
 yanlarına giderseniz, size yok yere döverler. Demek istiyorum ki,
 
 151
-00:12:53,658 --> 00:12:55,582
+00:10:02,787 --> 00:10:04,711
 gece vakti kazara gidip de,
 
 152
-00:12:55,723 --> 00:12:58,930
+00:10:04,852 --> 00:10:08,059
 sarhoşlara “saat kaç” diye sorarsanız,
 
 153
-00:12:58,964 --> 00:13:00,115
+00:10:08,093 --> 00:10:09,244
 bazen bu başınıza gelir.
 
 154
-00:13:00,212 --> 00:13:06,136
+00:10:09,341 --> 00:10:15,265
 Yani, çünkü bu farkındalığımızı bozar
 
 155
-00:13:06,233 --> 00:13:10,283
+00:10:15,362 --> 00:10:19,412
 ve böyle bir farkındalık içinde hoş bir adam da, böyle olabilir
 
 156
-00:13:10,338 --> 00:13:15,057
+00:10:19,467 --> 00:10:24,186
 ama tabii ki, birisinin daha iyi olabileceği bir durumda olabilir.
 
 157
-00:13:15,205 --> 00:13:19,677
+00:10:24,334 --> 00:10:28,806
 Bu, sol kanal bir eylem nedeni ile posses olduğunuz (ele geçirildiğiniz) zaman
 
 158
-00:13:19,792 --> 00:13:21,649
+00:10:28,921 --> 00:10:30,778
 meydana  gelebilecek başka bir şeydir
 
 159
-00:13:21,808 --> 00:13:26,995
+00:10:30,937 --> 00:10:36,124
  çünkü alkol farkındalığımızı azaltır ve siz sol kanala gidersiniz.
 
 160
-00:13:27,099 --> 00:13:32,516
+00:10:36,228 --> 00:10:41,645
  Sol kanal bir eylem sizin, “”şimdi çok daha iyiyim”
 şeklinde bir duyguya kapılmanıza sebep olabilir
 
 161
-00:13:32,651 --> 00:13:35,995
+00:10:41,780 --> 00:10:45,124
 ve bir şekilde mutlu olursunuz
 çünkü egonuz bastırılır ve her şey iyidir
 
 162
-00:13:36,148 --> 00:13:39,975
+00:10:45,277 --> 00:10:49,104
 ve dersiniz ki, “gerçekten de, ben bir hastayım,
 
 163
-00:13:40,051 --> 00:13:42,396
+00:10:49,180 --> 00:10:51,525
  kimseye vuramam, bırakın biraz uyuyayım”.
 
 164
-00:13:42,439 --> 00:13:44,720
+00:10:51,568 --> 00:10:53,849
 Ama geçen gün bir akşamdan kalmalık vardı
 
 165
-00:13:44,787 --> 00:13:46,563
+00:10:53,916 --> 00:10:55,692
 ve bundan dolayı ne yapacağınız bilmeyerek
 
 166
-00:13:46,597 --> 00:13:48,856
+00:10:55,726 --> 00:10:57,985
 kendinizi çok korkunç hissedersiniz, demek istiyorum ki,
 
 167
-00:13:48,960 --> 00:13:51,535
+00:10:58,089 --> 00:11:00,664
 bu bir şeydir, sonrasında ertesi gece bunu yeniden istersiniz
 
 168
-00:13:51,639 --> 00:13:55,805
+00:11:00,768 --> 00:11:04,934
 çünkü aynı sol kanal diyarına yine gitmek istersiniz.
 
 169
-00:13:55,978 --> 00:14:00,571
+00:11:05,107 --> 00:11:09,700
 Bu sol kanal diyarı açıkça şunu gösterir ki,
 
 170
-00:14:00,679 --> 00:14:05,677
+00:11:09,808 --> 00:11:14,806
 orada egonun ağırlığında bir azalma vardır
 ama aslında böyle değildir,  o yalpalar.
 
 171
-00:14:05,764 --> 00:14:10,256
+00:11:14,893 --> 00:11:19,385
 Olan şey şudur, sol kanalda
 süper egoya gidersiniz, bakın o oradadır,
 
 172
-00:14:10,454 --> 00:14:14,958
+00:11:19,583 --> 00:11:24,087
 o zaman ego aşağıya indiğini düşünür çünkü süper egonun
 
 173
-00:14:15,027 --> 00:14:19,724
+00:11:24,156 --> 00:11:28,853
 boyutu büyümüştür.  Süper ego arttığı zaman, ego aşağıya itilir
 
 174
-00:14:19,872 --> 00:14:23,002
+00:11:29,001 --> 00:11:32,131
 ve sonrasında siz tekrar ego durumuna geldiğiniz zaman ise,
 
 175
-00:14:23,184 --> 00:14:26,576
+00:11:32,313 --> 00:11:35,705
 süper ego aşağıya itilir, yani süre gelen
 büyük bir yalpalanma vardır
 
 176
-00:14:26,667 --> 00:14:29,680
+00:11:35,796 --> 00:11:38,809
 ve böyle insanların kafaları sonunda çok fazla karışır.
 
 177
-00:14:29,771 --> 00:14:33,135
+00:11:38,900 --> 00:11:42,264
 Onların sonu bir akıl hastanesi olabilir,
 ne yaptıklarını bilmiyorum
 
 178
-00:14:33,290 --> 00:14:39,729
+00:11:42,419 --> 00:11:48,858
  ama akılları başlarında olduğu zaman bile,
 onları hayatla bağları kopmuş bir halde bulabilirsiniz,
 
 179
-00:14:39,875 --> 00:14:43,762
+00:11:49,004 --> 00:11:52,891
 örneğin, böyle insanlar çok uçarı olabilirler
 
 180
-00:14:43,809 --> 00:14:47,141
+00:11:52,938 --> 00:11:56,270
 ve içmezlerse, yaşamın neşesini hissedemezler.
 
 181
-00:14:47,342 --> 00:14:52,546
+00:11:56,471 --> 00:12:01,675
 Aralarında bir bardak olmadığı sürece,
 
 182
-00:14:52,739 --> 00:14:58,366
+00:12:01,868 --> 00:12:07,495
 bu insanların birbirlerinden hoşlanmamaları çok şaşırtıcıdır.
 
 183
-00:14:58,865 --> 00:15:04,087
+00:12:07,994 --> 00:12:13,216
 Ve onların birbirinden çok fazla neşe duyma kapasiteleri var,
 
 184
-00:15:04,298 --> 00:15:08,663
+00:12:13,427 --> 00:12:17,792
 onlar herkesten daha fazla kutsanmış olanlar.
 
 185
-00:15:08,844 --> 00:15:11,700
+00:12:17,973 --> 00:12:20,829
 Ancak her zaman aralarında bir cam olursa,
 
 186
-00:15:11,805 --> 00:15:14,360
+00:12:20,934 --> 00:12:23,489
 o zaman onlar birbirine sadece bağırırlar
 
 187
-00:15:14,435 --> 00:15:16,996
+00:12:23,564 --> 00:12:26,125
 ve birbirinden neşe duymazlar.
 
 188
-00:15:17,086 --> 00:15:21,483
+00:12:26,215 --> 00:12:30,612
 Arada bir şey olmadığında neşe duyma tam olmalı.
 
 189
-00:15:21,704 --> 00:15:24,574
+00:12:30,833 --> 00:12:33,703
 Şimdi işte size anlattığım şey budur, Nabhi çakra.
 
 190
-00:15:24,818 --> 00:15:30,419
+00:12:33,947 --> 00:12:39,548
 Alkol aldığımız zaman veya uyuşturucu gibi
 
 191
-00:15:30,494 --> 00:15:33,773
+00:12:39,623 --> 00:12:42,902
 ciddi şeyler aldığımız zamanda, Nabhi çakra bozulur,
 
 192
-00:15:33,958 --> 00:15:36,672
+00:12:43,087 --> 00:12:45,801
 bazı ilaçların bile bu çakrayı bozabildiğini gördüm.
 
 193
-00:15:36,824 --> 00:15:40,149
+00:12:45,953 --> 00:12:49,278
 O zaman, hazım gibi başka problemleriniz olur,
 
 194
-00:15:40,390 --> 00:15:43,727
+00:12:49,519 --> 00:12:52,856
 kabız olursunuz, her tür şey olur,
 
 195
-00:15:43,824 --> 00:15:48,403
+00:12:52,953 --> 00:12:57,532
 bununla beraber gaz problemleriniz ve diğer sıkıntılar ortaya çıkar
 
 196
-00:15:48,546 --> 00:15:51,065
+00:12:57,675 --> 00:13:00,194
 ve sonra, kalp problemleriniz ve bu birbiri ardına devam eder.
 
 197
-00:15:51,129 --> 00:15:54,073
+00:13:00,258 --> 00:13:03,202
 Buna sadece alkolün yol açtığını söylemiyorum.
 
 198
-00:15:54,226 --> 00:15:58,601
+00:13:03,355 --> 00:13:07,730
 Başka durumlarda var tabii ama alkolün
 asla sağlıklı olmanıza
 
 199
-00:15:58,729 --> 00:16:01,903
+00:13:07,858 --> 00:13:11,032
 bir faydası olmaz. Kimi insanlarda,
 
 200
-00:16:02,024 --> 00:16:06,039
+00:13:11,153 --> 00:13:15,168
 eğer alkol alırlarsa ancak bu sayede
 sağlıklarını koruyabileceklerine dair bir hissiyat vardır.
 
 201
-00:16:06,190 --> 00:16:09,491
+00:13:15,319 --> 00:13:18,620
 Bu yanlış bir şeydir çünkü sağlık sadece fiziksel sağlık değildir,
 
 202
-00:16:09,542 --> 00:16:12,938
+00:13:18,671 --> 00:13:22,067
 aynı zamanda aklın sağlığıdır. İnsanlar,
 
 203
-00:16:13,124 --> 00:16:15,531
+00:13:22,253 --> 00:13:24,660
 fiziksel sağlığın her şeyin sonu olduğunu düşünürler ki,
 
 204
-00:16:15,714 --> 00:16:21,042
+00:13:24,843 --> 00:13:30,171
 bu kesinlikle yanlıştır çünkü bizler
 sadece fiziksel varlıklar değiliz.
 
 205
-00:16:21,192 --> 00:16:24,554
+00:13:30,321 --> 00:13:33,683
 Bizler, aynı zamanda akli ve duygusal varlıklarız.
 
 206
-00:16:24,683 --> 00:16:27,351
+00:13:33,812 --> 00:13:36,480
 Ve Nabhi çakranızla çok fazla oyun oynadığınız zaman,
 
 207
-00:16:27,549 --> 00:16:30,347
+00:13:36,678 --> 00:13:39,476
 başarılarınız ve keyif almak söz konusu olduğunda,
 
 208
-00:16:30,524 --> 00:16:33,996
+00:13:39,653 --> 00:13:43,125
 asla yaşamda başarılı olmamak gibi,
 
 209
-00:16:34,130 --> 00:16:38,480
+00:13:43,259 --> 00:13:47,609
 hayattaki en büyük probleme sahip olursunuz.
 
 210
-00:16:38,653 --> 00:16:41,181
+00:13:47,782 --> 00:13:50,310
 Örneğin, birisi zengin olur,
 
 211
-00:16:41,324 --> 00:16:43,930
+00:13:50,453 --> 00:13:53,059
 haksız bir şekilde zengin olur,
 
 212
-00:16:44,045 --> 00:16:47,214
+00:13:53,174 --> 00:13:56,343
 bu Nabhi çakranın sağ tarafındaki bir kutsamadır, demeliyim.
 
 213
-00:16:47,428 --> 00:16:52,523
+00:13:56,557 --> 00:14:01,652
  Sağ taraftaki Nabhi çakra, size çokça zenginlik,
 
 214
-00:16:52,690 --> 00:16:57,994
+00:14:01,819 --> 00:14:07,123
 çok fazla para verebilir,  on tane arabanız olabilir
 ve yanınızda olan onbeş kişi olacaktır,
 
 215
-00:16:58,044 --> 00:17:01,722
+00:14:07,173 --> 00:14:10,851
 her şeye sahip olabilirsiniz ama bu olmaz,
 
 216
-00:17:01,902 --> 00:17:05,447
+00:14:11,031 --> 00:14:14,576
 bu size yaşamda bir tatmin sağlamaz.
 
 217
-00:17:05,818 --> 00:17:10,189
+00:14:14,947 --> 00:14:19,318
 Biriktirmeye devam edersiniz ve bu bir intihar
 veya bunun gibi bir şeyle sona erer.
 
 218
-00:17:10,362 --> 00:17:12,687
+00:14:19,491 --> 00:14:21,816
 Neden intihar etmeye
 
 219
-00:17:12,774 --> 00:17:14,353
+00:14:21,903 --> 00:14:23,482
 meyilli olduğunuz bilmezsiniz.
 
 220
-00:17:14,599 --> 00:17:16,941
+00:14:23,728 --> 00:14:26,070
 İşte bu yüzden bütün bu zengin ülkelerde,
 
 221
-00:17:17,057 --> 00:17:19,247
+00:14:26,186 --> 00:14:28,376
 intihar etmeyi planlayan insanlar olduğunu görürsünüz
 
 222
-00:17:19,338 --> 00:17:22,686
+00:14:28,467 --> 00:14:31,815
 ve daha fazla zenginlikle beraber, onlar daha da kötüdürler
 
 223
-00:17:23,168 --> 00:17:26,153
+00:14:32,297 --> 00:14:35,282
 ama sol kanal tamamen kurur.
 
 224
-00:17:26,432 --> 00:17:31,446
+00:14:35,561 --> 00:14:40,575
 Sol kanal aile yaşamının merkezidir,
 
 225
-00:17:31,502 --> 00:17:37,723
+00:14:40,631 --> 00:14:46,852
 Gruhalakshmi, Aile, hane halkı Tanrısıdır.
 
 226
-00:17:37,861 --> 00:17:40,818
+00:14:46,990 --> 00:14:49,947
 Çok fazla para peşinde koşan kişi,
 
 227
-00:17:40,930 --> 00:17:44,570
+00:14:50,059 --> 00:14:53,699
 kendi ailesini unutur. Ailesi için zamanı yoktur.
 
 228
-00:17:44,746 --> 00:17:48,730
+00:14:53,875 --> 00:14:57,859
 Karı-koca sadece hava alanında bir yerlerde karşılaşabilirler
 
 229
-00:17:48,897 --> 00:17:52,592
+00:14:58,026 --> 00:15:01,721
 veya başka zamanlarda, birbirleri ile karşılaşıp,
 birbirlerine sadece el sallayabilirler
 
 230
-00:17:52,788 --> 00:17:55,071
+00:15:01,917 --> 00:15:04,200
 ve en fazla da çocuklar acı çeker.
 
 231
-00:17:55,288 --> 00:17:58,636
+00:15:04,417 --> 00:15:07,765
 Bu durumda kadınlar da, erkeklerle meşgul olurlar,
 
 232
-00:17:58,727 --> 00:18:03,555
+00:15:07,856 --> 00:15:12,684
 yanlış olan her ne varsa, bunda yarışırlar,
 erkekleri kopyalamaya başlarlar
 
 233
-00:18:03,732 --> 00:18:05,732
+00:15:12,861 --> 00:15:14,861
 ve böyle yaparak,
 
 234
-00:18:05,823 --> 00:18:07,823
+00:15:14,952 --> 00:15:16,952
 birbirleri ile yarıştıkları
 
 235
-00:18:07,870 --> 00:18:11,672
+00:15:16,999 --> 00:15:20,801
 zaman ise ne olur, aile yaşamı bozulur.
 
 236
-00:18:12,060 --> 00:18:15,084
+00:15:21,189 --> 00:15:24,213
 Evin kadını tatminsizdir,
 
 237
-00:18:15,254 --> 00:18:18,138
+00:15:24,383 --> 00:15:27,267
 onun egosu tatmin olmamıştır.
 
 238
-00:18:18,315 --> 00:18:20,315
+00:15:27,444 --> 00:15:29,444
 Eski zamanlarda erkek ormana gider,
 
 239
-00:18:20,492 --> 00:18:23,120
+00:15:29,621 --> 00:15:32,249
 odun keser ve eve getirip,
 
 240
-00:18:23,275 --> 00:18:25,405
+00:15:32,404 --> 00:15:34,534
 eşine verir ve eşi de yemek pişirirdi.
 
 241
-00:18:25,474 --> 00:18:28,340
+00:15:34,603 --> 00:15:37,469
 Bir problem yoktu çünkü bir takas sistemi vardı.
 
 242
-00:18:28,387 --> 00:18:30,387
+00:15:37,516 --> 00:15:39,516
 Adam karısını, evde çalışırken görürdü.
 
 243
-00:18:30,499 --> 00:18:32,282
+00:15:39,628 --> 00:15:41,411
 Şimdi koca parayı kazanır,
 
 244
-00:18:32,329 --> 00:18:36,297
+00:15:41,458 --> 00:15:45,426
 kadın da harcar. Demek istiyorum ki,
 bu da bazı işler yapmayı gerektirir,
 
 245
-00:18:36,323 --> 00:18:37,705
+00:15:45,452 --> 00:15:46,834
 para harcamak değildir bu.
 
 246
-00:18:37,882 --> 00:18:42,051
+00:15:47,011 --> 00:15:51,180
 Ama erkeğe bu sanki, kazanan üye benim
 ve eşim de harcayan kişi, gibi gelir.
 
 247
-00:18:42,292 --> 00:18:47,427
+00:15:51,421 --> 00:15:56,556
 Bunun üzerine kadın, “tamam, o zaman bende kazanacağım” dedi.
 
 248
-00:18:47,561 --> 00:18:49,979
+00:15:56,690 --> 00:15:59,108
 Ama çok fazla rekabet vardır bunda,
 
 249
-00:18:50,146 --> 00:18:54,249
+00:15:59,275 --> 00:16:03,378
 bu şekilde ikisi arasında çok fazla rekabet olur,
 sonunda ne olur, aile acı çeker, çocuklar acı çeker
 
 250
-00:18:54,392 --> 00:18:57,782
+00:16:03,521 --> 00:16:06,911
 ve böyle bir adamın eşi ile problemi olacaktır,
 kadının kocası ile problem olacaktır
 
 251
-00:18:57,972 --> 00:19:01,808
+00:16:07,101 --> 00:16:10,937
 ve bu merkezi, elinizdeki bu parmakta her zaman hissedebilirsiniz.
 
 252
-00:19:01,985 --> 00:19:05,813
+00:16:11,114 --> 00:16:14,942
 Eğer bu parmak catch ediyorsa, aile ilişkilerinizde
 
 253
-00:19:06,004 --> 00:19:08,337
+00:16:15,133 --> 00:16:17,466
 bir şeylerin yanlış gittiği anlamına gelir,
 
 254
-00:19:08,480 --> 00:19:11,936
+00:16:17,609 --> 00:16:21,065
 kendinizi düzeltmelisiniz veya koca kendisini düzeltmelidir.
 
 255
-00:19:12,146 --> 00:19:16,970
+00:16:21,275 --> 00:16:26,099
 Bu önemli bir şeydir. Çünkü sizler, meyve vermesi gereken
 
 256
-00:19:17,112 --> 00:19:19,112
+00:16:26,241 --> 00:16:28,241
 çiçekler gibisiniz.
 
 257
-00:19:19,310 --> 00:19:20,834
+00:16:28,439 --> 00:16:29,963
 İşte tabiatın istediği şey budur.
 
 258
-00:19:20,962 --> 00:19:24,502
+00:16:30,091 --> 00:16:33,631
 Doğa şunu ister,
 
 259
-00:19:24,716 --> 00:19:27,740
+00:16:33,845 --> 00:16:36,869
 sizler meyve vermek için oradasınız, bu da çocuklardır.
 
 260
-00:19:28,681 --> 00:19:32,309
+00:16:37,810 --> 00:16:41,438
 İşte bu yüzden erkekler ve kadınlarsınız.  Temel olan şey budur.
 
 261
-00:19:32,642 --> 00:19:35,277
+00:16:41,771 --> 00:16:44,406
 Eğer bu sorumluluk ile ilgili
 
 262
-00:19:35,418 --> 00:19:39,450
+00:16:44,547 --> 00:16:48,579
 bir şeyler yapabileceğinizi düşünüyorsanız, yapmalısınız.
 
 263
-00:19:39,562 --> 00:19:41,088
+00:16:48,691 --> 00:16:50,217
 Ama esas şey şu ki,
 
 264
-00:19:41,114 --> 00:19:44,963
+00:16:50,243 --> 00:16:54,092
 yapmanız gereken şey, çocuklarınıza bakmak, onları neşelendirmek
 
 265
-00:19:45,075 --> 00:19:47,075
+00:16:54,204 --> 00:16:56,204
 ve onlar için güzel bir yuvaya sahip olmaktır,
 
 266
-00:19:47,147 --> 00:19:50,813
+00:16:56,276 --> 00:16:59,942
 eğer siz bunu yapmazsanız,  o zaman söylemeliyim ki
 esas görevinizi ihmal ediyorsunuz
 
 267
-00:19:50,935 --> 00:19:53,344
+00:17:00,064 --> 00:17:02,473
 ve dikkatiniz başka bir şeylerdedir.
 
 268
-00:19:53,508 --> 00:19:56,841
+00:17:02,637 --> 00:17:05,970
 İşte bu yüzden pek çok boşanma meydana geliyor ve problemler var,
 
 269
-00:19:56,944 --> 00:20:00,258
+00:17:06,073 --> 00:17:09,387
 kadınlar kendi haklarını istiyorlar,
 kendi limitlerinin ötesine gidiyorlar,
 
 270
-00:20:00,367 --> 00:20:03,036
+00:17:09,496 --> 00:17:12,165
 burada baskıcı oldular, erkekler de baskıcı olmaya başladılar.
 
 271
-00:20:03,156 --> 00:20:04,985
+00:17:12,285 --> 00:17:14,114
 Bu sorunu çözmenin yolu bu değildir.
 
 272
-00:20:05,114 --> 00:20:07,287
+00:17:14,243 --> 00:17:16,416
 Bizler, iki tekerlek gibi olduğumuzu bilmeliyiz,
 
 273
-00:20:07,490 --> 00:20:09,382
+00:17:16,619 --> 00:17:18,511
 bir at arabasının iki tekerleği,
 
 274
-00:20:09,464 --> 00:20:11,464
+00:17:18,593 --> 00:17:20,593
 birisi sol, diğeri de sağ.
 
 275
-00:20:11,597 --> 00:20:13,597
+00:17:20,726 --> 00:17:22,726
 Onlar benzer değiller,
 
 276
-00:20:13,830 --> 00:20:17,292
+00:17:22,959 --> 00:17:26,421
 benzer değiller, iki farklı tipteler,
 biri sol taraf, biri sağ taraf
 
 277
-00:20:17,673 --> 00:20:20,273
+00:17:26,802 --> 00:17:29,402
 ama eşitler.
 
 278
-00:20:20,504 --> 00:20:23,143
+00:17:29,633 --> 00:17:32,272
 Her ne yaparlarsa yapsınlar eşittirler
 
 279
-00:20:23,233 --> 00:20:26,581
+00:17:32,362 --> 00:17:35,710
 ve aynı şekilde saygı görmeleri gerekir.
 
 280
-00:20:26,668 --> 00:20:28,668
+00:17:35,797 --> 00:17:37,797
 Bu her zaman böyledir, örneğin
 
 281
-00:20:28,715 --> 00:20:31,580
+00:17:37,844 --> 00:17:40,709
 Bana gelen bir kızım vardı
 
 282
-00:20:31,864 --> 00:20:33,864
+00:17:40,993 --> 00:17:42,993
 ve kendisi özel sekreterdi.
 
 283
-00:20:34,170 --> 00:20:36,170
+00:17:43,299 --> 00:17:45,299
 Bana dedi ki, “Siz böyle söylediniz
 
 284
-00:20:36,322 --> 00:20:40,548
+00:17:45,451 --> 00:17:49,677
 ama ben bütün bu erkeklerin gelip özel sekreterleri ile
 flört ettiklerini gördüm”.
 
 285
-00:20:40,675 --> 00:20:43,241
+00:17:49,804 --> 00:17:52,370
 Bunun üzerine Bende, “tamam, belki de böyle
 ama bunun bir önemi yok”, dedim.
 
 286
-00:20:43,384 --> 00:20:46,003
+00:17:52,513 --> 00:17:55,132
 Bakın, bu durum erkeklerde bir şeylerin yanlış olduğunu gösterir,
 
 287
-00:20:46,029 --> 00:20:47,833
+00:17:55,158 --> 00:17:56,962
 erkek anlamıyor, çıldırmış,
 
 288
-00:20:47,880 --> 00:20:50,293
+00:17:57,009 --> 00:17:59,422
 karısından hoşlanamaz ve başka şeylerin peşinden koşar.
 
 289
-00:20:50,470 --> 00:20:52,977
+00:17:59,599 --> 00:18:02,106
 Bu sanki evinizde bir şeylere sahip olup,
 
 290
-00:20:53,112 --> 00:20:55,020
+00:18:02,241 --> 00:18:04,149
 sonra sizin başka bir şeylere bakmanız gibidir.
 
 291
-00:20:55,152 --> 00:20:57,413
+00:18:04,281 --> 00:18:06,542
 Hindistan’da olduğu gibi, eğer bir yere giderseniz,
 
 292
-00:20:57,503 --> 00:21:00,322
+00:18:06,632 --> 00:18:09,451
 eğer birisi sizin evinize gelirse, eşyalarınıza dikkat edin
 
 293
-00:21:00,456 --> 00:21:02,974
+00:18:09,585 --> 00:18:12,103
 ama İngiltere’de eğer birisi evinize gelirse,
 
 294
-00:21:03,065 --> 00:21:05,050
+00:18:12,194 --> 00:18:14,179
 karınıza dikkat edin.
 
 295
-00:21:07,382 --> 00:21:09,932
+00:18:16,511 --> 00:18:19,061
 Bu aradaki küçük bir fark gibi
 
 296
-00:21:10,044 --> 00:21:13,073
+00:18:19,173 --> 00:18:22,202
 ama ikincisi tehlikeli bir şey çünkü temel bir şey,
 
 297
-00:21:13,250 --> 00:21:15,014
+00:18:22,379 --> 00:18:24,143
 eşiniz esas şeydir
 
 298
-00:21:15,105 --> 00:21:18,233
+00:18:24,234 --> 00:18:27,362
 çünkü kadının ne yapacağını bilmiyorsunuz,
 nasıl reaksiyon göstereceğini
 
 299
-00:21:18,366 --> 00:21:22,902
+00:18:27,495 --> 00:18:32,031
 ve misafirlerinizi bilmiyorsunuz çünkü bu
 onların özgürlükleri olarak değerlendiriliyor.
 
 300
-00:21:23,027 --> 00:21:26,350
+00:18:32,156 --> 00:18:35,479
 Ama birilerinin evinden bir şeyleri
 alıp götürürseniz, bu özgürlük değildir
 
 301
-00:21:26,441 --> 00:21:28,539
+00:18:35,570 --> 00:18:37,668
 çünkü biz hiç kimsenin evinden hiç bir şey alamayız,
 
 302
-00:21:28,681 --> 00:21:30,228
+00:18:37,810 --> 00:18:39,357
 neden birileri bizi tutuklasın ki?
 
 303
-00:21:30,356 --> 00:21:33,429
+00:18:39,485 --> 00:18:42,558
 Çünkü her ne isterseniz yapmanız için serbest bir irade var,
 
 304
-00:21:33,541 --> 00:21:36,695
+00:18:42,670 --> 00:18:45,824
 ne isterseniz yapmanıza izin veriliyor ama bu serbest irade içinde,
 
 305
-00:21:36,829 --> 00:21:40,625
+00:18:45,958 --> 00:18:49,754
 siz pek çok insanı incitiyor musunuz
 ve nihayetinde toplumunuzu incitiyor musunuz?
 
 306
-00:21:40,937 --> 00:21:43,837
+00:18:50,066 --> 00:18:52,966
 Şimdi, bu iki tekerlek, söylediğim gibi,
 
 307
-00:21:43,994 --> 00:21:46,429
+00:18:53,123 --> 00:18:55,558
 Tanrı için çok önemlidir
 
 308
-00:21:47,295 --> 00:21:52,216
+00:18:56,424 --> 00:19:01,345
 çünkü çok sayıda muhteşem insan dünyada doğmak istiyor.
 
 309
-00:21:52,409 --> 00:21:55,983
+00:19:01,538 --> 00:19:05,112
 Pek çok büyük ruh dünyada doğmak istiyor
 
 310
-00:21:56,211 --> 00:21:58,486
+00:19:05,340 --> 00:19:07,615
 ve eğer biz bu şekilde davranırsak,
 
 311
-00:21:58,582 --> 00:22:02,512
+00:19:07,711 --> 00:19:11,641
 at arabası bu şekilde gidiyor ve şu şekilde gidiyor.
 
 312
-00:22:02,624 --> 00:22:05,214
+00:19:11,753 --> 00:19:14,343
 Sizlere söyleyebilirim ki, kendisi muhteşem bir insan olan,
 
 313
-00:22:05,327 --> 00:22:07,639
+00:19:14,456 --> 00:19:16,768
 hiç bir çocuk burada doğmayı arzu etmeyecektir.
 
 314
-00:22:07,679 --> 00:22:12,037
+00:19:16,808 --> 00:19:21,166
 Sadece en kötü tiptekiler doğacaklardır,
 
 315
-00:22:12,106 --> 00:22:16,602
+00:19:21,235 --> 00:19:25,731
 onlar da holigan (serseri) olacaklar, onlar korkunç
 bir tabiatları olan, korkunç insanlar olacaklar
 
 316
-00:22:16,693 --> 00:22:20,361
+00:19:25,822 --> 00:19:29,490
 ve karı kocanın iyi bir ilişkisi olmayacak
 
 317
-00:22:20,456 --> 00:22:24,174
+00:19:29,585 --> 00:19:33,303
 ve onlar ülkelerin bütün atmosferini bozacaklar.
 
 318
-00:22:24,325 --> 00:22:26,325
+00:19:33,454 --> 00:19:35,454
 Çocuklar da, bu şekilde serseri olacaklardır
 
 319
-00:22:26,437 --> 00:22:28,667
+00:19:35,566 --> 00:19:37,796
 ve öyle korkunç şeyler yapacaklar ki şaşıracaksınız,
 
 320
-00:22:28,778 --> 00:22:33,170
+00:19:37,907 --> 00:19:42,299
 sekiz yaşında, beş yaşında
 
 321
-00:22:33,282 --> 00:22:35,042
+00:19:42,411 --> 00:19:44,171
 cinayet işleyecekler ve
 
 322
-00:22:35,133 --> 00:22:39,052
+00:19:44,262 --> 00:19:48,181
 bu tür her şeyi yapacaklar, sizler şok olacaksınız.
 
 323
-00:22:39,459 --> 00:22:41,684
+00:19:48,588 --> 00:19:50,813
 Şimdi sizinle Benim aramda
 
 324
-00:22:41,722 --> 00:22:44,537
+00:19:50,851 --> 00:19:53,666
 çünkü sizlerde karı – kocalarsınız
 
 325
-00:22:44,565 --> 00:22:47,272
+00:19:53,694 --> 00:19:56,401
 ve tek bir şey temin edilmelidir ki,
 
 326
-00:22:47,329 --> 00:22:51,083
+00:19:56,458 --> 00:20:00,212
 çocukların önünde tartışmamalıyız.
 
 327
-00:22:51,620 --> 00:22:55,565
+00:20:00,749 --> 00:20:04,694
 Bizler karı koca edebine sahip olmalıyız,
 
 328
-00:22:55,634 --> 00:22:57,979
+00:20:04,763 --> 00:20:07,108
 çocukların önünde yapamayacağız pek çok şey var.
 
 329
-00:22:58,004 --> 00:23:00,496
+00:20:07,133 --> 00:20:09,625
 Aynı şekilde, sizin oturup
 
 330
-00:23:00,570 --> 00:23:04,092
+00:20:09,699 --> 00:20:13,221
 kavga ederek, “senden nefret ediyorum,
 senden nefret ediyorum” demenize gerek yoktur.
 
 331
-00:23:04,211 --> 00:23:07,661
+00:20:13,340 --> 00:20:16,790
  Bunun, dilinizde birazcık olsun değiştirmeniz gereken
 bir şey olduğunu söyleyeyim.
 
 332
-00:23:07,749 --> 00:23:09,876
+00:20:16,878 --> 00:20:19,005
 Hindistan’da eğer birisi  “nefret ediyorum” derse,
 
 333
-00:23:09,988 --> 00:23:12,840
+00:20:19,117 --> 00:20:21,969
 bu adam en görgüsüz kişi olarak addedilir.
 
 334
-00:23:12,887 --> 00:23:16,507
+00:20:22,016 --> 00:20:25,636
 Demek istiyorum ki, “nefret ediyorum”
 demek çok kötü bir şey sayılır,
 
 335
-00:23:16,619 --> 00:23:20,003
+00:20:25,748 --> 00:20:29,132
 böyle söylemek sizin çok düşük seviyede birisi olduğunuzu gösterir.
 
 336
-00:23:20,115 --> 00:23:22,442
+00:20:29,244 --> 00:20:31,571
 Ama “ben nefret ediyorum”, ne var yani..
 
 337
-00:23:22,575 --> 00:23:24,572
+00:20:31,704 --> 00:20:33,701
 Eğer nefret ediyorsanız, ne var bunda, sen Tanrı değilsin.
 
 338
-00:23:24,776 --> 00:23:27,281
+00:20:33,905 --> 00:20:36,410
 Eğer Benden nefret ediyorsan, bunun ne önemi var,aslında,
 
 339
-00:23:27,441 --> 00:23:29,769
+00:20:36,570 --> 00:20:38,898
 eğer birileri birisinden nefret ederse, ne var yani.
 
 340
-00:23:29,855 --> 00:23:34,336
+00:20:38,984 --> 00:20:43,465
  Bu, o kişinin iyi birisi olmadığını gösterir, sadece birisinden nefret ediyordur.
 
 341
-00:23:34,577 --> 00:23:40,293
+00:20:43,706 --> 00:20:49,422
 “Ben nefret ediyorum”, hissettiğim bir şeyi ifade etmenin
 bir yoludur
 
 342
-00:23:40,467 --> 00:23:44,230
+00:20:49,596 --> 00:20:53,359
  ve aile sistemi için bu çok yanlıştır.
 
 343
-00:23:44,730 --> 00:23:47,692
+00:20:53,859 --> 00:20:56,821
 Bu çocukları şok eder. Çocuklar sizlere, idealleri olarak bakarlar.
 
 344
-00:23:47,736 --> 00:23:49,765
+00:20:56,865 --> 00:20:58,894
 Doğdukları zaman, onları görmelisiniz,
 
 345
-00:23:49,834 --> 00:23:52,806
+00:20:58,963 --> 00:21:01,935
 bu günlerde Avustralya’da çocukların
 çoğu aydınlanmış olarak doğdular,
 
 346
-00:23:52,840 --> 00:23:56,925
+00:21:01,969 --> 00:21:06,054
 havaalanına gittiğim zaman onları etrafta görüyorum
 ve onların aydınlanmış olarak doğduklarını gördüm.
 
 347
-00:23:57,049 --> 00:23:58,918
+00:21:06,178 --> 00:21:08,047
 Ve onlar sizi seyrederler ve şaşırırlar,
 
 348
-00:23:59,006 --> 00:24:00,961
+00:21:08,135 --> 00:21:10,090
 küserler ve kendilerini çok üzgün hissederler.
 
 349
-00:24:00,966 --> 00:24:02,720
+00:21:10,095 --> 00:21:11,849
 Bundan hoşlanmazlar, taraf tutmazlar,
 
 350
-00:24:02,760 --> 00:24:05,946
+00:21:11,889 --> 00:21:15,075
 babanın anne ile kavga etmesini veya
 annenin baba ile kavga etmesini sevmezler.
 
 351
-00:24:06,081 --> 00:24:09,251
+00:21:15,210 --> 00:21:18,380
 Anlamak zorunda olduğunuz diğer bir şey de,
 
 352
-00:24:09,369 --> 00:24:12,071
+00:21:18,498 --> 00:21:21,200
 orada belli bir derecelendirmenin olması gerektiğidir.
 
 353
-00:24:12,151 --> 00:24:15,209
+00:21:21,280 --> 00:21:24,338
 Hane halkı içinde bir kadın en güçlü dayanaktır.
 
 354
-00:24:15,275 --> 00:24:16,858
+00:21:24,404 --> 00:21:25,987
 Toprak Ananın olduğu gibi.
 
 355
-00:24:17,022 --> 00:24:20,078
+00:21:26,151 --> 00:21:29,207
 Toprak Ana tüm problemleri üzerine alır
 
 356
-00:24:20,323 --> 00:24:22,049
+00:21:29,452 --> 00:21:31,178
 çünkü O, en güçlü olandır.
 
 357
-00:24:22,170 --> 00:24:26,110
+00:21:31,299 --> 00:21:35,239
 Onun üzerinde bulunan bu tür bir ağırlığa,
 başka kim dayanabilir ki.
 
 358
-00:24:26,233 --> 00:24:27,801
+00:21:35,362 --> 00:21:36,930
 Sadece Anne bunu yapabilir.
 
 359
-00:24:27,994 --> 00:24:30,916
+00:21:37,123 --> 00:21:40,045
 Aynı şekilde, evdeki kadın bir annedir
 
 360
-00:24:31,061 --> 00:24:32,744
+00:21:40,190 --> 00:21:41,873
 ve onun dayanması gerekir.
 
 361
-00:24:32,856 --> 00:24:34,538
+00:21:41,985 --> 00:21:43,667
 Bakın, çok tatlı, merhaba merhaba deyip,
 
 362
-00:24:34,609 --> 00:24:37,202
+00:21:43,738 --> 00:21:46,331
 kendini beğenmiş bir kaplan gibi dışarıda herkesin üzerine giden
 
 363
-00:24:37,313 --> 00:24:39,004
+00:21:46,442 --> 00:21:48,133
 bir koca yerine, eve gelip,
 
 364
-00:24:39,125 --> 00:24:41,853
+00:21:48,254 --> 00:21:50,982
 ne isterse onu söyleyen
 
 365
-00:24:41,999 --> 00:24:46,351
+00:21:51,128 --> 00:21:55,480
 ve bütün kiri üzerinize çıkaran bir kocaya sahip olmak hoştur.
 
 366
-00:24:46,767 --> 00:24:52,366
+00:21:55,896 --> 00:22:01,495
 Öyle bir adam olmalıdır ki o, bakın,
 onlar çocuk gibidirler, demeliyim ki,
 
 367
-00:24:52,575 --> 00:24:56,538
+00:22:01,704 --> 00:22:05,667
 onlar çocuk gibidirler. Onlar gerilimlerini
 sadece karılarının üzerinde boşaltmalılar
 
 368
-00:24:56,613 --> 00:24:58,801
+00:22:05,742 --> 00:22:07,930
 ve bunun için sizler birer soğurucu olmalısınız
 
 369
-00:24:58,853 --> 00:25:00,402
+00:22:07,982 --> 00:22:09,531
 ve bir kadının işaretidir budur.
 
 370
-00:25:00,510 --> 00:25:04,007
+00:22:09,639 --> 00:22:13,136
 Güçlü bir kadın, böyle şeylerden kolayca rahatsızlık duymaz.
 
 371
-00:25:04,190 --> 00:25:06,190
+00:22:13,319 --> 00:22:15,319
 O aldırmaz. O, “tamam,
 
 372
-00:25:06,261 --> 00:25:07,579
+00:22:15,390 --> 00:22:16,708
 seni küçük bebek, gel buraya,
 
 373
-00:25:07,725 --> 00:25:10,137
+00:22:16,854 --> 00:22:19,266
 dört bebeğim var benim şimdi ve en küçükleri olan
 
 374
-00:25:10,236 --> 00:25:12,004
+00:22:19,365 --> 00:22:21,133
 bu beşincisi de şimdi eve geldi”, derler.
 
 375
-00:25:12,092 --> 00:25:14,738
+00:22:21,221 --> 00:22:23,867
 Bırakın bağırsın, haykırsınlar, çocuklara karşı bile,
 
 376
-00:25:14,828 --> 00:25:17,702
+00:22:23,957 --> 00:22:26,831
 sabırlı olmalısınız, size vururlar, onlar her şeyi yaparlar.
 
 377
-00:25:17,959 --> 00:25:20,296
+00:22:27,088 --> 00:22:29,425
 Demeliyim ki, Hindistan tarzında, çocuklara
 
 378
-00:25:20,404 --> 00:25:22,404
+00:22:29,533 --> 00:22:31,533
 çok müşfik bir şekilde muamele edilir
 
 379
-00:25:22,550 --> 00:25:24,701
+00:22:31,679 --> 00:22:33,830
 ve onlar çok özel şeylerdir.
 
 380
-00:25:24,772 --> 00:25:30,681
+00:22:33,901 --> 00:22:39,810
 Çocuk oldukları zaman, her ne isterlerse onu yaparlar
 ama büyüdükleri zaman, bizim onlarla ergenlik problemlerimiz olmaz,
 
 381
-00:25:30,864 --> 00:25:33,403
+00:22:39,993 --> 00:22:42,532
 Bizim, çocuklara saygı göstermemek gibi bir problemimiz yoktur.
 
 382
-00:25:33,602 --> 00:25:36,122
+00:22:42,731 --> 00:22:45,251
 Şöyle ki, karı – koca ilişkisinin ne olduğu, modern yaşamın
 
 383
-00:25:36,269 --> 00:25:40,439
+00:22:45,398 --> 00:22:49,568
 anlamamız gereken çok önemli bir yönüdür.
 
 384
-00:25:40,752 --> 00:25:45,535
+00:22:49,881 --> 00:22:54,664
 Koca sanki, deyin ki, kesinlikle
 
 385
-00:25:45,585 --> 00:25:48,436
+00:22:54,714 --> 00:22:57,565
 karısı tarafından saygı gören bir beyefendi olmalıdır.
 
 386
-00:25:48,488 --> 00:25:51,255
+00:22:57,617 --> 00:23:00,384
 Ama kadın eğer kocasına saygı göstermezse,
 
 387
-00:25:51,345 --> 00:25:52,952
+00:23:00,474 --> 00:23:02,081
  kendi çocuklarından da saygı göremez.
 
 388
-00:25:53,082 --> 00:25:55,082
+00:23:02,211 --> 00:23:04,211
 Ama kocanın da saygıdeğer birisi olması gerekir,
 
 389
-00:25:55,265 --> 00:25:58,579
+00:23:04,394 --> 00:23:07,708
 bu çok önemlidir. Eğer adam saygı değer değilse,
 
 390
-00:25:58,613 --> 00:26:00,181
+00:23:07,742 --> 00:23:09,310
 kolayca saygı göremez
 
 391
-00:26:00,233 --> 00:26:03,601
+00:23:09,362 --> 00:23:12,730
 ama daha çok kadın kendisi, çok saygı değer olmalıdır,
 
 392
-00:26:04,036 --> 00:26:06,074
+00:23:13,165 --> 00:23:15,203
 eğer kadın saygısını gösteremezse.
 
 393
-00:26:06,237 --> 00:26:08,237
+00:23:15,366 --> 00:23:17,366
 Eğer yeterince akıllıysanız, siz her türdeki adamı
 
 394
-00:26:08,289 --> 00:26:12,912
+00:23:17,418 --> 00:23:22,041
  idare edebilirsiniz, ayyaşlar, her türdekiler,
 sizin etrafınızda toplanırlar.
 
 395
-00:26:13,178 --> 00:26:16,258
+00:23:22,307 --> 00:23:25,387
 Çünkü nihayetinde onlar da insandırlar, kötü insanlar değiller
 
 396
-00:26:16,396 --> 00:26:19,618
+00:23:25,525 --> 00:23:28,747
 ama yanlış idare edilmeleri yüzünden giderler
 
 397
-00:26:19,764 --> 00:26:23,329
+00:23:28,893 --> 00:23:32,458
 ve erkeklerin baskısı sadece bir efsanedir.
 
 398
-00:26:23,470 --> 00:26:25,633
+00:23:32,599 --> 00:23:34,762
 Bakın, onlar baskı kuramazlar,
 
 399
-00:26:25,841 --> 00:26:29,381
+00:23:34,970 --> 00:23:38,510
 onlar baskı yapma kabiliyetinde değiller.  Onlar bunu,
 
 400
-00:26:29,433 --> 00:26:32,316
+00:23:38,562 --> 00:23:41,445
  sadece üstün olduklarını hissetmek istedikleri için yaparlar,
 hepsi bu,
 
 401
-00:26:32,459 --> 00:26:35,697
+00:23:41,588 --> 00:23:44,826
 ama onlar baskı yapamazlar. Baskı her ne olursa olsun,
 onların baskısı nedir ki?
 
 402
-00:26:35,812 --> 00:26:37,296
+00:23:44,941 --> 00:23:46,425
 Şurada burada küçük küçük şeylerdir,
 
 403
-00:26:37,375 --> 00:26:39,169
+00:23:46,504 --> 00:23:48,298
 sadece çocuklar gibidirler, işte olan budur.
 
 404
-00:26:39,320 --> 00:26:42,673
+00:23:48,449 --> 00:23:51,802
 Eğer kadınlar kendi olgunlukları
 
 405
-00:26:42,946 --> 00:26:46,530
+00:23:52,075 --> 00:23:55,659
 ve kadın olarak kendi sorumluluklarını anlarlarsa,
 çünkü onların hepsi Shaktidirler,
 
 406
-00:26:46,615 --> 00:26:48,615
+00:23:55,744 --> 00:23:57,744
 onlar ailenin gücüdürler
 
 407
-00:26:48,779 --> 00:26:53,959
+00:23:57,908 --> 00:24:03,088
 ve onlar çocukları için olduğu kadar,
 kocaları içinde güçlü shaktileridir
 
 408
-00:26:54,254 --> 00:26:56,517
+00:24:03,383 --> 00:24:05,646
 ama eğer onlar rahatsız edilirlerse,
 
 409
-00:26:56,663 --> 00:26:59,470
+00:24:05,792 --> 00:24:08,599
 o zaman koca da rahatsız olur ve çocuklarda rahatsız olur.
 
 410
-00:26:59,566 --> 00:27:02,729
+00:24:08,695 --> 00:24:11,858
 Ama bu insanlar kinetik olanlarken, onlar kuvvetlidirler.
 
 411
-00:27:02,819 --> 00:27:04,819
+00:24:11,948 --> 00:24:13,948
 Buradaki elektrik gibi, tamam,
 
 412
-00:27:04,957 --> 00:27:07,480
+00:24:14,086 --> 00:24:16,609
 yani biz çok iyi deriz, lamba ve elektrik, hepsi bu,
 
 413
-00:27:07,634 --> 00:27:10,476
+00:24:16,763 --> 00:24:19,605
 ama bunlar nereden geldiler. Kaynak,
 
 414
-00:27:10,622 --> 00:27:12,622
+00:24:19,751 --> 00:24:21,751
  o sessizce bir yerlerden kaynağı gönderiyor
 
 415
-00:27:12,767 --> 00:27:15,122
+00:24:21,896 --> 00:24:24,251
 ve o kaynağı vererek, kendisinden neşe duyuyor.
 
 416
-00:27:15,398 --> 00:27:17,926
+00:24:24,527 --> 00:24:27,055
 Aynı şekilde, bu çok önemli bir merkezdir.
 
 417
-00:27:18,043 --> 00:27:21,708
+00:24:27,172 --> 00:24:30,837
 Bunu neden söyledim çünkü Melbourne’a gittim
 
 418
-00:27:21,923 --> 00:27:26,942
+00:24:31,052 --> 00:24:36,071
 ve bu parmak, bu noktada yanıyordu.
 
 419
-00:27:26,998 --> 00:27:29,199
+00:24:36,127 --> 00:24:38,328
 Yani bu, aile hayatları söz konusu olduğunda onlarda,
 
 420
-00:27:29,255 --> 00:27:32,329
+00:24:38,384 --> 00:24:41,458
 kadınlarda ve erkeklerde bir şeylerin yanlış olduğu anlamına gelir.
 
 421
-00:27:32,549 --> 00:27:34,267
+00:24:41,678 --> 00:24:43,396
 Hepsi çok üzgünler.
 
 422
-00:27:34,413 --> 00:27:36,191
+00:24:43,542 --> 00:24:45,320
 Koca üzgün, eşi üzgün.
 
 423
-00:27:36,318 --> 00:27:38,959
+00:24:45,447 --> 00:24:48,088
 Belki de yasalar erkeklere karşı, belki de burada, bilemiyorum.
 
 424
-00:27:38,993 --> 00:27:40,993
+00:24:48,122 --> 00:24:50,122
 Ama Amerika’da karı – koca
 
 425
-00:27:41,059 --> 00:27:43,635
+00:24:50,188 --> 00:24:52,764
  ilişkisini çok garip buldum.
 
 426
-00:27:43,926 --> 00:27:47,303
+00:24:53,055 --> 00:24:56,432
 Örneğin, bir bayanla tanıştım, çok garip insanlar.
 
 427
-00:27:49,231 --> 00:27:52,642
+00:24:58,360 --> 00:25:01,771
 Gidip bir bayanda kaldım, onun yüzme
 
 428
-00:27:52,702 --> 00:27:55,189
+00:25:01,831 --> 00:25:04,318
 havuzlu lüks bir evi var ve her şeyi yapmak üzere
 
 429
-00:27:55,242 --> 00:27:59,836
+00:25:04,371 --> 00:25:08,965
 ve beş katlı evi için bir hizmetçi eve geliyordu
 
 430
-00:28:00,802 --> 00:28:04,544
+00:25:09,931 --> 00:25:13,673
 Bayan dedi ki, “bakın, eski kocalarımdan birisi gelip,
 
 431
-00:28:04,596 --> 00:28:08,715
+00:25:13,725 --> 00:25:17,844
 Los Angeles’da sizi görecek”.
 Bende, “tamam, çok iyi fikir bu”, dedim.
 
 432
-00:28:09,215 --> 00:28:12,690
+00:25:18,344 --> 00:25:21,819
 Kocası geldi, yoksul biri gibiydi, bilirsiniz, böyle yürüyordu
 
 433
-00:28:12,887 --> 00:28:16,738
+00:25:22,016 --> 00:25:25,867
 ve dedi ki, “anne, kaldığım yerde kiralık bir odam var,
 
 434
-00:28:16,808 --> 00:28:19,639
+00:25:25,937 --> 00:25:28,768
 çok zor bu. Odayı birisi ile paylaşmalıyım”. Ben de, “Ne?
 
 435
-00:28:20,344 --> 00:28:22,344
+00:25:29,473 --> 00:25:31,473
 Oradaki kadının
 
 436
-00:28:22,545 --> 00:28:25,768
+00:25:31,674 --> 00:25:34,897
 çok büyük bir evi var, onun senin karın olması gerekiyordu”.
 
 437
-00:28:25,858 --> 00:28:29,754
+00:25:34,987 --> 00:25:38,883
 Dedi ki, “ben buyum, size söyleyeyim, onu her halükarda kaybettim”.
 
 438
-00:28:29,862 --> 00:28:32,142
+00:25:38,991 --> 00:25:41,271
 Bende, “her halükarda nasıl kaybedebilirsin?”, dedim.
 
 439
-00:28:32,250 --> 00:28:35,210
+00:25:41,379 --> 00:25:44,339
 “Çünkü kadın boşanmak istedi
 
 440
-00:28:35,300 --> 00:28:38,579
+00:25:44,429 --> 00:25:47,708
 ve beni bir şeyler için suçlu bulduğu için, o bunu aldı”.
 
 441
-00:28:38,743 --> 00:28:42,272
+00:25:47,872 --> 00:25:51,401
 Onun üç kocası oldu ve kocaların üçüde yoksullar
 
 442
-00:28:42,314 --> 00:28:44,985
+00:25:51,443 --> 00:25:54,114
 ve bu hanım ise çok zengin.
 
 443
-00:28:48,227 --> 00:28:51,650
+00:25:57,356 --> 00:26:00,779
 Eğer yedi koca ile evlenirsen, yedi kocanın
 her biri sonsuza dek bitmiş demektir
 
 444
-00:28:51,740 --> 00:28:55,140
+00:26:00,869 --> 00:26:04,269
 ama hanım çok zengin. Onların herhangi birinden
 yedi kere daha zengin.
 
 445
-00:28:55,779 --> 00:28:57,483
+00:26:04,908 --> 00:26:06,612
 Yani bu tür bir yasayı anlayamıyorum.
 
 446
-00:28:57,561 --> 00:29:00,112
+00:26:06,690 --> 00:26:09,241
 Her şeyden önce karı koca arasında
 
 447
-00:29:00,247 --> 00:29:02,084
+00:26:09,376 --> 00:26:11,213
 neden bir kanun olmalı, anlayamıyorum.
 
 448
-00:29:02,136 --> 00:29:05,862
+00:26:11,265 --> 00:26:14,991
 Sadece anlayamıyorum. Demek istiyorum ki,
 Hindistan’da böyle kanunlarımız yok ama
 
 449
-00:29:05,989 --> 00:29:07,766
+00:26:15,118 --> 00:26:16,895
 herkes karısı ile ilgilenir,
 
 450
-00:29:07,874 --> 00:29:11,307
+00:26:17,003 --> 00:26:20,436
 çünkü o sahip oldukları en yakın ve en değerli kişidir.
 
 451
-00:29:11,483 --> 00:29:15,296
+00:26:20,612 --> 00:26:24,425
 Başka kime bağlı olacak ki? Eğer kadın kocasına adanmış ve sadıksa,
 
 452
-00:29:15,448 --> 00:29:19,341
+00:26:24,577 --> 00:26:28,470
 kocanın başka bir kadının arkasından
 koşacağını düşünür müsünüz, koca karısına geri dönmelidir.
 
 453
-00:29:19,535 --> 00:29:21,562
+00:26:28,664 --> 00:26:30,691
 Sadece para veya
 
 454
-00:29:21,700 --> 00:29:24,046
+00:26:30,829 --> 00:26:33,175
 bir şeyler için yaşayan bu kadınlardan bıkacaktır
 
 455
-00:29:24,292 --> 00:29:25,357
+00:26:33,421 --> 00:26:34,486
 ve geri dönecektir.
 
 456
-00:29:25,540 --> 00:29:28,653
+00:26:34,669 --> 00:26:37,782
 Yani bakın, kişinin çok bilgece bir karar alması lazım
 
 457
-00:29:28,743 --> 00:29:32,410
+00:26:37,872 --> 00:26:41,539
 çünkü tamamen yok edilecek olsanız da
 
 458
-00:29:32,618 --> 00:29:37,216
+00:26:41,747 --> 00:26:46,345
 veya tamamen kurtarılacak olsanız da,
 
 459
-00:29:37,460 --> 00:29:41,330
+00:26:46,589 --> 00:26:50,459
 önemli bir dönemde doğduğunuzu anlamalısınız, bu çok önemli.
 
 460
-00:29:41,571 --> 00:29:44,047
+00:26:50,700 --> 00:26:53,176
 Sizler insanlığı kurtarmalısınız.
 
 461
-00:29:44,113 --> 00:29:46,840
+00:26:53,242 --> 00:26:55,969
  İnsanlığı kurtarmanız gereken bir zamanda doğdunuz.
 
 462
-00:29:47,101 --> 00:29:49,928
+00:26:56,230 --> 00:26:59,057
 Sadece yardımcı olacak olan, sadece Kundalininin uyanışı değil
 
 463
-00:29:50,054 --> 00:29:52,168
+00:26:59,183 --> 00:27:01,297
 çünkü siz kurtulabilirsiniz
 
 464
-00:29:52,258 --> 00:29:54,115
+00:27:01,387 --> 00:27:03,244
 ama sizler tüm toplumu,
 
 465
-00:29:54,292 --> 00:29:57,001
+00:27:03,421 --> 00:27:06,130
 bütün aileyi,
 
 466
-00:29:58,378 --> 00:30:00,529
+00:27:07,507 --> 00:27:09,658
 bütünü, demeliyim ki tüm evreni kurtarmalısınız,
 
 467
-00:30:00,563 --> 00:30:04,080
+00:27:09,692 --> 00:27:13,209
 yoksa eğer siz insanlar yok edilirseniz,
 bütün bu yaratılışın bir anlamı olmayacaktır.
 
 468
-00:30:04,232 --> 00:30:06,472
+00:27:13,361 --> 00:27:15,601
 Şimdi siz, aileyi yok etmek,
 
 469
-00:30:06,591 --> 00:30:09,599
+00:27:15,720 --> 00:27:18,728
 yok etmenin bir yoludur. Çocuklar delirdi,
 
 470
-00:30:09,624 --> 00:30:10,868
+00:27:18,753 --> 00:27:19,997
 kocalar delirdi,
 
 471
-00:30:11,028 --> 00:30:13,473
+00:27:20,157 --> 00:27:22,602
 hepsinin sonu yetimhaneler, işte Benim gördüğüm şey bu.
 
 472
-00:30:13,624 --> 00:30:16,521
+00:27:22,753 --> 00:27:25,650
 İleri yaşlarına geldiklerinde,
 onlar çoğunlukla kimsesizler yurdundalar,
 
 473
-00:30:16,644 --> 00:30:18,276
+00:27:25,773 --> 00:27:27,405
 sizinle ilgilenen hiç kimse yok.
 
 474
-00:30:18,396 --> 00:30:21,890
+00:27:27,525 --> 00:27:31,019
 Bu yüzden bu, vermek ve vermek ve vermek meselesidir.
 
 475
-00:30:22,992 --> 00:30:27,634
+00:27:32,121 --> 00:27:36,763
 Bu Gruhalakshmi’nin merkezi, sol taraftadır
 
 476
-00:30:27,823 --> 00:30:31,252
+00:27:36,952 --> 00:27:40,381
 ve bir diğeri olan Raja Lakshmi merkezi ise, sağ taraftadır.
 
 477
-00:30:31,570 --> 00:30:36,232
+00:27:40,699 --> 00:27:45,361
 Bu merkez bize, insanlar üzerinde yönetme gücü verir
 
 478
-00:30:36,373 --> 00:30:40,046
+00:27:45,502 --> 00:27:49,175
 ve bizler aşırılıklar içinde oluruz,
 
 479
-00:30:40,157 --> 00:30:45,413
+00:27:49,286 --> 00:27:54,542
 Çok kibirli olabiliriz ve bir şekilde çok çok otoriter olabiliriz
 ve tutup pazardan getirilmiş
 
 480
-00:30:45,484 --> 00:30:50,343
+00:27:54,613 --> 00:27:59,472
 ve oraya konulmuş olan, bizim için hiç bir şey hissetmeksizin arkamızdan yürüyen
 
 481
-00:30:50,414 --> 00:30:55,992
+00:27:59,543 --> 00:28:05,121
  on bin kişi ile düzenlenmiş bir cenaze töreniyle sonumuz gelebilir, hepsi bu, bitti.
 
 482
-00:30:56,063 --> 00:30:59,446
+00:28:05,192 --> 00:28:08,575
  Böyle bir adamın işi bittiğinde, insanlar, “Tanrıya şükür öldü de gitti” derler,
 
 483
-00:30:59,592 --> 00:31:03,016
+00:28:08,721 --> 00:28:12,145
  o adam korkunç bir terördü bizler için.
 
 484
-00:31:03,207 --> 00:31:06,899
+00:28:12,336 --> 00:28:16,028
 Yani Raja Lakshmi ile, bu tür yaşam gelebilir.
 
 485
-00:31:06,970 --> 00:31:10,828
+00:28:16,099 --> 00:28:19,957
 Ama, merkezde olan Lakshmi’dir.
 
 486
-00:31:11,145 --> 00:31:16,655
+00:28:20,274 --> 00:28:25,784
 Lakshmi Tanrıçadır, sayesinde dengede olduğumuz içimizdeki güçtür,
 
 487
-00:31:16,836 --> 00:31:19,147
+00:28:25,965 --> 00:28:28,276
 böylece tatmin olduğumuz
 
 488
-00:31:19,336 --> 00:31:21,588
+00:28:28,465 --> 00:28:30,717
 çok dengeli bir yaşam süreriz.
 
 489
-00:31:21,709 --> 00:31:24,630
+00:28:30,838 --> 00:28:33,759
 Onlar Lakshmi’nin güzel bir resmini yaptılar,
 
 490
-00:31:24,789 --> 00:31:27,751
+00:28:33,918 --> 00:28:36,880
 aynı zamanda kişi, bu gücün bir hanım olduğunu anlamalıdır,
 
 491
-00:31:27,865 --> 00:31:32,003
+00:28:36,994 --> 00:28:41,132
 O bir Annedir ve O bir nilüferin üzerinde ayakta durur.
 
 492
-00:31:32,095 --> 00:31:34,403
+00:28:41,224 --> 00:28:43,532
 Bunlar, bütün bu sembollerin
 
 493
-00:31:34,555 --> 00:31:40,187
+00:28:43,684 --> 00:28:49,316
 ne kadar derin bir öneme sahip olduğuna işaret eden simgelerdir.
 
 494
-00:31:40,350 --> 00:31:45,271
+00:28:49,479 --> 00:28:54,400
 O bir lotusun üzerinde ayakta durur. Bunun anlamı,
 düşünün, kim bir nilüferin üzerinde ayakta durabilir ki?
 
 495
-00:31:45,416 --> 00:31:50,150
+00:28:54,545 --> 00:28:59,279
 Ve O çok zengin bir kadındır ve O,
 bir nilüferin üzerinde ayakta durur.
 
 496
-00:31:50,287 --> 00:31:55,307
+00:28:59,416 --> 00:29:04,436
 Bu Onun, hiç kimseye asla baskı yapmadığı anlamına gelir.
 
 497
-00:31:55,462 --> 00:31:59,979
+00:29:04,591 --> 00:29:09,108
 Zengin bir adam gelir, o arabasının kornasını
 sesli bir şekilde çalmalıdır
 
 498
-00:32:00,140 --> 00:32:03,267
+00:29:09,269 --> 00:29:12,396
 çünkü o zengindir, o daha sesli bir şekilde korna çalmalıdır
 
 499
-00:32:03,421 --> 00:32:08,094
+00:29:12,550 --> 00:29:17,223
 ve zengin bir adam büyük bir limuzinin içinde seyahat etmelidir
 
 500
-00:32:08,201 --> 00:32:10,912
+00:29:17,330 --> 00:29:20,041
 veya kendisinin zengin olduğunu gösterecek türde bir şey ile.
 
 501
-00:32:10,999 --> 00:32:13,924
+00:29:20,128 --> 00:29:23,053
 Her hangi bir programa gelirse, o önde oturmak zorundadır,
 
 502
-00:32:14,030 --> 00:32:15,860
+00:29:23,159 --> 00:29:24,989
 önde bir koltuğu olmalıdır
 
 503
-00:32:15,971 --> 00:32:19,376
+00:29:25,100 --> 00:29:28,505
 ve kendisini tanıtır, her yerde, herkes zengin bir adamın ağırlığını
 
 504
-00:32:19,487 --> 00:32:24,199
+00:29:28,616 --> 00:29:33,328
 hissetmek zorundadır. O, başka birilerinin karısı olan on tane kadınla kaçabilir.
 
 505
-00:32:24,317 --> 00:32:26,418
+00:29:33,446 --> 00:29:35,547
 Kendisinin büyük bir teknesi olabilir
 
 506
-00:32:26,532 --> 00:32:30,072
+00:29:35,661 --> 00:29:39,201
 ve herhangi bir sayıda kadını oraya getirebilir
 
 507
-00:32:30,176 --> 00:32:33,971
+00:29:39,305 --> 00:29:43,100
 ve dilediği her hangi bir ailenin düzenini bozabilir
 
 508
-00:32:33,947 --> 00:32:38,373
+00:29:43,076 --> 00:29:47,502
 çünkü o zengindir. Bu tür şeyler insanlarda olur ama Lakshmi,
 
 509
-00:32:38,487 --> 00:32:40,487
+00:29:47,616 --> 00:29:49,616
 O lotusun üzerinde ayakta durur,
 
 510
-00:32:40,954 --> 00:32:45,300
+00:29:50,083 --> 00:29:54,429
 O güzelliktir ve Tanrının kişiye
 
 511
-00:32:45,404 --> 00:32:47,847
+00:29:54,533 --> 00:29:56,976
 verdiği zenginliklerin ihtişamıdır.
 
 512
-00:32:48,347 --> 00:32:53,590
+00:29:57,476 --> 00:30:02,719
 Sonra, Onun elinde iki tane kırmızı, pembe çiçek vardır
 
 513
-00:32:53,704 --> 00:32:58,679
+00:30:02,833 --> 00:30:07,808
 ve bunlar da yine lotus çiçekleridir. Lotus,
 
 514
-00:32:58,793 --> 00:33:04,245
+00:30:07,922 --> 00:30:13,374
 Hindistan’da çok kutsal bir çiçek olarak addedilir çünkü o kaba
 
 515
-00:33:04,359 --> 00:33:09,558
+00:30:13,488 --> 00:30:18,687
 ve tuhaf olan her şeye karşı çok açıktır, savunmasızdır.
 
 516
-00:33:09,629 --> 00:33:12,991
+00:30:18,758 --> 00:30:22,120
 Her şeyden önce o, çamurun içinde doğmuştur.
 
 517
-00:33:13,491 --> 00:33:17,915
+00:30:22,620 --> 00:30:27,044
 Sadece bunu durumu bir düşünün,
 lotus, çamurda, pisliğin içinde,
 
 518
-00:33:18,107 --> 00:33:19,970
+00:30:27,236 --> 00:30:29,099
  korkunç bir kokunun geldiği yerde doğdu.
 
 519
-00:33:20,147 --> 00:33:23,836
+00:30:29,276 --> 00:30:32,965
 Bir lotus koku verir,
 
 520
-00:33:23,947 --> 00:33:25,594
+00:30:33,076 --> 00:30:34,723
  tüm atmosfere güzel bir koku yayılır
 
 521
-00:33:25,708 --> 00:33:28,426
+00:30:34,837 --> 00:30:37,555
 ve pis olan her şeyi öldürür ve bütün göleti,
 
 522
-00:33:28,518 --> 00:33:31,928
+00:30:37,647 --> 00:30:41,057
 büyük büyük yapraklarla kaplar
 
 523
-00:33:32,063 --> 00:33:35,667
+00:30:41,192 --> 00:30:44,796
 ve bu sayede  gölet güzel görünür.
 
 524
-00:33:36,082 --> 00:33:39,549
+00:30:45,211 --> 00:30:48,678
 İşte lotusun olduğu şey budur. Ama bu lotus,
 
 525
-00:33:39,641 --> 00:33:44,614
+00:30:48,770 --> 00:30:53,743
 pembe bir lotustur, pembenin anlamı,
 bilirsiniz pembe sevginin işaretidir.
 
 526
-00:33:44,942 --> 00:33:48,321
+00:30:54,071 --> 00:30:57,450
 Pembe, sevginin işaretidir. Yani böyle bir kişi,
 
 527
-00:33:48,499 --> 00:33:52,060
+00:30:57,628 --> 00:31:01,189
 muazzam bir sevgiye ve lotusun yumuşaklığına sahip olmalıdır.
 
 528
-00:33:52,348 --> 00:33:55,772
+00:31:01,477 --> 00:31:04,901
 Lotusun içi çok yumuşak ve hoştur,
 
 529
-00:33:55,902 --> 00:34:01,104
+00:31:05,031 --> 00:31:10,233
 buna böceğe ne isim veriyorsunuz bilmiyorum, arı, siyah arı,
 
 530
-00:34:01,175 --> 00:34:06,362
+00:31:10,304 --> 00:31:15,491
 iğrenç çok büyük bir böcek,
 
 531
-00:34:07,570 --> 00:34:11,860
+00:31:16,699 --> 00:31:20,989
 hayır, siyah arı, o şunun gibi,
 
 532
-00:34:11,952 --> 00:34:15,425
+00:31:21,081 --> 00:31:24,554
 çöp gibi bacakları var, bunun gibi, korkunç, ona dokunamazsınız.
 
 533
-00:34:15,625 --> 00:34:18,921
+00:31:24,754 --> 00:31:28,050
 Bu şey, lotusun içinde kendisine yer bulabilir.
 
 534
-00:34:19,207 --> 00:34:23,642
+00:31:28,336 --> 00:31:32,771
 O lotusa gittiği zaman, lotus
 taç yapraklarını açar ve onu içine alır
 
 535
-00:34:23,810 --> 00:34:28,534
+00:31:32,939 --> 00:31:37,663
 ve yatağın üzerinde çok yumuşak korona da
 (taç şeklindeki yapı) böceği uyutur
 
 536
-00:34:28,679 --> 00:34:31,063
+00:31:37,808 --> 00:31:40,192
 ve güzel bir şekilde onu örter
 
 537
-00:34:31,241 --> 00:34:34,675
+00:31:40,370 --> 00:31:43,804
 ve ona güzel bir
 
 538
-00:34:34,703 --> 00:34:38,563
+00:31:43,832 --> 00:31:47,692
 sallanma hissi verir. Böcek kendisini annesinin kucağında hisseder
 
 539
-00:34:38,655 --> 00:34:43,894
+00:31:47,784 --> 00:31:53,023
 ve uyur. Böyle bir hayvana bile, lotus yaşayacak bir yer verir.
 
 540
-00:34:44,136 --> 00:34:48,209
+00:31:53,265 --> 00:31:57,338
 Lakshmi tarafından kutsanmış bir lakshmipati olan adamın
 
 541
-00:34:48,308 --> 00:34:51,180
+00:31:57,437 --> 00:32:00,309
 böyle bir mizacı olmalıdır.
 
 542
-00:34:51,310 --> 00:34:53,159
+00:32:00,439 --> 00:32:02,288
 Evine her kim gelirse, herhangi birisi,
 
 543
-00:34:53,316 --> 00:34:59,117
+00:32:02,445 --> 00:32:08,246
 o kişiyi seve seve kabul edilmelidir. Böyle insanlar gördüm,
 
 544
-00:34:59,231 --> 00:35:02,099
+00:32:08,360 --> 00:32:11,228
 yaşamımda bunu gördüm. Kabul edilmeliler
 
 545
-00:35:02,148 --> 00:35:06,428
+00:32:11,277 --> 00:32:15,557
 ve evde böyle birisi bulunduğu için çok memnun olmalılar
 
 546
-00:35:06,499 --> 00:35:08,270
+00:32:15,628 --> 00:32:17,399
 ve “aman Tanrım, evde bir misafirimizin
 
 547
-00:35:08,361 --> 00:35:11,104
+00:32:17,490 --> 00:32:20,233
  olması ne büyük bir kutsama” diye hissetmeliler.
 
 548
-00:35:11,218 --> 00:35:14,841
+00:32:20,347 --> 00:32:23,970
 Ama modern zamanlarda bizler misafirlerden
 
 549
-00:35:14,955 --> 00:35:18,041
+00:32:24,084 --> 00:32:27,170
 nasıl kurtulacağımıza dair araçlar ve yöntemler buluruz,
 
 550
-00:35:18,181 --> 00:35:20,697
+00:32:27,310 --> 00:32:29,826
  misafirler haşerelere denktir.
 
 551
-00:35:22,997 --> 00:35:26,768
+00:32:32,126 --> 00:32:35,897
 Ben Londra’daydım, Surrey Hills’de yaşıyorduk
 
 552
-00:35:26,860 --> 00:35:28,740
+00:32:35,989 --> 00:32:37,869
 ve bungalovlarımız vardı, ayrı bungalovlar,
 
 553
-00:35:28,789 --> 00:35:31,462
+00:32:37,918 --> 00:32:40,591
 oldukça iyi bungalovlar demeliyim, yedi tane bungalov vardı.
 
 554
-00:35:31,549 --> 00:35:33,956
+00:32:40,678 --> 00:32:43,085
 Zavallı kocalar da
 
 555
-00:35:34,037 --> 00:35:36,637
+00:32:43,166 --> 00:32:45,766
 çimleri biçme görevini üstlenmişlerdi ve her şeyi, eşleri onlara,
 
 556
-00:35:36,733 --> 00:35:38,802
+00:32:45,862 --> 00:32:47,931
 şimdi gel ve bunu doğru şekilde yap derlerdi,
 
 557
-00:35:38,890 --> 00:35:40,203
+00:32:48,019 --> 00:32:49,332
 pirinç eşyaları parlatırlardı
 
 558
-00:35:40,318 --> 00:35:43,161
+00:32:49,447 --> 00:32:52,290
 veya orada her ne varsa, her şey çok iyi şekilde yapılırdı.
 
 559
-00:35:43,265 --> 00:35:46,322
+00:32:52,394 --> 00:32:55,451
 Ama bir farenin bile bu evlere girdiğini görmedim,
 
 560
-00:35:46,461 --> 00:35:49,510
+00:32:55,590 --> 00:32:58,639
 insanları bırakın bir farenin bile.
 
 561
-00:35:49,655 --> 00:35:54,756
+00:32:58,784 --> 00:33:03,885
 Bu evlere hiç bir şey girmezdi, sadece iki kişi eve gelir giderdi.
 
 562
-00:35:54,915 --> 00:35:58,046
+00:33:04,044 --> 00:33:07,175
 Bilemiyorum eşlerin yıllık buluşmaları olabilir,
 
 563
-00:35:58,173 --> 00:36:00,246
+00:33:07,302 --> 00:33:09,375
 bir tür buluşma, belki de.
 
 564
-00:36:00,375 --> 00:36:05,216
+00:33:09,504 --> 00:33:14,345
 Ama hiç kimse, Benim evim doğal olarak, Ben böyleyimdir,
 
 565
-00:36:05,287 --> 00:36:09,264
+00:33:14,416 --> 00:33:18,393
 evim her zaman açıktı, insanlar gelir giderlerdi, şudur budur,
 
 566
-00:36:09,351 --> 00:36:11,656
+00:33:18,480 --> 00:33:20,785
 Ben sadece onların arkadaşlığından keyif alıyordum.
 
 567
-00:36:11,727 --> 00:36:12,994
+00:33:20,856 --> 00:33:22,123
 Bir gün komşular Bana sordular,
 
 568
-00:36:13,121 --> 00:36:15,700
+00:33:22,250 --> 00:33:24,829
 evinizde ne var sizin, sürekli olarak insanlar gelip gidiyor
 
 569
-00:36:15,811 --> 00:36:18,658
+00:33:24,940 --> 00:33:27,787
 ve onlar içeride neler olduğunu merak ediyorlardı.
 
 570
-00:36:18,815 --> 00:36:22,534
+00:33:27,944 --> 00:33:31,663
 Bende, hiç bir şey yok dedim, sadece
 gelip, çay içip gidiyorlar, hepsi bu,
 
 571
-00:36:22,669 --> 00:36:25,393
+00:33:31,798 --> 00:33:34,522
 sadece biraz muhabbet, biraz dostça sevgi ilişkisi.
 
 572
-00:36:25,507 --> 00:36:27,377
+00:33:34,636 --> 00:33:36,506
 Ama bu nedir, bütün kapılar kapalı,
 
 573
-00:36:27,468 --> 00:36:30,556
+00:33:36,597 --> 00:33:39,685
 bu şekilde, şunu söylemek zorundayım ki
 Sydney'liler çok açık kalpliler
 
 574
-00:36:30,664 --> 00:36:35,386
+00:33:39,793 --> 00:33:44,515
 ve onlar, onlar bir arada olmayı seviyorlar,
 onlarda bir birliktelik var.
 
 575
-00:36:35,514 --> 00:36:38,872
+00:33:44,643 --> 00:33:48,001
 Ama bütün bunlarla, başkaları ile birlikte
 
 576
-00:36:38,975 --> 00:36:40,796
+00:33:48,104 --> 00:33:49,925
 zenginliğinizden keyif almak üzere,
 
 577
-00:36:40,924 --> 00:36:44,275
+00:33:50,053 --> 00:33:53,404
 eğer bu birlikteliği sağlayamıyorsanız,
 o zaman bütün bu zenginliğin ne yararı var?
 
 578
-00:36:44,386 --> 00:36:46,427
+00:33:53,515 --> 00:33:55,556
 Eğer varlıklıysanız,siz  at yarışlarına gidersiniz,
 
 579
-00:36:46,546 --> 00:36:47,871
+00:33:55,675 --> 00:33:57,000
 bu da kendi keyfiniz içindir.
 
 580
-00:36:47,998 --> 00:36:51,185
+00:33:57,127 --> 00:34:00,314
 Eğer varlıklaysanız, siz çok bireysel bir şeyler yaparsınız.
 
 581
-00:36:51,383 --> 00:36:53,274
+00:34:00,512 --> 00:34:02,403
 Onu paylaşmadığınız sürece
 
 582
-00:36:53,344 --> 00:36:55,344
+00:34:02,473 --> 00:34:04,473
 zenginliğinizden keyif alamazsınız.
 
 583
-00:36:55,585 --> 00:36:57,585
+00:34:04,714 --> 00:34:06,714
 Geçen gün size söylediğim gibi,
 
 584
-00:36:57,654 --> 00:37:03,034
+00:34:06,783 --> 00:34:12,163
 bu anlamda Ben bir kapitalistim,
 kendi içimde bütün güçlere sahibim.
 
 585
-00:37:03,378 --> 00:37:06,300
+00:34:12,507 --> 00:34:15,429
 Ama bunları paylaşmadan yaşayamam,
 
 586
-00:37:06,369 --> 00:37:09,398
+00:34:15,498 --> 00:34:18,527
 yani Ben en büyük komünistim çünkü paylaşmazsam keyif alamam,
 
 587
-00:37:09,553 --> 00:37:12,131
+00:34:18,682 --> 00:34:21,260
 işte bu yüzden de, Avustralya’ya kadar bütün bu yolu geldim
 
 588
-00:37:12,234 --> 00:37:15,139
+00:34:21,363 --> 00:34:24,268
 ve bu gün, kocam Bana yakında geri dönmem için ısrar etti.
 
 589
-00:37:15,249 --> 00:37:18,788
+00:34:24,378 --> 00:34:27,917
 Bende dedim ki, “hayır, bütün Avustralyalı'larla
 tanışmalıyım hala, sonra geleceğim”.
 
 590
-00:37:19,008 --> 00:37:22,512
+00:34:28,137 --> 00:34:31,641
 Yani aydınlanmadan sonra bu sevgiyi paylaşmadığınız sürece,
 
 591
-00:37:22,624 --> 00:37:25,102
+00:34:31,753 --> 00:34:34,231
 neşe duymazsınız. Bütün “izm” ler akıp gider,
 
 592
-00:37:25,322 --> 00:37:27,838
+00:34:34,451 --> 00:34:36,967
 çünkü sizler her iki aşırılığın bir kombinasyonu oldunuz
 
 593
-00:37:28,103 --> 00:37:31,220
+00:34:37,232 --> 00:34:40,349
 ve şimdi kendinizden neşe duymaya başladınız.
 
 594
-00:37:31,440 --> 00:37:33,440
+00:34:40,569 --> 00:34:42,569
 Bu lotus elde duruyor
 
 595
-00:37:33,617 --> 00:37:39,937
+00:34:42,746 --> 00:34:49,066
 ve Tanrıça’nın sahip olduğu diğer el ise şöyledir.
 
 596
-00:37:40,270 --> 00:37:43,430
+00:34:49,399 --> 00:34:52,559
 Onun dört eli vardır ve bir eli şöyledir. Bu el böyledir,
 
 597
-00:37:43,585 --> 00:37:48,406
+00:34:52,714 --> 00:34:57,535
 bunun anlamı, biz vermeliyiz demektir, vermek zorundayız,
 cömert olmak zorundayız.
 
 598
-00:37:48,540 --> 00:37:52,349
-Sefil insanlar kutsanmış kimseler olamazlar,
+00:34:57,669 --> 00:35:01,478
+Cimri insanlar kutsanmış kimseler olamazlar,
 
 599
-00:37:52,504 --> 00:37:57,257
-olamazlar.  Sefil bir zengin, düşünebileceğiniz en korkunç şeydir.
+00:35:01,633 --> 00:35:06,386
+olamazlar. Cimri bir zengin, düşünebileceğiniz en korkunç şeydir.
 
 600
-00:37:57,422 --> 00:38:00,222
-Eğer sefil birisini görürseniz,
+00:35:06,551 --> 00:35:09,351
+Eğer cimri birisini görürseniz,
 
 601
-00:38:00,418 --> 00:38:03,555
+00:35:09,547 --> 00:35:12,684
 demek istiyorum ki, bilemiyorum,
 Benim böyle bir adamla bir baş ağrım oldu,
 
 602
-00:38:03,602 --> 00:38:05,816
+00:35:12,731 --> 00:35:15,032
 her bir kuruşunu saymaya,
 
 603
-00:38:05,928 --> 00:38:09,047
-her şeyi ölçmeye devam eder, sefil bir şekilde korkunç şeyler
+00:35:15,057 --> 00:35:18,242
+her şeyi ölçmeye devam eder, cimri  bir şekilde korkunç şeyler
 
 604
-00:38:09,138 --> 00:38:11,765
+00:35:18,267 --> 00:35:20,894
 ve sonunda öldüklerinde, çocukları onların
 
 605
-00:38:11,789 --> 00:38:15,037
+00:35:20,918 --> 00:35:24,166
 bütün parasını alıp, sadece harcarlar.
 
 606
-00:38:16,554 --> 00:38:19,322
-Onların, sefil insanların paralarının yağmalanmasının
+00:35:25,683 --> 00:35:28,451
+Onların, cimri  insanların paralarının yağmalanmasının
 
 607
-00:38:19,369 --> 00:38:21,369
+00:35:28,498 --> 00:35:30,498
 başka bir yolu daha vardır. Örneğin
 
 608
-00:38:21,503 --> 00:38:25,078
+00:35:30,632 --> 00:35:34,207
 bir hırsız içeriye girer, eğer hırsız yoksa,
 
 609
-00:38:25,147 --> 00:38:27,202
+00:35:34,276 --> 00:35:36,331
 onların çocukları çok dik başlı olacaktır
 
 610
-00:38:27,302 --> 00:38:28,656
+00:35:36,431 --> 00:35:37,785
 veya bir şeyler olacaktır,
 
 611
-00:38:28,790 --> 00:38:32,284
+00:35:37,919 --> 00:35:41,413
 hastalanırlar ve elleri kırılır,
 
 612
-00:38:32,331 --> 00:38:35,418
+00:35:41,460 --> 00:35:44,547
 ayakları kırılır veya bir şeyler olur ve para harcarlar.
 
 613
-00:38:35,616 --> 00:38:40,074
-Yani sefil insanlar,  toplum için böylesine bir baş ağrısıdır.
+00:35:44,745 --> 00:35:49,203
+Yani cimri  insanlar,  toplum için böylesine bir baş ağrısıdır.
 
 614
-00:38:40,290 --> 00:38:42,511
+00:35:49,419 --> 00:35:51,640
 Topluma hiç bir şey vermezler,
 
 615
-00:38:42,580 --> 00:38:45,838
+00:35:51,709 --> 00:35:54,967
 kendileri için oradadırlar ve onlar habis şahsiyetlerdir.
 
 616
-00:38:46,338 --> 00:38:48,338
+00:35:55,467 --> 00:35:57,467
 Veren insanlar,
 
 617
-00:38:48,838 --> 00:38:51,212
+00:35:57,967 --> 00:36:00,341
 tabii ki birilerine bedava bir şeyler
 
 618
-00:38:51,303 --> 00:38:54,252
+00:36:00,432 --> 00:36:03,381
 vermeye inanmıyorum çünkü bu da insanları bozabilir.
 
 619
-00:38:54,407 --> 00:38:57,909
+00:36:03,536 --> 00:36:07,038
 Eğer birisine karşılıksızca bir şeyler verirseniz,
 
 620
-00:38:57,956 --> 00:39:00,315
+00:36:07,085 --> 00:36:09,444
 onlar tamamen şımarabilirler ve
 
 621
-00:39:00,564 --> 00:39:03,407
+00:36:09,693 --> 00:36:12,536
 bu parayı nasıl kullanacaklarını bilemezler.
 
 622
-00:39:03,626 --> 00:39:05,626
+00:36:12,755 --> 00:36:14,755
 Bu insanlarda olan bir sıkıntıdır,
 
 623
-00:39:05,760 --> 00:39:07,760
+00:36:14,889 --> 00:36:16,889
 onlar hiç bir şeyi taşıyamazlar.
 
 624
-00:39:07,867 --> 00:39:09,009
+00:36:16,996 --> 00:36:18,138
 Eğer onlara para verirseniz,
 
 625
-00:39:09,076 --> 00:39:11,683
-ya sefil birisi olurlar ya da dik başlı.
+00:36:18,205 --> 00:36:20,812
+ya cimri birisi olurlar ya da dik başlı.
 
 626
-00:39:12,032 --> 00:39:15,121
+00:36:21,161 --> 00:36:24,250
 Eğer onlar güç verirsinizseniz, ya diktatör olurlar
 
 627
-00:39:15,257 --> 00:39:17,492
+00:36:24,386 --> 00:36:26,621
 ya da yok edici.
 
 628
-00:39:17,604 --> 00:39:20,960
+00:36:26,733 --> 00:36:30,089
 Demek istiyorum ki, aydınlanma olmaksızın insanoğluna
 
 629
-00:39:21,072 --> 00:39:22,285
+00:36:30,201 --> 00:36:31,414
 hiç bir şey veremezsiniz,
 
 630
-00:39:22,548 --> 00:39:24,873
+00:36:31,677 --> 00:36:34,002
 Her şeyde aşırıya giderler, delirirler.
 
 631
-00:39:25,007 --> 00:39:27,007
+00:36:34,136 --> 00:36:36,136
 Tek kelime bunu açıklayabilir.
 
 632
-00:39:27,335 --> 00:39:30,397
+00:36:36,464 --> 00:36:39,526
 Krishna, ‘yoga kshema vahamyam’,  dedi.
 
 633
-00:39:30,531 --> 00:39:33,619
+00:36:39,660 --> 00:36:42,748
 Ben size Yogayı verdim,
 
 634
-00:39:33,882 --> 00:39:36,146
+00:36:43,011 --> 00:36:45,275
 bu Tanrı ile birleşmedir, aydınlanmadır
 
 635
-00:39:36,172 --> 00:39:38,651
+00:36:45,301 --> 00:36:47,780
 ve bundan sonra, Ben sizin kshema’nızla ilgilenirim.
 
 636
-00:39:38,806 --> 00:39:41,827
+00:36:47,935 --> 00:36:50,956
 Kshema, sizin iyiliğiniz demektir.
 
 637
-00:39:42,136 --> 00:39:44,997
+00:36:51,265 --> 00:36:54,126
 Bu refah, Lakshmi ile ortaya çıkar,
 
 638
-00:39:45,128 --> 00:39:48,085
+00:36:54,257 --> 00:36:57,214
 O bir eli ile verir, diğeri elde korumadır.
 
 639
-00:39:48,413 --> 00:39:51,571
+00:36:57,542 --> 00:37:00,700
 Veren bu eli, diğer el bilmemelidir.
 
 640
-00:39:52,071 --> 00:39:55,619
+00:37:01,200 --> 00:37:04,748
 Bu çok zarif ve nazikçe yapılmalıdır.
 
 641
-00:39:55,710 --> 00:39:58,870
+00:37:04,839 --> 00:37:07,999
 Bugün size, bazı insanlara sadece hikâye anlatıyordum,
 
 642
-00:39:59,008 --> 00:40:01,008
+00:37:08,137 --> 00:37:10,137
 şimdiye dek tanıdığım
 
 643
-00:40:01,077 --> 00:40:04,415
+00:37:10,206 --> 00:37:13,544
  en cömert adam olan Babam hakkında.
 
 644
-00:40:04,626 --> 00:40:08,707
+00:37:13,755 --> 00:37:17,836
 Pazar öğleden sonraları için onun bir alışkanlığı vardı,
 
 645
-00:40:08,751 --> 00:40:11,585
+00:37:17,880 --> 00:37:20,714
 gider herkesi çağırırdı ve bir sürü şeyden vazgeçmeliyim,
 
 646
-00:40:11,611 --> 00:40:13,956
+00:37:20,740 --> 00:37:23,085
 evde çok fazla şeyim var derdi.
 
 647
-00:40:13,982 --> 00:40:16,499
+00:37:23,111 --> 00:37:25,628
 Bütün battaniyeleri çıkartırdı, bazen de
 
 648
-00:40:16,611 --> 00:40:20,789
+00:37:25,740 --> 00:37:29,918
 bütün kap kaçağı ve bazen de yiyecekleri,
 vermesi gerektiğini hissettiği her şeyi.
 
 649
-00:40:20,923 --> 00:40:25,397
+00:37:30,052 --> 00:37:34,526
 Bu nedenle insanlar gelirlerdi ve o devam ederdi, başı böyle eğikti
 
 650
-00:40:25,467 --> 00:40:27,467
+00:37:34,596 --> 00:37:36,596
 ve kimi insanlar ona, “bunun ne faydası var,
 
 651
-00:40:27,564 --> 00:40:30,159
+00:37:36,693 --> 00:37:39,288
  bazıları üç battaniye alıyorlar, bazıları iki battaniye alıyor,
 
 652
-00:40:30,287 --> 00:40:33,344
+00:37:39,416 --> 00:37:42,473
 sen olduğunu görmüyorsun bile, sadece veriyorsun,
 
 653
-00:40:33,413 --> 00:40:35,284
+00:37:42,542 --> 00:37:44,413
 lütfen en azından kafanı kaldır” dediler.
 
 654
-00:40:35,352 --> 00:40:37,176
+00:37:44,481 --> 00:37:46,305
 Bunun üzerinde dedi ki, “problem şu ki,
 
 655
-00:40:37,309 --> 00:40:39,132
+00:37:46,438 --> 00:37:48,261
 veren ben değilim, veren Tanrıdır.
 
 656
-00:40:39,244 --> 00:40:40,786
+00:37:48,373 --> 00:37:49,915
 Ben sadece ikisi arasında duruyorum.
 
 657
-00:40:40,920 --> 00:40:42,063
+00:37:50,049 --> 00:37:51,192
 Hepsi bana,
 
 658
-00:40:42,110 --> 00:40:44,799
+00:37:51,239 --> 00:37:53,928
 sen veriyorsun, sen veriyorsun, teşekkürler, teşekkürler, diyorlar
 
 659
-00:40:44,878 --> 00:40:46,688
+00:37:54,007 --> 00:37:55,817
 - ilk olarak bu yüzden ben çok utanıyorum.
 
 660
-00:40:46,775 --> 00:40:49,700
+00:37:55,904 --> 00:37:58,829
 Ve ikinci olarak da, bir kişi, iki tane veya bir tane de alsa da,
 
 661
-00:40:49,835 --> 00:40:52,372
+00:37:58,964 --> 00:38:01,501
  bu şeyleri veren Tanrı’nın gözcülüğü bu.
 
 662
-00:40:52,441 --> 00:40:57,352
+00:38:01,570 --> 00:38:06,481
 Ben neden aldırayım ki, Ben sadece ikisi arasında duruyorum.
 Kimin iki tane, kimin bir tane aldığını benim görmemem gerek”
 
 663
-00:40:57,511 --> 00:40:59,783
+00:38:06,640 --> 00:38:08,912
 Böylesine bir cömertliği gördüm Ben yaşamımda.
 
 664
-00:40:59,917 --> 00:41:02,773
+00:38:09,046 --> 00:38:11,902
 Şunu gördüm ki, o daha cömert oldukça,
 
 665
-00:41:02,993 --> 00:41:05,684
+00:38:12,122 --> 00:38:14,813
 daha da fazla cömertlik evimize aktı.
 
 666
-00:41:05,796 --> 00:41:10,047
+00:38:14,925 --> 00:38:19,176
 Demek istiyorum ki, eğer bu kapıyı diğer taraftan açarsanız,
 bunun akmaya başlaması gibi.
 
 667
-00:41:10,094 --> 00:41:13,378
+00:38:19,223 --> 00:38:22,507
 Ama kimi insanların altmış gömleği vardır
 
 668
-00:41:13,425 --> 00:41:15,123
+00:38:22,554 --> 00:38:24,252
 ama hala pazara gidip gömlek alırlar.
 
 669
-00:41:15,235 --> 00:41:17,235
+00:38:24,364 --> 00:38:26,364
 Ve derler ki, “benim gömleklere karşı zaafım var”.
 
 670
-00:41:17,330 --> 00:41:19,926
+00:38:26,459 --> 00:38:29,055
 Gömlek üstüne gömlek yığını oluşturan bu zaafı,
 
 671
-00:41:20,045 --> 00:41:22,102
+00:38:29,174 --> 00:38:31,231
 Ben anlamıyorum.
 
 672
-00:41:23,444 --> 00:41:25,582
+00:38:32,573 --> 00:38:34,711
 Bu gülünç, değil mi?
 
 673
-00:41:25,629 --> 00:41:28,256
+00:38:34,758 --> 00:38:37,385
 Bu şeylerin bazıları gerçekten gülünç,
 
 674
-00:41:28,325 --> 00:41:29,741
+00:38:37,454 --> 00:38:38,870
 ayakkabılara karşı zaafım var,
 
 675
-00:41:29,832 --> 00:41:32,352
+00:38:38,961 --> 00:38:41,481
 gidip bak, tavandan yere kadar ayakkabı,
 
 676
-00:41:32,420 --> 00:41:35,835
+00:38:41,549 --> 00:38:44,964
 ayakkabı dükkânı açabilirsin veya
 
 677
-00:41:35,947 --> 00:41:39,821
+00:38:45,076 --> 00:38:48,950
 bunun gibi, bu kadar çok ayakkabı almanın ne yararı var
 
 678
-00:41:39,868 --> 00:41:43,411
+00:38:48,997 --> 00:38:52,540
 çünkü ayakların senelerdir aynı numara,
 
 679
-00:41:43,458 --> 00:41:46,048
+00:38:52,587 --> 00:38:55,177
 değişmeyecek, aydınlanmadan sonra bile.
 
 680
-00:41:46,419 --> 00:41:50,819
+00:38:55,548 --> 00:38:59,948
 Yani buna gerek yok, demek istiyorum ki,
 eğer ayakkabılarınızı verirseniz, tamam
 
 681
-00:41:50,910 --> 00:41:54,640
+00:39:00,039 --> 00:39:03,769
 ama Bende de aynı problem var.
 
 682
-00:41:54,752 --> 00:41:58,705
+00:39:03,881 --> 00:39:07,834
 Öğrencilerim, Bana bir ayakkabı vermeleri
 gerek diye bilirler, bu nedendir bilmem,
 
 683
-00:41:58,810 --> 00:42:00,877
+00:39:07,939 --> 00:39:10,006
 onlar Bana ayakkabı verirler, oraya her gidişimde
 
 684
-00:42:01,020 --> 00:42:04,504
+00:39:10,149 --> 00:39:13,633
 Bana, chappal (bir tür parmak arası terlik)
 veya bir ayakkabı veya bir şeyler verirler.
 
 685
-00:42:04,617 --> 00:42:06,128
+00:39:13,746 --> 00:39:15,257
 Şimdi Bende çok fazla (ayakkabı) var,
 
 686
-00:42:06,207 --> 00:42:10,855
+00:39:15,336 --> 00:39:19,984
 ne yapmalı bunları, dedim. Onlar da, “Anne onları bize
 geri verin, vibrasyonları için onları saklayacağız” dediler.
 
 687
-00:42:10,998 --> 00:42:13,450
+00:39:20,127 --> 00:39:22,579
 Bende, “iyi fikir”, dedim, çünkü Benim bütün bu ayakkabıları
 
 688
-00:42:13,513 --> 00:42:16,115
+00:39:22,642 --> 00:39:25,244
 muhafaza edecek yerim yok. Yani Ben, ayakkabı tamircisi değilim,
 
 689
-00:42:16,212 --> 00:42:17,234
+00:39:25,341 --> 00:39:26,363
 bunlarla bir şey yapamam.
 
 690
-00:42:17,345 --> 00:42:18,646
+00:39:26,474 --> 00:39:27,775
 Bu yüzden de, bunun yararı yok.
 
 691
-00:42:18,821 --> 00:42:20,915
+00:39:27,950 --> 00:39:30,044
 En iyisi Bana çiçek vermektir
 
 692
-00:42:20,940 --> 00:42:23,865
+00:39:30,069 --> 00:39:32,994
 ve bu sayede Ben onları okyanusa
 veya kimi nehirlere geri bırakabilirim.
 
 693
-00:42:23,992 --> 00:42:25,833
+00:39:33,121 --> 00:39:34,962
 Orada bile, biriktirmeye devam ettiğinizde
 
 694
-00:42:26,025 --> 00:42:28,706
+00:39:35,154 --> 00:39:37,835
 ve Ben buna sahip olmalıyım dediğiniz zaman, dükkâna gidersiniz,
 
 695
-00:42:28,786 --> 00:42:32,397
+00:39:37,915 --> 00:39:41,526
 insanlar, bunu beğendim, bunu beğendim diye,
 her şeyi seyrediyorlar. Seyredecek ne var ki?
 
 696
-00:42:32,484 --> 00:42:36,214
+00:39:41,613 --> 00:39:45,343
 Her ne satın almak isterseniz, dükkâna gidersiniz,
 neyi beğendiğinize bakar ve onu alırsınız.
 
 697
-00:42:36,325 --> 00:42:38,309
+00:39:45,454 --> 00:39:47,438
 Ama bir tür, “ben buna sahip olmalıyım,
 
 698
-00:42:38,420 --> 00:42:42,025
+00:39:47,549 --> 00:39:51,154
 ben şuna sahip olmalıyım hissi” var.
 
 699
-00:42:42,081 --> 00:42:45,805
+00:39:51,210 --> 00:39:54,934
 Evinde yirmi tane ütüsü ve on tane de ütü tahtası
 olan bir adam tanıdım. Hepsi kilit altında.
 
 700
-00:42:45,845 --> 00:42:47,289
+00:39:54,974 --> 00:39:56,418
  Bende, “kimin için bunlar?”, dedim.
 
 701
-00:42:47,400 --> 00:42:51,241
+00:39:56,529 --> 00:40:00,370
 Bunun üzerine eşi, “belki de çocuklarım için” dedi.
 Bende, “sizin sadece tek bir çocuğunuz var,
 
 702
-00:42:51,352 --> 00:42:52,929
+00:40:00,481 --> 00:40:02,058
 Tanrı size karşı çok tamahkâr davrandı,
 
 703
-00:42:53,056 --> 00:42:55,710
+00:40:02,185 --> 00:40:04,839
 sadece tek bir çocuğunuz var. Bunlarla ne yapacaksınız?
 
 704
-00:42:55,750 --> 00:42:58,482
+00:40:04,879 --> 00:40:07,611
 Bunları atsanız daha iyi”. Ve elektriklilerle,
 
 705
-00:42:58,560 --> 00:43:01,129
+00:40:07,689 --> 00:40:10,258
 demek istiyorum ki cihazları, biliyorsunuz, onlar bozulurlar.
 
 706
-00:43:01,205 --> 00:43:02,231
+00:40:10,334 --> 00:40:11,360
 Ama bayan bunu yapmaz,
 
 707
-00:43:02,310 --> 00:43:04,725
+00:40:11,439 --> 00:40:13,854
 yapamadı, o herkese gösterirdi. “bakın, ben bunu aldım”.
 
 708
-00:43:04,912 --> 00:43:07,592
+00:40:14,041 --> 00:40:16,721
 Antikalar da değil, hepsi modern şeyler.
 
 709
-00:43:07,834 --> 00:43:10,518
+00:40:16,963 --> 00:40:19,647
 İşte bu şekilde, estetik açıdan veya
 
 710
-00:43:10,575 --> 00:43:13,750
+00:40:19,704 --> 00:40:22,879
 hiç bir açıdan değeri olmayan bir şeyler birikmeye devam ediyor.
 
 711
-00:43:13,840 --> 00:43:17,241
+00:40:22,969 --> 00:40:26,370
 Aslında, sadece birilerine vermek için, bir şeyler almalısınız.
 
 712
-00:43:17,594 --> 00:43:21,735
+00:40:26,723 --> 00:40:30,864
 Bu, ondan maksimum keyif almanın en iyi yoludur.
 
 713
-00:43:21,848 --> 00:43:23,848
+00:40:30,977 --> 00:40:32,977
 Herkes bunu sever, al al.
 
 714
-00:43:23,888 --> 00:43:25,888
+00:40:33,017 --> 00:40:35,017
 En iyi yolu budur.
 
 715
-00:43:25,946 --> 00:43:29,533
+00:40:35,075 --> 00:40:38,662
 Bu büyük bir şey, demek istiyorum ki, sizin için bunu anlamanın
 
 716
-00:43:29,683 --> 00:43:32,531
+00:40:38,812 --> 00:40:41,660
 biraz zor olduğunu anlatıyorum ama Ben bunu çok sık yapan birisiyim
 
 717
-00:43:32,644 --> 00:43:37,136
+00:40:41,773 --> 00:40:46,265
 ve çocuklarım, kocam oldukça endişe ederler, bilirsiniz.
 
 718
-00:43:37,194 --> 00:43:40,075
+00:40:46,323 --> 00:40:49,204
 Tanrı bilir gelecek sefere neyi verecek, derler.
 
 719
-00:43:40,246 --> 00:43:42,508
+00:40:49,375 --> 00:40:51,637
 Ama hayret edersiniz, buna rağmen pek çok şeyim var,
 
 720
-00:43:42,620 --> 00:43:44,755
+00:40:51,749 --> 00:40:53,884
 Ama hayret edersiniz, buna rağmen pek çok şeyim var,
 
 721
-00:43:44,928 --> 00:43:47,782
+00:40:54,057 --> 00:40:56,911
 pek çok şey, yani Ben her zaman kime ne vermeliyim, diye düşünürüm,
 
 722
-00:43:47,840 --> 00:43:51,894
+00:40:56,969 --> 00:41:01,023
 evde hala bir sürü şey var, şimdi
 daha büyük bir ev satın almalıyız.
 
 723
-00:43:52,005 --> 00:43:54,561
+00:41:01,134 --> 00:41:03,690
 Bu kadar çok şeyle ne yapacağımı bilmiyorum
 
 724
-00:43:54,629 --> 00:43:58,687
+00:41:03,758 --> 00:41:07,816
 ve bu şeyleri insanlara itmeye çalışıyorum,
 Baba, bunu sen sevdin, al bunu.
 
 725
-00:43:58,791 --> 00:44:01,436
+00:41:07,920 --> 00:41:10,565
 Ama onlar, “hayır, hayır, hayır bunu nasıl bana verirsin” derler.
 
 726
-00:44:01,555 --> 00:44:03,761
+00:41:10,684 --> 00:41:12,890
 Ama gerçekte bu Bana öyle keyif verir ki
 
 727
-00:44:04,261 --> 00:44:06,576
+00:41:13,390 --> 00:41:15,705
 ve kişinin bunu nasıl yapacağını öğrenmesi gerekir.
 
 728
-00:44:06,655 --> 00:44:08,616
+00:41:15,784 --> 00:41:17,745
 Ama Ben insanların farklı olduklarını gördüm.
 
 729
-00:44:08,695 --> 00:44:11,216
+00:41:17,824 --> 00:41:20,345
 Şey için bir şey satın alacaklardır, kendileri elmas takıyorlar
 
 730
-00:44:11,303 --> 00:44:14,343
+00:41:20,432 --> 00:41:23,472
 ama iş başkalarına vermeye gelince, sahte olanları verirler.
 
 731
-00:44:14,438 --> 00:44:15,834
+00:41:23,567 --> 00:41:24,963
 Bu çok yaygın, bilirsiniz.
 
 732
-00:44:15,892 --> 00:44:17,892
+00:41:25,021 --> 00:41:27,021
 Onlari için alıyorlar, elmaslarını takıyorlar
 
 733
-00:44:18,005 --> 00:44:20,582
+00:41:27,134 --> 00:41:29,711
 Başkalarına vermek için geldiklerinde sahtelerini verecekler
 
 734
-00:44:20,643 --> 00:44:23,082
+00:41:29,772 --> 00:41:32,211
 En azında verdiğiniz sırada elmasınızı takmayın,
 
 735
-00:44:23,287 --> 00:44:25,287
+00:41:32,416 --> 00:41:34,416
 en azından bir dürüstlük olsun orada.
 
 736
-00:44:25,548 --> 00:44:29,288
+00:41:34,677 --> 00:41:38,417
 Bakın, iş vermeye gelince, bütün kalbinizle verin.
 
 737
-00:44:29,788 --> 00:44:31,788
+00:41:38,917 --> 00:41:40,917
 Sadece vermenin sevgisini hissedin
 
 738
-00:44:32,214 --> 00:44:36,575
+00:41:41,343 --> 00:41:45,704
 ve çok mutlu olacaksınız çünkü kendinizi çok büyük hissedersiniz,
 
 739
-00:44:36,799 --> 00:44:40,164
+00:41:45,928 --> 00:41:49,293
 bir sürü bulut meydana getiren bir okyanus gibi
 
 740
-00:44:40,221 --> 00:44:44,219
+00:41:49,350 --> 00:41:53,348
 ve sonra yine bu nehirleri kendi içine alır
 ve bunlardan yeniden bulutlar meydana getirir.
 
 741
-00:44:44,388 --> 00:44:49,251
+00:41:53,517 --> 00:41:58,380
 İçinde güzellik ardına güzelliğin olmaya başladığı,
 
 742
-00:44:49,291 --> 00:44:51,737
+00:41:58,420 --> 00:42:00,866
 bir tür güzel bir muhabbet, bu o kadar güzeldir ki.
 
 743
-00:44:52,102 --> 00:44:55,038
+00:42:01,231 --> 00:42:04,167
 İşte bizim olmaya çalışmamız gereken şey budur,
 
 744
-00:44:55,313 --> 00:44:58,637
+00:42:04,442 --> 00:42:07,766
 çok güzel olan, bu kadar neşe veren bu çemberin bir parçası olmak,
 
 745
-00:44:58,687 --> 00:45:01,450
+00:42:07,816 --> 00:42:10,579
 size de. İşte bunun olduğu şey budur
 
 746
-00:45:02,333 --> 00:45:07,419
+00:42:11,462 --> 00:42:16,548
 size de. İşte bunun olduğu şey budur ve bu el ashraya içindir,
 
 747
-00:45:08,359 --> 00:45:13,000
+00:42:17,488 --> 00:42:22,129
 “koruma için” anlamına gelir. Astınız olan,
 
 748
-00:45:13,119 --> 00:45:15,885
+00:42:22,248 --> 00:42:25,014
 size bağlı olan, çocuklarınız olan insanları korumak zorundasınız.
 
 749
-00:45:16,090 --> 00:45:20,447
+00:42:25,219 --> 00:42:29,576
 Küçüklüklerinden itibaren çocukları  aşağılamak adeti çok yaygın.
 
 750
-00:45:20,619 --> 00:45:22,886
+00:42:29,748 --> 00:42:32,015
 Bu halıyı neden kirlettin?
 
 751
-00:45:23,094 --> 00:45:25,894
+00:42:32,223 --> 00:42:35,023
 Bunu neden yaptın? Böyle söylememeliydin,
 
 752
-00:45:26,077 --> 00:45:29,660
+00:42:35,206 --> 00:42:38,789
 neden yaptın? Bu disipline etmenin çok yanlış bir şeklidir.
 
 753
-00:45:29,849 --> 00:45:33,804
+00:42:38,978 --> 00:42:42,933
 En iyi disiplin çocuklarınıza asalet aşılamaktır.
 
 754
-00:45:33,928 --> 00:45:37,665
+00:42:43,057 --> 00:42:46,794
 Bakın, Hindistan’da iyi bir ev dediğimiz yer,
 
 755
-00:45:37,762 --> 00:45:41,477
+00:42:46,891 --> 00:42:50,606
 aile içinde onların çocuklarla konuşma şekli ile tanınır.
 
 756
-00:45:41,560 --> 00:45:47,362
+00:42:50,689 --> 00:42:56,491
 İyi bir ailede biz, çocuklarla bir beyefendi gibi konuşuruz.
 
 757
-00:45:47,464 --> 00:45:53,596
+00:42:56,593 --> 00:43:02,725
 Biraz böyle, “ap”, bu beyefendi anlamına gelir.
 Çocuklarla asla saygısızca konuşmayız
 
 758
-00:45:53,695 --> 00:45:56,735
+00:43:02,824 --> 00:43:05,864
 ve onları asil bir seviyeye koyarız.
 
 759
-00:45:57,183 --> 00:46:02,449
+00:43:06,312 --> 00:43:11,578
 Ve bu çok hoş bir şeydir. Size torunumdan bahsedeyim,
 
 760
-00:46:02,629 --> 00:46:09,691
+00:43:11,758 --> 00:43:18,820
 bir gün birileri ona soruyordu, çok şey bir var.. bu oğlan var,
 
 761
-00:46:09,790 --> 00:46:13,448
+00:43:18,919 --> 00:43:22,577
 sen neden onunla evlenmiyorsun? O da dedi ki,
 
 762
-00:46:13,620 --> 00:46:17,636
+00:43:22,749 --> 00:43:26,765
 “neden evlilik hakkında konuşmak istiyorsunuz?
 Ben henüz evlilik üzerine düşünecek kadar büyümedim
 
 763
-00:46:17,731 --> 00:46:19,941
+00:43:26,860 --> 00:43:29,070
 ve bu şeylere karşı saygılı olmalıyız,
 
 764
-00:46:20,076 --> 00:46:23,122
+00:43:29,205 --> 00:43:32,251
 düşünemediğimiz bir zamanda, nasıl evlilik düşünebiliriz
 
 765
-00:46:23,330 --> 00:46:27,911
+00:43:32,459 --> 00:43:37,040
 ve beni, Büyükannem evlendirecek
 ve ben haysiyetli birisi ile evlenmek istiyorum”.
 
 766
-00:46:27,937 --> 00:46:32,113
+00:43:37,066 --> 00:43:41,242
 Yedi yaşında küçük bir kız,
 
 767
-00:46:32,285 --> 00:46:35,265
+00:43:41,414 --> 00:43:44,394
  bir tür yalancı entelektüel olan bir kadına bunu söyledi
 
 768
-00:46:35,327 --> 00:46:39,123
+00:43:44,456 --> 00:43:48,252
 ve o torunumu kızdırmaya çalıştı. Torumun dedi ki,
 “bu haysiyetli değil”.
 
 769
-00:46:39,519 --> 00:46:43,638
+00:43:48,648 --> 00:43:52,767
 Sadece düşünün bunu. Yedi yaşında onların kendi asaletleri var.
 
 770
-00:46:43,778 --> 00:46:47,827
+00:43:52,907 --> 00:43:56,956
 Eğer onlara söylerseniz,
 onlara halıyı kirletme demenize gerek yoktur
 
 771
-00:46:47,858 --> 00:46:51,310
+00:43:56,987 --> 00:44:00,439
 ama yeterki onlara haysiyet verin,
 asla kirletmeyeceklerdir. Şaşıracaksınız.
 
 772
-00:46:51,445 --> 00:46:54,994
+00:44:00,574 --> 00:44:04,123
 Çünkü bizler her zaman onlarla kısa kesiyoruz,
 onlar da bu kadar kötü oluyorlar.
 
 773
-00:46:55,129 --> 00:46:57,698
+00:44:04,258 --> 00:44:06,827
 İstiyorlar, bizim işe yaramaz olduğumuzu düşünüyorlar,
 
 774
-00:46:57,801 --> 00:47:00,976
+00:44:06,930 --> 00:44:10,105
 bizde ne yapacağımızı bilmiyoruz,
 her zaman onlar bize bu şekilde anlatıyorlar.
 
 775
-00:47:01,075 --> 00:47:04,451
+00:44:10,204 --> 00:44:13,580
 Veya onlara anlatsanız bile, konuyu
 başka birisi ile ilgili olarak anlatın,
 
 776
-00:47:04,555 --> 00:47:06,832
+00:44:13,684 --> 00:44:15,961
 bu oğlan gibi, bilirsin onu, bu oğlan kesinlikle
 
 777
-00:47:07,004 --> 00:47:08,970
+00:44:16,133 --> 00:44:18,099
 işe yaramazdı, ne yapması gerektiğini bilmiyordu,
 
 778
-00:47:09,066 --> 00:47:11,250
+00:44:18,195 --> 00:44:20,379
 bütün halıyı batırdı, ben o ev gittim ve sonra kaydım.
 
 779
-00:47:11,305 --> 00:47:13,156
+00:44:20,434 --> 00:44:22,285
 Çocuk, derhal alır bunları.
 
 780
-00:47:13,182 --> 00:47:15,848
+00:44:22,311 --> 00:44:24,977
 Ama eğer her zaman doğrudan çocuğa vururusanız,
 
 781
-00:47:15,992 --> 00:47:17,992
+00:44:25,121 --> 00:44:27,121
 ona, içinde önemli hiç bir şeyi
 
 782
-00:47:18,106 --> 00:47:20,197
+00:44:27,235 --> 00:44:29,326
 muhafaza edemeyen
 
 783
-00:47:20,697 --> 00:47:22,697
+00:44:29,826 --> 00:44:31,826
 bir kişilik verirsiniz.
 
 784
-00:47:22,781 --> 00:47:26,325
+00:44:31,910 --> 00:44:35,454
 Oğlan, belki de ailesinden bir işaret alarak çok küstah birisi oldu
 
 785
-00:47:26,452 --> 00:47:28,499
+00:44:35,581 --> 00:44:37,628
 ve kendiside aynı şekilde davranıyor olabilir
 
 786
-00:47:28,583 --> 00:47:30,376
+00:44:37,712 --> 00:44:39,505
 ama o sadece,  sessiz olan,
 
 787
-00:47:30,490 --> 00:47:34,392
+00:44:39,619 --> 00:44:43,521
 ifade edilen ve tezahür eden bu haysiyet olmazdı.
 
 788
-00:47:34,536 --> 00:47:37,474
+00:44:43,665 --> 00:44:46,603
 Bu sadece tezahür eden sessiz bir asalet olmalı
 
 789
-00:47:37,558 --> 00:47:39,558
+00:44:46,687 --> 00:44:48,687
 ve insanlar böyle bir kişiyi gördükleri zaman,
 
 790
-00:47:39,672 --> 00:47:44,442
+00:44:48,801 --> 00:44:53,571
 bu olur, insanlar görür ve derler ki, “ne adam, ama ne asalet bu”.
 
 791
-00:47:44,783 --> 00:47:48,872
+00:44:53,912 --> 00:44:58,001
 İşte bu odur ve onlar toplum için bir tür ideal oldular.
 
 792
-00:47:48,913 --> 00:47:52,853
+00:44:58,042 --> 00:45:01,982
 Sanırım çocukları düzeltmenin yolu bu değildir,
 
 793
-00:47:52,967 --> 00:47:56,200
+00:45:02,096 --> 00:45:05,329
 bu disipline etmek değildir, bu onları büyütmektir.
 
 794
-00:47:56,492 --> 00:47:59,392
+00:45:05,621 --> 00:45:08,521
 Çocuklara vermeniz gereken şey, neşedir,
 
 795
-00:47:59,621 --> 00:48:04,601
+00:45:08,750 --> 00:45:13,730
 ailenin mutluluğudur, tam bir güvenliktir,
 
 796
-00:48:04,685 --> 00:48:06,925
+00:45:13,814 --> 00:45:16,054
 tam bir güvenlik hissidir
 
 797
-00:48:07,012 --> 00:48:09,980
+00:45:16,141 --> 00:45:19,109
 ve göreceksiniz ki, sizin asla
 ergenlik problemleriniz olmayacaktır,
 
 798
-00:48:10,112 --> 00:48:11,814
+00:45:19,241 --> 00:45:20,943
  asla ergenlik problemleri olmayacaktır.
 
 799
-00:48:11,898 --> 00:48:14,827
+00:45:21,027 --> 00:45:23,956
 Şaşıracaksınız ki, onları her hangi bir yere bırakın,
 
 800
-00:48:15,021 --> 00:48:19,893
+00:45:24,150 --> 00:45:29,022
 çok olgun, çok haysiyetli olacaklardır, insanlar hayret edecektir.
 
 801
-00:48:20,057 --> 00:48:23,388
+00:45:29,186 --> 00:45:32,517
 Onlara söyleniz gerekmez. Küçük çocukları bile gördüm,
 
 802
-00:48:23,555 --> 00:48:25,838
+00:45:32,684 --> 00:45:34,967
 eğer siz evi çok temiz tutarsanız,
 
 803
-00:48:25,968 --> 00:48:30,102
+00:45:35,097 --> 00:45:39,231
 onlarda eve bakacaklardır, çocuklar kendileri evi temiz tutacaktır.
 
 804
-00:48:30,257 --> 00:48:32,865
+00:45:39,386 --> 00:45:41,994
 Bunu yapmayı seveceklerdir. Çünkü çocuklar,
 
 805
-00:48:32,934 --> 00:48:37,268
+00:45:42,063 --> 00:45:46,397
 tomurcuklanan güzelliklerdir.
 
 806
-00:48:37,768 --> 00:48:40,852
+00:45:46,897 --> 00:45:49,981
 Onları kestiğiniz zaman, kökünden kesersiniz.
 
 807
-00:48:41,093 --> 00:48:43,093
+00:45:50,222 --> 00:45:52,222
 Onlar bizden çok fazla şey beklerler,
 
 808
-00:48:43,191 --> 00:48:44,781
+00:45:52,320 --> 00:45:53,910
 tüm haysiyetlerini kaybederler
 
 809
-00:48:44,965 --> 00:48:46,965
+00:45:54,094 --> 00:45:56,094
 ve bunu çocuklarınızda denemenizi söylüyorum,
 
 810
-00:48:47,063 --> 00:48:50,502
+00:45:56,192 --> 00:45:59,631
 onlara haysiyet verin, nasıl davrandıklarına hayret edeceksiniz.
 
 811
-00:48:50,686 --> 00:48:52,541
+00:45:59,815 --> 00:46:01,670
 Onlar şımarmışlar deriz,
 
 812
-00:48:52,667 --> 00:48:55,162
+00:46:01,796 --> 00:46:04,291
 haysiyetli olduğu  zaman,  şımaran bir çocuk asla görmedim.
 
 813
-00:48:55,241 --> 00:48:58,910
+00:46:04,370 --> 00:46:08,039
 Benim torunum çok büyük bir insandır, aydınlanmış bir ruhtur
 
 814
-00:48:58,979 --> 00:49:01,695
+00:46:08,108 --> 00:46:10,824
 ve tüm arkadaşları yirmi beş yaşın üzerindedir.
 
 815
-00:49:01,793 --> 00:49:04,854
+00:46:10,922 --> 00:46:13,983
 O sadece beş altı yaşında bir çocuk ve
 
 816
-00:49:05,038 --> 00:49:07,852
+00:46:14,167 --> 00:46:16,981
 üzerinde komik yüzler olan hiç bir kıyafeti
 
 817
-00:49:08,007 --> 00:49:10,756
+00:46:17,136 --> 00:46:19,885
 giymek istemez. Der ki,
 
 818
-00:49:10,911 --> 00:49:12,911
+00:46:20,040 --> 00:46:22,040
 “bu bir palyaço gibi, ben palyaço değilim.
 
 819
-00:49:13,066 --> 00:49:16,534
+00:46:22,195 --> 00:46:25,663
 Bunu giymek istemiyorum”. Singapur’da,
 
 820
-00:49:16,632 --> 00:49:17,851
+00:46:25,761 --> 00:46:26,980
 onun için, üzerinde
 
 821
-00:49:17,914 --> 00:49:20,700
+00:46:27,043 --> 00:46:29,829
 hiç komik surat bulunmayan bir pantolon bulup, almak çok zor oldu
 
 822
-00:49:20,795 --> 00:49:22,414
+00:46:29,924 --> 00:46:31,543
 çünkü hepsinde Mickey Mouse, şu, bu var.
 
 823
-00:49:22,494 --> 00:49:24,992
+00:46:31,623 --> 00:46:34,121
 Torunlarımda da gördüm,
 
 824
-00:49:25,147 --> 00:49:29,157
+00:46:34,276 --> 00:46:38,286
 kız çocukları, bu oyuncaklar var, bu ördek gibi şeyler,
 
 825
-00:49:29,226 --> 00:49:32,300
+00:46:38,355 --> 00:46:41,429
 ne diyorsunuz onlara, ördek gibi suratı olanlar.
 
 826
-00:49:32,455 --> 00:49:34,865
+00:46:41,584 --> 00:46:43,994
 Torunlarım dediler ki, “bu oyuncakların nesi var,
 
 827
-00:49:34,963 --> 00:49:38,039
+00:46:44,092 --> 00:46:47,168
 bunların dudaklarını nasıl yapacaklarını
 bilmeleri lazım. İyi değil bu”.
 
 828
-00:49:38,137 --> 00:49:41,363
+00:46:47,266 --> 00:46:50,492
 Demek istiyorum ki, onlar kendileri,
 bunun yanlış olduğunu bilirler.
 
 829
-00:49:41,518 --> 00:49:45,453
+00:46:50,647 --> 00:46:54,582
 “O öfke nöbeti geçirecek”. İşte onların söylediği şey budur.
 
 830
-00:49:45,590 --> 00:49:48,208
+00:46:54,719 --> 00:46:57,337
 Bu ördek öfke nöbeti geçirecek,
 
 831
-00:49:48,293 --> 00:49:50,178
+00:46:57,422 --> 00:46:59,307
  işte bu yüzden ördek böyle davranıyor,
 
 832
-00:49:50,321 --> 00:49:54,823
+00:46:59,450 --> 00:47:03,952
 böyle, onlar büyük-büyükanneler
 
 833
-00:49:55,018 --> 00:49:57,690
+00:47:04,147 --> 00:47:06,819
 ve bazen bir şeyleri yapma şekilleri ve davranış şekilleri.
 
 834
-00:49:57,809 --> 00:49:59,445
+00:47:06,938 --> 00:47:08,574
 Ama bizler onlara
 
 835
-00:49:59,600 --> 00:50:02,260
+00:47:08,729 --> 00:47:11,389
 gerçek sevgiyi, neşeyi ve mutluluğu vermek zorundayız,.
 
 836
-00:50:02,588 --> 00:50:04,732
+00:47:11,717 --> 00:47:13,861
  işte çocuklarımıza verebileceğimiz şey budur
 
 837
-00:50:04,944 --> 00:50:08,978
+00:47:14,073 --> 00:47:18,107
 ve buna hayret edeceksiniz Avustralya,
 
 838
-00:50:09,133 --> 00:50:12,309
+00:47:18,262 --> 00:47:21,438
 çok büyük azizler olan,
 
 839
-00:50:12,407 --> 00:50:14,999
+00:47:21,536 --> 00:47:24,128
 çok çok büyük azizler olan çocuklarla kutsanacak. Bunu biliyorum
 
 840
-00:50:15,102 --> 00:50:19,619
+00:47:24,231 --> 00:47:28,748
 ve sizler onlara haysiyetle bakmalısınız.
 
 841
-00:50:19,777 --> 00:50:22,870
+00:47:28,906 --> 00:47:31,999
 Bu ülkede çok büyük azizler doğacak,
 
 842
-00:50:22,886 --> 00:50:26,563
+00:47:32,015 --> 00:47:35,692
 bu yüzden de sizlerden rica etmeliyim ki,
 kendi problemlerinizi unutun,
 
 843
-00:50:26,696 --> 00:50:30,992
+00:47:35,825 --> 00:47:40,121
 karı koca problemlerini, bunlar hiç bir şey değil.
 Çocuklarınıza bakın,
 
 844
-00:50:31,038 --> 00:50:34,516
+00:47:40,167 --> 00:47:43,645
 onlara haysiyet verin, onlara yaşayabilecekleri bir yuva verin,
 
 845
-00:50:34,636 --> 00:50:37,365
+00:47:43,765 --> 00:47:46,494
 gerisini unutun, çünkü İngiltere’de gördüm,
 
 846
-00:50:37,463 --> 00:50:40,714
+00:47:46,592 --> 00:47:49,843
 İngiltere’de gördüm ki, seksen yaşındaki kadın bile,
 bir gelin gibi davranıyor,
 
 847
-00:50:40,824 --> 00:50:43,616
+00:47:49,953 --> 00:47:52,745
 kendisinin bir gelin olduğu hissiyatının üstesinden gelemiyor.
 
 848
-00:50:43,694 --> 00:50:45,839
+00:47:52,823 --> 00:47:54,968
 “Büyük Umutlar” romanından biri gibi,
 
 849
-00:50:46,052 --> 00:50:48,428
+00:47:55,181 --> 00:47:57,557
 Charles Dickens’i okumuş olmalısınız,
 
 850
-00:50:48,524 --> 00:50:51,097
+00:47:57,653 --> 00:48:00,226
 sürekli olarak oturup, gelin olduğunu düşünen bir gelin vardı.
 
 851
-00:50:51,136 --> 00:50:52,873
+00:48:00,265 --> 00:48:02,002
 Bu resmi bu gün bile gördüm,
 
 852
-00:50:52,969 --> 00:50:54,969
+00:48:02,098 --> 00:48:04,098
 onlar sürekli olarak düğün modundalar.
 
 853
-00:50:55,125 --> 00:50:59,356
+00:48:04,254 --> 00:48:08,485
 Siz bir annesiniz ve çocuklarınıza bu asalet içinde,
 
 854
-00:50:59,441 --> 00:51:02,116
+00:48:08,570 --> 00:48:11,245
 bir annenin verebileceği sevgi ile muamele etmelisiniz.
 
 855
-00:51:02,281 --> 00:51:04,622
+00:48:11,410 --> 00:48:13,751
 Kimi insanlar için,
 
 856
-00:51:04,694 --> 00:51:07,098
+00:48:13,823 --> 00:48:16,227
 kendi pozisyonlarını bir anne olarak kabul etmek çok zordur,
 
 857
-00:51:07,178 --> 00:51:09,849
+00:48:16,307 --> 00:48:18,978
 onlar,  “kadınların neden anne olması gerekir ki” diye düşünürler.
 
 858
-00:51:09,919 --> 00:51:14,555
+00:48:19,048 --> 00:48:23,684
 Ben, “en yüce şey budur”,  dedim. Bana bakın.
 
 859
-00:51:15,875 --> 00:51:17,968
+00:48:25,004 --> 00:48:27,097
 Anne olmak en yüce şeydir,
 
 860
-00:51:18,093 --> 00:51:21,060
+00:48:27,222 --> 00:48:30,189
 herkesi sevmek, sevgi için size bağlı olanları ve
 
 861
-00:51:21,214 --> 00:51:24,315
+00:48:30,343 --> 00:48:33,444
 rehberlik etmek, sadece sevgi için.
 
 862
-00:51:24,498 --> 00:51:27,250
+00:48:33,627 --> 00:48:36,379
 “Tanrım, ben ne kadar çok verebilirim,
 
 863
-00:51:27,462 --> 00:51:31,603
+00:48:36,591 --> 00:48:40,732
 kaç fincanı doldurabilirim”, diye hissetmek
 
 864
-00:51:31,901 --> 00:51:33,901
+00:48:41,030 --> 00:48:43,030
 o kadar büyük bir şeydir ki.
 
 865
-00:51:34,026 --> 00:51:37,860
+00:48:43,155 --> 00:48:46,989
 Bu, o kadar yüce bir duygudur ki.
 Bir annenin ne olduğunu bilmenizi isterdim.
 
 866
-00:51:38,240 --> 00:51:42,045
+00:48:47,369 --> 00:48:51,174
 Anneliği, çocuklarınızdan ve torunlarınızdan öğrenmeli
 ve bunu tüm evrende büyütmelisiniz.
 
 867
-00:51:42,221 --> 00:51:45,696
+00:48:51,350 --> 00:48:54,825
 Bu, bir kadının sahip olduğu o kadar büyük bir şeydir ki.
 
 868
-00:51:45,767 --> 00:51:49,540
+00:48:54,896 --> 00:48:58,669
 Diğer çakra merkezine gittiğimizde size anlatacağım,
 
 869
-00:51:49,723 --> 00:51:51,665
+00:48:58,852 --> 00:49:00,794
 aynı şekilde babada pek çok şey yapmalıdır.
 
 870
-00:51:51,762 --> 00:51:54,730
+00:49:00,891 --> 00:49:03,859
 Sanırım bu merkez üzerinde uzun süre konuştum çünkü
 
 871
-00:51:54,740 --> 00:51:58,052
+00:49:03,869 --> 00:49:07,181
 gördüğüm şey şu ki, Avustralya’da bu iki merkez
 
 872
-00:51:58,177 --> 00:52:00,177
+00:49:07,306 --> 00:49:09,306
 her zaman çok fazla catch ediyor.
 
 873
-00:52:00,677 --> 00:52:04,674
+00:49:09,806 --> 00:49:13,803
 Bunda ve bunda catch eden şeyler hakkında konuşmalıyız
 
 874
-00:52:04,828 --> 00:52:08,506
+00:49:13,957 --> 00:49:17,635
 ve bu gün orada, her iki parmağı da ağzında olan
 beş altı tane çocuk gördüm,
 
 875
-00:52:08,631 --> 00:52:11,411
+00:49:17,760 --> 00:49:20,540
 hepsi aydınlanmış çocuklar ve onlar bu parmaklarını emiyorlardı
 
 876
-00:52:11,507 --> 00:52:13,743
+00:49:20,636 --> 00:49:22,872
 ve parmakları Bana gösterip yeniden böyle emiyorlardı.
 
 877
-00:52:13,846 --> 00:52:16,068
+00:49:22,975 --> 00:49:25,197
 Yani bunun ne kadar fazla olduğunu hayal edebilirsiniz
 
 878
-00:52:16,190 --> 00:52:19,193
+00:49:25,319 --> 00:49:28,322
 ve aksi halde bu ve bu parmak,
 
 879
-00:52:19,289 --> 00:52:22,923
+00:49:28,418 --> 00:49:32,052
 sizin yetkisi olmayan bir kişiye gittiğiniz, anlamına gelir.
 
 880
-00:52:23,129 --> 00:52:26,689
+00:49:32,258 --> 00:49:35,818
 Yetkisi olmayan bazı insanlara gidiyorsanız,
 bu başparmak catch edecektir.
 
 881
-00:52:26,785 --> 00:52:30,713
+00:49:35,914 --> 00:49:39,842
 İşte bu yüzden o çocuklar parmaklarını ağızlarına sokuyorlardı ve
 
 882
-00:52:31,213 --> 00:52:33,213
+00:49:40,342 --> 00:49:42,342
 Freud’un kendi saçma sapan teorisi var
 
 883
-00:52:33,425 --> 00:52:37,183
+00:49:42,554 --> 00:49:46,312
 ama aslında, aydınlanmış doğan bu çocuklarda
 
 884
-00:52:37,262 --> 00:52:39,845
+00:49:46,391 --> 00:49:48,974
 catch eden bu merkez, sizlere bunu gösteriyor.
 
 885
-00:52:41,793 --> 00:52:45,701
+00:49:50,922 --> 00:49:54,830
 Şimdi, bu gün için, belki de diğer merkezleri
 
 886
-00:52:45,843 --> 00:52:48,625
+00:49:54,972 --> 00:49:57,754
 çok fazla anlatamayacağım ama daha sonra,
 
 887
-00:52:48,735 --> 00:52:51,643
+00:49:57,864 --> 00:50:00,772
 şimdi bizim program yapacağımız tarih neydi?
 
 888
-00:52:53,072 --> 00:52:55,086
+00:50:02,201 --> 00:50:04,215
 Bir sonraki pazartesi, çarşamba ve cuma,
 
 889
-00:52:55,132 --> 00:52:58,950
+00:50:04,261 --> 00:50:08,079
 Benim bütün bu merkezleri anlatacağım
 günler dışında, üç gün daha var
 
 890
-00:52:58,994 --> 00:53:01,854
+00:50:08,123 --> 00:50:10,983
 ve özellikle de bu İsa’nın ki, bunu konuşmak istiyorum
 
 891
-00:53:01,998 --> 00:53:05,446
+00:50:11,127 --> 00:50:14,575
 çünkü Amerika’ya gittiğim zaman bazı insanlarla tanıştım.
 
 892
-00:53:05,591 --> 00:53:07,269
+00:50:14,720 --> 00:50:16,398
 Orada insanlara
 
 893
-00:53:07,313 --> 00:53:08,996
+00:50:16,442 --> 00:50:18,125
  sizin tekrar ve tekrar doğduğunuzu,
 
 894
-00:53:09,058 --> 00:53:12,245
+00:50:18,187 --> 00:50:21,374
 tekrar ve tekrar doğduğunuzu anlatıyordum
 ve sizler aydınlanmanızı almalısınız.
 
 895
-00:53:12,364 --> 00:53:15,579
+00:50:21,493 --> 00:50:24,708
 Yani şunu gördüm ki, orada her ne konuşma yaptıysam, büyük, büyük,
 
 896
-00:53:15,690 --> 00:53:19,497
+00:50:24,819 --> 00:50:28,626
 yer bundan çok daha büyüktü, bütün konuşmalarımı teybe kaydettiler
 
 897
-00:53:19,535 --> 00:53:23,586
+00:50:28,664 --> 00:50:32,715
 ve programımı organize eden insanlar Bana dediler ki,
 
 898
-00:53:23,624 --> 00:53:27,500
+00:50:32,753 --> 00:50:36,629
 “Anne bunları patent altına alsanız daha iyi olur
 
 899
-00:53:27,603 --> 00:53:31,008
+00:50:36,732 --> 00:50:40,137
 veya onların konuşmayı teybe kaydetmelerine izin vermeyin”.
 Ben de, “Neden?” dedim.
 
 900
-00:53:31,046 --> 00:53:35,155
+00:50:40,175 --> 00:50:44,284
 “Onlar bunu yayınlayacaklar, bütün bu yazarlar”,
 dediler. Bende, “çok iyi bırakalım yazsınlar” dedim.
 
 901
-00:53:35,251 --> 00:53:38,589
+00:50:44,380 --> 00:50:47,718
 Ama onların bazıları, “tekrar doğmak” adında
 bir organizasyon başlattılar, düşünün.
 
 902
-00:53:38,724 --> 00:53:40,719
+00:50:47,853 --> 00:50:49,848
 Eğer Ben, siz olmalısınız deseydim,
 
 903
-00:53:40,781 --> 00:53:45,097
+00:50:49,910 --> 00:50:54,226
 o zaman da, biz zaten kendimiz belgeliyiz diyerek
 bir organizasyon başlatırsınız.
 
 904
-00:53:45,388 --> 00:53:48,282
+00:50:54,517 --> 00:50:57,411
 Bakın, bu kişinin anlaması gereken bir şey,
 sizler tekrar doğacaksınız.
 
 905
-00:53:48,344 --> 00:53:53,431
+00:50:57,473 --> 00:51:02,560
 İsa, “sizler benim vasıtamla doğacaksınız”, dedi. Bu bir gerçek.
 
 906
-00:53:53,577 --> 00:53:58,056
+00:51:02,706 --> 00:51:07,185
 İsa nerededir, oradadır. Bu kapıdır, bakın, dar kapı
 
 907
-00:53:58,166 --> 00:54:01,503
+00:51:07,295 --> 00:51:10,632
 ve kundalininiz bunun  sayesinde onu geçmelidir.
 
 908
-00:54:01,734 --> 00:54:05,186
+00:51:10,863 --> 00:51:14,315
 Geçmemesi durumunda, Lord’un Duasının okumalısınız.
 
 909
-00:54:05,418 --> 00:54:07,418
+00:51:14,547 --> 00:51:16,547
 İsa’nın adını anmalı
 
 910
-00:54:07,602 --> 00:54:09,433
+00:51:16,731 --> 00:51:18,562
 ve ona tapınmalısınız,
 
 911
-00:54:09,615 --> 00:54:13,855
+00:51:18,744 --> 00:51:22,984
 kundalini ancak o zaman o geçer.
 Bu da, sizin İsa sayesinde oradan geçtiğinizi gösterir.
 
 912
-00:54:14,355 --> 00:54:17,839
+00:51:23,484 --> 00:51:26,968
 Limbik bölge olan Tanrının krallığına girersiniz.
 
 913
-00:54:18,017 --> 00:54:20,673
+00:51:27,146 --> 00:51:29,802
 Yani bu bir gerçektir,
 
 914
-00:54:20,928 --> 00:54:23,173
+00:51:30,057 --> 00:51:32,302
 O, “siz benim vasıtamla geçmelisiniz” dediği zaman,
 
 915
-00:54:23,333 --> 00:54:26,349
+00:51:32,462 --> 00:51:35,478
 kendi kendisine sertifika verip,
 şunu söyleyebilen insanları kastetmedi,
 
 916
-00:54:26,436 --> 00:54:28,436
+00:51:35,565 --> 00:51:37,565
 “tamam, bu İsa,
 
 917
-00:54:28,474 --> 00:54:32,002
+00:51:37,603 --> 00:51:41,131
 bu İncil, bu da İsa”, sanki İsa oralarda bir yerde yatıyor,
 
 918
-00:54:32,137 --> 00:54:34,530
+00:51:41,266 --> 00:51:43,659
 sadece taşa dönmelisiniz ve onu orada bulacaksınız.
 
 919
-00:54:35,050 --> 00:54:38,620
+00:51:44,179 --> 00:51:47,749
 İsa buradadır. Ona nasıl yaklaşabileceksiniz,
 
 920
-00:54:38,682 --> 00:54:42,147
+00:51:47,811 --> 00:51:51,276
 bu sadece Kundalini uyanışı iledir ve kundalini,
 İsa sayesinde oradan geçer.
 
 921
-00:54:42,404 --> 00:54:43,444
+00:51:51,533 --> 00:51:52,573
 Bu kapıdır.
 
 922
-00:54:43,531 --> 00:54:47,640
+00:51:52,660 --> 00:51:56,769
 Hepiniz Hıristiyansınız veya belki de Yahudi’siniz veya her ne ise,
 
 923
-00:54:47,775 --> 00:54:50,249
+00:51:56,904 --> 00:51:59,378
 ama örneğin Hindistan’da
 
 924
-00:54:50,360 --> 00:54:53,479
+00:51:59,489 --> 00:52:02,608
 onların Hıristiyanlığa karşı çok düşmanca duyguları vardır.
 
 925
-00:54:53,857 --> 00:54:56,689
+00:52:02,986 --> 00:52:05,818
 Şimdi bir Hindu bile veya bir Müslüman bile,
 
 926
-00:54:56,829 --> 00:55:01,325
+00:52:05,958 --> 00:52:10,454
 eğer bu kişi Onu reddederse ve “tamam
 ben İsa’ya inanmıyorum” derse bile, O kişinin bunu yapması gerekir.
 
 927
-00:55:01,621 --> 00:55:03,621
+00:52:10,750 --> 00:52:12,750
 O kişiye şunu söylemek zorundayım ki,
 
 928
-00:55:03,708 --> 00:55:06,861
+00:52:12,837 --> 00:52:15,990
 eğer İsa’ya inanmıyorsanız, Ben size aydınlanma veremem.
 
 929
-00:55:07,093 --> 00:55:09,093
+00:52:16,222 --> 00:52:18,222
 Siz bağışlanma dilemeli
 
 930
-00:55:09,131 --> 00:55:12,330
+00:52:18,260 --> 00:52:21,459
 ve İsa’dan istemelisiniz, ancak
 o zaman kundalini oradan geçecektir.
 
 931
-00:55:12,465 --> 00:55:15,267
+00:52:21,594 --> 00:52:24,396
 Onlar Yahudi veya Hıristiyan olabilirler,
 
 932
-00:55:15,402 --> 00:55:18,720
+00:52:24,531 --> 00:52:27,849
 her tipten, onlar hepsinin burada olduğunu bilmeliler.
 
 933
-00:55:18,870 --> 00:55:21,993
+00:52:27,999 --> 00:52:31,122
 Örneğin, Tahran’dan Beni görmeye gelen bir doktor vardı,
 
 934
-00:55:22,128 --> 00:55:25,413
+00:52:31,257 --> 00:52:34,542
 kendisi kanserdi
 
 935
-00:55:25,913 --> 00:55:28,983
+00:52:35,042 --> 00:52:38,112
 ve Beni görmeye geldi, onda mide kanseri vardı,
 
 936
-00:55:29,094 --> 00:55:33,626
+00:52:38,223 --> 00:52:42,755
 bu yüzden ona dedim ki, “Muhammed Sahibin,
 
 937
-00:55:33,688 --> 00:55:37,624
+00:52:42,817 --> 00:52:46,753
 Dattatreya veya Nanaka ile aynı kişi olduğuna inanıyor musun?”
 
 938
-00:55:37,735 --> 00:55:41,213
+00:52:46,864 --> 00:52:50,342
 “Hayır, Onun Musa veya İbrahim olduğunu söylediğin
 zaman bile, ben buna inanmam” dedi.
 
 939
-00:55:41,339 --> 00:55:42,518
+00:52:50,468 --> 00:52:51,647
 Bende, “O, Musa ve İbrahim’di
 
 940
-00:55:42,645 --> 00:55:44,565
+00:52:51,774 --> 00:52:53,694
 ve onlar çok güçlü şahsiyetlerdi.
 
 941
-00:55:44,700 --> 00:55:46,700
+00:52:53,829 --> 00:52:55,829
 Onun Musa ve İbrahim
 
 942
-00:55:46,887 --> 00:55:49,603
+00:52:56,016 --> 00:52:58,732
 olduğunu kabul etmediğin sürece,
 
 943
-00:55:49,700 --> 00:55:51,700
+00:52:58,829 --> 00:53:00,829
 bunu elde edemeyeceksin”.
 
 944
-00:55:51,811 --> 00:55:55,573
+00:53:00,940 --> 00:53:04,702
 O dedi ki, “ben bunu söyleyemem,
 çünkü Yahudiler ve Müslümanlar böyledirler.”
 
 945
-00:55:55,705 --> 00:55:59,745
+00:53:04,834 --> 00:53:08,874
 Bende ona, onların her ikisinin de aynı olduğunu
 ve onların çok yüce kişilikler olduklarını söyledim.
 
 946
-00:55:59,856 --> 00:56:01,503
+00:53:08,985 --> 00:53:10,632
 Boşuna kavga ediyorsunuz.
 
 947
-00:56:01,565 --> 00:56:06,622
+00:53:10,694 --> 00:53:15,751
 Ben Musa’nın kim olduğunu, İbrahim’in kim olduğunu biliyorum.
 
 948
-00:56:07,122 --> 00:56:10,823
+00:53:16,251 --> 00:53:19,952
 Ama o sekiz gün boyunca bunu kabul etmedi, sonra karısı, bilirsiniz
 
 949
-00:56:10,885 --> 00:56:13,898
+00:53:20,014 --> 00:53:23,027
 o daha bilge birisi idi, aydınlanma
 alman daha iyi olur, iyi değilsin,
 
 950
-00:56:13,912 --> 00:56:16,456
+00:53:23,041 --> 00:53:25,585
 öleceksin, alsan daha iyi olacak,
 
 951
-00:56:16,518 --> 00:56:19,205
+00:53:25,647 --> 00:53:28,334
 sonra onlar geldiler. Olan şey bu, onlar sadece mecbur kaldılar.
 
 952
-00:56:19,267 --> 00:56:22,372
+00:53:28,396 --> 00:53:31,501
  Adam geldi, “Tamam Anne, her ne söylersen kabul edeceğim” dedi.
 
 953
-00:56:22,410 --> 00:56:25,585
+00:53:31,539 --> 00:53:34,714
 “Böyle değil, bunu kalbinden söylemelisin” dedim ve o iyileşti,
 
 954
-00:56:25,647 --> 00:56:27,647
+00:53:34,776 --> 00:53:36,776
 bilginiz olsun, iyileşmişti.
 
 955
-00:56:27,758 --> 00:56:29,758
+00:53:36,887 --> 00:53:38,887
 Yani hiç bir aşırı fikre kapılmayın.
 
 956
-00:56:29,845 --> 00:56:32,656
+00:53:38,974 --> 00:53:41,785
 Hepsi oradalar ve onların hepsi bir.
 
 957
-00:56:32,743 --> 00:56:36,921
+00:53:41,872 --> 00:53:46,050
 Sadece bizler, bu benim, şu benim, diyerek kavga ediyoruz.
 
 958
-00:56:36,959 --> 00:56:40,227
+00:53:46,088 --> 00:53:49,356
 Yani bunu, sadece bu merkezde ima ettim çünkü
 
 959
-00:56:40,265 --> 00:56:42,166
+00:53:49,394 --> 00:53:51,295
 Void’da tartıştığımız gibi,
 
 960
-00:56:42,228 --> 00:56:45,708
+00:53:51,357 --> 00:53:54,837
 burasının çok önemli bir merkez olduğunu düşünüyorum,
 
 961
-00:56:45,746 --> 00:56:49,042
+00:53:54,875 --> 00:53:58,171
 çok önemli olan bütün bu Eski Ahit, bütün bu İbrahim,
 Musa hakkındaki şeyler.
 
 962
-00:56:49,080 --> 00:56:52,764
+00:53:58,209 --> 00:54:01,893
 Nasıl ve İsa, nasıl orada kalandır,
 
 963
-00:56:52,851 --> 00:56:56,644
+00:54:01,980 --> 00:54:05,773
 bizim geçeceğimiz bir yol yapmak için Onu kim çarmıha gerdi,
 
 964
-00:56:56,706 --> 00:57:00,198
+00:54:05,835 --> 00:54:09,327
 çarmıha gerilmesi neden gerekliydi?
 
 965
-00:57:00,236 --> 00:57:04,298
+00:54:09,365 --> 00:54:13,427
 Bu yüzden daha sonra bunun üzerinde
 biraz daha zaman harcayacağım. Umarım
 
 966
-00:57:04,385 --> 00:57:08,810
+00:54:13,514 --> 00:54:17,939
 tekrar gelmek sizin için uygun olur
 ve umarım daha iyi bir salon bulacaksınız,
 
 967
-00:57:08,881 --> 00:57:12,501
+00:54:18,010 --> 00:54:21,630
 burayı çok sıcak hissediyorlar. Çok teşekkür ederim
 
