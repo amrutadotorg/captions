@@ -268,7 +268,7 @@ jūs turite pažinti save,
 
 68
 00:05:55,000 --> 00:05:57,042
-nes mumyse slypi supratimas,
+nes esame įsisąmoninę,
 
 69
 00:05:57,083 --> 00:05:58,209
@@ -288,7 +288,7 @@ Regis, tai suvokia visi.
 
 73
 00:06:05,083 --> 00:06:08,209
-Galbūt priešsąmoningai, galbūt pasąmoningai,
+Galbūt pasąmoningai, galbūt nesąmoningai,
 
 74
 00:06:09,209 --> 00:06:13,125
@@ -400,7 +400,7 @@ Situacija tokia, kad nieko nežinome apie Dieviškumą.
 
 101
 00:07:16,167 --> 00:07:18,000
-tai Skaitėme ir
+tai skaitėme ir
 
 102
 00:07:18,000 --> 00:07:19,125
@@ -500,7 +500,7 @@ Visos šios beribės sritys gali būti pažintos tik
 
 126
 00:08:34,042 --> 00:08:38,209
-patyrus sąmoningumą.
+patyrus sąmonę.
 
 127
 00:08:39,000 --> 00:08:42,083
@@ -508,7 +508,7 @@ Supraskite, kad yra labai subtilu,
 
 128
 00:08:42,125 --> 00:08:47,000
-kaip pažinti ką nors patyrus sąmoningumą.
+kaip pažinti ką nors patyrus sąmonę.
 
 129
 00:08:47,083 --> 00:08:49,125
@@ -552,7 +552,7 @@ bet ką jis apie jį žino? Mato.
 
 139
 00:09:25,209 --> 00:09:29,042
-Sąmonė, žmogiška sąmonė
+Sąmonė, žmogiškoji sąmonė
 
 140
 00:09:29,083 --> 00:09:31,167
@@ -796,11 +796,11 @@ ar vedant į kursus ir pan.
 
 200
 00:12:48,125 --> 00:12:52,042
-Kaip ketinu jums įrodyti? Pateiksiu jūsų sąmonei.
+Kaip ketinu jums įrodyti? Pateiksiu tai sąmoningai suvokti.
 
 201
 00:12:54,042 --> 00:13:01,083
-Tai bus absoliuti jūsų sąmonės patirtis,
+Tai bus absoliuti jūsų sąmoningumo patirtis,
 
 202
 00:13:01,209 --> 00:13:07,000
@@ -884,7 +884,7 @@ yra sukurta sistema, kuri vystėsi
 
 222
 00:14:13,209 --> 00:14:17,209
-augant mūsų sąmoningumui skirtingose stadijose −
+augant mūsų sąmonei skirtingose stadijose −
 
 223
 00:14:18,042 --> 00:14:20,167
@@ -892,7 +892,7 @@ tai tarsi istorija, užrašyta mumyse,
 
 224
 00:14:21,000 --> 00:14:23,083
-kaip tapti žmonėmis.
+kaip tapome žmonėmis.
 
 225
 00:14:23,125 --> 00:14:26,000
@@ -952,7 +952,7 @@ kol nepasieksite naujos sąmonės
 
 239
 00:15:10,083 --> 00:15:13,083
-arba vibracinės sąmonės, tol to neįmanoma paaiškinti.
+arba vibracinio sąmoningumo, tol to neįmanoma paaiškinti.
 
 240
 00:15:14,083 --> 00:15:17,209
@@ -996,7 +996,7 @@ kiek jaunuolių nusižudys.
 
 250
 00:15:54,083 --> 00:15:59,209
-Neseniai supratau, kad šveicarai triumfuoja –
+Neseniai supratau, kad šveicarai laimi –
 
 251
 00:16:00,083 --> 00:16:03,042
@@ -1072,7 +1072,7 @@ Korane tai vadinama „pir“.
 
 269
 00:17:02,125 --> 00:17:05,125
-Turite tapti „pir“ – atgimusiu.
+Turite tapti „pir“ – antrąkart gimusiais.
 
 270
 00:17:06,042 --> 00:17:09,042
@@ -1256,7 +1256,7 @@ Ką tik trumpai papasakojau, kas yra Kundalini
 
 315
 00:19:31,167 --> 00:19:33,167
-ir kaip ji sukurta čia.
+ir kaip ji patalpinta čia.
 
 316
 00:19:34,042 --> 00:19:37,167
@@ -1328,7 +1328,7 @@ Sokratas.
 
 333
 00:20:48,209 --> 00:20:53,000
-Čia yra visos pagrindinės Pirmapradės Būtybės,
+Čia yra visos dešimt pagrindinių Pirmapradžių Būtybių,
 
 334
 00:20:53,042 --> 00:20:54,167
@@ -1420,7 +1420,7 @@ Tai dešimt Guru, kurie atėjo į šią Žemę,
 
 356
 00:22:12,083 --> 00:22:18,083
-kad apsaugotų žmones nuo išklydimo iš centro,
+kad apsaugotų žmones nuo išklydimo iš vidurinio kelio,
 
 357
 00:22:18,209 --> 00:22:22,042
@@ -1440,11 +1440,11 @@ taip pat troškimo energija.
 
 361
 00:22:33,042 --> 00:22:36,083
-Emocinė pusė suteikia mums priešsąmonę,
+Emocinė pusė suteikia mums pasąmonę,
 
 362
 00:22:36,083 --> 00:22:39,000
-aukščiau jos yra kolektyvinė priešsąmonė.
+aukščiau jos yra kolektyvinė pasąmonė.
 
 363
 00:22:39,083 --> 00:22:42,209
@@ -1672,11 +1672,11 @@ kurios yra pilve,
 
 419
 00:25:57,209 --> 00:26:00,167
-jos paverčiamos naudingomis smegenims.
+jos naudojamos smegenų darbui.
 
 420
 00:26:01,042 --> 00:26:03,167
-Ir kai vyksta šis pokalbis,
+Ir kai vyksta šis perdirbimas,
 
 421
 00:26:04,042 --> 00:26:07,209
@@ -1764,7 +1764,7 @@ fizinius veiksmus ir fizinį darbą.
 
 442
 00:27:37,209 --> 00:27:41,000
-paverčia riebalus tinkamais smegenų veiklai.
+perdirba riebalus smegenų veiklai.
 
 443
 00:27:42,209 --> 00:27:48,042
@@ -2244,7 +2244,7 @@ Pranešimai tokie tikslūs,
 
 562
 00:33:53,000 --> 00:33:55,125
-kad jei turite realizuotų vaikų,
+kad jei turite dešimt realizuotų vaikų,
 
 563
 00:33:55,167 --> 00:33:57,000
@@ -2424,7 +2424,7 @@ Taigi nušvinta jūsų sąmonė ir rankos,
 
 607
 00:35:47,167 --> 00:35:53,000
-kuriose yra simpatiniai galiukai čia, sakau jums.
+kuriose yra simpatiniai galiukai čia, ir jie jums parodo.
 
 608
 00:35:53,209 --> 00:35:57,042
@@ -3484,7 +3484,7 @@ ne centrinėje nervų sistemoje,
 
 872
 00:48:35,125 --> 00:48:37,125
-ji – nekontroliuojama.
+mes jos nekontroliuojame.
 
 873
 00:48:38,042 --> 00:48:41,000
@@ -3556,11 +3556,11 @@ pasiekė balansą.
 
 890
 00:49:31,000 --> 00:49:33,209
-Dabar šis balansavimas tarp kairės ir dešinės
+Dabar šis balansavimas tarp kairės ir dešinės,
 
 891
 00:49:34,000 --> 00:49:37,125
-arba stabdžiai ir akceleratorius,
+tarsi stabdžių ir akceleratoriaus,
 
 892
 00:49:37,167 --> 00:49:39,167
@@ -3588,7 +3588,7 @@ Tampate Dvasia,
 
 898
 00:49:54,000 --> 00:49:57,209
-ir stebite kaip vairuotojas.
+ir stebite save kaip vairuotoją.
 
 899
 00:49:59,000 --> 00:50:01,209
@@ -3980,7 +3980,7 @@ kad jus išgydytų. Gerai?
 
 996
 00:56:22,083 --> 00:56:25,167
-Jei jūsų motina buvo čia, mes galime tai padaryti.
+Jei jūsų motina butų čia, mes galime tai padaryti.
 
 997
 00:56:26,125 --> 00:56:28,083
@@ -4024,11 +4024,11 @@ jiems nepasisekė ir jis ketino grįžti į Indiją.
 
 1007
 00:57:10,000 --> 00:57:14,042
-Aš nuvykau aplankyto jo ir jo ponios.
+Aš nuvykau aplankyti jo ir jo žmonos.
 
 1008
 00:57:14,209 --> 00:57:17,042
-O ambasadorius pasakė jam,
+O ambasadorius jam pasakė,
 
 1009
 00:57:17,083 --> 00:57:19,125
@@ -4180,15 +4180,15 @@ Jis neturėjo nė plaukelio ant galvos, kai atėjo pas mane.
 
 1046
 00:59:13,209 --> 00:59:17,209
-Bet nesakau to po Realizacijos,
+Nesakau to, bet pokytis
 
 1047
 00:59:18,000 --> 00:59:20,083
-o prieš Realizaciją tai taip nuostabu,
+o po Realizacijos yra toks akivaizdus,
 
 1048
 00:59:20,125 --> 00:59:22,209
-tad verčiau nusifotografuokite
+kad verčiau nusifotografuokite
 
 1049
 00:59:23,042 --> 00:59:25,125
@@ -4564,7 +4564,7 @@ Kūrinys turi pažinti Kūrėją.
 
 1142
 01:04:04,167 --> 01:04:12,000
-Vienas, du, trys, keturi – visad vos keli
+Vienas, du, trys, keturi – visad vos keli žmonės
 
 1143
 01:04:12,083 --> 01:04:14,167
@@ -4588,7 +4588,7 @@ prieš kiek metų.
 
 1148
 01:04:29,042 --> 01:04:31,042
-Bet šiandien yra palaimintas laikas,
+Bet šiandien yra žydėjimo laikas,
 
 1149
 01:04:31,083 --> 01:04:34,209
@@ -5304,7 +5304,7 @@ Vaiką turinti moteris pabėga su kitu vyru.
 
 1327
 01:13:47,209 --> 01:13:51,125
-Arba vaiką turinti moterisgali parduoti valstybę
+Arba vaiką turinti moteris gali parduoti valstybę
 
 1328
 01:13:51,209 --> 01:13:55,000
@@ -5312,7 +5312,7 @@ dėl savo vaiko. „Kas blogai?“
 
 1329
 01:13:56,167 --> 01:14:00,083
-Šią problemą mumyse sukuria painiava,,
+Šią problemą mumyse sukuria painiava,
 
 1330
 01:14:00,125 --> 01:14:03,167
@@ -5332,11 +5332,11 @@ Nesubrendėliai sukėlė visą painiavą.
 
 1334
 01:14:14,125 --> 01:14:18,209
-Kaip nėra nieko blogo inkarnacijoms,
+O inkarnacijoms ir pranašams
 
 1335
 01:14:19,000 --> 01:14:23,042
-pranašams. Jiems nieko blogo, jie – tobuli žmonės.
+nėra nieko blogo. Jiems nėra nieko blogo, jie – tobuli žmonės.
 
 1336
 01:14:24,000 --> 01:14:26,083
