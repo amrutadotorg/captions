@@ -1,10 +1,10 @@
-1
+﻿1
 00:00:29,459 --> 00:00:35,959
-Dabar Sahadža jogos esmė,
+Kas yra Sahadža jogos esmė,
 
 2
 00:00:36,167 --> 00:00:41,334
-esu tikra, p. Govindramas turėjo paaiškinti, kas yra.
+esu tikra, p. Govindramui pavyko paaiškinti.
 
 3
 00:00:41,542 --> 00:00:48,000
@@ -132,7 +132,7 @@ ne problema,
 
 34
 00:02:48,918 --> 00:02:52,501
-kad Sahadža jogai negali jums duoti realizacijos,
+kad Sahadža jogai negali jums duoti Realizacijos,
 
 35
 00:02:52,709 --> 00:02:58,209
@@ -156,7 +156,7 @@ Kartais jaučiu, kad sukūriau metodą,
 
 40
 00:03:15,125 --> 00:03:18,167
-kuriuo galiu duoti realizaciją masiškai
+kuriuo galiu duoti Realizaciją masiškai
 
 41
 00:03:18,375 --> 00:03:19,626
@@ -288,7 +288,7 @@ arba nenyksta, kokią matau.
 
 73
 00:05:06,709 --> 00:05:14,375
-Kartais nežinau, kaip jiems duoti realizaciją.
+Kartais nežinau, kaip jiems duoti Realizaciją.
 
 74
 00:05:15,792 --> 00:05:18,000
@@ -308,7 +308,7 @@ Niekas nekris jums po kojomis ir nesakys:
 
 78
 00:05:26,167 --> 00:05:28,167
-„Gerai, gaukite savirealizaciją.
+„Gerai, gaukite Savirealizaciją.
 
 79
 00:05:28,375 --> 00:05:31,959
@@ -480,7 +480,7 @@ kad šis purvas padegs jų smegenis, ego –
 
 121
 00:08:29,792 --> 00:08:33,751
-viską, ir jie negalės gauti realizacijos.
+viską, ir jie negalės gauti Realizacijos.
 
 122
 00:08:33,959 --> 00:08:37,334
@@ -684,11 +684,11 @@ Mūsų laukia didelė kelionė,
 
 172
 00:11:48,751 --> 00:11:50,959
-net po realizacijos.
+net po Realizacijos.
 
 173
 00:11:51,125 --> 00:11:56,417
-Kartais nėra kada duoti realizaciją daugybei žmonių.
+Kartais nėra kada duoti Realizaciją daugybei žmonių.
 
 174
 00:11:56,626 --> 00:11:59,250
@@ -960,7 +960,7 @@ kodėl nedarome, kas pasakyta:
 
 241
 00:16:22,876 --> 00:16:26,792
-kad turite gauti realizaciją,
+kad turite gauti Realizaciją,
 
 242
 00:16:26,959 --> 00:16:29,876
@@ -1176,7 +1176,7 @@ ką jis žino apie dvasinį gyvenimą,
 
 295
 00:19:33,459 --> 00:19:36,959
-ką supranta apie Kirtaus gyvenimą.
+ką supranta apie Kristaus gyvenimą.
 
 296
 00:19:37,125 --> 00:19:38,751
@@ -1324,7 +1324,7 @@ tyras troškimas yra Kundalini.
 
 332
 00:21:40,083 --> 00:21:44,209
-Dabar suprantate mano problemą. Tyras troškimas – Kundalini.
+Dabar suprantate mano problemą? Tyras troškimas – Kundalini.
 
 333
 00:21:44,417 --> 00:21:47,167
@@ -1528,7 +1528,7 @@ bet taip pat mane užplūsta
 
 383
 00:24:27,209 --> 00:24:32,876
-absoliuti užuojauta ir didžiulė meilė,
+absoliuti atjauta ir didžiulė meilė,
 
 384
 00:24:33,042 --> 00:24:37,834
@@ -1660,11 +1660,11 @@ ir pasistengs suprasti, kad jūs trokštate
 
 416
 00:26:31,959 --> 00:26:35,959
-tik savirealizacijos ir nieko kito.
+tik Savirealizacijos ir nieko kito.
 
 417
 00:26:36,125 --> 00:26:40,501
-Tiesiog trokštate to. Prašau jūsų trokšti savirealizacijos
+Tiesiog trokštate to. Prašau jūsų trokšti Savirealizacijos
 
 418
 00:26:40,709 --> 00:26:44,417
@@ -1728,7 +1728,7 @@ bet, prašau, bent jau trokškite
 
 433
 00:27:39,375 --> 00:27:41,667
-gauti savirealizaciją.
+gauti Savirealizaciją.
 
 434
 00:27:41,876 --> 00:27:43,375
@@ -1736,7 +1736,7 @@ Telaimina jus visus Dievas.
 
 435
 00:27:43,584 --> 00:27:45,792
-Tikiuosi, kad tie, kurie gaus realizaciją,
+Tikiuosi, kad tie, kurie gaus Realizaciją,
 
 436
 00:27:45,959 --> 00:27:48,042
@@ -1756,7 +1756,7 @@ kuri yra svarbi man ir Sahadža jogai
 
 440
 00:27:57,375 --> 00:28:00,834
-ir, kad turėtumėte gauti savirealizaciją,
+ir, kad turėtumėte gauti Savirealizaciją,
 
 441
 00:28:01,000 --> 00:28:04,876
@@ -1800,7 +1800,7 @@ tokį kelią įveikė dėl ko?
 
 451
 00:28:33,834 --> 00:28:35,792
-Jūs nenorite gauti realizacijos?
+Jūs nenorite gauti Realizacijos?
 
 452
 00:28:35,959 --> 00:28:43,375
@@ -1948,7 +1948,7 @@ Aš tol neleisiu jiems apsigyventi Indijoje, kol
 
 488
 00:30:38,125 --> 00:30:42,459
-mažiausiai pusė anglų nebus gavę realizacijos.
+mažiausiai pusė anglų nebus gavę Realizacijos.
 
 489
 00:30:45,417 --> 00:30:47,042
@@ -1972,7 +1972,7 @@ jūs turite sunkiai dirbti.
 
 494
 00:30:56,959 --> 00:31:00,083
-Turite suteikti realizaciją mažiausia pusei Britanijos žmonių
+Turite suteikti Realizaciją mažiausia pusei britų
 
 495
 00:31:00,292 --> 00:31:03,167
@@ -2436,7 +2436,7 @@ Visi esame čia ir dabar.
 
 610
 00:39:32,959 --> 00:39:38,375
-kad patektumėte į naują savirealizacijos suvokimą.
+kad patektumėte į naują Savirealizacijos suvokimą.
 
 611
 00:39:38,959 --> 00:39:41,542
@@ -2724,11 +2724,11 @@ ir kai tai nutinka,
 
 682
 00:43:12,083 --> 00:43:17,834
-pajaučiate, kad gavote savirealizaciją.
+pajaučiate, kad gavote Savirealizaciją.
 
 683
 00:43:18,876 --> 00:43:21,042
-Jaučiate realizaciją.
+Jaučiate Realizaciją.
 
 684
 00:43:28,000 --> 00:43:29,250
@@ -2736,7 +2736,7 @@ Jaučiate realizaciją.
 
 685
 00:43:29,918 --> 00:43:32,375
-Bet, kai jūs, žmonės, gaunate realizaciją,
+Bet, kai jūs, žmonės, gaunate Realizaciją,
 
 686
 00:43:32,667 --> 00:43:34,709
@@ -2744,7 +2744,7 @@ Bet, kai jūs, žmonės, gaunate realizaciją,
 
 687
 00:43:35,250 --> 00:43:37,876
-Galite duoti realizaciją kitiems,
+Galite duoti Realizaciją kitiems,
 
 688
 00:43:38,375 --> 00:43:42,167
@@ -2752,7 +2752,7 @@ tiesiog pakeldami rankomis iš nugaros žmogui,
 
 689
 00:43:42,542 --> 00:43:44,083
-kuriam norite duoti realizaciją.
+kuriam norite duoti Realizaciją.
 
 690
 00:43:44,292 --> 00:43:47,626
@@ -3232,7 +3232,7 @@ ir paspauskite delnu
 
 809
 00:53:09,250 --> 00:53:12,125
-patys sau, jūs priimate savirealizaciją,
+patys sau, jūs priimate Savirealizaciją,
 
 810
 00:53:12,292 --> 00:53:14,501
@@ -3264,7 +3264,7 @@ Pasukite. Tvirtai prispauskite.
 
 817
 00:53:37,959 --> 00:53:41,375
-„Motina, aš noriu savirealizacijos.“
+„Motina, aš noriu Savirealizacijos.“
 
 818
 00:53:41,626 --> 00:53:45,834
@@ -3272,7 +3272,7 @@ Nes, kaip sakiau, negaliu pažeisti jūsų laivės.
 
 819
 00:53:46,125 --> 00:53:49,459
-Turite pasakyti: „Motina, parašau, suteik man realizaciją.“
+Turite pasakyti: „Motina, parašau, suteik man Realizaciją.“
 
 820
 00:53:49,792 --> 00:53:52,250
@@ -3288,7 +3288,7 @@ Todėl prašau pasakyti:
 
 823
 00:53:58,375 --> 00:54:01,834
-„Motina, aš noriu realizacijos.“
+„Motina, aš noriu Realizacijos.“
 
 824
 00:54:03,459 --> 00:54:05,334
@@ -3513,8 +3513,4 @@ Patikrinkite jo delnus.
 879
 00:57:32,501 --> 00:57:34,375
 Ei? Grehemai? Matau...
-
-880
-00:57:41,000 --> 00:57:42,000
-Cha!
 
