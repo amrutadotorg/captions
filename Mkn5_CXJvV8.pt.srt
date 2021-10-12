@@ -1,7 +1,7 @@
 ﻿1
 00:00:00,658 --> 00:00:09,278
 ﻿Programa Público
-Rio de Janeiro, Brasil, 15.10.1992
+Rio de Janeiro, Brasil, 17.10.1992
 
 2
 00:00:10,224 --> 00:00:14,950
