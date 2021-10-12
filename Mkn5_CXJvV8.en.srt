@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,658 --> 00:00:09,278
-1992-1015 Public Program, Rio de Janeiro, Brazil
+1992-10-17 Public Program, Rio de Janeiro, Brazil
 
 2
 00:00:10,224 --> 00:00:14,950
