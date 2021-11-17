@@ -1,5 +1,5 @@
 1
-00:00:13,000 --> 00:00:20,000
+00:00:14,150 --> 00:00:20,000
 Eye Treatment
 Interview with a journalist
 October 14,
