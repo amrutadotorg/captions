@@ -134,7 +134,7 @@ saaneet kokea hienojakoisuutta, ymmärrätkö?
 
 33
 00:02:25,992 --> 00:02:31,867
-Äiti on  siellä suojelemassa,
+Äiti on siellä suojelemassa,
 
 34
 00:02:32,000 --> 00:02:38,700
@@ -378,7 +378,7 @@ saada selville kuka on aito henkilö.
 91
 00:05:57,250 --> 00:06:00,125
 Näitä aiheisiin hän (Sai Baba) ei mene,
-hän ei koskettele niitä,
+hän ei käsittele niitä,
 
 92
 00:06:00,417 --> 00:06:02,334
@@ -779,7 +779,7 @@ voimia antaa ylösnousemus toisille,
 
 185
 00:12:14,834 --> 00:12:19,083
-koska teistä tukee korkeampia persoonia kuin muista ihmisistä.
+koska teistä tulee korkeampia persoonia kuin muista ihmisistä.
 
 186
 00:12:19,417 --> 00:12:22,792
@@ -866,7 +866,7 @@ minulla on huono maksa, mutta minkäs teet,
 pidän siitä, miten voisin lopettaa?"
 
 206
-00:13:29,409 --> 00:13:31,692
+00:13:29,409 --> 00:13:31,492
 Tätä ei enää tapahdu, Oivalluksen jälkeen
 
 207
@@ -895,7 +895,7 @@ Kyse ei ole vain timanteista, en välitä,
 vaikka antaisivat salakuljetettuja tai sinisiä timantteja,
 
 213
-00:13:50,617 --> 00:13:52,934
+00:13:50,617 --> 00:13:52,834
 sillä ei ole väliä, mutta asia on paljon vakavampi.
 
 214
@@ -1071,11 +1071,11 @@ Kuinka Teidän opetuslapsenne pitäisi toimia tällaisen henkilön kanssa?
 253
 00:16:17,959 --> 00:16:21,209
 Mikä olisi hyvä keino?
-Shri mataji: Voi, keinoja on monia.
+Shri Mataji: Voi, keinoja on monia.
 
 254
 00:16:21,959 --> 00:16:25,626
-Tottakai, on monia keinoja, joita voi käyttää.
+Totta kai, on monia keinoja, joita voi käyttää.
 
 255
 00:16:25,834 --> 00:16:28,959
@@ -1468,11 +1468,11 @@ Se on hyvin yleistä, ja sen lisäksi
 
 346
 00:21:50,359 --> 00:21:54,700
-meillä on näitä helluntalaisia, mikä on kaikki ihan sama asia.
+meillä on näitä helluntailaisia, mikä on kaikki ihan sama asia.
 
 347
 00:21:54,834 --> 00:21:58,250
-Nämä helluntalaiset tekevät tätä
+Nämä helluntailaiset tekevät tätä
 ho ho ho ho ho ho -juttuaan.
 
 348
@@ -1710,8 +1710,8 @@ Hän kuoli, ja jätti jälkeensä 60 000 crorea.
 
 402
 00:25:37,125 --> 00:25:41,992
-En tiedä mitä tämä intialainen luku muunnetaan...
-Hän jätti jälkeensä 60 000 croren arvosta timntteja.
+En tiedä miten tämä intialainen luku muunnetaan...
+Hän jätti jälkeensä 60 000 croren arvosta timantteja.
 
 403
 00:25:42,000 --> 00:25:45,625
@@ -2053,7 +2053,7 @@ he pitävät siitä enemmän kuin todellisuudesta.
 
 480
 00:30:37,283 --> 00:30:41,468
-He ova aina piinanneet aitoja ihmisiä,
+He ovat aina piinanneet aitoja ihmisiä,
 
 481
 00:30:41,492 --> 00:30:43,951
@@ -2172,7 +2172,7 @@ että Kundaliini tullaan nostamaan ylös.
 508
 00:32:17,417 --> 00:32:19,959
 Onko sinulla Yogi Mahajanin kirja?
-Joogi: Ei meillä ei ole sitä, Äiti.
+Joogi: Ei, meillä ei ole sitä, Äiti.
 
 509
 00:32:20,250 --> 00:32:23,000
@@ -2206,7 +2206,7 @@ olemassa vain se yksi kappale, mutta Yogi Mahajan
 
 516
 00:32:46,167 --> 00:32:49,834
-on kirjoittanut on kirjoittanut siitä oman kirjansa lopussa.
+on kirjoittanut siitä oman kirjansa lopussa.
 
 517
 00:32:49,834 --> 00:32:55,334
@@ -2243,12 +2243,12 @@ Joogi: On monia muitakin kirjoja, joita voitte lukea myöhemmin,
 
 525
 00:33:18,918 --> 00:33:21,626
-kun oivalluksennen on vakiintunut.
+kun oivalluksenne on vakiintunut.
 Tämä on yksi sellainen.
 
 526
 00:33:21,667 --> 00:33:26,826
-Shri Mataji: Hän sanoi laittaneensa jotkain kirjan loppuun.
+Shri Mataji: Hän sanoi laittaneensa jotakin kirjan loppuun.
 Vai oliko se Gavin tai joku muu?
 
 527
@@ -2352,7 +2352,7 @@ hyvin selvästi tulevan ajan,
 
 549
 00:34:49,175 --> 00:34:51,684
-jolloin Jumalan miehistä tulee profettoja,
+jolloin Jumalan miehistä tulee profeettoja,
 
 550
 00:34:51,767 --> 00:34:54,084
@@ -2775,15 +2775,15 @@ Tuhannet ovat nähneet kundaliinin nousevan
 ja chakrojen sykkivän,
 
 648
-00:41:23,125 --> 00:41:28,159
+00:41:23,325 --> 00:41:28,159
 kun Shri Mataji herättää näiden seitsemän keskuksen salaiset voimat.
 
 649
-00:41:28,251 --> 00:41:31,750
+00:41:28,251 --> 00:41:32,150
 Tämä tapahtuu ihmisille yhtenä joukkona,
 
 650
-00:41:30,834 --> 00:41:36,626
+00:41:32,234 --> 00:41:37,626
 ja olemme nähneet tuhansien ihmisten saavan itseoivalluksensa samalla kertaa.
 
 651
@@ -2826,7 +2826,7 @@ ja se auttaa toipumisessa.
 
 660
 00:42:18,584 --> 00:42:22,484
-On myös totta, että kun ihminen vakiinnutta
+On myös totta, että kun ihminen vakiinnuttaa
 oivalluksensa antamalla sitä muille,
 
 661
@@ -3234,7 +3234,7 @@ Entä te, tunsitteko viileää tuulta te kaksi?
 
 753
 00:48:31,959 --> 00:48:38,918
-Etsijä: Ainoa mitä tunsin oli hyvin raskas paino
+Etsijä: Ainoa, mitä tunsin, oli hyvin raskas paino
 molemmissa käsivarsissani.
 
 754
@@ -3308,7 +3308,7 @@ Etsijä: Ettekö ole kuulleet hänestä? Hän on hyvin kuuluisa.
 
 770
 00:49:47,334 --> 00:49:50,167
-Joogi: Hän kysyi, ettekö ole kuuulleet hänestä? Hän on hyvin kuuluisa.
+Joogi: Hän kysyi, ettekö ole kuulleet hänestä? Hän on hyvin kuuluisa.
 
 771
 00:49:50,751 --> 00:49:53,709
@@ -3335,7 +3335,7 @@ ei ole oikea persoona. Ymmärrätkö?
 Eihän tämä ole mitään akrobaattista leikkiä, eihän?
 
 776
-00:50:13,909 --> 00:50:16,383
+00:50:14,109 --> 00:50:16,383
 Että tulisi joksikin sirkusesiintyjäksi.
 
 777
@@ -4039,7 +4039,7 @@ Kerron toisen pienen tarinan lapsenlapsistani.
 
 937
 01:00:14,918 --> 01:00:19,209
-Minulla on kaksi tyttärentytärtä ensimmäiseltä tyttareltäni,
+Minulla on kaksi tyttärentytärtä ensimmäiseltä tyttäreltäni,
 
 938
 01:00:19,667 --> 01:00:21,959
@@ -4061,7 +4061,7 @@ Sanoin: "Siinä lukee, että jos maksaa 100 rupiaa
 
 942
 01:00:30,642 --> 01:00:36,959
-ja menee kursille hotelliin, silloin elämä muuttuu."
+ja menee kurssille hotelliin, silloin elämä muuttuu."
 
 943
 01:00:37,034 --> 01:00:42,683
