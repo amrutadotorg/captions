@@ -43,7 +43,7 @@ joten me toivotamme auringon tervetulleeksi. Syömme jotakin,
 11
 00:01:18,209 --> 00:01:24,542
 jota olette varmasti jo päässeet maistamaan,
-kutsumme sitä 'seesamisokeriksi' (tilgul).
+kutsumme sitä 'seesamisokeriksi' [tilgul].
 
 12
 00:01:24,709 --> 00:01:28,792
@@ -99,7 +99,7 @@ ja antavat teille jotakin, joka saa aikaan lämpöä kehoissanne.
 
 24
 00:02:46,250 --> 00:02:51,918
-Mutta sillä on myös toinen hyvin hienovarainen merkitys;
+Mutta sillä on toinen hyvin hienovarainen merkitys;
 
 25
 00:02:51,918 --> 00:02:54,042
@@ -335,12 +335,12 @@ maksassa tuntuu pahalta, kaikki on sekaisin.
 Ja siksi tunnemme itsemme täysin hajanaiseksi.
 
 79
-00:07:22,792 --> 00:07:29,476
+00:07:22,792 --> 00:07:38,876
 Ja hajanaisuus on merkki siitä, että emme kehity lainkaan,
 
 80
-00:07:29,576 --> 00:07:34,776
-tai sanotaanko: me jäämme paikoillemme.
+00:07:38,876 --> 00:07:33,876
+tai sanotaanko me jäämme paikoillemme.
 
 81
 00:07:34,792 --> 00:07:39,751
@@ -511,7 +511,7 @@ Se on juuri päinvastoin.
 119
 00:10:54,000 --> 00:11:00,000
 Annetaan kaikkien elää rauhassa itsensä kanssa
-ja annetaan rauha toisillekin,
+ja antaa rauha toisillekin,
 
 120
 00:11:00,209 --> 00:11:07,000
@@ -538,21 +538,21 @@ rauhaa ja kanavoitte sitä eteenpäin.
 125
 00:11:30,334 --> 00:11:37,834
 Mutta edelleen on muutamia, jotka kärsivät
-pahasta egosta tai loukatusta egosta,
+kamalasta egosta tai loukatusta egosta,
 
 126
 00:11:38,042 --> 00:11:44,209
 ja he yrittävät tehdä jotain, mitä heidän ei koskaan pitäisi:
-he ajattelevat juuri nyt.
+juuri nyt he ajattelevat.
 
 127
 00:11:44,417 --> 00:11:48,334
-Jos ajattelet juuri nyt, et paina mieleesi sitä, mitä sanon,
+Jos juuri nyt ajattelet, et paina mieleesi sitä, mitä sanon,
 
 128
 00:11:48,542 --> 00:11:54,626
 koska tämä on yksi egoistisen ihmisen ominaisuus,
-että hän ei paina asioita mieleensä.
+että ei paina mieleensä asioita.
 
 129
 00:11:54,834 --> 00:11:57,125
@@ -610,7 +610,7 @@ että olemme syntyneet tähän vankilaan.
 141
 00:12:56,876 --> 00:13:01,500
 Siksi meidän pitää kantaa mukanamme
-näitä vangin tunnusnumeroita!
+näitä rikollisen tunnusnumeroita!
 
 142
 00:13:03,542 --> 00:13:08,167
@@ -619,7 +619,7 @@ Ette tarvitse mitään tällaista.
 
 143
 00:13:08,375 --> 00:13:12,709
-Tänään meidän pitää ennen kaikkea päättää sydämissämme,
+Nyt meidän pitää tänään enne kaikkea päättää sydämissämme,
 
 144
 00:13:12,918 --> 00:13:15,792
@@ -659,7 +659,7 @@ tai kuuntelemaan ongelmia, vaan saamaan rauhaa.
 
 152
 00:13:58,542 --> 00:14:07,792
-Rauha on teidän Henkenne luonne, sen ominaisuus.
+Rauha on teidän Henkenne luonne tai ominaisuus.
 
 153
 00:14:08,000 --> 00:14:13,125
@@ -892,15 +892,15 @@ olemme ylpeitä loistostamme ja asemastamme.
 Ja se asema on se, että olemme nyt Jumalan Valtakunnassa.
 
 204
-00:18:38,459 --> 00:18:40,492
+00:18:38,459 --> 00:18:40,792
 Jumala siunatkoon teitä kaikkia!
 
 205
-00:18:40,492 --> 00:18:42,759
+00:18:40,792 --> 00:18:42,459
 (Shri Mataji jatkaa 12 min. marathiksi.)
 
 206
-00:18:42,759 --> 00:18:46,417
+00:18:42,459 --> 00:18:46,417
 Nyt haluan kertoa, että näin moni vieras on vastannut
 
 207
@@ -910,7 +910,7 @@ sydämelliseen kutsuunne ja tullut luoksemme.
 208
 00:18:49,542 --> 00:18:56,125
 Olette tehneet kunnon järjestelyt
-heidän viihtymisekseen.
+heidän oleskelunsa hyväksi.
 
 209
 00:18:56,125 --> 00:19:03,000
@@ -928,7 +928,7 @@ Niinpä teidän kaikkien täällä olevien puolesta
 212
 00:19:10,709 --> 00:19:14,125
 Minun on sanottava, että Mumbain
-joogit ovat todella edistyneet.
+joogit ovat menneet johtoon.
 
 213
 00:19:14,542 --> 00:19:17,042
@@ -936,7 +936,7 @@ Kerron teille nyt saman, mitä äsken kerroin heille.
 
 214
 00:19:17,042 --> 00:19:18,792
-Tänään me tarjoamme 'seesamisokeria',
+Tänään me tarjoamme 'seesamisokeri'-sekoitusta,
 
 215
 00:19:18,834 --> 00:19:22,334
@@ -968,7 +968,7 @@ tämä mantra: "Puhu kauniisti!"
 221
 00:19:38,834 --> 00:19:42,751
 Seesamin ja raakasokerin syöminen nostaa
-kehon lämpötilaa, ja ihminen alkaa käyttäytyä äänekkäästi.
+kehon lämpötilaa, ja ihminen alkaa huutaa.
 
 222
 00:19:42,834 --> 00:19:45,459
@@ -985,7 +985,7 @@ Mutta sekin näyttää vaikealta.
 225
 00:19:51,334 --> 00:19:53,626
 Ihmiset ottavat vastaan seesamisokerin,
-ja alkavat mesota.
+ja alkavat heti mesoamaan.
 
 226
 00:19:53,626 --> 00:19:55,667
@@ -1016,7 +1016,7 @@ Kuumuus on saatava pois.
 Ja mistä kuumuus tulee meihin?
 
 233
-00:20:15,667 --> 00:20:18,283
+00:20:15,667 --> 00:20:17,083
 Se säteilee egostamme.
 
 234
@@ -1051,7 +1051,7 @@ Ajattelin, että Sahaja Yoga ei ollut mahdollista,
 
 241
 00:20:36,500 --> 00:20:38,542
-koska ihminen saattoi tulla
+koska ihminen saattoi tulla mukaan
 ja häipyä parin päivän kuluttua.
 
 242
@@ -1126,7 +1126,7 @@ ja monet ongelmat voivat ratketa vain siksi,
 
 258
 00:21:42,834 --> 00:21:47,375
-että ette ole laittaneet niihin huomiotanne.
+että ette ole panneet niihin huomiotanne.
 
 259
 00:21:47,375 --> 00:21:49,209
@@ -1170,8 +1170,8 @@ mutta vaimo takertuu pieneen asiaan.
 
 268
 00:22:19,751 --> 00:22:22,209
-Hän suurentelee sitä suhteettomasti
-ja ahdistelee sillä muita.
+Hän suurentelee sitä suhteettomasti ja
+ahdistelee ja vaivaa sillä muita.
 
 269
 00:22:22,417 --> 00:22:25,292
@@ -1250,8 +1250,7 @@ on puhua kauniisti toisille,
 
 286
 00:23:25,375 --> 00:23:29,876
-käyttäytyä rakastavasti, ei olla tyly.
-Aivan ensimmäiseksi.
+käyttäytyä rakastavasti, ei olla tyly. Aivan ensimmäiseksi.
 
 287
 00:23:30,125 --> 00:23:34,792
@@ -1409,7 +1408,7 @@ pystyn kestämään sellaista, jota muut eivät.
 Samaa koskee myös rakastamista.
 
 323
-00:25:27,292 --> 00:25:33,318
+00:25:27,292 --> 00:25:31,918
 Jos rakkautemme voima on vahvempi ja muiden heikompi,
 kumpi on silloin suurempi, me vai he?
 
@@ -1475,11 +1474,11 @@ toisilleen puhtaasti ja rakkaudella.
 
 337
 00:26:29,334 --> 00:26:30,792
-Se on hyvin tarpeellista.
+Se on aivan välttämätöntä.
 
 338
 00:26:30,918 --> 00:26:33,667
-Kaikkien pitää puhua rakkaudella toisten kanssa.
+Kaikkien pitää puhua rakkaudella toistensa kanssa.
 
 339
 00:26:34,292 --> 00:26:39,250
@@ -1496,39 +1495,39 @@ Jokainen sahaja-joogi on Minun kehossani.
 
 342
 00:26:46,500 --> 00:26:49,459
-Jos siis potkitte tai solvaatte toisianne,
+Jos siis potkitte tai haukutte toisianne,
 
 343
 00:26:49,459 --> 00:26:52,959
-silloin teidän pitää ajatella, että solvaatte Minua.
+silloin teidän pitää ajatella, että haukutte Minua.
 
 344
 00:26:52,959 --> 00:26:56,626
 Jos puussa on kymmenen oksaa,
-ja nämä oksat alkavat tapella keskenään,
+ja nämä oksat alkaisivat tapella keskenään,
 
 345
 00:26:56,626 --> 00:27:00,209
-mitä tapahtuu puulle ja mitä sen lehdille?
+mitä tapahtuu puulle ja mitä tapahtuu sen lehdille?
 
 346
 00:27:01,209 --> 00:27:05,292
-Jos käteni alkaisi riidellä toisen käteni kanssa,
+Jos käteni alkaisi tapella toisen käteni kanssa,
 mitä siitä seuraisi?
 
 347
 00:27:06,083 --> 00:27:09,000
-Jos kaikki ymmärtäisivät, että olemme kaikki yhtä.
+Jos kaikki vain ymmärtäisivät, että olemme yhtä.
 
 348
 00:27:09,167 --> 00:27:15,667
-Kaiken kaikkiaan, meissä on niin paljon yhtenäisyyttä,
+Kaiken kaikkiaan meissä on niin paljon yhtenäisyyttä,
 että olemme saman kehon osasia.
 
 349
 00:27:16,000 --> 00:27:20,292
-Miten meidän tulisi sitten käyttäytyä,
-kuinka paljon ymmärrystä meillä pitäisi olla,
+Miten meidän pitäisi käyttäytyä,
+kuinka paljon meidän pitäisi ymmärtää,
 
 350
 00:27:20,459 --> 00:27:22,667
@@ -1536,17 +1535,17 @@ kuinka lämmintä rakkautemme pitäisi olla toisiamme kohtaan,
 
 351
 00:27:22,667 --> 00:27:25,751
-kuinka innokkaina meidän pitäisi olla
+kuinka innokkaita meidän pitäisi olla
 tuottamaan mielihyvää toisillemme,
 
 352
 00:27:25,751 --> 00:27:28,459
-mitä voisimme tehdä, että he tulisivat iloisiksi,
-mitä voisin antaa heille?
+miten voisimme saada toiset iloisiksi,
+mitä voisimme antaa heille,
 
 353
 00:27:28,500 --> 00:27:29,334
-Mistä he pitäisivät?
+mistä he pitäisivät?
 
 354
 00:27:29,375 --> 00:27:32,959
@@ -1575,7 +1574,7 @@ Ostetaan jotain halpaa kaupasta ja annetaan se ja sanotaan:
 360
 00:27:46,792 --> 00:27:49,626
 "Ottakaa vastaan lahjamme" –
-niin että toinen ottaa sen, mutta heittää sitten menemään.
+toinen ottaa sen, mutta heittää saman tien menemään.
 
 361
 00:27:51,792 --> 00:27:54,584
@@ -1751,6 +1750,6 @@ he saattavat maailman Jumalan oven kynnykselle.
 Nämä ovat Kaikkivaltiaan lähettämiä sanansaattajia.
 
 400
-00:30:35,751 --> 00:30:38,167
+00:30:35,751 --> 00:30:40,167
 Kumarran näille sanansaattajille.
 
