@@ -476,7 +476,7 @@ Na przykład: "Och, więc jesteś siostrą kuzynki,
 
 120
 00:14:59,230 --> 00:15:03,751
-to, tamto, prawdziwy mąż!"
+to, tamto, prawdziwym mężem!"
 
 121
 00:15:06,473 --> 00:15:12,130
@@ -524,7 +524,7 @@ na przykład, jeśli panie spotkają się "Och", powiedzą
 
 132
 00:15:58,190 --> 00:16:00,908
-- Och, byłam tam. Ile zapłaciłaś? Powiedziała: "To [dużo]"
+- Och, byłam tam. Ile zapłaciłaś? Powiedziała: "Tyle"
 
 133
 00:16:01,108 --> 00:16:05,256
