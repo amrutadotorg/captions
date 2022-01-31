@@ -1,3700 +1,3726 @@
-1
-00:05:17,709 --> 00:05:21,083
-O, aş sugera ca azi, mai întâi, să-mi pună întrebări.
+﻿1
+00:05:17,650 --> 00:05:21,412
+Aş sugera ca azi să îi lăsăm să-Mi pună întrebări.
 
 2
-00:05:21,667 --> 00:05:25,458
-Aşa că o să stau aici...
+00:05:21,613 --> 00:05:25,383
+Aşa că Mă voi păstra...
 
 3
-00:05:25,709 --> 00:05:26,834
-Dacă aveţi întrebări,
+00:05:25,584 --> 00:05:28,717
+Dacă aveţi întrebări, mai bine Mi le puneți la început,
 
 4
-00:05:27,208 --> 00:05:28,834
-mai bine mă întrebaţi întâi,
+00:05:28,918 --> 00:05:32,710
+astfel încât mintea să fie satisfăcută.
 
 5
-00:05:29,125 --> 00:05:32,917
-ca mintea să fie liniştită.
+00:05:38,075 --> 00:05:40,853
+Aș prefera să stau în picioare,
 
 6
-00:05:38,250 --> 00:05:43,458
-Prefer să stau în picioare... mai bine, pot să văd oamenii.
+00:05:41,054 --> 00:05:44,720
+pentru că pot să văd oamenii mai bine.
 
 7
-00:05:53,000 --> 00:05:56,208
-Să stau mai bine aici jos?
+00:05:52,904 --> 00:05:56,112
+Să stau pe scenă sau să cobor?
 
 8
-00:06:00,667 --> 00:06:02,917
-Întâi de toate, e mai bine să puneţi întrebări,
+00:06:00,473 --> 00:06:02,917
+Înainte de toate, este mai bine să puneţi întrebări,
 
 9
-00:06:03,250 --> 00:06:09,583
-pentru că ieri, când am început acest seminar,
+00:06:03,118 --> 00:06:09,282
+pentru că ieri, când am început sesiunea de întrebări,
 
 10
-00:06:09,917 --> 00:06:11,333
-oamenii s-au abătut puţin de la subiect.
+00:06:09,483 --> 00:06:11,424
+oamenii s-au cam abătut de la subiect.
 
 11
 00:06:11,625 --> 00:06:13,583
-Mai bine puneţi acum întrebările pe care le aveţi,
+Mai bine întrebați-Mă acum,
 
 12
-00:06:13,834 --> 00:06:15,500
-pentru că sunteţi căutători cu toţii.
+00:06:13,784 --> 00:06:15,711
+pentru că sunteţi cu toţii căutători.
 
 13
-00:06:15,792 --> 00:06:18,959
-Sunteţi căutători cu toţii şi aţi căutat,
+00:06:15,912 --> 00:06:18,848
+Sunteţi căutători cu toţii şi aţi căutat tot timpul,
 
 14
-00:06:19,208 --> 00:06:21,834
-deci cel mai bine e să puneţi întrebările acum.
+00:06:19,049 --> 00:06:21,537
+deci cel mai bine este să îmi puneţi întrebările acum,
 
 15
-00:06:22,125 --> 00:06:29,959
-Am să vă răspund pe parcursul discursului.
+00:06:21,738 --> 00:06:27,216
+astfel încât să vă pot răspunde în timpul acestui discurs.
 
 16
-00:07:12,083 --> 00:07:13,625
-Nicio întrebare?
+00:06:48,158 --> 00:06:50,371
+Sunteți mai bine astăzi?
 
 17
-00:07:21,417 --> 00:07:23,959
-Asta înseamnă că sahaja yoghinii chiar au devenit capabili
+00:06:50,571 --> 00:06:52,751
+Pe dvs. vă întreb.
 
 18
-00:07:24,291 --> 00:07:28,959
-să explice Sahaja Yoga şi sunt foarte mândră de asta.
+00:06:52,951 --> 00:06:55,887
+Sunt puțin mai bine.
 
 19
-00:07:30,959 --> 00:07:33,625
-Când am fost în Australia, reporterii
+00:06:56,895 --> 00:06:59,656
+Mă voi ocupa de dvs. din nou astăzi.
 
 20
-00:07:33,875 --> 00:07:37,834
-m-au întrebat: „Mamă, toţi discipolii dumneavoastră sunt erudiţi?"
+00:07:12,019 --> 00:07:15,174
+Nicio întrebare?
 
 21
-00:07:38,041 --> 00:07:39,959
-Le-am spus: „Nu, sunt oameni foarte obişnuiţi.
+00:07:21,343 --> 00:07:23,054
+Asta înseamnă că Sahaja Yoghinii
 
 22
-00:07:40,250 --> 00:07:42,959
-Trebuie să fie oameni foarte obişnuiţi şi normali."
+00:07:23,255 --> 00:07:25,959
+au devenit capabili să vă explice totul
 
 23
-00:07:43,500 --> 00:07:44,999
-Însă ei au replicat: „Modul în care cunosc ei lucrurile -
+00:07:26,160 --> 00:07:29,180
+şi sunt foarte mândră de ei.
 
 24
-00:07:45,250 --> 00:07:48,500
-în mod surprinzător simţim că sunt cu toţii erudiţi."
+00:07:30,856 --> 00:07:32,816
+Când am fost în Australia,
 
 25
-00:07:48,750 --> 00:07:51,291
-Am spus: „Toată învăţătura se află în interiorul vostru."
+00:07:33,017 --> 00:07:37,834
+ziariștii M-au întrebat: „Mamă, toţi discipolii dvs. sunt erudiţi?”
 
 26
-00:07:51,542 --> 00:07:53,875
-Toată cunoaşterea se află în voi.
+00:07:38,041 --> 00:07:40,088
+Le-am spus: „Nu, sunt oameni obişnuiţi.
 
 27
-00:07:54,083 --> 00:07:58,709
-Dacă aţi putea să faceţi lumină acolo, aţi vedea
+00:07:40,289 --> 00:07:43,106
+Trebuie să fie oameni foarte obişnuiţi şi normali.”
 
 28
-00:07:58,875 --> 00:08:00,625
-că toată acea cunoaştere se află în voi.
+00:07:43,307 --> 00:07:45,889
+S-au mirat zicând: „Uimitor - toată cunoașterea pe care o au
 
 29
-00:08:00,875 --> 00:08:03,291
-Nu trebuie să mergeţi nicăieri pentru cunoaşterea voastră.
+00:07:46,090 --> 00:07:48,500
+ne face să simţim că sunt cu toţii erudiţi”.
 
 30
-00:08:03,625 --> 00:08:07,083
-Totul e înăuntru, totul e construit în interior.
+00:07:48,750 --> 00:07:51,341
+„Toată învățătura se află în interiorul vostru” - le-am spus.
 
 31
-00:08:08,041 --> 00:08:15,375
-Aţi fost construiţi atât de frumos în interior, ca să deveniţi Spiritul vostru,
+00:07:51,542 --> 00:07:53,875
+Toată cunoașterea se află în voi.
 
 32
-00:08:15,625 --> 00:08:18,875
-încât eu nu trebuie să mai fac mare lucru; pur şi simplu se întâmplă.
+00:07:54,083 --> 00:07:57,970
+Dacă aţi putea doar să aduceţi lumina în interior,
 
 33
-00:08:19,083 --> 00:08:21,875
-Un singur lucru: trebuie să ştim
+00:07:58,171 --> 00:08:00,691
+aţi vedea că toată acea cunoaştere se află în voi.
 
 34
-00:08:22,083 --> 00:08:25,375
-la ce să ne aşteptăm; pentru a fi Spiritul,
+00:08:00,892 --> 00:08:03,519
+Nu trebuie să mergeţi nicăieri pentru a o obține.
 
 35
-00:08:25,750 --> 00:08:27,834
-care ar trebui să ne fie aşteptările.
+00:08:03,720 --> 00:08:08,171
+Este toată în interiorul vostru, este construită în voi.
 
 36
-00:08:28,166 --> 00:08:31,041
-Iar asta trebuie s-o înţelegeţi şi logic.
+00:08:08,372 --> 00:08:11,815
+Sunteți construiţi atât de frumos,
 
 37
-00:08:31,291 --> 00:08:33,959
-Trebuie să fie o concluzie logică.
+00:08:12,181 --> 00:08:15,236
+pentru a deveni Spiritul
 
 38
-00:08:34,208 --> 00:08:36,959
-Nu doar pentru că spun eu ceva,
+00:08:15,437 --> 00:08:18,882
+încât nu trebuie să fac mare lucru; totul se întâmplă pur și simplu.
 
 39
-00:08:37,208 --> 00:08:39,667
-pentru că aţi devenit membru al unui grup,
+00:08:19,083 --> 00:08:23,570
+Singurul lucru este că trebuie să ştim la ce să ne aşteptăm,
 
 40
-00:08:39,999 --> 00:08:41,750
-pentru că aţi plătit bani undeva.
+00:08:23,873 --> 00:08:27,870
+care ar trebui să ne fie aşteptările pentru a fi Spiritul.
 
 41
-00:08:41,959 --> 00:08:45,625
-Nu e aşa. Realitatea este ceea ce este.
+00:08:28,071 --> 00:08:31,041
+Iar acest lucru trebuie să-l înţelegeţi şi logic.
 
 42
-00:08:45,875 --> 00:08:49,166
-Şi trebuie să fie logic realitate.
+00:08:31,242 --> 00:08:34,007
+Trebuie să fie o concluzie logică.
 
 43
-00:08:50,834 --> 00:08:58,208
-Zilele trecute vă spuneam despre partea stângă, despre trecut,
+00:08:34,208 --> 00:08:36,959
+Nu doar pentru că spun Eu ceva,
 
 44
-00:08:58,417 --> 00:09:00,750
-despre subconştient, despre subconştientul colectiv,
+00:08:37,160 --> 00:08:39,577
+pentru că aţi devenit membru al unui grup,
 
 45
-00:09:00,959 --> 00:09:05,750
-despre problemele subcon- ştientului şi despre condiţionările
+00:08:39,778 --> 00:08:43,053
+pentru că aţi plătit bani undeva. Nu e asta.
 
 46
-00:09:05,999 --> 00:09:09,542
-pe care le dobândim de la lucrurile materiale, de la materie.
+00:08:43,254 --> 00:08:45,559
+Realitatea este ceea ce este.
 
 47
-00:09:09,834 --> 00:09:14,291
-Materia încearcă tot timpul să domine Spiritul.
+00:08:45,760 --> 00:08:49,051
+Ceea ce este logic trebuie să fie realitate.
 
 48
-00:09:15,041 --> 00:09:20,166
-Şi materia asta ne domină, pentru că
+00:08:50,706 --> 00:08:55,115
+Zilele trecute vă spuneam despre partea stângă,
 
 49
-00:09:20,417 --> 00:09:23,375
-venim din materie, pentru început.
+00:08:55,663 --> 00:09:00,750
+despre trecut, despre subconştient, despre subconştientul colectiv,
 
 50
-00:09:24,083 --> 00:09:27,875
-Dar cum iese Spiritul din ea?
+00:09:00,959 --> 00:09:04,629
+despre problemele subconştientului
 
 51
-00:09:28,542 --> 00:09:34,792
-Ce se întâmplă când devenim Spiritul?
+00:09:04,830 --> 00:09:09,502
+şi condiţionările pe care ni le dau lucrurile materiale, materia.
 
 52
-00:09:36,041 --> 00:09:38,625
-S-a vorbit despre Realizarea Sinelui.
+00:09:09,703 --> 00:09:14,160
+Materia încearcă tot timpul să domine Spiritul.
 
 53
-00:09:38,875 --> 00:09:43,041
-Atât de mulţi oameni au vorbit despre a doua naştere.
+00:09:15,041 --> 00:09:20,083
+Iar această materie ne domină,
 
 54
-00:09:43,417 --> 00:09:46,333
-Toţi au spus că trebuie să vă naşteţi din nou.
+00:09:20,284 --> 00:09:23,708
+pentru că venim din materie, de la bun început.
 
 55
-00:09:46,542 --> 00:09:48,333
-Sunt atât de mulţi oameni care susţin:
+00:09:24,027 --> 00:09:27,646
+Dar cum iese Spiritul de sub dominația ei?
 
 56
-00:09:48,625 --> 00:09:51,500
-„Sunt născut a doua oară" – pe propria lor garanţie.
+00:09:27,847 --> 00:09:34,111
+Ce se întâmplă cu adevărat astfel încât noi să devenim Spiritul?
 
 57
-00:09:51,667 --> 00:09:54,417
-Sunt tot felul de oameni pe lumea asta
+00:09:35,977 --> 00:09:38,468
+S-a vorbit despre Realizarea Sinelui.
 
 58
-00:09:54,625 --> 00:10:01,750
-care ştiu că trebuie să se întâmple ceva,
+00:09:38,669 --> 00:09:42,835
+Atât de mulţi au vorbit despre cea de a doua naştere.
 
 59
-00:10:01,999 --> 00:10:04,166
-că trebuie să aibă loc un fapt extraordinar,
+00:09:43,278 --> 00:09:46,333
+Cu toţii au spus că trebuie să vă naşteţi din nou.
 
 60
-00:10:04,667 --> 00:10:06,208
-ceva ce trebuie să căutăm.
+00:09:46,542 --> 00:09:51,348
+Sunt mulţi oameni care se autoproclamă: „Sunt născut a doua oară”.
 
 61
-00:10:06,500 --> 00:10:08,875
-Imaginaţi-vă că pe vremea lui Christos nu existau
+00:09:51,549 --> 00:09:54,238
+Există însă și oameni pe lumea asta, din toate categoriile sociale,
 
 62
-00:10:09,041 --> 00:10:11,417
-atât de mulţi căutători,
+00:09:54,439 --> 00:10:01,564
+care ştiu că trebuie să se întâmple ceva,
 
 63
-00:10:11,667 --> 00:10:14,166
-nimeni nu le putea vorbi discipolilor prea multe.
+00:10:01,999 --> 00:10:04,355
+că trebuie să aibă loc o descoperire,
 
 64
-00:10:14,542 --> 00:10:18,417
-Erau doar nişte pescari obişnuiţi, oameni foarte simpli.
+00:10:04,556 --> 00:10:06,299
+că trebuie să caute ceva.
 
 65
-00:10:18,667 --> 00:10:20,875
-Dar astăzi e timpul când găseşti atât de mulţi
+00:10:06,500 --> 00:10:11,553
+Imaginaţi-vă, pe vremea lui Christos nu existau atâția căutători,
 
 66
-00:10:21,083 --> 00:10:26,542
-căutători în întreaga lume. Căutând ce?
+00:10:11,754 --> 00:10:14,521
+nimeni nu le putea vorbi prea mult discipolilor.
 
 67
-00:10:26,875 --> 00:10:33,875
-Ce căutaţi? Vă căutaţi Spiritul.
+00:10:14,722 --> 00:10:18,196
+Erau doar nişte pescari obişnuiţi, oameni foarte simpli.
 
 68
-00:10:34,083 --> 00:10:36,208
-Asta e de asemenea ceva foarte vag
+00:10:18,397 --> 00:10:24,371
+Dar în aceste timpuri sunt atât de mulţi căutători în întreaga lume.
 
 69
-00:10:36,542 --> 00:10:37,625
-să spui că-ţi cauţi Spiritul.
+00:10:24,807 --> 00:10:26,674
+Ce caută ei de fapt?
 
 70
-00:10:37,875 --> 00:10:40,166
-Ce face Spiritul ăsta?
+00:10:26,875 --> 00:10:29,421
+Ce căutaţi voi?
 
 71
-00:10:40,333 --> 00:10:44,500
-Şi de ce trebuie să căutăm Spiritul?
+00:10:31,383 --> 00:10:33,668
+Vă căutaţi Spiritul.
 
 72
-00:10:44,750 --> 00:10:48,917
-În evoluţia noastră suntem fiinţe umane,
+00:10:33,869 --> 00:10:35,847
+Asta este de asemenea ceva foarte vag,
 
 73
-00:10:49,333 --> 00:10:54,083
-conştiinţa noastră este aceea a fiinţelor umane, iar această conştiinţă
+00:10:36,048 --> 00:10:37,777
+să spui că îţi cauţi Spiritul.
 
 74
-00:10:54,333 --> 00:10:59,041
-a fiinţelor umane nu este treapta ultimă.
+00:10:37,978 --> 00:10:40,154
+Ei bine, cine este Spiritul de fapt?
 
 75
-00:11:00,625 --> 00:11:06,208
-Dacă ar fi fost, n-am mai fi căutat.
+00:10:40,367 --> 00:10:43,765
+Şi de ce ar trebui să ne căutăm Spiritul?
 
 76
-00:11:07,083 --> 00:11:09,208
-Nu este sfârşitul ei.
+00:10:44,495 --> 00:10:48,662
+În evoluţia noastră suntem la stadiul de fiinţe umane,
 
 77
-00:11:09,542 --> 00:11:12,417
-Trebuie să ajungem într-un punct în care
+00:10:49,333 --> 00:10:52,834
+conştiinţa noastră este corespunzătoare unei fiinţe umane,
 
 78
-00:11:12,750 --> 00:11:16,333
-să ni se întâmple ceva mai mult.
+00:10:53,035 --> 00:10:59,041
+dar această conştiinţă umană nu este ultima treaptă de evoluție.
 
 79
-00:11:16,667 --> 00:11:19,792
-Cum să abordăm logic acest subiect?
+00:11:00,593 --> 00:11:04,206
+Dacă ar fi fost, n-am mai fi căutat nimic altceva.
 
 80
-00:11:20,041 --> 00:11:24,625
-În evoluţia noastră, ce ni s-a întâmplat?
+00:11:07,083 --> 00:11:09,068
+Ea nu reprezintă sfârşitul.
 
 81
-00:11:25,625 --> 00:11:30,417
-Am fost animale şi de acolo am devenit fiinţe umane.
+00:11:09,269 --> 00:11:11,817
+Trebuie să ajungem într-un punct
 
 82
-00:11:30,792 --> 00:11:36,291
-Ce e atât de special la fiinţele umane în comparaţie cu animalele?
+00:11:12,018 --> 00:11:15,642
+în care să trecem la o treaptă superioară.
 
 83
-00:11:37,083 --> 00:11:40,999
-În conştiinţa omului există o nouă dimensiune.
+00:11:16,387 --> 00:11:19,578
+Ei bine, cum să abordăm logic acest subiect?
 
 84
-00:11:41,208 --> 00:11:44,166
-De pildă poţi să duci un cal pe o cărare murdară
+00:11:19,779 --> 00:11:24,122
+Ce s-a întâmplat în procesul evolutiv?
 
 85
-00:11:44,417 --> 00:11:46,750
-şi nu el va simţi nimic, murdărie sau mizerie,
+00:11:26,540 --> 00:11:30,417
+Am fost animale iar apoi am devenit fiinţe umane.
 
 86
-00:11:46,917 --> 00:11:50,625
-, sau frumuseţe, culori, nimic. N-are importanţă.
+00:11:30,943 --> 00:11:33,226
+Ce este atât de special la fiinţele umane
 
 87
-00:11:50,875 --> 00:11:54,750
-Dar dacă duci o fiinţă umană pe o cărare murdară sau
+00:11:33,427 --> 00:11:36,642
+în comparaţie cu animalele?
 
 88
-00:11:54,999 --> 00:12:00,417
-într-o casă murdară, înţelege imediat, nu-i place.
+00:11:37,027 --> 00:11:40,674
+Faptul că în conştiinţa lor există o nouă dimensiune.
 
 89
-00:12:01,625 --> 00:12:06,667
-Deci ceea ce avem noi nu e nimic altceva decât
+00:11:40,875 --> 00:11:44,166
+Spre exemplu dacă duci un cal pe un drum murdar
 
 90
-00:12:06,999 --> 00:12:11,083
-o nouă dimensiune a conştiinţei, spre deosebire de animale;
+00:11:44,417 --> 00:11:48,584
+el nu va percepe murdăria, mizeria, frumuseţea, culorile - nimic.
 
 91
-00:12:11,333 --> 00:12:19,000
-sau într-un mod foarte ştiinţific putem spune că
+00:11:48,785 --> 00:11:50,610
+El nu poate sesiza aceste lucruri.
 
 92
-00:12:19,291 --> 00:12:25,291
-în sistemul nostru nervos central am dezvoltat o nouă conştiinţă.
+00:11:50,811 --> 00:11:54,320
+Dar dacă duci o fiinţă umană pe un drum plin de mizerie
 
 93
-00:12:27,417 --> 00:12:29,291
-Orice se află în sistemul nostru nervos central
+00:11:54,521 --> 00:11:57,514
+sau într-o casă murdară,
 
 94
-00:12:29,667 --> 00:12:34,583
-este în stăpânirea noastră. Presupunând că eu percep ceva ca fiind fierbinte,
+00:11:57,715 --> 00:12:01,030
+ea înţelege imediat și nu-i place.
 
 95
-00:12:34,917 --> 00:12:36,792
-toată lumea va simţi  că e fierbinte.
+00:12:01,625 --> 00:12:06,535
+Deci ceea ce am dobândit noi nu este nimic altceva
 
 96
-00:12:37,417 --> 00:12:44,291
-Dacă eu spun că aceasta este culoarea unei anumite pasări,
+00:12:06,736 --> 00:12:11,132
+decât o nouă dimensiune a conştiinţei în comparație cu animalele
 
 97
-00:12:44,750 --> 00:12:47,875
-toată lumea va spune acelaşi lucru.
+00:12:11,333 --> 00:12:17,541
+sau, în termeni foarte ştiinţifici, putem spune
 
 98
-00:12:48,083 --> 00:12:50,667
-Aşadar oricare ar fi conştiinţa unei fiinţe umane -
+00:12:17,742 --> 00:12:25,465
+că am dezvoltat o nouă conştiinţă în sistemul nostru nervos central.
 
 99
-00:12:50,917 --> 00:12:53,750
-spun conştiinţa, nu mitul, nu halucinaţia,
+00:12:27,406 --> 00:12:32,001
+Noi stăpânim tot ce se manifestă în sistemul nostru nervos central.
 
 100
-00:12:53,999 --> 00:13:02,583
-ci realitatea în ceea ce priveşte organele sale,
+00:12:32,258 --> 00:12:34,716
+Presupunând că Eu percep ceva ca fiind fierbinte,
 
 101
-00:13:02,875 --> 00:13:06,417
-în ceea ce priveşte organele sale de simţ – ea este aceeaşi.
+00:12:34,917 --> 00:12:37,120
+toată lumea îl va simţi la fel.
 
 102
-00:13:06,667 --> 00:13:11,750
-O persoană care simte fierbinte nu spune că simte rece,
+00:12:37,321 --> 00:12:44,275
+Dacă spun despre o pasăre că are o anumită culoare,
 
 103
-00:13:12,000 --> 00:13:14,125
-nici alta nu va spune că e rece,
+00:12:44,750 --> 00:12:47,624
+toată lumea va spune acelaşi lucru.
 
 104
-00:13:14,417 --> 00:13:19,875
-toate vor spune că e fierbinte. Deci un lucru e clar,
+00:12:47,825 --> 00:12:50,716
+Deci oricare ar fi percepția senzorială simțită de o fiinţă umană -
 
 105
-00:13:20,083 --> 00:13:24,917
-adevărul e unul singur, nu pot fi două,
+00:12:50,917 --> 00:12:53,836
+Mă refer la percepția senzorială, nu la o iluzie, la o halucinaţie,
 
 106
-00:13:25,208 --> 00:13:27,417
-aşa că ceea ce urmează să se petreacă acum
+00:12:54,037 --> 00:13:01,912
+ci la realitatea privind organele sale de simț -
 
 107
-00:13:27,917 --> 00:13:32,000
-în evoluţia noastră va trebui să fie în conştiinţă.
+00:13:02,597 --> 00:13:04,548
+orice percepem prin organele de simţ,
 
 108
-00:13:32,291 --> 00:13:34,333
-Aşa cum un peşte devine o broască ţestoasă.
+00:13:04,749 --> 00:13:06,521
+va fi simțit la fel de toată lumea.
 
 109
-00:13:34,667 --> 00:13:38,208
-Dacă un peşte a devenit broască ţestoasă, ce i s-a întâmplat?
+00:13:06,722 --> 00:13:11,553
+O persoană care simte fierbinte, nu va spune că simte rece.
 
 110
-00:13:38,458 --> 00:13:41,917
-Schimbarea este în conştiinţa broaştei ţestoase:
+00:13:11,754 --> 00:13:16,611
+Nimeni nu va spune că e rece, toți vor spune că este fierbinte.
 
 111
-00:13:46,458 --> 00:13:50,792
-a început s-o simtă pe Mama Pământ. A pierdut ceva
+00:13:17,896 --> 00:13:19,897
+Deci un lucru este clar,
 
 112
-00:13:51,000 --> 00:13:54,667
-ce avea peştele şi a început să simtă ceva nou.
+00:13:20,098 --> 00:13:21,979
+că adevărul este unul singur,
 
 113
-00:13:54,917 --> 00:13:57,458
-În acelaşi mod, dacă în evoluţia noastră trebuie
+00:13:22,186 --> 00:13:24,776
+nu pot fi adevărate simultan două lucruri care se contrazic.
 
 114
-00:13:57,667 --> 00:14:02,291
-să se petreacă ceva, trebuie să fim
+00:13:24,977 --> 00:13:28,360
+Aşa că ceea ce urmează să se petreacă acum în evoluţia noastră
 
 115
-00:14:02,542 --> 00:14:07,999
-la nivelul conştiinţei ceva mai mult, mai dinamici.
+00:13:28,561 --> 00:13:31,727
+trebuie să fie un salt în conştiinţa noastră.
 
 116
-00:14:08,208 --> 00:14:14,542
-Pentru asta ne pot ajuta scrierile atâtor oameni.
+00:13:31,928 --> 00:13:34,573
+De exemplu, în evoluție, un peşte a devenit o broască ţestoasă.
 
 117
-00:14:14,709 --> 00:14:17,083
-Spre exemplu Jung
+00:13:34,774 --> 00:13:38,296
+Ce s-a întâmplat de fapt când peştele a devenit broască ţestoasă?
 
 118
-00:14:17,250 --> 00:14:20,667
-a fost unul dintre cei care au vorbit despre asta.
+00:13:38,497 --> 00:13:43,152
+Este în natura unei broaşte ţestoase
 
 119
-00:14:20,917 --> 00:14:31,250
-Jung a spus că atunci când va avea loc saltul,
+00:13:46,409 --> 00:13:49,292
+să o simtă pe Mama Pământ.
 
 120
-00:14:32,999 --> 00:14:34,667
-fiinţele umane vor deveni,
+00:13:49,493 --> 00:13:52,061
+A pierdut ceva din natura pe care o avea ca peşte
 
 121
-00:14:34,999 --> 00:14:39,792
-vor deveni conştiente în mod colectiv, vor deveni...
+00:13:52,262 --> 00:13:54,577
+şi a început să simtă ceva nou.
 
 122
-00:14:39,999 --> 00:14:44,125
-Nu a spus că începeţi toţi să faceţi acelaşi lucru
+00:13:54,778 --> 00:13:58,931
+În acelaşi mod, dacă trebuie să înaintăm în evoluția noastră
 
 123
-00:14:44,417 --> 00:14:47,250
-sau începeţi să vă comportaţi în acelaşi mod.
+00:13:59,132 --> 00:14:04,139
+trebuie să dobândim o conștiință mai înaltă,
 
 124
-00:14:47,583 --> 00:14:51,125
-Nu, a spus că veţi deveni, veţi fi conştienţi de,
+00:14:04,340 --> 00:14:06,538
+mai dinamică.
 
 125
-00:14:51,333 --> 00:14:55,583
-nu fără conştiinţă. Deci când căutaţi Spiritul,
+00:14:06,739 --> 00:14:14,585
+Iar acest fapt a fost reflectat de scrierile multor oameni.
 
 126
-00:14:55,792 --> 00:15:01,333
-dacă Spiritul vă iluminează, în conştiinţa voastră
+00:14:14,786 --> 00:14:20,463
+De exemplu, Jung a fost unul dintre ei. El a vorbit despre asta.
 
 127
-00:15:01,542 --> 00:15:07,709
-veţi şti ceva mai mult decât aţi ştiut până atunci.
+00:14:20,664 --> 00:14:23,187
+Jung a spus...
 
 128
-00:15:08,999 --> 00:15:12,208
-Spre exemplu, s-ar putea să simţiţi fierbinte şi rece azi,
+00:14:26,624 --> 00:14:32,204
+Jung a spus că atunci când va avea loc saltul,
 
 129
-00:15:12,250 --> 00:15:13,917
-dar poate, cu acea conştiinţă,
+00:14:32,705 --> 00:14:34,798
+fiinţele umane vor deveni,
 
 130
-00:15:14,041 --> 00:15:17,458
-simţiţi ceva diferit.
+00:14:34,999 --> 00:14:38,491
+vor deveni deci, conştiente în mod colectiv.
 
 131
-00:15:19,125 --> 00:15:21,458
-El a spus foarte clar că trebuie
+00:14:38,692 --> 00:14:44,216
+A spus că „vor deveni” și nu că vor începe să facă acelaşi lucru
 
 132
-00:15:21,709 --> 00:15:24,667
-să deveniţi conştienţi colectiv.
+00:14:44,417 --> 00:14:47,863
+sau că vor începe să se comporte în aceeași manieră. Nu.
 
 133
-00:15:24,834 --> 00:15:27,834
-Deci devenirea e rostul în evoluţia noastră,
+00:14:48,064 --> 00:14:50,985
+A spus că veţi deveni, veţi fi conştienţi de această transformare,
 
 134
-00:15:28,000 --> 00:15:31,333
-nimic altceva, noi devenim ceva.
+00:14:51,186 --> 00:14:53,017
+nu inconștienți.
 
 135
-00:15:31,583 --> 00:15:35,834
-În limba sanskrită de exemplu unui suflet realizat i se spune –
+00:14:53,248 --> 00:14:55,390
+Deci când căutaţi Spiritul,
 
 136
-00:15:36,000 --> 00:15:39,041
-pentru indieni e cunoaştere obişnuită,
+00:14:55,591 --> 00:14:58,382
+dacă veți fi iluminați de Spirit,
 
 137
-00:15:39,333 --> 00:15:42,709
-nu e nimic dificil de înţeles –
+00:14:58,583 --> 00:15:04,603
+asta înseamnă că veţi şti în conştiinţa voastră
 
 138
-00:15:43,125 --> 00:15:49,208
-i se spune dvijaha „cel care s-a născut din nou”.
+00:15:04,803 --> 00:15:07,763
+ceva mai mult decât aţi ştiut până atunci.
 
 139
-00:15:49,458 --> 00:15:52,792
-De asemenea şi  pasărea e numită dvijaha,
+00:15:09,083 --> 00:15:12,049
+Spre exemplu, poate că simţiţi senzația de fierbinte şi rece astăzi,
 
 140
-00:15:53,000 --> 00:15:56,917
-pentru că pasărea se naşte întâi ca ou, apoi se dezvoltă
+00:15:12,250 --> 00:15:16,577
+dar poate, cu acea nouă conștiință veți simţi și ceva diferit.
 
 141
-00:15:57,125 --> 00:16:01,917
-şi apoi dintr-o dată devine pasăre.
+00:15:19,041 --> 00:15:24,596
+Jung a spus foarte clar că trebuie să deveniţi conştienţi colectiv.
 
 142
-00:16:01,917 --> 00:16:05,333
-Şi acesta e un lucru similar Realizării.
+00:15:24,797 --> 00:15:29,167
+Deci „a deveni” este țelul evoluţiei noastre și nimic altceva.
 
 143
-00:16:05,625 --> 00:16:08,834
-Mai ştiţi şi că de Paşti dăruim ouă.
+00:15:29,368 --> 00:15:30,986
+Noi pur și simplu devenim.
 
 144
-00:16:09,041 --> 00:16:11,959
-Este acelaşi simbol: că suntem ouă şi
+00:15:31,187 --> 00:15:34,808
+În limba sanscrită, de exemplu, un suflet realizat este numit -
 
 145
-00:16:12,125 --> 00:16:14,792
-trebuie să devenim păsări.
+00:15:35,009 --> 00:15:39,041
+pentru indieni este ceva obişnuit,
 
 146
-00:16:15,041 --> 00:16:17,917
-Deci chiar şi acum, la acest stadiu, când suntem fiinţe umane,
+00:15:39,242 --> 00:15:42,709
+nimic dificil de înţeles –
 
 147
-00:16:18,166 --> 00:16:26,250
-suntem limitaţi, exact ca un ou, să creştem până la un punct
+00:15:44,736 --> 00:15:49,208
+un suflet realizat este numit „dvijaha” - „cel născut a doua oară”.
 
 148
-00:16:26,500 --> 00:16:28,917
-de unde să putem deveni păsări.
+00:15:49,458 --> 00:15:52,595
+De asemenea şi pasărea este numită „dvijaha”,
 
 149
-00:16:29,125 --> 00:16:35,250
-Toate celelalte lucruri despre care vorbesc oamenii nu reprezintă Realizarea.
+00:15:52,796 --> 00:15:55,318
+pentru că pasărea se naşte întâi ca ou,
 
 150
-00:16:35,500 --> 00:16:39,917
-Ca de pildă, aş putea spune: „Ei bine, dacă vă hipnotizez frumuşel pe toţi,
+00:15:55,519 --> 00:16:00,311
+apoi se dezvoltă, eclozează şi devine dintr-odată pasăre.
 
 151
-00:16:40,166 --> 00:16:42,625
-v-aş putea da sticle cu biberon, iar voi aţi începe
+00:16:01,832 --> 00:16:05,094
+Iar acesta e un lucru similar Realizării.
 
 152
-00:16:42,834 --> 00:16:46,500
-să sugeţi precum copiii."
+00:16:05,295 --> 00:16:08,840
+Știţi că de Paşti dăruim ouă,
 
 153
-00:16:46,834 --> 00:16:48,750
-Chiar dacă ştiţi că faceţi ceva caraghios,
+00:16:09,041 --> 00:16:10,733
+ceea ce simbolizează același lucru:
 
 154
-00:16:49,000 --> 00:16:51,000
-o faceţi.
+00:16:10,934 --> 00:16:14,792
+că suntem ca niște ouă şi că trebuie să devenim păsări.
 
 155
-00:16:51,333 --> 00:16:54,834
-Veţi fi siliţi s-o faceţi, pentru că sunteţi hipnotizaţi.
+00:16:14,993 --> 00:16:18,064
+Deci chiar şi acum, la acest stadiu de fiinţe umane,
 
 156
-00:16:55,000 --> 00:17:00,709
-O astfel de activitate în care sunteţi atraşi nu e Realizarea,
+00:16:18,265 --> 00:16:22,491
+suntem limitaţi asemeni unui ou,
 
 157
-00:17:00,959 --> 00:17:04,583
-pentru că orice vi s-a întâmplat ca fiinţe umane
+00:16:22,691 --> 00:16:28,419
+și trebuie să creştem până la punctul în care putem deveni păsări.
 
 158
-00:17:04,750 --> 00:17:08,917
-ce sunteţi, n-aţi făcut niciun fel de activitate anume.
+00:16:28,910 --> 00:16:31,560
+Toate celelalte lucruri despre care vorbesc oamenii
 
 159
-00:17:09,125 --> 00:17:11,500
-Nu ne-am jumulit cozile precum maimuţele,
+00:16:31,760 --> 00:16:35,005
+nu reprezintă Realizarea.
 
 160
-00:17:11,834 --> 00:17:14,959
-ca să devenim fiinţe umane. S-a întâmplat spontan,
+00:16:35,214 --> 00:16:41,626
+De pildă aş spune că dacă hipnotizați fiind v-aş da biberoane,
 
 161
-00:17:15,166 --> 00:17:19,709
-aşa cum o floare devine fruct. E un proces viu.
+00:16:41,827 --> 00:16:46,090
+aţi putea începe să sugeţi ca niște bebeluși.
 
 162
-00:17:20,041 --> 00:17:23,250
-Oamenii nu-şi dau seama că ceea ce trebuie să vi se întâmple
+00:16:46,741 --> 00:16:51,000
+Chiar știind că faceţi ceva caraghios, o faceţi totuși.
 
 163
-00:17:23,500 --> 00:17:27,458
-e un proces viu, nu e un proces mort.
+00:16:51,573 --> 00:16:54,753
+Veţi fi siliţi să o faceţi pentru că sunteţi hipnotizaţi.
 
 164
-00:17:27,709 --> 00:17:29,500
-Ceea ce putem noi face e mort.
+00:16:54,954 --> 00:16:58,648
+Orice astfel de acțiune căreia îi cădeți victimă
 
 165
-00:17:29,709 --> 00:17:32,125
-Spre exemplu putem sta în cap, putem sări,
+00:16:58,848 --> 00:17:00,758
+nu reprezintă Realizarea Sinelui.
 
 166
-00:17:32,375 --> 00:17:35,625
-putem alerga, putem face tot felul de lucruri, dar
+00:17:00,959 --> 00:17:05,690
+Și asta deoarece în evoluția voastră până la stadiul de fiinţe umane
 
 167
-00:17:35,917 --> 00:17:38,125
-asta nu e procesul viu.
+00:17:05,891 --> 00:17:08,888
+nu a fost necesar să faceți voi înșivă ceva.
 
 168
-00:17:38,375 --> 00:17:42,041
-Procesul viu e atunci când deveniţi ceva,
+00:17:09,089 --> 00:17:11,460
+Nu voi v-ați retezat cozile în stadiul de maimuțe
 
 169
-00:17:42,333 --> 00:17:46,500
-şi această devenire trebuie cerută de toţi căutătorii oneşti.
+00:17:11,667 --> 00:17:13,459
+pentru a deveni fiinţe umane.
 
 170
-00:17:46,709 --> 00:17:49,583
-Dacă nu sunteţi oneşti, atunci e dificil,
+00:17:13,660 --> 00:17:17,718
+S-a întâmplat spontan, aşa cum o floare devine fruct.
 
 171
-00:17:49,834 --> 00:17:52,375
-sau chiar dacă sunteţi oneşti, dar vă identificaţi în mod eronat
+00:17:17,919 --> 00:17:19,781
+E un proces viu.
 
 172
-00:17:52,625 --> 00:17:54,917
-cu anumite idei pe care le-aţi citit, pentru că aţi plătit
+00:17:19,982 --> 00:17:23,955
+Oamenii nu realizează că ceea ce trebuie să li se întâmple
 
 173
-00:17:55,041 --> 00:17:56,750
-o carte sau aţi plătit unei organizaţii
+00:17:24,156 --> 00:17:27,458
+este un proces viu și nu unul mort.
 
 174
-00:17:56,959 --> 00:18:00,041
-sau aţi plătit cuiva – asta nu vă va ajuta.
+00:17:27,659 --> 00:17:29,745
+Tot ce putem face noi ca oameni este un proces mort.
 
 175
-00:18:00,375 --> 00:18:03,291
-Ceea ce trebuie să vedem e ce vom deveni,
+00:17:29,946 --> 00:17:33,467
+Spre exemplu putem sta în cap, putem sări, putem alerga,
 
 176
-00:18:03,625 --> 00:18:08,291
-şi asta am spus ieri: că veţi deveni maestrul.
+00:17:33,668 --> 00:17:37,962
+putem face tot felul de lucruri, dar acestea nu sunt procese vii.
 
 177
-00:18:08,500 --> 00:18:10,959
-Veţi deveni profetul, aşa cum Blake a spus că
+00:17:38,163 --> 00:17:41,886
+Un proces viu este atunci când deveniţi ceva
 
 178
-00:18:11,166 --> 00:18:12,750
-oamenii lui Dumnezeu
+00:17:42,087 --> 00:17:46,426
+și asta trebuie să ceară toţi căutătorii oneşti: să se transforme.
 
 179
-00:18:12,917 --> 00:18:14,875
-vor deveni profeţi şi vor avea
+00:17:46,627 --> 00:17:49,543
+Dacă nu sunteţi oneşti, atunci este dificil,
 
 180
-00:18:15,125 --> 00:18:17,750
-puterea de a-i face şi pe ceilalţi profeţi.
+00:17:49,744 --> 00:17:52,375
+sau chiar dacă sunteţi oneşti dar vă identificaţi în mod greșit
 
 181
-00:18:18,000 --> 00:18:20,000
-Aşa că, pentru a fi foarte cinstiţi cu voi înşivă, trebuie să vă întrebaţi:
+00:17:52,625 --> 00:17:55,672
+cu anumite idei pe care le-aţi citit, doar findcă aţi plătit o carte
 
 182
-00:18:20,291 --> 00:18:26,375
-„Am devenit eu profet şi pot să-i fac pe ceilalţi profeţi?"
+00:17:55,873 --> 00:17:58,365
+sau aţi plătit unei organizaţii, sau unui om -
 
 183
-00:18:26,709 --> 00:18:30,375
-Acesta e un mod foarte simplu de a ne privi Realizarea
+00:17:58,566 --> 00:18:00,174
+asta nu vă va ajuta.
 
 184
-00:18:30,625 --> 00:18:33,834
-şi este lucrul de care sunteţi capabili:
+00:18:00,375 --> 00:18:03,291
+Ceea ce trebuie să vedeți este faptul că vă transformați.
 
 185
-00:18:34,000 --> 00:18:36,959
-să deveniţi  profetul, pentru că totul se află în interiorul vostru,
+00:18:03,492 --> 00:18:07,999
+Și asta v-am spus ieri: că veţi deveni maestrul,
 
 186
-00:18:37,125 --> 00:18:39,583
-întregul mecanism se află în interiorul vostru, sunteţi ca un computer
+00:18:08,200 --> 00:18:09,558
+veţi deveni profetul,
 
 187
-00:18:39,750 --> 00:18:42,250
-gata să fie conectat la sursă şi să înceapă să funcţioneze.
+00:18:09,759 --> 00:18:13,820
+aşa cum Blake a spus că „oamenii lui Dumnezeu vor deveni profeţi
 
 188
-00:18:42,500 --> 00:18:45,834
-Trebuie doar să deveniţi asta.
+00:18:14,021 --> 00:18:17,584
+şi vor avea puterea de a-i face şi pe alţii profeţi”.
 
 189
-00:18:46,041 --> 00:18:49,834
-Şi dacă nu deveniţi asta, atunci toate celelalte lucruri –
+00:18:17,785 --> 00:18:20,396
+Deci fiți foarte sinceri cu voi înşivă și întrebaţi-vă:
 
 190
-00:18:50,959 --> 00:18:55,125
-crearea unei organizaţii şi orice astfel de lucru – nu sunt de niciun folos,
+00:18:20,597 --> 00:18:22,230
+„Am devenit eu profet?
 
 191
-00:18:55,417 --> 00:19:04,834
-n-au nicio valoare, toate sunt, aş putea spune, inducere în eroare.
+00:18:22,431 --> 00:18:25,941
+Și pot să-i fac pe alţii profeţi?”
 
 192
-00:19:05,041 --> 00:19:06,750
-Voi înşivă ce-aţi obţinut?
+00:18:26,709 --> 00:18:30,537
+Este un mod foarte simplu de a ne evalua Realizarea Sinelui
 
 193
-00:19:06,959 --> 00:19:09,250
-Adică, dacă Ray spune ceva de genul:
+00:18:30,738 --> 00:18:33,510
+şi sunteţi capabili
 
 194
-00:19:09,500 --> 00:19:12,291
-„Oh, Mama a văzut o lumină, şi s-a întâmplat aşa şi aşa;
+00:18:33,711 --> 00:18:37,070
+să deveniţi profeți, pentru că totul se află în interiorul vostru.
 
 195
-00:19:12,583 --> 00:19:16,583
-are puterile astea şi astea." E inutil.
+00:18:37,271 --> 00:18:39,797
+Aveți întregul mecanism în interior, sunteţi ca un computer
 
 196
-00:19:16,750 --> 00:19:18,000
-Voi ce aveţi de câştigat?
+00:18:39,998 --> 00:18:42,656
+gata să fie conectat la sursă şi să înceapă să funcţioneze.
 
 197
-00:19:18,291 --> 00:19:21,500
-Aş putea să fiu rege peste toate, dar ce contează pentru voi?
+00:18:42,857 --> 00:18:45,800
+Trebuie doar să deveniţi astfel.
 
 198
-00:19:21,834 --> 00:19:25,625
-Important e ce-aţi devenit voi, şi pentru acea
+00:18:46,000 --> 00:18:48,400
+Şi dacă nu deveniţi profeți,
 
 199
-00:19:25,875 --> 00:19:28,500
-devenire dacă spun că totul e plasat în interiorul vostru,
+00:18:48,601 --> 00:18:50,873
+atunci toate celelalte lucruri,
 
 200
-00:19:28,834 --> 00:19:33,166
-trebuie s-o fac, asta-i tot.
+00:18:51,074 --> 00:18:55,125
+cum ar fi crearea unei organizaţii sau orice altceva sunt inutile,
 
 201
-00:19:33,750 --> 00:19:38,125
-De fapt, această cunoaştere nu ne e necunoscută.
+00:18:55,326 --> 00:18:59,200
+nu au nicio valoare,
 
 202
-00:19:38,375 --> 00:19:41,166
-Totul a fost descris din vremea lui Moise.
+00:18:59,401 --> 00:19:03,589
+toate sunt, aş putea spune, un mod de a vă înșela pe voi înșivă.
 
 203
-00:19:41,500 --> 00:19:43,583
-El spune:
+00:19:05,041 --> 00:19:06,801
+Ce aţi obţinut prin propriile eforturi?
 
 204
-00:19:43,875 --> 00:19:46,583
-„copacul de foc”. Ce e copacul de foc?
+00:19:07,002 --> 00:19:09,299
+Presupunând că Ray ar spune ceva de genul:
 
 205
-00:19:46,999 --> 00:19:50,041
-Nimeni nu ştie, se spune doar că a fost un copac de foc.
+00:19:09,500 --> 00:19:12,382
+„Oh, Mama a văzut o lumină şi s-a întâmplat asta.
 
 206
-00:19:50,250 --> 00:19:52,166
-Dar dacă o vedeţi pe Kundalini complet iluminată,
+00:19:12,583 --> 00:19:16,168
+Mama are așa niște puteri” - e complet inutil.
 
 207
-00:19:52,417 --> 00:19:58,250
-se observă că arată întocmai ca un copac de foc.
+00:19:16,369 --> 00:19:18,160
+Ce reprezintă toate astea pentru voi?
 
 208
-00:19:58,959 --> 00:20:01,166
-Şi apoi, tot în Biblie se spune:
+00:19:18,377 --> 00:19:21,523
+Chiar dacă sunt un rege, ce contează pentru voi?
 
 209
-00:20:01,500 --> 00:20:04,750
-„Voi apărea înaintea voastră asemeni unor limbi de foc".
+00:19:21,724 --> 00:19:24,669
+Important este ce deveniți voi,
 
 210
-00:20:04,959 --> 00:20:07,834
-Ce înseamnă asta? Nimeni nu explică, nimeni nu ştie;
+00:19:24,870 --> 00:19:28,439
+şi pentru această transformare, dacă spun că totul este deja în voi,
 
 211
-00:20:08,166 --> 00:20:11,166
-limbile de foc nu sunt altceva decât aceşti centri, când
+00:19:28,640 --> 00:19:31,852
+trebuie să o dovedesc - asta este tot.
 
 212
-00:20:11,500 --> 00:20:16,583
-sunt iluminaţi, se văd exact ca nişte limbi de foc.
+00:19:33,694 --> 00:19:37,828
+De fapt, această cunoaştere nu ne e necunoscută.
 
 213
-00:20:16,875 --> 00:20:20,250
-Dar nu trebuie să le vedeţi, pentru că atunci când eşti în afara clădirii,
+00:19:38,029 --> 00:19:41,166
+Totul a fost descris de pe vremea lui Moise.
 
 214
-00:20:20,542 --> 00:20:22,750
-vezi clădirea; când eşti în interior
+00:19:41,375 --> 00:19:44,997
+Spre exemplu El spune: „copacul de foc”.
 
 215
-00:20:23,041 --> 00:20:27,041
-n-o vezi; se vede doar sala.
+00:19:45,198 --> 00:19:48,099
+Ce este „copacul de foc”? Nimeni nu ştie.
 
 216
-00:20:27,291 --> 00:20:34,041
-Şi de aceea trebuie să înţelegem că nu se întâmplă ceea ce
+00:19:48,300 --> 00:19:50,041
+Se spune doar că era un „copac de foc”.
 
 217
-00:20:34,542 --> 00:20:39,875
-credem noi că ar trebui să se întâmple,
+00:19:50,250 --> 00:19:53,215
+Dar dacă o vedeţi pe Kundalini complet iluminată,
 
 218
-00:20:40,125 --> 00:20:43,166
-ci trebuie să acceptăm ceea ce se întâmplă cu adevărat.
+00:19:53,416 --> 00:19:57,130
+arată exact ca un copac din flăcări.
 
 219
-00:20:43,625 --> 00:20:45,959
-Deci mai întâi trebuie să ne descotorosim de toate identificările
+00:19:58,876 --> 00:20:01,299
+Şi apoi, tot în Biblie se spune:
 
 220
-00:20:46,291 --> 00:20:49,291
-cu ideile noastre: că se va întâmpla asta, că se va întâmpla aia
+00:20:01,500 --> 00:20:04,500
+„Voi apărea în fața voastră în forma unor limbi de foc”.
 
 221
-00:20:49,625 --> 00:20:51,875
-şi că asta ar trebui să se întâmple: ar trebui să văd o lumină,
+00:20:04,701 --> 00:20:07,965
+Ce înseamnă asta? Nimeni nu poate explica, nimeni nu ştie.
 
 222
-00:20:52,041 --> 00:20:54,750
-ar trebui să zbor.
+00:20:08,166 --> 00:20:11,130
+Limbile de foc nu sunt altceva decât aceşti centri,
 
 223
-00:20:55,083 --> 00:20:56,375
-Sunt mulţi oameni care dau bani
+00:20:11,331 --> 00:20:15,899
+care atunci când sunt iluminaţi, arată exact ca nişte limbi de foc.
 
 224
-00:20:56,625 --> 00:20:59,959
-ca să zboare. Adică, e absurd.
+00:20:16,661 --> 00:20:18,727
+Dar nu le-ați văzut deoarece,
 
 225
-00:21:00,166 --> 00:21:01,834
-De ce vreţi să zburaţi? Nu înţeleg;
+00:20:18,928 --> 00:20:22,235
+când eşti în afara pavilionului îl poți vedea,
 
 226
-00:21:02,083 --> 00:21:05,417
-plătesc mult mai mulţi bani pentru asta, decât
+00:20:22,436 --> 00:20:26,373
+dar din interior nu vezi pavilionul, ci doar sala în care ești.
 
 227
-00:21:05,834 --> 00:21:07,834
-ar trebui să plătească pentru a face înconjurul lumii.
+00:20:27,044 --> 00:20:30,712
+Şi de aceea trebuie să înţelegem
 
 228
-00:21:08,041 --> 00:21:09,834
-Vă spun, a plăti pentru o călătorie
+00:20:30,913 --> 00:20:38,074
+că nu se întâmplă ceea ce credem noi că ar trebui să se întâmple,
 
 229
-00:21:10,041 --> 00:21:11,166
-nu e atât de scump precum a plăti
+00:20:38,275 --> 00:20:42,764
+ci trebuie să acceptăm ceea ce se întâmplă cu adevărat.
 
 230
-00:21:11,500 --> 00:21:14,625
-pentru afacerea asta cu zborul, afacerea Flying Squad.
+00:20:43,121 --> 00:20:47,005
+Deci mai întâi trebuie să scăpăm
+de identificările cu propriile idei:
 
 231
-00:21:14,959 --> 00:21:17,500
-Şi ce e asta, trebuie să înţelegem, ce e asta?
+00:20:47,206 --> 00:20:50,696
+că se va întâmpla una, alta, că asta ar trebui să se întâmple,
 
 232
-00:21:17,875 --> 00:21:21,417
-Când zburăm, în ce ne băgam?
+00:20:50,897 --> 00:20:54,727
+că ar trebui să văd o lumină, că ar trebui să levitez.
 
 233
-00:21:21,667 --> 00:21:25,250
-Această metodă de hipnoză e atât de subtilă,
+00:20:54,928 --> 00:20:59,488
+Sunt mulţi oameni care plătesc bani grei ca să leviteze. E absurd.
 
 234
-00:21:25,500 --> 00:21:29,542
-că nu puteţi înţelege. Pur şi simplu vă lăsaţi duşi de ea.
+00:20:59,854 --> 00:21:01,757
+De ce vreţi să levitați? Nu înţeleg.
 
 235
-00:21:29,999 --> 00:21:35,250
-La fel e şi cu afacerea Flying Squad, am avut un domn
+00:21:01,958 --> 00:21:05,221
+Plătesc mult mai mulţi bani pentru asta,
 
 236
-00:21:35,750 --> 00:21:39,291
-care era preşedintele academiei;
+00:21:05,422 --> 00:21:07,386
+decât pentru a face înconjurul lumii.
 
 237
-00:21:39,542 --> 00:21:42,250
-a făcut epilepsie, nevasta a făcut epilepsie,
+00:21:07,587 --> 00:21:10,463
+Vă spun drept, pentru o călătorie cu avionul nu ați plăti atât
 
 238
-00:21:42,500 --> 00:21:46,291
-copilul a făcut epilepsie; şi cu toţii au venit la mine,
+00:21:10,664 --> 00:21:14,352
+cât pentru această afacere „Flying Squad”.
 
 239
-00:21:46,625 --> 00:21:49,999
-îşi pierduseră casele, pierduseră totul, au rămas fără un ban.
+00:21:14,553 --> 00:21:17,748
+Şi ce este asta? Trebuie să înţelegem ce este asta.
 
 240
-00:21:51,083 --> 00:21:55,208
-Aşa a fost cu zburatul.
+00:21:17,948 --> 00:21:21,252
+Când levităm, în ce ne implicăm de fapt?
 
 241
-00:21:55,500 --> 00:22:00,083
-Trebuie să înţelegeţi că nu puteţi plăti
+00:21:21,453 --> 00:21:25,250
+Această metodă de hipnoză este atât de subtilă,
 
 242
-00:22:01,625 --> 00:22:03,834
-pentru evoluţia voastră, nu puteţi plăti.
+00:21:25,451 --> 00:21:27,266
+încât nu puteţi înţelege.
 
 243
-00:22:04,041 --> 00:22:05,375
-E foarte simplu de înţeles.
+00:21:27,488 --> 00:21:29,488
+Pur şi simplu continuați cu ea.
 
 244
-00:22:05,542 --> 00:22:07,625
-Cum v-am spus ieri, dacă daţi bani
+00:21:29,689 --> 00:21:35,283
+Spre exemplu am avut un domn care era în această afacere,
 
 245
-00:22:07,875 --> 00:22:10,083
-acestei flori va deveni ea fruct?
+00:21:35,484 --> 00:21:39,128
+era preşedintele academiei de levitație;
 
 246
-00:22:10,417 --> 00:22:13,959
-E un proces viu pentru care nu putem plăti,
+00:21:39,329 --> 00:21:44,953
+a făcut epilepsie, soția lui de asemenea, copilul la fel.
 
 247
-00:22:14,166 --> 00:22:15,500
-nu înţelege banii.
+00:21:45,154 --> 00:21:48,589
+Au venit cu toții la Mine. Îşi pierduseră casa, pierduseră totul,
 
 248
-00:22:15,834 --> 00:22:17,542
-Procesele vii nu înţeleg banii.
+00:21:48,789 --> 00:21:50,769
+rămăseseră fără niciun ban.
 
 249
-00:22:17,834 --> 00:22:19,291
-N-am întâlnit nicio fiinţă umană care,
+00:21:50,970 --> 00:21:54,527
+Așa s-a terminat gluma cu levitatul.
 
 250
-00:22:19,542 --> 00:22:21,667
-să zicem că are indigestie,
+00:21:55,460 --> 00:22:02,530
+Trebuie să înţelegeţi că nu puteţi plăti pentru evoluţia voastră.
 
 251
-00:22:21,875 --> 00:22:23,750
-pune nişte bani acolo, spunând: „Stomacule, te plătesc,
+00:22:02,731 --> 00:22:05,158
+Nu puteţi plăti. E foarte simplu de înţeles.
 
 252
-00:22:23,875 --> 00:22:26,083
-acum îmi digeri mâncarea?".
+00:22:05,359 --> 00:22:08,487
+Așa cum v-am spus ieri, dacă daţi bani acestei flori,
 
 253
-00:22:26,417 --> 00:22:27,625
-Facem aşa?
+00:22:08,688 --> 00:22:10,083
+va deveni ea fruct?
 
 254
-00:22:27,834 --> 00:22:32,041
-În mod asemănător, nici pentru cel mai înalt dintre cele mai înalte procese vii
+00:22:10,284 --> 00:22:15,500
+E un proces viu pentru care nu putem plăti, care nu înţelege banii.
 
 255
-00:22:32,375 --> 00:22:36,667
-nu puteţi plăti.
+00:22:15,701 --> 00:22:17,576
+Procesele vii nu înţeleg banii.
 
 256
-00:22:36,959 --> 00:22:39,667
-E un lucru foarte subtil de înţeles pentru fiinţele umane,
+00:22:17,777 --> 00:22:21,356
+N-am întâlnit nicio fiinţă umană care să sufere de indigestie,
 
 257
-00:22:39,875 --> 00:22:43,166
-deoarece ele cred că trebuie să plătească pentru orice,
+00:22:21,557 --> 00:22:25,877
+și care să-și spună: „Stomacule, te plătesc - îmi digeri mâncarea?”.
 
 258
-00:22:43,375 --> 00:22:44,999
-altfel nu funcţionează.
+00:22:26,078 --> 00:22:27,496
+Facem asta?
 
 259
-00:22:45,208 --> 00:22:48,625
-Vedeţi, vreţi o maşină, şi vreţi una bună,
+00:22:27,697 --> 00:22:32,155
+La fel, nu puteți plăti nici pentru acest proces evolutiv,
 
 260
-00:22:48,959 --> 00:22:50,792
-să zicem, o maşină bună, trebuie să plătiţi.
+00:22:32,356 --> 00:22:35,245
+cel mai înalt dintre toate.
 
 261
-00:22:51,041 --> 00:22:53,625
-Pentru una care merge. Dacă nu merge, puteţi s-o luaţi gratis.
+00:22:36,679 --> 00:22:39,667
+Este un lucru foarte subtil de înţeles pentru fiinţele umane,
 
 262
-00:22:54,500 --> 00:22:56,417
-Dar pentru una care merge trebuie să plătim.
+00:22:39,875 --> 00:22:42,969
+deoarece ele cred că trebuie să plătească pentru orice,
 
 263
-00:22:56,667 --> 00:23:00,291
-Orice maşină care e gratis înseamnă că e un gunoi, n-o poţi folosi.
+00:22:43,170 --> 00:22:45,110
+altfel acel lucru nu funcţionează.
 
 264
-00:23:00,500 --> 00:23:03,208
-Trebuie să plătim ca s-o ducem la cimitirul de maşini, aşa că
+00:22:45,311 --> 00:22:50,589
+De exemplu dacă vă doriți o maşină,
+o mașină bună, trebuie să plătiţi.
 
 265
-00:23:03,667 --> 00:23:08,875
-există întotdeauna în mintea fiinţelor umane gândul că trebuie să plătească.
+00:22:50,790 --> 00:22:54,134
+O mașină care merge. Dacă nu merge, o puteţi lua gratis.
 
 266
-00:23:09,166 --> 00:23:12,083
-Şi e foarte rău, asta nu puteţi plăti.
+00:22:54,335 --> 00:22:56,565
+Dar pentru una care merge trebuie să plătiți.
 
 267
-00:23:12,291 --> 00:23:17,999
-Mă refer la procesele care sunt dincolo de nivelul uman,
+00:22:56,766 --> 00:23:00,291
+Orice maşină care este gratis e o rablă, n-o poţi folosi.
 
 268
-00:23:18,208 --> 00:23:20,208
-pe care fiinţele umane nu le fac.
+00:23:00,500 --> 00:23:03,117
+Trebuie să plătiți ca să o duceți la cimitirul de maşini;
 
 269
-00:23:20,542 --> 00:23:23,333
-De exemplu, nu putem transforma o floare într-un fruct,
+00:23:03,318 --> 00:23:07,121
+deci în mintea fiinţelor umane există tot timpul gândul
 
 270
-00:23:23,667 --> 00:23:26,959
-procesul viu însuşi e mai presus de înţelegerea umană.
+00:23:07,321 --> 00:23:08,965
+că totul trebuie plătit.
 
 271
-00:23:27,083 --> 00:23:31,667
-Dar când devii, când devii
+00:23:09,166 --> 00:23:11,970
+Şi este foarte rău! Nu puteţi plăti pentru asta.
 
 272
-00:23:31,875 --> 00:23:35,041
-un supraom îl poţi stăpâni.
+00:23:12,171 --> 00:23:16,874
+Mă refer la procesele care sunt dincolo de puterea umană,
 
 273
-00:23:35,291 --> 00:23:36,542
-Şi asta e ceea ce trebuie să vi se întâmple.
+00:23:18,208 --> 00:23:20,305
+pe care fiinţele umane nu le pot face.
 
 274
-00:23:36,959 --> 00:23:38,959
-Dacă asta nu vi se întâmplă,
+00:23:20,506 --> 00:23:23,333
+De exemplu, noi nu putem transforma o floare într-un fruct.
 
 275
-00:23:39,166 --> 00:23:40,792
-toate celelalte lucruri sunt greşite.
+00:23:23,534 --> 00:23:26,664
+Un proces viu este mai presus de mintea umană.
 
 276
-00:23:41,083 --> 00:23:44,999
-Vă spun cu mare îngrijorare, pentru că
+00:23:26,865 --> 00:23:28,974
+Dar când deveniți,
 
 277
-00:23:45,166 --> 00:23:49,333
-oamenii din piaţă, care vând bunuri,
+00:23:29,175 --> 00:23:32,782
+când deveniți oameni de un nivel superior,
 
 278
-00:23:49,625 --> 00:23:51,667
-o fac foarte bine.
+00:23:32,989 --> 00:23:34,842
+puteți mânui chiar și un proces viu.
 
 279
-00:23:51,999 --> 00:23:54,792
-Ştiu cum să vă ademenească, ştiu cum
+00:23:35,043 --> 00:23:36,847
+Și asta ar trebui să se întâmple cu voi.
 
 280
-00:23:55,083 --> 00:23:58,792
-să vă vâre idei în cap, cum să vă creeze identificări greşite,
+00:23:37,048 --> 00:23:40,655
+Dacă nu s-a întâmplat asta, toate celelalte lucruri sunt greşite.
 
 281
-00:23:59,083 --> 00:24:06,542
-iar voi vă identificaţi cu ei, până când obţin ce vor.
+00:23:40,856 --> 00:23:43,180
+Vă spun cu mare îngrijorare,
 
 282
-00:24:06,750 --> 00:24:08,166
-Şi atunci voi rămâneţi cu buza umflată.
+00:23:43,381 --> 00:23:47,316
+pentru că oamenii care sunt pe piaţă,
 
 283
-00:24:08,417 --> 00:24:12,625
-Spuneţi: „O, Doamne, ce s-a întâmplat?"
+00:23:47,880 --> 00:23:51,602
+care vând tot felul de lucruri, o fac foarte bine.
 
 284
-00:24:12,875 --> 00:24:17,041
-Un lucru e clar, că Spiritul vostru nu s-a pierdut,
+00:23:51,803 --> 00:23:56,064
+Ştiu cum să vă ademenească, ştiu cum să vă inoculeze diverse idei,
 
 285
-00:24:17,333 --> 00:24:20,166
-e acolo, în ciuda oricăror greşeli,
+00:23:56,265 --> 00:23:58,792
+știu cum să vă creeze identificări greşite,
 
 286
-00:24:20,417 --> 00:24:25,625
-oricare ar fi calea urmată în căutare, Spiritul rezidă în voi
+00:23:59,067 --> 00:24:01,668
+iar voi vă atașaţi de ei,
 
 287
-00:24:25,875 --> 00:24:29,750
-în ciuda tuturor acestora, cât trăiţi.
+00:24:01,869 --> 00:24:05,122
+până în momentul în care eșuează complet.
 
 288
-00:24:30,083 --> 00:24:33,625
-Şi acest Spirit trebuie adus în mintea voastră conştientă,
+00:24:06,483 --> 00:24:08,437
+Şi atunci sunteți lăsați de izbeliște..
 
 289
-00:24:33,917 --> 00:24:37,208
-adică ar trebui să simţiţi puterile Spiritului
+00:24:08,638 --> 00:24:12,366
+Spuneţi: „Oh, Doamne, ce s-a întâmplat?”.
 
 290
-00:24:37,458 --> 00:24:41,625
-în sistemul vostru nervos central, în fiinţa voastră.
+00:24:12,621 --> 00:24:16,780
+Un lucru e clar, că Spiritul vostru nu s-a pierdut.
 
 291
-00:24:41,792 --> 00:24:43,999
-Asta este Sahaja Yoga. Sahaja,
+00:24:16,981 --> 00:24:20,136
+Este acolo, în ciuda oricăror greşeli,
 
 292
-00:24:44,208 --> 00:24:47,333
-aşa cum probabil vi s-a spus, înseamnă „înnăscut".
+00:24:20,336 --> 00:24:23,508
+indiferent de drumul urmat în căutarea voastră.
 
 293
-00:24:47,625 --> 00:24:49,750
-Ieri v-am spus despre partea stângă,
+00:24:23,709 --> 00:24:29,201
+Spiritul rezidă în voi cât trăiți, în ciuda acestor lucruri.
 
 294
-00:24:50,041 --> 00:24:53,291
-care este puterea dorinţei, şi prin această putere
+00:24:29,844 --> 00:24:33,995
+Iar Spiritul trebuie adus în mintea voastră conştientă,
 
 295
-00:24:53,625 --> 00:24:58,041
-avem toate condiţionările noastre şi toată decepţia
+00:24:34,196 --> 00:24:37,208
+adică ar trebui să simţiţi puterile Spiritului în fiinţa voastră,
 
 296
-00:24:58,291 --> 00:25:02,750
-datorată materiei, lucrurilor materialiste, şi de asemenea,
+00:24:37,458 --> 00:24:41,296
+în sistemul vostru nervos central.
 
 297
-00:25:02,999 --> 00:25:07,291
-se poate spune, adunăm tot trecutul nostru, trecutul extins
+00:24:41,497 --> 00:24:43,700
+Asta este în esență Sahaja Yoga.
 
 298
-00:25:07,542 --> 00:25:08,917
-apoi până la subconştientul colectiv.
+00:24:43,901 --> 00:24:47,068
+Sahaja, aşa cum probabil vi s-a spus, înseamnă „născut cu”.
 
 299
-00:25:09,083 --> 00:25:12,041
-Tot ieri v-am spus că o boală cauzată de comportamentul extrem
+00:24:47,269 --> 00:24:49,941
+Ieri v-am spus despre partea stângă,
 
 300
-00:25:12,208 --> 00:25:15,875
-de partea stângă a oamenilor este cancerul.
+00:24:50,141 --> 00:24:52,046
+care este puterea dorinţei.
 
 301
-00:25:16,041 --> 00:25:18,542
-Cei care au un comportament extrem pe partea stângă
+00:24:52,247 --> 00:24:56,824
+Și prin această putere se nasc toate condiţionările noastre
 
 302
-00:25:18,792 --> 00:25:22,999
-fac boala numită cancer şi ea poate fi vindecată
+00:24:57,025 --> 00:25:00,411
+şi tot ce absorbim de la materie, de la lucrurile materiale.
 
 303
-00:25:23,208 --> 00:25:26,166
-aducând pe centru un astfel de comportament extrem;
+00:25:00,612 --> 00:25:05,329
+De asemenea, prin această putere acumulăm tot trecutul nostru,
 
 304
-00:25:26,417 --> 00:25:29,333
-poate fi vindecată, fără nicio îndoială.
+00:25:05,530 --> 00:25:08,750
+iar acesta se extinde apoi până în subconştientul colectiv.
 
 305
-00:25:29,667 --> 00:25:34,792
-Cealaltă parte este partea dreaptă,
+00:25:08,951 --> 00:25:12,223
+Tot ieri v-am spus și că factorul declanșator al cancerului
 
 306
-00:25:34,999 --> 00:25:36,333
-despre care am spus că vă voi vorbi astăzi.
+00:25:12,430 --> 00:25:15,741
+este tendința oamenilor de a merge în extrem pe partea stângă.
 
 307
-00:25:36,583 --> 00:25:38,667
-Domnul nu e aici, cel care a pus atât de multe întrebări
+00:25:15,942 --> 00:25:20,943
+Cei care merg în extrem pe partea stângă fac cancer,
 
 308
-00:25:38,999 --> 00:25:42,083
-e aici?
+00:25:21,144 --> 00:25:25,987
+dar se pot vindeca dacă reușesc să revină pe canalul central.
 
 309
-00:25:42,333 --> 00:25:44,667
-Era ocupat doar să pună întrebări ieri, asta-i tot.
+00:25:26,188 --> 00:25:29,259
+Cancerul poate fi vindecat, fără îndoială.
 
 310
-00:25:44,917 --> 00:25:46,999
-Nu-l interesează căutarea, cred.
+00:25:29,706 --> 00:25:33,638
+Ei bine, cealaltă parte este partea dreaptă,
 
 311
-00:25:47,291 --> 00:25:49,792
-Bine. Cealaltă parte – partea dreaptă –
+00:25:33,839 --> 00:25:36,333
+despre care am spus că vă voi vorbi astăzi.
 
 312
-00:25:49,999 --> 00:25:52,917
-e puterea prin care acţionăm.
+00:25:36,534 --> 00:25:41,096
+Nu-l văd pe domnul care Mi-a pus atât de multe întrebări. E aici?
 
 313
-00:25:53,166 --> 00:25:55,333
-Întâi ne dorim, apoi acţionăm.
+00:25:42,119 --> 00:25:44,740
+Ieri era preocupat doar să-Mi pună întrebări și atât.
 
 314
-00:25:55,667 --> 00:25:58,417
-Această putere, puterea părţii drepte, este exprimată în noi
+00:25:44,941 --> 00:25:46,824
+Nu este un căutător, cred.
 
 315
-00:25:58,667 --> 00:26:01,999
-ca sistem nervos simpatic drept.
+00:25:47,025 --> 00:25:50,014
+În regulă. Cealaltă parte, partea dreaptă,
 
 316
-00:26:02,166 --> 00:26:04,750
-Ştiinţa vine tot de aici, ştiinţa se ocupă de latura grosieră –
+00:25:50,215 --> 00:25:52,828
+e puterea prin care acţionăm.
 
 317
-00:26:05,083 --> 00:26:07,667
-acestea sunt toate subtile, cele din interiorul nostru.
+00:25:53,029 --> 00:25:55,246
+Mai întâi apare dorința, iar apoi acţionăm.
 
 318
-00:26:07,917 --> 00:26:10,458
-Această putere a părţii drepte care există în noi
+00:25:55,447 --> 00:25:57,728
+Ei bine, această putere, puterea părţii drepte
 
 319
-00:26:10,750 --> 00:26:16,458
-ne dă putere pentru capacitatea fizică şi mentală de a acţiona.
+00:25:57,929 --> 00:26:01,746
+este exprimată în noi sub forma sistemului nervos simpatic drept.
 
 320
-00:26:16,792 --> 00:26:19,417
-Această acţiune are loc când ne dorim ceva;
+00:26:01,947 --> 00:26:04,179
+Ştiinţa a apărut tot prin puterea părții drepte.
 
 321
-00:26:19,667 --> 00:26:23,999
-vrem să îndeplinim dorinţa şi apoi trecem la acţiune.
+00:26:04,380 --> 00:26:07,625
+Știința e la nivelul grosier, acestea fiind aspecte subtile în noi.
 
 322
-00:26:24,208 --> 00:26:27,542
-Trebuie să înţelegem ce fel de putere e asta.
+00:26:07,826 --> 00:26:10,615
+Ei bine, această putere a părţii drepte care există în noi
 
 323
-00:26:27,917 --> 00:26:31,083
-Această putere e numită în sanskrită prana shakti.
+00:26:10,816 --> 00:26:16,717
+dă forță capacității noastre mentale și fizice de a acţiona.
 
 324
-00:26:31,333 --> 00:26:34,917
-Prana, iar cealaltă, cea stângă, mana shakti,
+00:26:16,918 --> 00:26:19,795
+Orice acţiune are loc atunci când ne dorim ceva;
 
 325
-00:26:35,166 --> 00:26:39,417
-e puterea emoţiilor sau, putem spune, a minţii,
+00:26:19,996 --> 00:26:23,657
+când vrem să împlinim acea dorinţă dezvoltăm o acţiune.
 
 326
-00:26:39,667 --> 00:26:42,999
-dar vedeţi, limba engleză nu e atât de precisă.
+00:26:23,858 --> 00:26:27,716
+Trebuie să înţelegem ce fel de putere este aceasta.
 
 327
-00:26:43,125 --> 00:26:46,125
-Aşa că aş spune mana shakti şi prana shakti –
+00:26:27,917 --> 00:26:31,951
+Ea este numită „prana shakti” în sanscrită - prana.
 
 328
-00:26:46,417 --> 00:26:48,999
-acestea sunt cele două puteri care există în noi şi pe care începem
+00:26:32,152 --> 00:26:35,129
+Puterea de pe partea stângă numită „mana shakti”
 
 329
-00:26:49,166 --> 00:26:54,333
-să le folosim ca parte stângă şi dreaptă, am putea spune ca frână
+00:26:35,330 --> 00:26:39,448
+este puterea emoţiilor, sau a minţii am putea spune.
 
 330
-00:26:54,542 --> 00:26:58,542
-şi accelerator, iar apoi devenim maeştrii condusului.
+00:26:39,649 --> 00:26:42,936
+Dar, vedeţi, limba engleză nu e clară cu privire la aceste aspecte.
 
 331
-00:26:58,750 --> 00:27:01,792
-Însă în devenirea asta facem greşeli.
+00:26:43,137 --> 00:26:45,855
+Deci aş spune că avem mana shakti şi prana shakti –
 
 332
-00:27:02,000 --> 00:27:05,458
-Mintea umană are o înclinaţie deosebită de a merge la extreme.
+00:26:46,056 --> 00:26:48,597
+acestea sunt cele două puteri care există în noi
 
 333
-00:27:05,625 --> 00:27:08,583
-Dacă spun cuiva: „Acum trebuie să meditaţi."
+00:26:48,798 --> 00:26:52,651
+şi pe care începem să le folosim, putem spune,
 
 334
-00:27:08,750 --> 00:27:09,917
-Vor medita cinci ore.
+00:26:52,858 --> 00:26:55,385
+ca pe o frână şi un accelerator,
 
 335
-00:27:10,041 --> 00:27:12,709
-Nu e nevoie să meditaţi cinci ore sau aşa ceva.
+00:26:55,586 --> 00:26:58,381
+devenind apoi maeştri în condusul acestei „mașini”.
 
 336
-00:27:12,959 --> 00:27:15,166
-Dar dacă le spui că trebuie să stea în cap,
+00:26:58,582 --> 00:27:01,718
+Însă până când devenim maeștri facem greşeli.
 
 337
-00:27:15,458 --> 00:27:16,959
-vor sta zece ore.
+00:27:01,919 --> 00:27:05,315
+Mintea umană are tendința de a merge la extreme.
 
 338
-00:27:17,166 --> 00:27:18,750
-Aşadar, nu e nevoie să mergem la extreme,
+00:27:05,516 --> 00:27:08,311
+Presupunând că spun cuiva: „Trebuie să meditezi”,
 
 339
-00:27:19,000 --> 00:27:21,709
-trebuie doar să fim pe centru, să fim blânzi cu trupul nostru,
+00:27:08,512 --> 00:27:10,015
+va medita timp de cinci ore.
 
 340
-00:27:22,041 --> 00:27:23,375
-să fim blânzi cu noi înşine.
+00:27:10,216 --> 00:27:12,758
+Nu e nevoie să meditaţi atâta timp.
 
 341
-00:27:23,625 --> 00:27:26,709
-Nu trebuie să fim nebuni după ceva;
+00:27:12,959 --> 00:27:16,627
+Dar dacă le spui să stea în cap, o vor face pentru zece ore.
 
 342
-00:27:27,000 --> 00:27:30,250
-să nu ne scoată nimic din sărite.
+00:27:16,828 --> 00:27:18,897
+Deci nu e nevoie să mergem la extreme,
 
 343
-00:27:30,500 --> 00:27:34,375
-E un lucru foarte simplu care trebuie să vi se întâmple.
+00:27:19,098 --> 00:27:20,861
+trebuie să fim pe centru,
 
 344
-00:27:34,583 --> 00:27:37,834
-Spre exemplu, gândiţi-vă la o sămânţă semănată pe o muzică zgomotoasă sau,
+00:27:21,062 --> 00:27:23,375
+să ne tratăm cu blândețe trupul și pe noi înșine.
 
 345
-00:27:38,125 --> 00:27:42,500
-să spunem, într-un loc în care toată lumea se grăbeşte,
+00:27:23,625 --> 00:27:25,870
+Nu trebuie să fim frenetici,
 
 346
-00:27:42,750 --> 00:27:45,625
-ţipă, urlă – ce se va întâmpla?
+00:27:26,071 --> 00:27:30,250
+nu trebuie să fim exasperați după ceva.
 
 347
-00:27:45,834 --> 00:27:47,041
-Acea sămânţă nu va încolţi niciodată.
+00:27:30,451 --> 00:27:34,156
+Ceea ce trebuie să vi se întâmple este un lucru foarte simplu.
 
 348
-00:27:47,250 --> 00:27:50,458
-Dacă e într-un loc paşnic, care e bine amplasat,
+00:27:34,357 --> 00:27:40,003
+Închipuiţi-vă de pildă că o sămânţă e semănată pe o muzică stridentă
 
 349
-00:27:50,750 --> 00:27:56,250
-nu într-o oală acoperită, atunci cu siguranţă va deveni
+00:27:40,204 --> 00:27:44,028
+sau într-un loc în care toată lumea e agitată, strigă, ţipă.
 
 350
-00:27:56,583 --> 00:28:00,834
-un copac frumos sau un arbust frumos
+00:27:44,229 --> 00:27:47,041
+Ce se va întâmpla? Nu va încolţi niciodată.
 
 351
-00:28:01,125 --> 00:28:02,917
-sau orice ar fi.
+00:27:47,250 --> 00:27:50,703
+Dacă se află într-un loc paşnic, într-un loc potrivit,
 
 352
-00:28:03,125 --> 00:28:06,375
-În acelaşi mod, dacă suntem prea mult la extreme,
+00:27:50,904 --> 00:27:54,078
+dacă nu este într-un ghiveci răsturnat,
 
 353
-00:28:06,625 --> 00:28:08,709
-mergem spre stânga sau spre dreapta.
+00:27:54,279 --> 00:27:59,046
+atunci cu siguranţă va deveni un copac frumos
 
 354
-00:28:08,959 --> 00:28:11,250
-Cât despre stânga, v-am spus ieri ce se întâmplă:
+00:27:59,247 --> 00:28:02,917
+sau un arbust frumos, o plantă.
 
 355
-00:28:11,583 --> 00:28:16,458
-toate lucrurile astea precum hipnoza şi percepţiile extrasenzoriale,
+00:28:03,125 --> 00:28:06,375
+În acelaşi mod, dacă avem un comportament extrem,
 
 356
-00:28:16,709 --> 00:28:18,375
-şi cei mai mulţi guru încearcă trucurile astea; vedeţi,
+00:28:06,625 --> 00:28:08,666
+vom merge spre partea stângă sau dreaptă.
 
 357
-00:28:18,625 --> 00:28:24,000
-imediat ce-i hipnotizează,
+00:28:08,867 --> 00:28:11,652
+Ieri v-am spus ce se întâmplă când mergem către partea stângă,
 
 358
-00:28:24,250 --> 00:28:28,041
-oamenii devin nebuni după guru: „El e gurul nostru",
+00:28:11,853 --> 00:28:15,715
+lucruri precum hipnoza, percepţiile extrasenzoriale,
 
 359
-00:28:28,291 --> 00:28:32,625
-şi se comportă ca nişte oameni fără creier.
+00:28:15,916 --> 00:28:18,519
+pe care le folosesc cei mai mulţi din acești așa-ziși guru.
 
 360
-00:28:32,917 --> 00:28:35,583
-Eu cred că motivul e că
+00:28:18,720 --> 00:28:23,022
+Pur și simplu hipnotizează oamenii,
 
 361
-00:28:35,875 --> 00:28:39,291
-simţiţi în domnul respectiv un fel de simţ al securităţii
+00:28:23,223 --> 00:28:26,381
+iar ei devin complet orbiți de ei,
 
 362
-00:28:39,500 --> 00:28:43,834
-şi „dacă-l urmez, vedeţi,
+00:28:26,581 --> 00:28:28,479
+lăudându-se: „E gurul nostru”,
 
 363
-00:28:44,041 --> 00:28:46,125
-el merge în Rai şi am să merg şi eu cu el în Rai".
+00:28:28,680 --> 00:28:32,364
+şi se comportă ca nişte oameni lipsiți de judecată.
 
 364
-00:28:46,375 --> 00:28:48,166
-Nu se întâmplă aşa.
+00:28:32,565 --> 00:28:34,604
+„Mă simt bine cu acest guru”.
 
 365
-00:28:48,458 --> 00:28:51,041
-Trebuie să mergeţi în Rai în mod individual fiecare
+00:28:34,805 --> 00:28:40,449
+Motivul este că simţiţi că acel guru are un gen de siguranță
 
 366
-00:28:51,375 --> 00:28:53,041
-şi trebuie să deveniţi propriul vostru guru
+00:28:40,650 --> 00:28:46,125
+şi dacă-l urmați veți merge în Rai ca și el.
 
 367
-00:28:53,291 --> 00:28:54,709
-şi trebuie să ştiţi totul despre asta.
+00:28:46,326 --> 00:28:48,166
+Nu se întâmplă aşa.
 
 368
-00:28:54,959 --> 00:29:00,166
-Nu că cineva îşi pune o remorcă în spate
+00:28:48,367 --> 00:28:50,950
+Trebuie să mergeţi în Rai în mod individual, fiecare,
 
 369
-00:29:00,500 --> 00:29:01,583
-şi aşază câţiva oameni în ea şi zice:
+00:28:51,151 --> 00:28:53,041
+trebuie să deveniţi propriul vostru guru
 
 370
-00:29:01,834 --> 00:29:03,000
-„Haideţi, eu merg în Rai.”
+00:28:53,242 --> 00:28:55,024
+și trebuie să ştiţi voi înșivă totul.
 
 371
-00:29:03,291 --> 00:29:06,000
-Cei mai mulţi dintre aceştia merg de fapt în Iad
+00:28:55,225 --> 00:28:59,817
+Nu este ca și cum cineva îşi atașează o remorcă în spate
 
 372
-00:29:06,250 --> 00:29:09,041
-şi voi îi veţi urma foarte repede.
+00:29:00,018 --> 00:29:03,088
+şi pune niște oameni în ea zicând: „Haideţi, eu merg în Rai”.
 
 373
-00:29:09,291 --> 00:29:13,166
-Deci nu e niciodată aşa, credeţi-mă, că cineva spune
+00:29:03,289 --> 00:29:05,855
+Cei mai mulţi dintre aceşti guru merg de fapt în Iad
 
 374
-00:29:13,375 --> 00:29:14,959
-că dacă veţi urma un anume guru veţi ajunge în Rai,
+00:29:06,056 --> 00:29:09,050
+iar voi îi veţi urma foarte repede.
 
 375
-00:29:15,125 --> 00:29:17,583
-e absolut greşit.
+00:29:09,251 --> 00:29:11,471
+Deci nu se întâmplă niciodată aşa, credeţi-Mă;
 
 376
-00:29:17,875 --> 00:29:20,583
-Trebuie să urmaţi principiul, şi orice guru
+00:29:11,672 --> 00:29:15,464
+când cineva vă spune că urmând un anumit guru veţi ajunge în Rai,
 
 377
-00:29:20,834 --> 00:29:23,166
-care este un guru adevărat vă va spune întotdeauna,
+00:29:15,665 --> 00:29:17,580
+este o afirmație absolut greşită.
 
 378
-00:29:23,500 --> 00:29:26,709
-vă va spune întotdeauna că trebuie să deveniţi ceva.
+00:29:17,781 --> 00:29:19,966
+Ceea ce trebuie să urmaţi de fapt este principiul,
 
 379
-00:29:26,959 --> 00:29:29,291
-Nu va spune niciodată doar: „Bine, mi-ai dat banii,
+00:29:20,167 --> 00:29:23,620
+şi orice guru adevărat vă va spune întotdeauna,
 
 380
-00:29:29,583 --> 00:29:32,500
-în regulă, eşti membru, acum eşti copilul meu,
+00:29:23,821 --> 00:29:26,630
+vă va spune întotdeauna că trebuie să vă transformați.
 
 381
-00:29:32,750 --> 00:29:35,458
-acum eşti discipolul meu şi eu îţi dau dragostea mea.
+00:29:26,831 --> 00:29:30,992
+Nu va spune niciodată: „Bine, mi-ai dat banii, eşti membru.
 
 382
-00:29:35,750 --> 00:29:38,166
-Să fie dragoste." Unde e dragostea?
+00:29:31,193 --> 00:29:35,755
+Acum eşti copilul meu, eşti discipolul meu şi îţi ofer iubirea mea.
 
 383
-00:29:39,625 --> 00:29:41,500
-„Şi daţi-mi mai mulţi bani, daţi-mi Rolls Royce-uri,
+00:29:35,956 --> 00:29:39,157
+Să avem iubire”. Unde este iubirea?
 
 384
-00:29:41,959 --> 00:29:43,250
-daţi-mi asta, daţi-mi aia.”
+00:29:39,655 --> 00:29:43,764
+„Şi daţi-mi mai mulţi bani, Rolls Royce-uri, daţi-mi una, alta.”
 
 385
-00:29:43,583 --> 00:29:46,375
-Şi noi facem asta ca nebunii, crezând
+00:29:43,965 --> 00:29:49,076
+Iar voi faceți asta ca nebunii, crezând că acest schimb e posibil.
 
 386
-00:29:46,625 --> 00:29:50,000
-că primim ceva în schimb.
+00:29:49,862 --> 00:29:54,421
+Acum, căutători fiind, aveți tot dreptul să vă descoperiți Spiritul
 
 387
-00:29:50,250 --> 00:29:53,375
-Acum, că suntem căutători avem tot dreptul
+00:29:54,622 --> 00:29:58,936
+şi nu veți fi induşi în eroare de trucurile şi farsele acestor guru,
 
 388
-00:29:53,709 --> 00:29:56,750
-să ne găsim Spiritul şi nu să fim induşi în eroare
+00:29:59,137 --> 00:30:02,407
+sau, aş spune, de metodele foarte sinistre pe care le aplică.
 
 389
-00:29:57,000 --> 00:30:00,166
-de astfel de trucuri şi farse ale acestor oameni sau, aş spune,
+00:30:02,608 --> 00:30:04,748
+Nu doar că vă dau sfaturi greșite pentru bani -
 
 390
-00:30:00,500 --> 00:30:02,375
-metode foarte sinistre pe care le aplică.
+00:30:04,949 --> 00:30:07,672
+nu Mă deranjează că sunt nişte hoți. Să aibă bani dacă asta vor!
 
 391
-00:30:02,709 --> 00:30:04,999
-Nu doar că vă învaţă pe bani - nu mă deranjează
+00:30:07,873 --> 00:30:10,959
+Dar fără să realizați, vă distrug şansele de a vă primi Realizarea.
 
 392
-00:30:05,250 --> 00:30:06,583
-că sunt nişte tâlhari, n-au decât să aibă bani,
+00:30:11,166 --> 00:30:15,122
+Şi atunci va fi foarte greu să vă dau Realizarea!
 
 393
-00:30:06,834 --> 00:30:08,583
-să aibă ce vor ei; dar vă strică şansele
+00:30:15,323 --> 00:30:18,305
+Iar dacă nu rezolvați cu adevărat acest lucru,
 
 394
-00:30:08,875 --> 00:30:10,959
-de Realizare, lucru de care voi nu vă daţi seama.
+00:30:18,505 --> 00:30:21,818
+va fi imposibil să vă trezesc energia Kundalini.
 
 395
-00:30:11,166 --> 00:30:14,375
-Şi odată ce asta se întâmplă, e foarte dificil
+00:30:22,019 --> 00:30:25,972
+Am văzut oameni care au suferit din cauza asta.
 
 396
-00:30:14,709 --> 00:30:16,709
-să vă dau Realizarea, şi dacă nu vă corectaţi în mod sincer,
+00:30:26,173 --> 00:30:28,834
+Ei bine, acest proces din interiorul nostru este declanșat
 
 397
-00:30:16,875 --> 00:30:21,875
-adevărat, se va ajunge la o situaţie imposibilă.
+00:30:29,035 --> 00:30:32,796
+de capacităţile mentale şi fizice de pe partea dreaptă.
 
 398
-00:30:22,250 --> 00:30:25,959
-Am văzut oameni care-au suferit din cauza asta.
+00:30:32,997 --> 00:30:36,528
+De pildă, ne gândim la viitor, începem să planificăm:
 
 399
-00:30:26,250 --> 00:30:29,999
-Această muncă din interiorul nostru acţionează pentru buna funcţionare
+00:30:36,729 --> 00:30:39,354
+„Trebuie să facem asta mâine sau poimâine”.
 
 400
-00:30:30,291 --> 00:30:32,999
-a capacităţilor mentale şi fizice de pe partea dreaptă.
+00:30:39,555 --> 00:30:41,566
+Trebuie să facem ceva și începem să gândim:
 
 401
-00:30:33,250 --> 00:30:35,875
-De pildă, ne gândim la viitor, începe planificarea,
+00:30:41,767 --> 00:30:43,500
+„Mă voi duce acolo şi voi găsi asta,
 
 402
-00:30:36,166 --> 00:30:38,625
-începem să planificăm: „Trebuie să facem asta mâine
+00:30:43,701 --> 00:30:45,834
+apoi voi lua un bilet şi voi merge dincolo”.
 
 403
-00:30:38,875 --> 00:30:40,709
-sau trebuie s-o facem poimâine." Şi începem să ne gândim:
+00:30:46,035 --> 00:30:48,452
+Vreau să spun că mintea lucrează pentru viitor,
 
 404
-00:30:40,959 --> 00:30:43,500
-„Acum voi merge acolo şi voi găsi asta,
+00:30:48,653 --> 00:30:52,633
+atât de mult încât oamenii devin absolut orientați către viitor,
 
 405
-00:30:43,750 --> 00:30:45,834
-apoi voi lua un bilet şi voi merge dincolo.”
+00:30:52,834 --> 00:30:57,459
+într-o asemenea măsură încât unii îşi uită chiar şi propriul nume.
 
 406
-00:30:46,125 --> 00:30:48,125
-Vreau să spun că mintea noastră lucrează pentru viitor.
+00:30:57,659 --> 00:31:01,169
+Vă vine să credeţi? Adică în regulă, nu-şi amintesc numele tatălui
 
 407
-00:30:48,375 --> 00:30:52,500
-Atât de mult că devenim absolut futurişti,
+00:31:01,370 --> 00:31:03,045
+dar să îşi uite chiar şi propriul nume!
 
 408
-00:30:52,834 --> 00:30:55,750
-într-o asemenea măsură încât uneori am întâlnit oameni atât de futurişti
+00:31:03,246 --> 00:31:06,968
+Sunt ca nişte nebuni care nu-şi amintesc nici cum îi cheamă,
 
 409
-00:30:55,999 --> 00:30:58,625
-că-şi uită chiar şi propriul nume. Vă vine să credeţi?
+00:31:07,169 --> 00:31:10,789
+nu ştiu unde sunt și ce fac.
 
 410
-00:30:58,875 --> 00:31:00,417
-Adică nu-şi amintesc nici măcar numele tatălui.
-
-411
-00:31:00,709 --> 00:31:02,750
-Nu-i nimic, dar îşi uită chiar şi propriile nume.
-
-412
-00:31:02,999 --> 00:31:05,875
-Sunt ca nişte nebuni pentru că nu-şi amintesc
-
-413
-00:31:06,125 --> 00:31:07,417
-propriile nume
-
-414
-00:31:07,709 --> 00:31:10,291
-şi nu ştiu unde sunt, ce fac.
-
-415
-00:31:10,542 --> 00:31:13,834
+00:31:10,990 --> 00:31:14,033
 Am întâlnit oameni de genul ăsta care sunt de-a dreptul bolnavi,
 
-416
-00:31:14,041 --> 00:31:17,166
-pentru că au devenit atât de futurişti,
+411
+00:31:14,234 --> 00:31:16,836
+pentru că au devenit atât de orientați către viitor,
 
-417
-00:31:17,417 --> 00:31:20,166
+412
+00:31:17,037 --> 00:31:20,492
 încât nu mai ştiu nimic despre trecutul lor.
 
+413
+00:31:20,693 --> 00:31:23,803
+Ei bine, acest tip de comportament se manifestă
+
+414
+00:31:24,004 --> 00:31:27,381
+într-o societate în care oamenii se gândesc mereu la viitor:
+
+415
+00:31:27,582 --> 00:31:32,472
+„Ce trebuie să fac mâine, ce trebuie să realizez mâine?”.
+
+416
+00:31:32,673 --> 00:31:35,798
+Şi când încep să facă toate aceste lucruri,
+
+417
+00:31:35,999 --> 00:31:38,346
+atenţia lor merge în extrema dreaptă.
+
 418
-00:31:20,500 --> 00:31:25,250
-Acest comportament futurist începe într-o societate
+00:31:38,547 --> 00:31:41,718
+Ei bine, această extremă este foarte periculoasă,
 
 419
-00:31:25,500 --> 00:31:27,542
-în care oamenii se gândesc mereu la viitor.
+00:31:41,919 --> 00:31:45,906
+este foarte periculos să începem să ne gândim tot timpul la viitor.
 
 420
-00:31:27,834 --> 00:31:30,625
-„Ce voi face, ce trebuie să fac mâine,
+00:31:46,107 --> 00:31:53,689
+Şi a te gândi mereu la viitor este ceva imaginar,
 
 421
-00:31:30,875 --> 00:31:32,083
-ce voi realiza mâine?”
+00:31:53,890 --> 00:31:55,850
+este absolut imaginar,
 
 422
-00:31:32,709 --> 00:31:34,709
-Şi când încep să facă toate lucrurile astea,
+00:31:56,056 --> 00:32:01,002
+pentru că ce gândiţi despre viitor nu există de fapt.
 
 423
-00:31:35,999 --> 00:31:38,083
-atenţia lor merge spre extrema dreaptă.
+00:32:01,203 --> 00:32:02,970
+Ceea ce există cu adevărat este prezentul.
 
 424
-00:31:38,500 --> 00:31:41,999
-Iar aici suntem într-un loc foarte periculos.
+00:32:03,171 --> 00:32:06,087
+Trebuie să fiţi în prezent, nu în viitor.
 
 425
-00:31:42,291 --> 00:31:45,041
-Un loc foarte periculos, când începem să privim viitorul.
+00:32:06,288 --> 00:32:09,086
+Oamenii spun: „Trebuie să fii în prezent”.
 
 426
-00:31:45,291 --> 00:31:53,750
-Şi a privi viitorul este o treabă imaginară,
+00:32:09,293 --> 00:32:10,965
+Dar cum faceți asta?
 
 427
-00:31:54,041 --> 00:31:58,542
-este absolut imaginară, pentru că ce gândiţi
+00:32:11,166 --> 00:32:14,481
+Nu puteți. Sunteți ori în trecut, ori în viitor.
 
 428
-00:31:58,875 --> 00:32:02,875
-despre viitor nu există. Ceea ce există este prezentul,
+00:32:14,682 --> 00:32:16,757
+Asta pentru că atunci când apare un gând,
 
 429
-00:32:03,166 --> 00:32:05,875
-trebuie să fiţi în prezent, nu în viitor.
+00:32:16,958 --> 00:32:18,698
+el se ridică ca un val şi apoi coboară.
 
 430
-00:32:06,166 --> 00:32:09,959
-Dar oamenii spun că trebuie să fii în prezent, dar cum?
+00:32:18,899 --> 00:32:22,291
+Apoi un alt gând se ridică, atinge punctul maxim şi pe urmă coboară.
 
 431
-00:32:11,250 --> 00:32:14,625
-Nu putem. Suntem ori în trecut, ori în viitor.
+00:32:22,492 --> 00:32:25,250
+Ei bine, noi ne lăsăm purtați de valul gândului care urcă,
 
 432
-00:32:14,875 --> 00:32:18,250
-Pentru că atunci când un val de gânduri se ridică, el urcă şi coboară.
+00:32:25,451 --> 00:32:27,875
+însă nu suntem conștienți când coboară.
 
 433
-00:32:18,542 --> 00:32:22,291
-Alt val de gânduri se ridică, urcă şi coboară.
+00:32:28,083 --> 00:32:30,916
+Vedem un alt gând care se ridică, asemeni unui val,
 
 434
-00:32:22,625 --> 00:32:25,250
-Noi mergem cu acest val de gânduri care se ridică,
-
-435
-00:32:25,500 --> 00:32:27,875
+00:32:31,117 --> 00:32:32,834
 dar nu vedem când coboară.
 
+435
+00:32:33,041 --> 00:32:35,498
+Aşa că sărim de pe creasta unui gând pe creasta altuia
+
 436
-00:32:28,083 --> 00:32:30,999
-Vedem un alt val de gânduri care se ridică,
+00:32:35,699 --> 00:32:40,017
+şi nu ştim unde suntem, poate în trecut, poate în viitor.
 
 437
-00:32:31,291 --> 00:32:32,834
-dar nu vedem când urcă.
+00:32:40,218 --> 00:32:43,128
+Dar pe centru, între aceste două gânduri,
 
 438
-00:32:33,041 --> 00:32:35,250
-Aşa că sărim pe crestele acestor gânduri
+00:32:43,329 --> 00:32:44,715
+se află prezentul
 
 439
-00:32:35,500 --> 00:32:38,834
-şi nu ştim că suntem probabil în trecut
+00:32:44,916 --> 00:32:48,838
+şi nu ştim cum să ne îndreptăm atenţia asupra lui, e foarte dificil.
 
 440
-00:32:39,041 --> 00:32:42,375
-sau probabil în viitor. Dar în centrul acestor două gânduri
+00:32:49,039 --> 00:32:52,959
+Spunând doar: „Ar trebui să fii pe centru” nu vă ajută să fiți așa.
 
 441
-00:32:42,834 --> 00:32:45,375
-se află prezentul şi nu ştim
+00:32:53,160 --> 00:32:55,702
+Spunându-vă doar: „Trebuie să faci una, alta”,
 
 442
-00:32:45,667 --> 00:32:48,667
-cum să ne ducem atenţia acolo, ceea ce e foarte dificil,
+00:32:55,903 --> 00:32:58,959
+lucrurile nu vor deveni realitate - asta până când nu va fi lumină.
 
 443
-00:32:48,959 --> 00:32:52,959
-şi doar a spune că ar trebui să fii în centru nu e suficient.
+00:32:59,160 --> 00:33:01,261
+De exemplu nu e nicio lumină în camera asta
 
 444
-00:32:53,208 --> 00:32:55,500
-Toate aceste lucruri: „Trebuie să faci asta, trebuie să faci aia",
+00:33:01,462 --> 00:33:03,028
+şi spuneţi: „Mergi drept înainte”.
 
 445
-00:32:55,750 --> 00:32:58,625
-nu vor funcţiona până când nu va fi lumină.
+00:33:03,228 --> 00:33:06,212
+Nu puteţi, pentru că nu vedeți pe unde.
 
 446
-00:32:58,875 --> 00:33:01,625
-De exemplu, nu e nicio lumină în camera asta şi voi spuneţi:
+00:33:06,413 --> 00:33:08,041
+Chiar dacă porunciți sau orice ați face
 
 447
-00:33:01,875 --> 00:33:04,208
-„Mergi drept”; nu poţi merge, pentru că nu vezi
+00:33:08,291 --> 00:33:12,103
+nu puteţi merge drept fără să vă loviți de vreunul din aceste scaune
 
 448
-00:33:04,542 --> 00:33:06,041
-pe unde, cum să mergi?
+00:33:12,304 --> 00:33:14,672
+pentru că nu este lumină și nu puteți vedea.
 
 449
-00:33:06,291 --> 00:33:08,041
-Chiar dacă porunceşti sau faci ce vrei,
+00:33:14,873 --> 00:33:19,404
+Aşa că trebuie să înţelegeți că trăind în viitor,
 
 450
-00:33:08,291 --> 00:33:11,291
-nu poţi să mergi drept fără să atingi
+00:33:19,605 --> 00:33:21,661
+planificând prea mult,
 
 451
-00:33:11,542 --> 00:33:14,375
-vreunul din scaunele astea, pentru că nu e lumină, nu vezi.
+00:33:21,862 --> 00:33:25,558
+trăiți de fapt într-o lume imaginară.
 
 452
-00:33:14,792 --> 00:33:17,542
-Aşa că trebuie să înţelegem
-
-453
-00:33:17,875 --> 00:33:20,417
-că în viaţa futuristă, când trăim şi planificăm
-
-454
-00:33:20,667 --> 00:33:23,166
-prea mult pentru viitor, de fapt, ceea ce facem
-
-455
-00:33:23,500 --> 00:33:25,750
-e să trăim într-o lume imaginară.
-
-456
-00:33:26,500 --> 00:33:28,667
+00:33:25,759 --> 00:33:29,424
 Există multe poveşti cu oameni care au trăit în lumi imaginare
 
+453
+00:33:29,625 --> 00:33:33,315
+şi au descoperit până la urmă că toată această iluzie s-a prăbușit.
+
+454
+00:33:33,516 --> 00:33:38,915
+De asemeni sunt oameni care rezolvă lucrurile prin eforturi fizice,
+
+455
+00:33:39,116 --> 00:33:44,302
+iar când recurg la eforturi fizice îşi creează o altă problemă,
+
+456
+00:33:44,503 --> 00:33:48,317
+pentru că devin oameni orientaţi către latura fizică.
+
 457
-00:33:28,959 --> 00:33:33,375
-şi au aflat că totul a fost distrus.
+00:33:48,518 --> 00:33:51,259
+Şi dacă sunteţi orientaţi doar către latura fizică,
 
 458
-00:33:33,667 --> 00:33:37,792
-Şi sunt oameni care rezolvă lucrurile
+00:33:51,459 --> 00:33:53,466
+Spiritul se mânie pe voi.
 
 459
-00:33:38,041 --> 00:33:40,542
-prin eforturile lor fizice, iar când recurg la eforturile fizice,
+00:33:53,667 --> 00:33:56,625
+Deci mişcarea pe partea dreaptă este caracteristică oamenilor
 
 460
-00:33:40,834 --> 00:33:44,333
-îşi creează o altă problemă, pentru că
+00:33:56,875 --> 00:34:01,956
+care sunt foarte meticuloşi, foarte stricți în privinţa timpului
 
 461
-00:33:44,625 --> 00:33:48,083
-devin oameni orientaţi spre fizic.
+00:34:02,157 --> 00:34:07,222
+foarte riguroși, foarte distanți,
 
 462
-00:33:48,417 --> 00:33:50,750
-Şi dacă sunteţi orientaţi doar spre fizic,
+00:34:07,423 --> 00:34:10,705
+care sunt foarte duri şi nu tolerează niciun nonsens -
 
 463
-00:33:51,041 --> 00:33:53,417
-Spiritul se supără pe voi.
+00:34:10,906 --> 00:34:13,417
+acel tip de oameni pe care îi întâlnești în mod frecvent
 
 464
-00:33:53,667 --> 00:33:56,625
-Deci mişcarea spre dreapta e pentru oamenii
+00:34:13,625 --> 00:34:19,917
+și care devin o durere de cap, devin foarte plictisitori.
 
 465
-00:33:56,875 --> 00:33:59,500
-care sunt foarte meticuloşi, vedeţi, pe care-i poţi numi oameni
+00:34:20,118 --> 00:34:23,361
+Sunt greu de suportat, pot fi foarte plictisitori.
 
 466
-00:33:59,750 --> 00:34:02,500
-foarte precişi în privinţa timpului şi care sunt
+00:34:23,562 --> 00:34:25,744
+Şi îţi ţin discursuri lungi
 
 467
-00:34:02,750 --> 00:34:07,417
-foarte stricţi în privinţa lucrurilor, care sunt oameni foarte uscaţi
+00:34:26,041 --> 00:34:29,637
+despre cum să fii asertiv şi cum să ții linia dreaptă.
 
 468
-00:34:07,625 --> 00:34:10,750
-şi care sunt foarte direcţi şi nu tolerează niciun nonsens.
+00:34:29,838 --> 00:34:32,217
+În natură nimic nu merge în linie dreaptă,
 
 469
-00:34:10,999 --> 00:34:13,417
-Un soi de oameni, vedeţi, pe care-i găseşti în mod obişnuit;
+00:34:32,418 --> 00:34:34,139
+totul se mişcă sinuos, atât de frumos,
 
 470
-00:34:13,625 --> 00:34:17,542
-şi acest soi de oameni devin o durere de cap
+00:34:34,339 --> 00:34:37,034
+pentru că natura este creată din varietate,
 
 471
-00:34:17,750 --> 00:34:19,917
-şi sunt foarte plictisitori.
-
-472
-00:34:20,291 --> 00:34:21,625
-E greu să-i suporţi,
-
-473
-00:34:21,875 --> 00:34:23,625
-pot fi oameni foarte plictisitori.
-
-474
-00:34:23,875 --> 00:34:25,792
-Şi îţi ţin discursuri despre
-
-475
-00:34:26,041 --> 00:34:28,917
-cum să fii direct şi cum să mergi absolut drept.
-
-476
-00:34:29,291 --> 00:34:33,083
-În natură nimic nu merge în linie dreaptă, totul se mişcă
-
-477
-00:34:33,333 --> 00:34:37,083
-atât de frumos, pentru că natura e creată din varietate,
-
-478
-00:34:37,333 --> 00:34:38,959
+00:34:37,235 --> 00:34:38,959
 iar varietatea dă frumuseţea.
 
+472
+00:34:39,166 --> 00:34:42,427
+Acești oameni nu se gândesc la frumuseţe, iubire, compasiune, nimic.
+
+473
+00:34:42,628 --> 00:34:46,643
+Pentru ei totul trebuie să fie foarte meticulos şi aşa trăiesc.
+
+474
+00:34:46,844 --> 00:34:52,569
+Astfel de oameni dezvoltă un mare ego, aşa cum vedeţi aici,
+
+475
+00:34:52,770 --> 00:34:57,493
+este această zonă de culoare galbenă la nivelul capului, numită ego.
+
+476
+00:34:57,694 --> 00:35:00,378
+Poți arăta zona?
+
+477
+00:35:01,172 --> 00:35:04,959
+Prin acţiunea părţii stângi, a părţii emoţionale, dezvoltăm superego
+
+478
+00:35:05,160 --> 00:35:08,553
+dar prin acţiunea părţii drepte, dezvoltăm ego.
+
 479
-00:34:39,166 --> 00:34:41,333
-Ei nu se gândesc la frumuseţe, nu se gândesc la dragoste,
+00:35:08,754 --> 00:35:11,611
+Ei bine, acest ego nu este uşor de văzut.
 
 480
-00:34:41,625 --> 00:34:44,625
-la compasiune, la nimic. Pentru ei e o lume foarte meticuloasă
+00:35:11,812 --> 00:35:13,851
+Pentru că dacă ai superego,
 
 481
-00:34:44,875 --> 00:34:46,917
-şi ei aşa trăiesc.
+00:35:14,052 --> 00:35:17,309
+ai dureri în corp, eşti o persoană nefericită,
 
 482
-00:34:47,166 --> 00:34:51,417
-Astfel de oameni îşi dezvoltă un mare ego,
+00:35:17,510 --> 00:35:21,567
+ai o față ridată şi arăţi absolut epuizat.
 
 483
-00:34:51,750 --> 00:34:57,333
-aşa cum vedeţi acolo, e o chestie galbenă în cap numită ego.
+00:35:21,768 --> 00:35:24,997
+Dar dacă ai ego, arăți atât de dinamic.
 
 484
-00:34:57,750 --> 00:35:03,208
-Prin acţiunea părţii stângi, a părţii emoţionale,
+00:35:25,198 --> 00:35:29,500
+Putem spune că Hitler a fost extrema egoului.
 
 485
-00:35:03,542 --> 00:35:06,166
-dezvoltăm superego, iar prin acţiunea părţii drepte
+00:35:29,701 --> 00:35:35,260
+Iar egoul i-a creat impresia că e un fel de încarnare divină,
 
 486
-00:35:06,542 --> 00:35:11,542
-dezvoltăm ego. Acest ego nu e uşor de văzut.
+00:35:35,461 --> 00:35:37,368
+care trebuie să salveze oamenii,
 
 487
-00:35:11,792 --> 00:35:14,667
-Pentru că dacă ai superego, ai dureri în corp,
+00:35:37,569 --> 00:35:41,107
+i-a creat impresia că el ştie totul despre rase, despre orice
 
 488
-00:35:14,917 --> 00:35:18,208
-eşti o persoană ca vai de lume, ai riduri
+00:35:41,308 --> 00:35:44,636
+şi trebuie să salveze o anumită rasă.
 
 489
-00:35:18,458 --> 00:35:21,875
-şi arăţi absolut secătuit.
+00:35:44,837 --> 00:35:50,189
+Acest gen de idee vine de la oamenii care sunt pe dreapta.
 
 490
-00:35:22,083 --> 00:35:25,208
-Dar dacă ai ego, atunci pari atât de dinamic.
+00:35:50,390 --> 00:35:52,077
+Ei sunt foarte agresivi;
 
 491
-00:35:25,500 --> 00:35:29,458
-Putem spune că Hitler a fost extrema acestui ego.
+00:35:52,278 --> 00:35:54,731
+pot părea persoanele cu care poți vorbi cel mai bine,
 
 492
-00:35:29,750 --> 00:35:34,166
-Şi i-a intrat în cap că e un fel de dumnezeu,
+00:35:54,931 --> 00:35:56,875
+pot părea foarte umili,
 
 493
-00:35:34,458 --> 00:35:37,083
-o încarnare, şi că trebuie să salveze oamenii,
-
-494
-00:35:37,417 --> 00:35:40,792
-că el era cel ce ştie despre rase şi despre toate
-
-495
-00:35:41,041 --> 00:35:44,917
-şi trebuie să salveze nu ştiu ce rasă.
-
-496
-00:35:45,166 --> 00:35:48,542
-Acest gen de idee vine de la oamenii pe dreapta,
-
-497
-00:35:48,875 --> 00:35:52,875
-ei sunt foarte agresivi;
-
-498
-00:35:53,083 --> 00:35:56,875
-poţi purta foarte bine o conversaţie cu ei, pot părea foarte umili,
-
-499
-00:35:57,542 --> 00:36:00,166
+00:35:57,076 --> 00:36:00,166
 pot fi foarte buni oameni de afaceri, pot fi orice,
 
+494
+00:36:00,367 --> 00:36:06,300
+dar ei nu ştiu că au acest ego pe cap, ca un balon mare,
+
+495
+00:36:06,534 --> 00:36:08,411
+şi că din cauza lui plutesc în aer.
+
+496
+00:36:08,612 --> 00:36:11,025
+Veţi fi surprinşi, egoul sfârșește până la urmă în prostie.
+
+497
+00:36:11,225 --> 00:36:13,135
+Egoul sfârșește în prostie.
+
+498
+00:36:13,336 --> 00:36:16,216
+Astfel de oameni se dedau la tot felul de lucruri stupide
+
+499
+00:36:16,417 --> 00:36:18,054
+şi spun: „Ce e greşit în asta?”.
+
 500
-00:36:00,417 --> 00:36:03,208
-dar ei nu ştiu că au acest Domn Ego,
+00:36:18,255 --> 00:36:21,057
+De exemplu, am cunoscut persoane în vârstă
 
 501
-00:36:03,542 --> 00:36:06,333
-care li se urcă la cap la fel ca un balon mare,
+00:36:21,258 --> 00:36:24,750
+care se comportau atât de stupid, spunând: „Ce-i rău în asta?”.
 
 502
-00:36:06,625 --> 00:36:09,917
-şi încep să plutească în aer. Sfârşitul egolui e prostia.
-
-503
-00:36:10,166 --> 00:36:12,750
-Veţi fi surprinşi, sfârşitul egolui e prostia.
-
-504
-00:36:12,999 --> 00:36:16,166
-Astfel de oameni se complac în tot felul de lucruri stupide
-
-505
-00:36:16,417 --> 00:36:18,417
-şi apoi spun: „Ce-i greşit?”
-
-506
-00:36:18,667 --> 00:36:21,917
-De exemplu, am cunoscut bătrâni
-
-507
-00:36:22,208 --> 00:36:24,750
-care se comportau atât de stupid, spunând: „Ce-i greşit?”
-
-508
 00:36:25,000 --> 00:36:26,917
 Ştiţi, un bătrân, să zicem de nouăzeci de ani,
 
+503
+00:36:27,118 --> 00:36:29,286
+care nici măcar nu poate merge fără baston,
+
+504
+00:36:29,487 --> 00:36:31,635
+încearcă să vă imite și să danseze ca voi
+
+505
+00:36:31,836 --> 00:36:35,675
+iar apoi cade şi spune: „Ce-i rău în asta?”.
+
+506
+00:36:35,876 --> 00:36:38,478
+De pildă, am cunoscut o doamnă de vreo 85 de ani
+
+507
+00:36:38,679 --> 00:36:41,166
+care a murit căzând de pe cal.
+
+508
+00:36:41,367 --> 00:36:45,542
+Normal... La ce să te aştepţi la 85 de ani? Asta se va întâmpla!
+
 509
-00:36:27,208 --> 00:36:30,999
-care nici măcar nu poate să meargă fără baston, merge la dansurile
+00:36:45,743 --> 00:36:48,664
+O doamnă la 85 de ani ar trebui să stea liniștită acasă,
 
 510
-00:36:31,208 --> 00:36:33,999
-la care mergeţi şi voi şi apoi cade, vedeţi,
+00:36:48,865 --> 00:36:52,090
+să aibă grijă de nepoţi, poate chiar de strănepoţi...
 
 511
-00:36:34,333 --> 00:36:36,999
-şi se gândeşte: „Ce-i greşit?” De pildă o doamnă pe care am cunoscut-o,
+00:36:52,291 --> 00:36:55,491
+În loc de asta, de ce-ar vrea să fie ca la 25 de ani
 
 512
-00:36:37,291 --> 00:36:41,166
-avea vreo 85 de ani, a murit căzând de pe cal.
+00:36:55,692 --> 00:36:57,412
+şi să călărească?
 
 513
-00:36:41,333 --> 00:36:44,208
-Normal... La ce să te aştepţi la 85 de ani,
+00:36:57,613 --> 00:36:59,930
+Aşadar fac tot felul de lucruri stupide
 
 514
-00:36:44,458 --> 00:36:46,917
-asta e evident, o doamnă la 85 de ani ar trebui
+00:37:00,130 --> 00:37:02,397
+şi apoi întreabă: „Ce-i greşit în asta?”.
 
 515
-00:36:47,166 --> 00:36:49,792
-să stea acasă, să aibă grijă de nepoţi,
+00:37:02,598 --> 00:37:04,813
+Nu-i nimic greşit în prostie, ce poate fi?
 
 516
-00:36:50,000 --> 00:36:52,000
-poate are chiar de strănepoţi, vedeţi?
+00:37:05,014 --> 00:37:10,060
+Dar astfel de oameni sunt o pacoste pentru societate, pentru alţii.
 
 517
-00:36:52,291 --> 00:36:54,291
-În loc de asta, de ce-ar vrea să fie o tânără de 25 de ani
+00:37:10,261 --> 00:37:14,090
+Oamenii care au superego se torturează pe ei înşişi,
 
 518
-00:36:54,583 --> 00:36:57,333
-şi să urce pe cal?
+00:37:14,291 --> 00:37:18,297
+însă cei egoişti îi chinuie pe ceilalţi,
 
 519
-00:36:57,542 --> 00:37:01,083
-Aşa că fac tot felul de lucruri stupide şi apoi întreabă:
+00:37:18,498 --> 00:37:22,561
+îi corectează tot timpul pe alţii, îi torturează,
 
 520
-00:37:01,291 --> 00:37:04,208
-„Ce-i greşit?” Nu-i nimic greşit în prostie, ce e greşit?
+00:37:22,762 --> 00:37:25,106
+impun celorlalţi ideile lor;
 
 521
-00:37:04,542 --> 00:37:10,083
-Dar astfel de oameni sunt o pacoste pentru societate, pentru ceilalţi.
+00:37:25,307 --> 00:37:27,455
+şi astfel de oameni pot avea mare succes,
 
 522
-00:37:10,417 --> 00:37:14,000
-Oamenii care au superego sunt o problemă pentru ei înşişi,
+00:37:27,656 --> 00:37:30,551
+fiindcă nimic nu impresionează mai mult decât succesul.
 
 523
-00:37:14,291 --> 00:37:18,458
-însă cei egoişti sunt o problemă pentru ceilalţi.
+00:37:30,752 --> 00:37:36,543
+Le repetă tot timpul oamenilor: „Asta e adevărat, asta e adevărat”
 
 524
-00:37:18,750 --> 00:37:21,750
-Îi corectează tot timpul pe ceilalţi, îi torturează pe ceilalţi,
+00:37:36,744 --> 00:37:40,134
+şi când o spui mereu, oamenii ajung să creadă: „Aşa trebuie să fie”.
 
 525
-00:37:22,000 --> 00:37:25,667
-impun celorlalţi oameni  ideile lor, şi astfel de oameni
+00:37:40,335 --> 00:37:44,792
+Şi astfel de oameni sunt mult mai periculoşi decât cei cu superego.
 
 526
-00:37:25,917 --> 00:37:28,792
-pot avea foarte, foarte mult succes,
+00:37:45,000 --> 00:37:49,608
+Dar pentru cei care nu cunosc trucurile superegoului,
 
 527
-00:37:29,083 --> 00:37:30,583
-pentru că nimic nu le reuşeşte precum succesul.
+00:37:49,809 --> 00:37:55,917
+ei pot fi de asemenea foarte, foarte periculoşi,
 
 528
-00:37:30,875 --> 00:37:34,208
-Mereu le bagă în cap oamenilor că:
+00:37:56,118 --> 00:37:59,473
+pentru că sunt foarte subtili, nu-i poţi percepe,
 
 529
-00:37:34,458 --> 00:37:36,417
-„Asta e adevărat, asta e adevărat,”
+00:37:59,674 --> 00:38:03,573
+te hipnotizează şi te pot poseda,
 
 530
-00:37:36,667 --> 00:37:38,875
-şi când o spui mereu, oamenii ajung s-o creadă:
+00:38:03,774 --> 00:38:05,997
+pot fi foarte vicleni
 
 531
-00:37:39,083 --> 00:37:42,583
-„Da, aşa trebuie să fie.” Şi astfel de oameni sunt mult mai periculoşi,
+00:38:06,198 --> 00:38:09,835
+şi pot urzi tot felul de planuri de care nu ești conştient.
 
 532
-00:37:42,917 --> 00:37:44,792
-aş zice, decât tipul cu superego.
+00:38:10,036 --> 00:38:14,716
+Aşa că nu e uşor să alegi care e mai bun sau mai rău dintre ei.
 
 533
-00:37:45,000 --> 00:37:48,875
-Dar pentru oamenii care nu cunosc trucurile
+00:38:14,917 --> 00:38:19,674
+Este la fel de greşit să mergi în extrema dreaptă sau în cea stângă.
 
 534
-00:37:49,000 --> 00:37:55,917
-superegoului, ei pot fi foarte, foarte, foarte periculoşi,
-
-535
-00:37:56,458 --> 00:38:00,291
-pentru că sunt foarte subtili, nu-i poţi vedea, te hipnotizează
-
-536
-00:38:00,583 --> 00:38:06,083
-şi te pot poseda, pot fi foarte vicleni şi pot să creeze
-
-537
-00:38:06,333 --> 00:38:09,917
-tot felul de metode de care să nu fii conştient.
-
-538
-00:38:10,125 --> 00:38:14,583
-Aşa că nu e uşor să alegi care e bun, care nu e bun.
-
-539
-00:38:14,917 --> 00:38:17,542
-Ambele sunt greşite, pentru că merg la extreme,
-
-540
-00:38:17,709 --> 00:38:20,083
-pe dreapta sau pe stânga.
-
-541
-00:38:20,333 --> 00:38:22,458
+00:38:19,875 --> 00:38:22,218
 Acum să vedem ce se întâmplă la nivel fizic.
 
+535
+00:38:22,419 --> 00:38:25,999
+Aşa cum v-am spus cancerul vine de pe partea stângă.
+
+536
+00:38:26,200 --> 00:38:29,178
+Ce se întâmplă la nivel fizic cu cei ce se gândesc mereu la viitor?
+
+537
+00:38:29,379 --> 00:38:32,558
+Avem un centru pe care îl afectează orientarea noastră către viitor,
+
+538
+00:38:32,759 --> 00:38:34,392
+numit Swadhisthan chakra,
+
+539
+00:38:34,593 --> 00:38:41,048
+care la nivel fizic se manifestă sub forma plexului aortic.
+
+540
+00:38:41,249 --> 00:38:44,827
+Chakra Swadhisthan e foarte importantă pentru fiinţele umane,
+
+541
+00:38:45,028 --> 00:38:48,061
+în special pentru intelectuali.
+
 542
-00:38:22,917 --> 00:38:25,999
-Aşa cum am spus despre cancerul care vine de pe  partea stângă,
+00:38:48,262 --> 00:38:53,000
+Această chakră de fapt convertește grăsimea de la nivelul stomacului
 
 543
-00:38:26,291 --> 00:38:29,125
-ce se întâmplă la nivel fizic cu oamenii futurişti?
+00:38:53,208 --> 00:38:55,250
+în folosul creierului.
 
 544
-00:38:29,333 --> 00:38:32,333
-Avem un centru, special pentru comportamentul futurist,
-
-545
-00:38:32,583 --> 00:38:35,875
-numit Swadhisthan chakra, care la nivel grosier
-
-546
-00:38:36,417 --> 00:38:41,125
-manifestă în noi plexul numit plexul aortic.
-
-547
-00:38:41,458 --> 00:38:44,125
-Această Swadhisthan chakra e foarte importantă pentru fiinţele umane,
-
-548
-00:38:44,417 --> 00:38:48,250
-în special pentru oamenii aflaţi la un nivel înalt de dezvoltare.
-
-549
-00:38:48,542 --> 00:38:53,000
-Cu această chakra de fapt transformăm grăsimea stomacului
-
-550
-00:38:53,208 --> 00:38:55,250
-pentru folosul creierului.
-
-551
-00:38:55,542 --> 00:39:00,000
+00:38:55,451 --> 00:38:59,567
 Acesta e centrul lui Surya, al soarelui.
 
+545
+00:38:59,768 --> 00:39:04,902
+Când începeți să gândiți, aceste celule sunt transformate
+
+546
+00:39:05,103 --> 00:39:08,714
+astfel încât să fie folositoare creierului.
+
+547
+00:39:08,915 --> 00:39:14,798
+Ei bine, dacă gândiți tot timpul, ce se va întâmpla?
+
+548
+00:39:14,999 --> 00:39:17,575
+Nu vă vor creşte coarne ca urmare a acestui fapt;
+
+549
+00:39:17,776 --> 00:39:22,485
+voi consumaţi, consumați toate acele celule
+
+550
+00:39:22,686 --> 00:39:24,591
+ele trebuind apoi înlocuite,
+
+551
+00:39:24,792 --> 00:39:29,192
+iar pentru asta Swadhisthan chakra trebuie să muncească din greu
+
 552
-00:39:00,250 --> 00:39:04,333
-Când începem să gândim, aceste celule sunt transformate
+00:39:29,393 --> 00:39:33,106
+să transforme celulele în folosul creierului.
 
 553
-00:39:05,000 --> 00:39:08,917
-în aşa fel încât devin folositoare creierului.
+00:39:33,657 --> 00:39:37,678
+În timp ce face asta, există și alte lucruri
 
 554
-00:39:09,125 --> 00:39:12,458
-Dacă gândiţi tot timpul, dacă gândiţi tot timpul,
+00:39:37,879 --> 00:39:41,853
+de care chakra Swadhisthan trebuie să aibă grijă, cum ar fi ficatul,
 
 555
-00:39:12,667 --> 00:39:14,458
-ce se întâmplă?
+00:39:42,208 --> 00:39:46,644
+pancreasul, splina, rinichii –
 
 556
-00:39:14,999 --> 00:39:17,208
-Nu vă vor creşte coarne din asta;
+00:39:46,845 --> 00:39:50,070
+toate trebuie îngrijite de acest centru
 
 557
-00:39:17,458 --> 00:39:20,999
-voi consumaţi toate astea şi apoi consumaţi toate acele celule
+00:39:50,270 --> 00:39:53,222
+şi de asemenea uterul în cazul doamnelor.
 
 558
-00:39:21,208 --> 00:39:24,458
-şi trebuie să le înlocuiţi,
+00:39:53,423 --> 00:39:58,078
+Ei bine, dacă chakra Swadhisthan este epuizată de o singură muncă,
 
 559
-00:39:24,709 --> 00:39:28,208
-iar pentru această înlocuire Swadhisthan chakra trebuie să muncească din greu,
+00:39:58,279 --> 00:40:00,562
+şi nu-și poate îndeplini celelalte responsabilități,
 
 560
-00:39:28,458 --> 00:39:33,709
-ca să transforme celulele pentru folosul creierului vostru.
+00:40:00,763 --> 00:40:03,050
+atunci toate celelalte organe sunt neglijate,
 
 561
-00:39:33,999 --> 00:39:38,125
-Când se întâmplă asta, există alte lucruri
+00:40:03,250 --> 00:40:07,216
+așa că dezvoltaţi o afecțiune teribilă la nivelul ficatului.
 
 562
-00:39:38,542 --> 00:39:41,917
-de care Swadhisthan chakra trebuie să aibă grijă, spre exemplu ficatul,
+00:40:07,417 --> 00:40:10,542
+Ei bine, problemele de ficat sunt un alt lucru pe care nu-l simţiţi.
 
 563
-00:39:42,208 --> 00:39:47,792
-pancreasul, splina, rinichii – toate trebuie îngrijite
+00:40:10,743 --> 00:40:13,976
+Alţii văd că aveţi probleme de ficat fiindcă sunteţi impulsivi,
 
 564
-00:39:48,125 --> 00:39:53,417
-de acest centru, şi de asemenea uterul la doamne.
+00:40:14,177 --> 00:40:17,032
+sunteți agitați,
 
 565
-00:39:53,667 --> 00:39:56,709
-Dacă Swadhisthan chakra face o singură muncă,
+00:40:17,233 --> 00:40:20,887
+sunteți aroganți,
 
 566
-00:39:56,917 --> 00:40:00,458
-şi nu poate face nicio altă muncă,
+00:40:21,087 --> 00:40:26,576
+nu sunteţi niciodată mulţumiți de nimic,
 
 567
-00:40:00,709 --> 00:40:03,083
-atunci toate celelalte lucruri sunt neglijate şi vă dezvoltaţi
+00:40:26,777 --> 00:40:30,000
+îi criticaţi pe alţii – toate acestea reflectă probleme de ficat.
 
 568
-00:40:03,250 --> 00:40:06,583
-o boală teribilă numită problemă de ficat.
+00:40:30,201 --> 00:40:33,924
+Cei cu probleme de ficat nu sunt niciodată mulţumiţi,
 
 569
-00:40:07,417 --> 00:40:10,542
-Problema de ficat e un alt lucru pe care voi înşivă nu-l simţiţi,
+00:40:34,125 --> 00:40:36,396
+fiindcă ficatul are grijă de atenţia voastră.
 
 570
-00:40:10,792 --> 00:40:12,709
-alţii ştiu că aveţi probleme de ficat, din faptul
+00:40:36,597 --> 00:40:39,458
+Cei cu probleme de ficat au de asemenea o atenţie oribilă -
 
 571
-00:40:12,999 --> 00:40:18,583
-că sunteţi impulsivi, din faptul că sunteţi sclifosit, din felul în care
+00:40:39,659 --> 00:40:42,353
+merge în toate părţile, nu poate rămâne concentrată.
 
 572
-00:40:18,834 --> 00:40:25,667
-vă arătaţi colţii şi din faptul că nu sunteţi niciodată mulţumit de nimic,
+00:40:42,554 --> 00:40:45,241
+Pe stradă vă veți lovi de o maşină,
 
 573
-00:40:25,917 --> 00:40:28,333
-din felul în care îi criticaţi pe alţii –
+00:40:45,441 --> 00:40:47,770
+pentru că vă uitaţi la ce nu trebuie.
 
 574
-00:40:28,583 --> 00:40:32,999
-toate astea sunt probleme de ficat şi astfel de oameni cu probleme de ficat
+00:40:47,971 --> 00:40:50,966
+Tot timpul priviţi în stânga, în dreapta, nu vedeți pe unde mergeți.
 
 575
-00:40:33,208 --> 00:40:36,208
-nu sunt mulţumiţi de ei, pentru că ficatul se îngrijeşte de atenţia voastră,
+00:40:51,167 --> 00:40:54,062
+Nu veți găsi niciun animal care să meargă așa -
 
 576
-00:40:36,458 --> 00:40:39,458
-iar la cei cu probleme de ficat atenţia e oribilă;
+00:40:54,263 --> 00:40:55,571
+numai oamenii fac asta.
 
 577
-00:40:39,709 --> 00:40:41,458
-merge în toate părţile, vedeţi, nu poate sta într-un loc.
+00:40:55,772 --> 00:40:58,467
+Dacă îi vezi pe stradă, eşti surprins, nu știi încotro merg.
 
 578
-00:40:41,709 --> 00:40:44,250
-Pe stradă daţi peste o maşină,
+00:40:58,668 --> 00:41:00,570
+Ei nu merg drept, nu privesc drept,
 
 579
-00:40:44,542 --> 00:40:46,709
-pentru că vă uitaţi
+00:41:00,771 --> 00:41:03,709
+ochii li se duc în toate părţile, pentru că atenţia e instabilă,
 
 580
-00:40:46,959 --> 00:40:48,125
-la ce nu trebuie.
+00:41:03,910 --> 00:41:06,667
+atenţia este instabilă din cauza problemelor de ficat.
 
 581
-00:40:48,375 --> 00:40:49,834
-Dar tot timpul vă uitaţi aşa,
+00:41:06,868 --> 00:41:10,220
+Deci ficatul este un organ foarte, foarte important.
 
 582
-00:40:50,083 --> 00:40:52,333
-nu puteţi merge, vreau să spun, nu  găsiţi niciun animal
+00:41:10,421 --> 00:41:13,983
+Ei bine, ficatul are o capacitate specială,
 
 583
-00:40:52,583 --> 00:40:55,333
-care merge aşa, numai fiinţele umane fac asta.
+00:41:14,184 --> 00:41:17,451
+aceea de a extrage toate toxinele din corp în formă de căldură.
 
 584
-00:40:55,583 --> 00:40:57,083
-Dacă-i vezi pe stradă, eşti surprins.
+00:41:17,652 --> 00:41:21,933
+Iar căldura din corp trebuie transformată
 
 585
-00:40:57,333 --> 00:40:59,375
-Unde merg ei? Ei nu merg drept,
+00:41:22,134 --> 00:41:25,516
+sau ar trebui transferată către circuitul sanguin,
 
 586
-00:40:59,709 --> 00:41:01,792
-ei nu privesc drept, ochii li se duc în toate părţile,
+00:41:25,717 --> 00:41:27,479
+către apa din circuitul sanguin,
 
 587
-00:41:01,959 --> 00:41:03,709
-pentru că atenţia e instabilă,
+00:41:27,680 --> 00:41:28,834
+sau către apa din sânge
 
 588
-00:41:03,959 --> 00:41:06,667
-atenţia e instabilă din cauza unui ficat prost.
+00:41:29,083 --> 00:41:31,596
+și scoasă din corpul vostru fie sub formă de transpiraţie,
 
 589
-00:41:06,917 --> 00:41:09,834
-Deci ficatul este un lucru foarte, foarte important.
+00:41:31,796 --> 00:41:33,478
+sau sub o altă formă.
 
 590
-00:41:10,208 --> 00:41:15,667
-Acest ficat are o capacitate specială de a extrage toate otrăvurile din corp
+00:41:33,679 --> 00:41:37,359
+Dar atunci când acest ficat nu este în regulă,
 
 591
-00:41:15,917 --> 00:41:20,125
-sub forma căldurii, şi căldura din corp
+00:41:37,560 --> 00:41:42,273
+el nu poate transfera căldura către circuitul sanguin
 
 592
-00:41:20,375 --> 00:41:25,709
-este transformată sau ar trebui prelucrată în sânge
+00:41:42,474 --> 00:41:44,292
+iar căldura rămâne în corp,
 
 593
-00:41:25,917 --> 00:41:28,834
-sau în apa din sânge, iar apa asta trebuie scoasă din corpul vostru,
+00:41:44,493 --> 00:41:46,961
+iar voi acumulați acea căldură în corp,
 
 594
-00:41:29,083 --> 00:41:33,250
-fie ca transpiraţie, fie într-o altă formă.
+00:41:47,162 --> 00:41:51,054
+care vă creează adevărate probleme.
 
 595
-00:41:33,583 --> 00:41:36,083
-Dar ce se întâmplă atunci când acest ficat
+00:41:51,977 --> 00:41:56,458
+Deci în Sahaja Yoga, când Kundalini se ridică
 
 596
-00:41:36,333 --> 00:41:40,959
-nu e în regulă şi n-o poate face, nu poate transfera căldura
+00:41:56,659 --> 00:42:01,207
+Ea schimbă structura sângelui.
 
 597
-00:41:41,250 --> 00:41:43,709
-spre fluxul sanguin şi căldura rămâne în corp,
+00:42:01,458 --> 00:42:04,565
+Din cauza căldurii, hidrogenul şi oxigenul
 
 598
-00:41:43,959 --> 00:41:47,458
-iar voi vă supraîncălziţi şi
+00:42:04,766 --> 00:42:08,109
+sunt dispuse într-un mod foarte ciudat,
 
 599
-00:41:47,709 --> 00:41:51,792
-căldura vă creează toate aceste probleme.
+00:42:08,310 --> 00:42:12,693
+legătura lor devine concavă şi încep să rețină căldura.
 
 600
-00:41:52,083 --> 00:41:56,458
-Deci ceea ce se întâmplă în Sahaja Yoga când Kundalini se ridică
+00:42:12,894 --> 00:42:15,203
+De aceea cei care au ficatul bolnav
 
 601
-00:41:56,709 --> 00:42:00,375
-este că ea schimbă forma sângelui.
+00:42:15,404 --> 00:42:17,862
+simt puţină căldură când se ridică energia Kundalini.
 
 602
-00:42:01,458 --> 00:42:05,000
-Hidrogenul şi oxigenul care, din cauza căldurii, sunt plasate
+00:42:18,063 --> 00:42:23,410
+Dar ficatul poate fi vindecat dacă primește pace şi confort,
 
 603
-00:42:05,250 --> 00:42:09,333
-într-un mod foarte ciudat, aşa, devin aşa
+00:42:23,611 --> 00:42:27,523
+puteți cu siguranţă să vă vindecați ficatul, fără nicio îndoială.
 
 604
-00:42:09,583 --> 00:42:12,709
-şi încep să absoarbă ele această căldură.
+00:42:27,724 --> 00:42:32,940
+Al doilea lucru care se poate declanșa sunt problemele de pancreas,
 
 605
-00:42:12,959 --> 00:42:15,375
-De aceea oamenii care au ficatul bolnav simt
+00:42:33,141 --> 00:42:34,499
+care generează diabetul.
 
 606
-00:42:15,667 --> 00:42:17,458
-puţină căldură când Kundalini se ridică.
+00:42:34,700 --> 00:42:37,687
+Numai o persoană care gândeşte prea mult poate face diabet.
 
 607
-00:42:17,792 --> 00:42:20,500
-Dar te poţi vindeca asigurând ficatului pace
+00:42:37,888 --> 00:42:40,656
+De exemplu, un ţăran indian nu ştie ce este diabetul.
 
 608
-00:42:20,792 --> 00:42:24,375
-şi confort, poţi cu siguranţă să-ţi vindeci ficatul,
+00:42:40,857 --> 00:42:42,767
+Iar apoi renunţaţi la consumul de zahăr,
 
 609
-00:42:24,709 --> 00:42:26,959
-fără nicio îndoială.
+00:42:42,968 --> 00:42:44,752
+dar nu asta e soluţia de a vă vindeca.
 
 610
-00:42:27,250 --> 00:42:30,333
-Apoi al doilea lucru care vi se întâmplă
+00:42:44,953 --> 00:42:48,000
+Faceți diabet pentru că gândiţi, gândiţi, gândiţi prea mult.
 
 611
-00:42:30,709 --> 00:42:34,500
-este pancreasul care vă dă diabet.
+00:42:48,201 --> 00:42:49,689
+Doctorii nu înţeleg asta,
 
 612
-00:42:34,792 --> 00:42:37,333
-Numai o persoană care gândeşte prea mult face diabet.
+00:42:49,890 --> 00:42:51,829
+de aceea spun că este incurabil,
 
 613
-00:42:37,583 --> 00:42:40,709
-De exemplu un ţăran indian nu ştie ce-i diabetul.
+00:42:52,030 --> 00:42:55,120
+fiindcă nu pot face legătura între procesele mentale şi diabet.
 
 614
-00:42:40,959 --> 00:42:42,917
-Apoi voi renunţaţi la zahăr, dar nu asta-i soluţia
+00:42:55,321 --> 00:42:58,756
+Şi asta se întâmplă când gândiţi tot timpul ca nişte nebuni -
 
 615
-00:42:43,125 --> 00:42:45,792
-de a stopa diabetul. Diabetul apare pentru că
+00:42:58,957 --> 00:43:00,655
+se declanșează diabetul.
 
 616
-00:42:46,000 --> 00:42:48,000
-gândiţi, gândiţi, gândiţi, gândiţi, gândiţi, prea mult.
+00:43:00,856 --> 00:43:05,424
+Diabetul este de asemenea vindecabil, dacă dobândiţi Iluminarea.
 
 617
-00:42:48,333 --> 00:42:50,375
-Doctorii nu înţeleg, de aceea spun
+00:43:05,625 --> 00:43:08,307
+Puteţi să-i vindecaţi şi pe alții de diabet,
 
 618
-00:42:50,625 --> 00:42:52,959
-că e incurabil, pentru că nu pot face legătura
+00:43:08,508 --> 00:43:12,410
+deoarece această putere vitală ce integrează toate cele trei puteri,
 
 619
-00:42:53,208 --> 00:42:54,834
-între gândit şi boală.
+00:43:12,610 --> 00:43:13,925
+curge prin voi,
 
 620
-00:42:55,125 --> 00:42:57,125
-Şi asta se întâmplă când gândiţi tot timpul
+00:43:14,126 --> 00:43:16,607
+iar voi puteţi să-i reîncărcaţi,
 
 621
-00:42:57,458 --> 00:43:00,250
-ca nişte nebuni, atunci se instaurează diabetul.
+00:43:16,808 --> 00:43:21,635
+puteţi să le daţi mai multă energie celor care o au epuizată,
 
 622
-00:43:00,583 --> 00:43:05,166
-Iar diabetul este de asemenea vindecabil, dacă vă obţineţi iluminarea.
+00:43:21,836 --> 00:43:25,490
+puteţi să-i reîncărcați cu această putere și să-i vindecaţi.
 
 623
-00:43:05,625 --> 00:43:08,041
-Puteţi să vindecaţi şi diabetul altor oameni,
+00:43:25,691 --> 00:43:28,396
+A treia problemă care poate apărea este și cea mai gravă,
 
 624
-00:43:08,250 --> 00:43:11,583
-deoarece această putere considerabilă care e integrarea
+00:43:28,597 --> 00:43:30,924
+este cancerul sângelui, cauzat de splină.
 
 625
-00:43:11,834 --> 00:43:16,125
-acestor trei puteri, curge prin voi, iar voi puteţi să reîncărcaţi,
+00:43:31,125 --> 00:43:33,268
+Splina e un organ foarte important,
 
 626
-00:43:16,333 --> 00:43:21,333
-puteţi să le daţi mai mult altor oameni care sunt epuizaţi,
+00:43:33,469 --> 00:43:37,388
+pentru că este centrul păcii din interiorul nostru.
 
 627
-00:43:21,709 --> 00:43:25,583
-şi puteţi într-un fel să-i umpleţi cu această putere şi să-i vindecaţi.
+00:43:37,589 --> 00:43:39,792
+Cei care nu au o splină în bună stare
 
 628
-00:43:25,917 --> 00:43:28,000
-Dar cel de-al treilea este cel mai grav din câte li se întâmplă oamenilor,
+00:43:40,041 --> 00:43:42,182
+nu pot avea pace și calm interior.
 
 629
-00:43:28,333 --> 00:43:30,834
-este cancerul  sângelui, cauzat de splină.
-
-630
-00:43:31,125 --> 00:43:33,125
-Splina e un lucru foarte important,
-
-631
-00:43:33,375 --> 00:43:37,458
-pentru că e centrul păcii din interiorul vostru.
-
-632
-00:43:37,709 --> 00:43:39,792
-Acela care nu are o splină în bună stare
-
-633
-00:43:40,041 --> 00:43:41,917
-nu poate fi o persoană liniştită.
-
-634
-00:43:42,166 --> 00:43:45,583
+00:43:42,383 --> 00:43:45,633
 E un lucru foarte simplu, dar doctorii nu pot face legătura
 
+630
+00:43:45,834 --> 00:43:51,049
+şi nici oamenii de ştiinţă nu pot face legătura cu un lucru simplu.
+
+631
+00:43:51,250 --> 00:43:54,959
+Iar acest lucru simplu este faptul că, dacă atunci când mâncăm,
+
+632
+00:43:55,166 --> 00:43:57,623
+suntem agitați, grăbiți,
+
+633
+00:43:57,823 --> 00:44:01,480
+suntem predispuși la probleme de splină
+
+634
+00:44:01,681 --> 00:44:03,824
+şi putem face leucemie.
+
 635
-00:43:45,834 --> 00:43:48,792
-şi nici oamenii înclinaţi spre ştiinţă nu pot face legătura
+00:44:04,025 --> 00:44:07,720
+Ei bine, dacă mama sau tatăl au un astfel de temperament,
 
 636
-00:43:49,000 --> 00:43:51,166
-cu ceva foarte, foarte simplu.
+00:44:07,921 --> 00:44:11,379
+copiii pot dezvolta încă de la naştere leucemie.
 
 637
-00:43:51,458 --> 00:43:54,959
-Şi lucrul simplu e că, dacă suntem agitaţi atunci când mâncăm,
+00:44:11,580 --> 00:44:17,669
+Cu bucurie vă spunem că în New York am avut un caz de leucemie
 
 638
-00:43:55,166 --> 00:44:00,834
-dezvoltăm probleme de splină
+00:44:17,870 --> 00:44:20,974
+care Mi s-a adus la cunoștință când eram în India, într-un sat.
 
 639
-00:44:01,375 --> 00:44:03,917
-şi putem face cancer în sânge.
+00:44:21,175 --> 00:44:23,758
+Cineva a venit şi Mi-a spus despre băiatul bolnav.
 
 640
-00:44:04,250 --> 00:44:07,041
-Dacă mama are un astfel de temperament sau tatăl are un astfel de
+00:44:23,959 --> 00:44:25,938
+Avea doar 16 ani, suferea de leucemie
 
 641
-00:44:07,333 --> 00:44:11,583
-temperament, copiii s-ar putea naşte având cancer în sânge.
+00:44:26,139 --> 00:44:28,969
+iar doctorii nu îi mai dăduseră decât două săptămâni.
 
 642
-00:44:11,917 --> 00:44:16,375
-Suntem încântaţi să vă spunem că în New York am avut un caz
+00:44:29,169 --> 00:44:32,271
+Ei întotdeauna dau verdicte, doar la asta sunt buni.
 
 643
-00:44:16,583 --> 00:44:20,792
-de cancer în sânge şi când am fost în India, într-un sat,
+00:44:32,472 --> 00:44:34,910
+Când Mi s-a adus la cunoștință acest caz,
 
 644
-00:44:21,000 --> 00:44:23,583
-cineva a venit şi mi-a zis că un anume băiat e bolnav,
+00:44:35,111 --> 00:44:37,984
+le-am spus: „Nu pot face nimic, sunt într-un sat,
 
 645
-00:44:23,959 --> 00:44:26,125
-are doar 16 ani, are cancer în sânge şi doctorii
+00:44:38,185 --> 00:44:40,536
+dar puteţi telefona unei Sahaja Yoghine,
 
 646
-00:44:26,333 --> 00:44:29,000
-declaraseră că va muri în două săptămâni.
+00:44:40,737 --> 00:44:43,976
+care a locuit în Anglia - acum se află în New York -
 
 647
-00:44:29,250 --> 00:44:32,041
-Ei întotdeauna declară, sunt buni numai să declare.
+00:44:44,177 --> 00:44:46,124
+şi ea va face tot ce îi stă în putință”.
 
 648
-00:44:32,375 --> 00:44:36,000
-Şi când acest caz a ajuns la mine, le-am spus:
+00:44:46,325 --> 00:44:48,625
+Veţi fi surprinşi că băiatul a fost complet vindecat;
 
 649
-00:44:36,166 --> 00:44:38,250
-„Nu pot face nimic, sunt într-un sat,
+00:44:48,826 --> 00:44:50,800
+a ieşit din spital, a venit să Mă vadă
 
 650
-00:44:38,500 --> 00:44:40,375
-dar puteţi telefona unei sahaja yoghine.
+00:44:51,001 --> 00:44:52,993
+iar acum și-a reluat studiile.
 
 651
-00:44:40,625 --> 00:44:43,709
-Ea... ea era în Anglia, acum se află în New York,
+00:44:53,194 --> 00:44:56,805
+Vreau să spun că am vindecat multe cazuri de leucemie.
 
 652
-00:44:44,000 --> 00:44:45,709
-şi ea îl va îngriji.”
+00:44:57,006 --> 00:45:02,111
+Dar totodată nu suntem aici să vindecăm oamenii,
 
 653
-00:44:45,959 --> 00:44:48,625
-Veţi fi surprinşi că băiatul a fost vindecat complet,
+00:45:02,312 --> 00:45:03,863
+nu asta este menirea noastră.
 
 654
-00:44:48,917 --> 00:44:50,834
-a ieşit din spital, a venit să mă vadă
+00:45:04,064 --> 00:45:07,720
+Se întâmplă spontan, ca o consecință a trezirii energiei Kundalini.
 
 655
-00:44:51,125 --> 00:44:53,000
-şi acum s-a întors la studii.
+00:45:07,921 --> 00:45:10,375
+Țelul nostru este să vă facem pe voi înșivă doctori,
 
 656
-00:44:53,250 --> 00:44:55,375
-Vreau să spun că astfel am vindecat multe cazuri
+00:45:10,576 --> 00:45:12,415
+să aveți această cunoaștere.
 
 657
-00:44:55,709 --> 00:45:00,917
-de cancer în sânge, dar nu suntem aici să vindecăm oamenii
+00:45:12,616 --> 00:45:16,706
+Trebuie să vă transformăm în fiinţe umane conştiente colectiv,
 
 658
-00:45:01,125 --> 00:45:03,166
-sau să-i lecuim, nu asta e treaba noastră.
+00:45:16,907 --> 00:45:19,794
+care trebuie să intre în împărăţia lui Dumnezeu,
 
 659
-00:45:03,500 --> 00:45:06,125
-Se întâmplă spontan ca efect secundar
+00:45:19,995 --> 00:45:24,257
+pentru a trăi acolo în pace, beatitudine şi bucurie.
 
 660
-00:45:06,375 --> 00:45:07,917
-al trezirii lui Kundalini.
+00:45:24,985 --> 00:45:29,226
+Ei bine, problemele de rinichi, de hipertensiune arterială,
 
 661
-00:45:08,125 --> 00:45:10,000
-Important e că trebuie să vă facem doctori,
+00:45:29,427 --> 00:45:31,324
+sunt cauzate tot de partea dreaptă.
 
 662
-00:45:10,375 --> 00:45:12,250
-trebuie să vă facem oameni cunoscători,
+00:45:31,525 --> 00:45:33,578
+Oamenii sunt exaltați, surescitați
 
 663
-00:45:12,500 --> 00:45:16,333
-trebuie să vă facem fiinţe umane conştiente colectiv,
+00:45:33,779 --> 00:45:37,036
+și și-au format un obicei din a deveni agitaţi.
 
 664
-00:45:16,709 --> 00:45:19,125
-care au intrat în Împărăţia lui Dumnezeu,
+00:45:37,237 --> 00:45:39,250
+Am cunoscut oameni cărora imediat ce le spui:
 
 665
-00:45:19,750 --> 00:45:22,834
-ca să trăiască acolo în pacea, beatitudinea şi bucuria Lui.
+00:45:39,500 --> 00:45:43,408
+„Trebuie să iei avionul către cutare destinație”,
 
 666
-00:45:24,875 --> 00:45:29,000
-Şi problema rinichilor, a hipertensiunii arteriale,
+00:45:43,609 --> 00:45:46,300
+dintr-odată cuvântul „avion” le declanşează o stare de agitaţie,
 
 667
-00:45:29,250 --> 00:45:32,999
-toate se petrec din cauza asta. Oamenii îşi fac griji, sunt agitaţi,
+00:45:46,500 --> 00:45:47,990
+pur şi simplu devin frenetici.
 
 668
-00:45:33,250 --> 00:45:35,291
-vedeţi, şi această agitaţie are loc în noi
+00:45:48,191 --> 00:45:49,569
+Nu mai știu ce să facă.
 
 669
-00:45:35,583 --> 00:45:37,375
-datorită obişnuinţei. Cunosc oameni
+00:45:49,770 --> 00:45:53,834
+Îşi vor uita paşaportul, îşi vor uita bagajele, vor fi agitaţi.
 
 670
-00:45:37,750 --> 00:45:39,250
-la care imediat ce le spui:
+00:45:54,035 --> 00:45:58,132
+Dacă te duci la aeroport, descoperi că acest centru Nabhi stâng,
 
 671
-00:45:39,500 --> 00:45:42,959
-„Oh, trebuie să mergi cu avionul undeva”,
+00:45:58,333 --> 00:46:00,892
+care are în grijă splina, devine foarte agitat.
 
 672
-00:45:43,125 --> 00:45:46,166
-dintr-o dată cuvântul „avion” le declanşează agitaţia aia, „Oh!”
+00:46:01,093 --> 00:46:05,791
+Ei bine, dacă în această stare mâncaţi sau faceţi altceva,
 
 673
-00:45:46,500 --> 00:45:49,291
-şi înnebunesc. Nu ştiu ce mai au de făcut.
+00:46:05,992 --> 00:46:08,078
+se creează o stare de urgenţă
 
 674
-00:45:49,542 --> 00:45:51,750
-Îşi vor uita paşaportul, îşi vor uita bagajele,
+00:46:08,278 --> 00:46:11,085
+şi e nevoie de mai mult sânge pentru a digera acea hrană.
 
 675
-00:45:51,999 --> 00:45:53,834
-îşi vor uita asta, sunt agitaţi.
+00:46:11,286 --> 00:46:14,195
+Aşa că splina, biata de ea, munceşte din greu
 
 676
-00:45:53,999 --> 00:45:56,959
-Dacă te duci la aeroport, descoperi că acest Nabhi stâng,
+00:46:14,396 --> 00:46:19,508
+ca să creeze acel surplus de celule sanguine.
 
 677
-00:45:57,125 --> 00:46:00,959
-aşa cum numim noi acest centru, splina, devine agitat.
+00:46:19,709 --> 00:46:22,625
+Dar dacă în timp ce mâncaţi, să zicem, mai citiţi şi un ziar -
 
 678
-00:46:01,166 --> 00:46:06,041
-Când mâncaţi sau faceţi ceva asemănător,
+00:46:22,834 --> 00:46:25,852
+este cel mai rău lucru pe care-l puteţi face dimineaţa.
 
 679
-00:46:06,291 --> 00:46:08,625
-se creează o urgenţă şi e nevoie de mai mult sânge
+00:46:26,053 --> 00:46:27,151
+Oribil.
 
 680
-00:46:08,875 --> 00:46:12,750
-pentru a digera mâncarea respectivă. Aşa că splina, biata de ea,
+00:46:27,352 --> 00:46:30,771
+Citiţi ziarul mâncând iar splina voastră îşi pierde controlul
 
 681
-00:46:12,959 --> 00:46:19,291
-munceşte din greu ca să creeze acel surplus de celule de sânge.
+00:46:30,972 --> 00:46:33,549
+pentru că apare încă o urgenţă.
 
 682
-00:46:19,542 --> 00:46:22,625
-Dar în timp ce mâncaţi, să zicem,
+00:46:33,750 --> 00:46:37,163
+Apoi să vă urcați pe bicicletă cu un sandvici în mână -
 
 683
-00:46:22,834 --> 00:46:24,375
-mai citiţi şi un ziar, ăsta e cel mai rău lucru
+00:46:37,364 --> 00:46:39,787
+este chiar și mai rău.
 
 684
-00:46:24,542 --> 00:46:26,750
-pe care-l puteţi face dimineaţa. Oribil.
+00:46:39,988 --> 00:46:43,761
+Vă grăbiţi la serviciu şi descoperiţi că traficul este infernal,
 
 685
-00:46:27,083 --> 00:46:29,500
-Citiţi ziarul, mâncaţi,
+00:46:43,962 --> 00:46:47,374
+și astfel deveniți și mai agitați decât erați,
 
 686
-00:46:29,834 --> 00:46:33,500
-splina voastră îşi pierde controlul pentru că apare încă o urgenţă.
+00:46:47,575 --> 00:46:49,766
+deveniţi atât de nervoși fără să înţelegeţi de ce.
 
 687
-00:46:33,750 --> 00:46:36,834
-Apoi mergeţi cu bicicleta, având un sandviş în mână –
+00:46:49,967 --> 00:46:51,838
+Iar persoana din faţa voastră spune:
 
 688
-00:46:37,083 --> 00:46:41,250
-chiar mai rău. Vă grăbiţi la serviciu
+00:46:52,039 --> 00:46:54,538
+„Ce-i cu omul ăsta? De ce nu merge mai repede?”,
 
 689
-00:46:41,542 --> 00:46:43,500
-şi deodată descoperiţi că traficul e infernal,
+00:46:54,739 --> 00:47:00,461
+și fiecare spune la fel despre omul din fața lui.
 
 690
-00:46:43,750 --> 00:46:47,041
-astfel că vă faceţi şi mai mult rău,
+00:47:00,662 --> 00:47:03,870
+Deci continuați cu această nebunie, cu goana după avere și putere,
 
 691
-00:46:47,291 --> 00:46:49,291
-deveniţi atât de surescitaţi şi nu înţelegeţi,
+00:47:04,071 --> 00:47:08,965
+și dacă mâncaţi într-o asemenea grabă şi agitație,
 
 692
-00:46:49,625 --> 00:46:51,542
-iar persoana din faţa voastră spune:
+00:47:09,166 --> 00:47:13,135
+dezvoltaţi această boală foarte periculoasă, leucemia,
 
 693
-00:46:51,834 --> 00:46:54,083
-„Ce-i cu ăsta, de ce nu merge mai repede?”
+00:47:13,336 --> 00:47:17,083
+care este foarte des întâlnită printre tineri.
 
 694
-00:46:54,375 --> 00:46:57,875
-şi acelaşi individ spune exact acelaşi lucru
+00:47:18,611 --> 00:47:22,328
+Ei bine, ultima problemă deloc neglijabilă creată de partea dreaptă
 
 695
-00:46:58,083 --> 00:47:00,625
-unui alt individ care merge înaintea lui.
+00:47:22,528 --> 00:47:25,466
+este cea a inimii.
 
 696
-00:47:00,834 --> 00:47:03,625
-Aşa că nebunia continuă, acest cerc vicios continuă, iar dacă
-
-697
-00:47:03,875 --> 00:47:08,709
-vă mâncaţi mâncarea într-o astfel de grabă şi în aşa o nebunie,
-
-698
-00:47:09,166 --> 00:47:11,999
-dobândiţi această problemă care este foarte periculoasă numită
-
-699
-00:47:12,250 --> 00:47:17,083
-cancer în sânge, care printre tineri e foarte obişnuită.
-
-700
-00:47:17,667 --> 00:47:23,999
-Ultima, dar nu cea din urmă este problema inimii.
-
-701
-00:47:25,667 --> 00:47:29,500
+00:47:25,667 --> 00:47:30,185
 Când acordaţi prea multă atenţie acestor lucruri exterioare,
 
+697
+00:47:30,386 --> 00:47:38,359
+lucrurilor materiale, progresului material, dezvoltării fizice
+
+698
+00:47:38,560 --> 00:47:42,504
+şi unei computerizări intense a creierului vostru,
+
+699
+00:47:42,705 --> 00:47:46,779
+neglijaţi de fapt atenţia pe care ar trebui să o acordați Spiritului
+
+700
+00:47:46,979 --> 00:47:48,857
+care rezidă în inima voastră.
+
+701
+00:47:49,058 --> 00:47:52,357
+Drept urmare Spiritul se retrage.
+
 702
-00:47:30,250 --> 00:47:35,417
-lucrurilor materiale, bogăţiei materiale,
+00:47:52,558 --> 00:47:55,487
+Iar când Spiritul se retrage, faceți atac de cord.
 
 703
-00:47:35,875 --> 00:47:40,250
-dezvoltării fizice şi unei atât de frecvente
+00:47:55,688 --> 00:47:58,750
+Numai o persoană care este pe dreapta face atac de cord,
 
 704
-00:47:40,500 --> 00:47:42,875
-robotizări a creierului vostru, neglijaţi
-
-705
-00:47:44,041 --> 00:47:47,417
-atenţia necesară Spiritului vostru care rezidă
-
-706
-00:47:47,750 --> 00:47:53,083
-în inimă şi astfel Spiritul se retrage,
-
-707
-00:47:53,375 --> 00:47:55,750
-iar când Spiritul se retrage faceţi atac de cord.
-
-708
-00:47:56,041 --> 00:47:58,750
-Numai o persoană care e pe dreapta face atac de cord,
-
-709
-00:47:58,999 --> 00:48:01,041
+00:47:58,999 --> 00:48:02,325
 niciodată o persoană pe stânga.
 
+705
+00:48:02,526 --> 00:48:05,102
+I-am spus asta unui doctor şi el Mi-a confirmat:
+
+706
+00:48:05,303 --> 00:48:08,417
+„Surprinzător, într-un spital de boli nervoase
+
+707
+00:48:08,618 --> 00:48:11,591
+n-ai niciodată nevoie de o electrocardiogramă”.
+
+708
+00:48:11,792 --> 00:48:14,456
+Nu ai nevoie! Niciun pacient nu face atac de cord.
+
+709
+00:48:14,689 --> 00:48:17,433
+Un bolnav mintal nu face niciodată atac de cord – surprinzător.
+
 710
-00:48:01,375 --> 00:48:06,083
-Am spus asta unui doctor şi el a zis – surprinzător –
+00:48:17,634 --> 00:48:23,682
+Un bolnav mintal îşi foloseşte inima, partea stângă, emoţiile,
 
 711
-00:48:06,291 --> 00:48:11,500
-că într-un spital de boli nervoase n-ai niciodată nevoie de o cardiogramă,
+00:48:23,883 --> 00:48:25,912
+şi în mod normal inima ar trebui să cedeze,
 
 712
-00:48:11,792 --> 00:48:14,500
-n-ai nevoie! Nimeni nu face niciodată atac de cord.
+00:48:26,113 --> 00:48:28,290
+dar dimpotrivă cedează creierul. Puteţi crede?
 
 713
-00:48:14,834 --> 00:48:17,041
-Un nebun nu face niciodată atac de cord – surprinzător.
+00:48:28,491 --> 00:48:31,082
+Iar celui care își foloseşte creierul îi cedează inima.
 
 714
-00:48:17,417 --> 00:48:22,792
-Un nebun îşi foloseşte inima mai mult, partea stângă,
+00:48:31,283 --> 00:48:33,758
+Acesta este echilibrul creat de natură în noi.
 
 715
-00:48:23,083 --> 00:48:25,667
-emoţiile şi inima ar trebui să i se stingă... dar nu,
+00:48:33,966 --> 00:48:38,530
+Vedeţi cât de inteligent încearcă natura să ne aducă pe centru?
 
 716
-00:48:25,959 --> 00:48:27,750
-creierul i se stinge. Vă puteţi imagina?
+00:48:38,731 --> 00:48:42,519
+„Nu te duce la extreme, rămâi pe canalul central”,
 
 717
-00:48:27,999 --> 00:48:30,875
-Iar aceluia care foloseşte creierul, i se stinge inima.
+00:48:42,720 --> 00:48:47,485
+iar atunci când te afli absolut pe centru,
 
 718
-00:48:31,083 --> 00:48:33,667
-Aceasta este un echilibru creat de natură în noi.
+00:48:47,686 --> 00:48:51,764
+evoluţia are loc foarte repede.
 
 719
-00:48:33,959 --> 00:48:37,291
-Vedeţi în cât de inteligent încearcă natura să ne călăuzească
+00:48:51,965 --> 00:48:55,417
+Deci aceasta este partea noastră dreaptă, partea viitorului,
 
 720
-00:48:37,625 --> 00:48:40,792
-pe centru: nu te duce la extreme, rămâi pe centru,
+00:48:55,667 --> 00:48:59,959
+şi așa cum ştiţi, suntem cu toții foarte orientați către viitor.
 
 721
-00:48:41,041 --> 00:48:45,500
-rămâi pe centru, iar când te afli de tot în centru,
+00:49:00,375 --> 00:49:04,741
+Această tendință nu se poate vindeca spunând: „Oh, acum nu gândi!”.
 
 722
-00:48:45,792 --> 00:48:51,959
-atunci îţi dobândeşti evoluţia foarte repede.
+00:49:04,942 --> 00:49:07,344
+Nu puteți să o faceți! Pur și simplu nu puteți.
 
 723
-00:48:52,208 --> 00:48:55,417
-Deci asta e partea dreaptă pe care o avem, partea futuristă,
+00:49:07,545 --> 00:49:11,375
+Dacă vă poruncesc: „Încetaţi să vă mai faceţi planuri!”,
 
 724
-00:48:55,667 --> 00:48:59,959
-şi după cum ştiţi, suntem cu toţii foarte futurişti ca temperament.
+00:49:11,576 --> 00:49:15,423
+nu puteți, nu vă puteţi abţine, continuați să vă faceți planuri.
 
 725
-00:49:00,667 --> 00:49:03,417
-Acest futurism nu se poate vindeca spunând:
+00:49:15,624 --> 00:49:17,954
+Şi descoperiți apoi că toate aceste planuri eşuează,
 
 726
-00:49:03,667 --> 00:49:05,959
-„O acum nu gândi!” – asta nu se poate,
+00:49:18,155 --> 00:49:21,083
+pentru că ele nu sunt în conformitate cu planurile Divinului.
 
 727
-00:49:06,166 --> 00:49:08,542
-chiar nu se poate face. Dacă vă poruncesc:
+00:49:21,284 --> 00:49:24,499
+Divinul are planurile Lui, voi aveţi alte planuri
 
 728
-00:49:08,875 --> 00:49:12,041
-„Faceţi bine şi încetaţi să faceţi planuri!” – nu puteţi s-o faceţi,
+00:49:24,700 --> 00:49:27,502
+iar ele nu se suprapun niciodată.
 
 729
-00:49:12,291 --> 00:49:15,208
-nu vă puteţi abţine. Trebuie să vă faceţi tot felul de planuri.
+00:49:27,703 --> 00:49:30,309
+Și astfel descoperiţi că toate planurile voastre eşuează
 
 730
-00:49:15,542 --> 00:49:18,291
-Şi observaţi că toate planurile astea eşuează, pentru că planurile astea
+00:49:30,510 --> 00:49:32,827
+și deveniţi frustraţi, vă simțiți abandonați.
 
 731
-00:49:18,625 --> 00:49:21,083
-nu sunt în conformitate cu planurile Divinului.
+00:49:33,028 --> 00:49:35,549
+Nu înţelegeţi cum s-a întâmplat.
 
 732
-00:49:21,333 --> 00:49:24,542
-Divinul are alte planuri, iar voi aveţi alte planuri
+00:49:35,750 --> 00:49:39,553
+Pentru înţelegerea voastră, trebuie să ştiţi
 
 733
-00:49:24,792 --> 00:49:28,333
-şi ele nu se suprapun niciodată. Astfel descoperiţi
+00:49:39,754 --> 00:49:44,969
+că există o Putere Divină, fie că vă place, fie că nu.
 
 734
-00:49:28,625 --> 00:49:31,208
-că toate planurile voastre eşuează, sunteţi frustraţi
+00:49:45,170 --> 00:49:47,356
+Toată această muncă vie pe care o vedeți în jur,
 
 735
-00:49:31,500 --> 00:49:32,542
-şi cu buza umflată.
+00:49:47,557 --> 00:49:50,663
+milioane şi milioane de flori care devin fructe,
 
 736
-00:49:32,792 --> 00:49:35,208
-Nu înţelegeţi cum de s-a întâmplat.
+00:49:50,864 --> 00:49:52,766
+o sămânţă care devine un copac,
 
 737
-00:49:35,750 --> 00:49:39,625
-Pentru înţelegerea voastră, trebuie să ştiţi că
+00:49:52,967 --> 00:49:55,461
+o anumită sămânţă care devine un anumit copac,
 
 738
-00:49:39,792 --> 00:49:44,875
-există o Putere Divină; fie că vă place, fie că nu.
+00:49:55,662 --> 00:49:57,464
+toate selecţiile care se fac,
 
 739
-00:49:45,083 --> 00:49:47,875
-Toată această muncă vie care se face - milioane şi milioane
+00:49:57,665 --> 00:50:01,264
+modul organizat în care acționează substanţele chimice,
 
 740
-00:49:48,083 --> 00:49:52,792
-de flori care devin fructe, o sămânţă care devine copac,
+00:50:01,465 --> 00:50:04,502
+modul în care elementele chimice alcătuiesc sistemul periodic -
 
 741
-00:49:53,041 --> 00:49:55,291
-o anumită sămânţă devine un anumit copac,
+00:50:04,703 --> 00:50:07,937
+tot ce vedeţi în lumea asta e atât de bine organizat,
 
 742
-00:49:55,542 --> 00:49:57,208
-toate selecţiile care se fac, modul organizat
+00:50:08,144 --> 00:50:10,403
+încât trebuie să fie cineva care face toate astea.
 
 743
-00:49:58,917 --> 00:50:03,291
-în care acţionează substanţele chimice, felul în care elementele chimice
+00:50:10,604 --> 00:50:14,264
+Deci există o Putere Divină peste tot în jur - fără nicio îndoială.
 
 744
-00:50:03,500 --> 00:50:06,333
-alcătuiesc sistemul periodic - tot ce vedeţi în lumea
+00:50:14,465 --> 00:50:16,800
+Dar încă n-am simţit-o, asta e tot.
 
 745
-00:50:06,667 --> 00:50:09,999
-asta e atât de bine organizat, trebuie să fie cineva care face asta.
+00:50:17,001 --> 00:50:19,615
+Dacă n-am simţit-o, asta nu înseamnă că nu există.
 
 746
-00:50:10,291 --> 00:50:12,917
-Deci există o Putere Divină care ne înconjoară,
+00:50:19,816 --> 00:50:22,109
+Există şi acționează.
 
 747
-00:50:13,166 --> 00:50:16,667
-fără nicio îndoială. Dar încă n-am simţit-o, asta-i tot.
+00:50:22,310 --> 00:50:26,970
+Știm din experienţă că luăm atâtea procese vii ca pe ceva obișnuit.
 
 748
-00:50:16,917 --> 00:50:19,291
-Dacă n-am simţit-o nu înseamnă că ea nu există.
+00:50:27,171 --> 00:50:28,825
+Pur și simplu nu le acordăm atenție.
 
 749
-00:50:19,625 --> 00:50:23,208
-Există şi lucrează. Am văzut
+00:50:29,026 --> 00:50:32,166
+Vedeţi, chiar și în viaţa umană, când urmează să se nască un copil,
 
 750
-00:50:23,458 --> 00:50:25,917
-din experienţă că se întâmplă atât de multe lucruri vii.
+00:50:32,417 --> 00:50:35,563
+fetusul este menținut în corp.
 
 751
-00:50:26,166 --> 00:50:28,041
-Doar că noi le luăm ca atare, nu ne preocupă.
+00:50:35,764 --> 00:50:38,875
+În mod normal, ştiinţa medicală spune
 
 752
-00:50:28,417 --> 00:50:32,166
-Vedeţi, în viaţa umană însăşi, când urmează să se nască un copil,
+00:50:39,083 --> 00:50:41,513
+că orice corp străin, dacă intră în organism,
 
 753
-00:50:32,417 --> 00:50:35,208
-corpul păstrează fetusul.
+00:50:41,714 --> 00:50:45,816
+este eliminat imediat, toate forţele se adună să-l scoată din corp.
 
 754
-00:50:35,542 --> 00:50:38,875
-În mod normal legea ştiinţei medicale este asta:
+00:50:46,017 --> 00:50:49,515
+Dar descoperim că atunci când apare fetusul,
 
 755
-00:50:39,083 --> 00:50:41,166
-orice corp străin, dacă intră în organism,
+00:50:49,716 --> 00:50:53,699
+întregul corp lucrează ca să-l hrănească, să aibă grijă de el,
 
 756
-00:50:41,333 --> 00:50:44,208
-este respins imediat, toate forţele
+00:50:53,900 --> 00:50:55,669
+să se preocupe cu adevărat de el.
 
 757
-00:50:44,542 --> 00:50:45,792
-se adună să-l elimine.
+00:50:55,870 --> 00:50:59,026
+Cu multă grijă, este creată apă în jurul lui,
 
 758
-00:50:46,083 --> 00:50:49,667
-Dar descoperim că atunci când un fetus se creează,
+00:50:59,227 --> 00:51:01,169
+astfel încât fetusul să nu fie deranjat,
 
 759
-00:50:50,041 --> 00:50:53,333
-întregul sistem lucrează ca să-l hrănească, să aibă grijă de el,
+00:51:01,370 --> 00:51:04,459
+iar corpul manifestă atenţie maximă pentru a-l îngriji,
 
 760
-00:50:53,750 --> 00:50:55,291
-se preocupă cu adevărat de el.
+00:51:04,660 --> 00:51:08,358
+iar când fetusul este pregătit, atunci este expulzat.
 
 761
-00:50:55,625 --> 00:50:59,208
-Cu multă grijă, se creează apă în jurul său, astfel încât
-
-762
-00:50:59,542 --> 00:51:02,208
-fetusul să nu fie deranjat, iar corpul manifestă atenţie maximă
-
-763
-00:51:02,458 --> 00:51:04,291
-pentru îngrijirea lui şi,
-
-764
-00:51:04,625 --> 00:51:09,542
-când fetusul e pregătit, îl expulzează.
-
-765
-00:51:09,792 --> 00:51:12,333
+00:51:09,625 --> 00:51:12,424
 Cine face asta? Cine face asta?
 
+762
+00:51:12,625 --> 00:51:15,034
+Trebuie să ne punem uneori întrebările acestea.
+
+763
+00:51:15,235 --> 00:51:18,083
+La urma urmei, de ce aţi devenit fiinţe umane?
+
+764
+00:51:18,284 --> 00:51:20,279
+De ce a fost necesar?
+
+765
+00:51:20,480 --> 00:51:23,038
+De ce a fost nevoie de asta? Şi dacă n-aţi găsit răspunsul,
+
 766
-00:51:12,625 --> 00:51:14,542
-Trebuie să ne punem câteodată întrebările astea şi,
+00:51:23,239 --> 00:51:25,292
+înseamnă că încă sunteți în tranziţie
 
 767
-00:51:14,875 --> 00:51:18,083
-la urma urmei, de ce aţi devenit fiinţe umane?
+00:51:25,492 --> 00:51:28,315
+şi trebuie să ajungeți în punctul în care să-l găsiți.
 
 768
-00:51:18,417 --> 00:51:21,208
-De ce era necesar? De ce era necesar?
+00:51:28,516 --> 00:51:34,311
+Ați devenit fiinţe umane ca să simţiți Puterea Divină,
 
 769
-00:51:21,458 --> 00:51:23,542
-Şi dacă n-aţi găsit răspunsul înseamnă că încă
+00:51:34,990 --> 00:51:37,189
+să folosiți Puterea Divină
 
 770
-00:51:23,792 --> 00:51:27,999
-suntem în tranziţie şi trebuie să ajungem acolo unde găsim răspunsul.
+00:51:37,390 --> 00:51:42,058
+şi să vă bucurați astfel de beatitudinea divină.
 
 771
-00:51:28,291 --> 00:51:33,999
-Suntem făcuţi fiinţe umane, ca să simţim Puterea Divină,
+00:51:42,351 --> 00:51:47,542
+Această Putere Divină e fiinţa colectivă; Ea ne dă colectivitatea.
 
 772
-00:51:34,875 --> 00:51:37,458
-să folosim Puterea Divină şi
+00:51:47,792 --> 00:51:52,304
+Spiritul din inima noastră e fiinţa colectivă din noi,
 
 773
-00:51:37,750 --> 00:51:43,875
-să ne bucurăm de beatitudinea divinităţii. Puterea Divină este
+00:51:52,505 --> 00:51:56,896
+care face ca acea Putere Divină să curgă prin noi
 
 774
-00:51:44,166 --> 00:51:47,542
-fiinţa colectivă care ne dă colectivitatea.
+00:51:57,097 --> 00:52:00,157
+şi astfel, odată ce suntem conectaţi la Sursă,
 
 775
-00:51:47,792 --> 00:51:50,583
-Spiritul din inima noastră e
+00:52:00,358 --> 00:52:04,125
+începem să devenim ceea ce suntem meniţi să fim.
 
 776
-00:51:50,792 --> 00:51:53,291
-fiinţa colectivă din noi, care face ca
+00:52:04,326 --> 00:52:07,250
+Ca un aparat, care odată conectat la sursa de curent,
 
 777
-00:51:53,542 --> 00:51:56,291
-acea Putere Divină să curgă prin noi
+00:52:07,451 --> 00:52:08,957
+îşi împlineşte menirea;
 
 778
-00:51:56,999 --> 00:51:59,583
-şi astfel, odată ce suntem conectaţi la sursă,
+00:52:09,173 --> 00:52:11,644
+Dar acest microfon, deşi conectat la sursa de curent,
 
 779
-00:52:00,000 --> 00:52:04,917
-începem să devenim ceea ce suntem făcuţi să fim. Ca o maşină care,
+00:52:11,845 --> 00:52:15,433
+nu e conştient de electricitate, de vocea Mea, de nimic.
 
 780
-00:52:05,208 --> 00:52:08,917
-odată conectată la sursă, îşi împlineşte menirea;
+00:52:15,634 --> 00:52:19,587
+Dar o fiinţă umană, odată conectată la Sursă,
 
 781
-00:52:09,166 --> 00:52:11,083
-dar această maşină, deşi conectată la sursă,
+00:52:19,788 --> 00:52:21,542
+devine conştientă -
 
 782
-00:52:11,291 --> 00:52:15,458
-nu e conştientă de electricitate, de vocea mea, de nimic.
+00:52:21,743 --> 00:52:23,844
+şi asta trebuie să căutaţi de fapt.
 
 783
-00:52:15,750 --> 00:52:19,999
-Dar o fiinţă umană, odată ce e conectată la sursă,
+00:52:24,045 --> 00:52:25,794
+Când vă primiți Realizarea,
 
 784
-00:52:20,208 --> 00:52:23,917
-devine conştientă, şi asta trebuie să vedeţi.
+00:52:25,994 --> 00:52:29,183
+voi înșivă le puteţi ridica energia Kundalini altora,
 
 785
-00:52:24,166 --> 00:52:28,917
-Când sunteţi realizaţi, puteţi ridica energia Kundalini altora,
+00:52:29,384 --> 00:52:31,401
+voi înșivă puteţi da Realizarea altora.
 
 786
-00:52:29,291 --> 00:52:31,125
-puteţi da Realizarea altora.
+00:52:31,602 --> 00:52:34,507
+Ray însuşi a dat Realizarea multor oameni. Chiar şi în Riad.
 
 787
-00:52:31,417 --> 00:52:34,417
-Ray însuşi a dat-o multora. Chiar şi în Riad.
+00:52:34,708 --> 00:52:36,542
+A dat-o oriunde a fost.
 
 788
-00:52:34,667 --> 00:52:36,542
-A dat-o oriunde a mers.
+00:52:36,743 --> 00:52:38,271
+Iar el este la fel ca și voi.
 
 789
-00:52:36,709 --> 00:52:39,917
-Iar el e la fel ca voi, e inginer, e la fel ca voi,
+00:52:38,471 --> 00:52:41,402
+Este inginer, este un om ca și voi, munceşte la fel ca voi,
 
 790
-00:52:40,166 --> 00:52:42,542
-munceşte la fel ca voi şi veţi fi uimiţi
+00:52:41,603 --> 00:52:46,060
+dar veţi fi uimiţi de câte ştie despre el şi despre ceilalţi.
 
 791
-00:52:42,875 --> 00:52:46,333
-de câte ştie acum despre el şi despre ceilalţi.
+00:52:46,261 --> 00:52:48,856
+S-a transformat complet
 
 792
-00:52:46,583 --> 00:52:50,417
-S-a  produs o schimbare completă, pentru că odată
+00:52:49,056 --> 00:52:52,438
+fiindcă odată ce dobândiți Spiritul - tot ce poate fi mai măreț -
 
 793
-00:52:50,709 --> 00:52:52,542
-ce deveniţi Spiritul, odată ce dobândiţi ce-i mai înalt,
+00:52:52,639 --> 00:52:54,500
+toate aceste lucruri lumeşti dispar
 
 794
-00:52:52,792 --> 00:52:54,750
-toate aceste lucruri lumeşti dispar şi
+00:52:54,700 --> 00:52:56,436
+şi deveniţi propriii voștri stăpâni.
 
 795
-00:52:55,083 --> 00:52:58,542
-deveniţi propriul maestru. Nu mai sunteţi sclavii
+00:52:56,637 --> 00:52:59,719
+Nu mai sunteţi sclavii niciunui obicei sau altor lucruri,
 
 796
-00:52:58,792 --> 00:53:01,792
-obiceiurilor sau ai oricăror lucruri, totul acţionează frumos.
+00:52:59,926 --> 00:53:02,113
+totul se rezolvă într-un mod atât de frumos.
 
 797
-00:53:02,000 --> 00:53:03,917
-Dar trebuie să ne dăm o şansă şi
+00:53:02,314 --> 00:53:06,694
+Dar trebuie să vă acordați această şansă şi să aveți răbdare.
 
 798
-00:53:04,125 --> 00:53:08,917
-să avem răbdare. Cel mai rău aspect al aşa-zisei inteligenţe
+00:53:06,927 --> 00:53:09,304
+Partea cea mai rea a aşa-zisei inteligenţe
 
 799
-00:53:09,083 --> 00:53:12,750
-e că poţi să-ţi baţi joc de orice. Ăsta e cel mai uşor lucru:
+00:53:09,505 --> 00:53:11,723
+este că poţi să iei totul în râs.
 
 800
-00:53:12,917 --> 00:53:16,125
-să iei totul în bătaie de joc şi să te descotoroseşti de orice.
+00:53:11,924 --> 00:53:16,216
+Ăsta e cel mai uşor lucru: să iei totul în râs şi să renunți.
 
 801
-00:53:16,417 --> 00:53:19,250
-În vremurile străvechi, când doreau să înfrunte realitatea,
+00:53:16,417 --> 00:53:19,426
+În vremuri străvechi, dorind să înfrunte realitatea,
 
 802
-00:53:19,458 --> 00:53:21,458
-ca atunci când a venit Christos, oamenii nu L-au luat în batjocură,
+00:53:19,627 --> 00:53:21,901
+oamenii nu L-au ridiculizat pe Christos spre exemplu;
 
 803
-00:53:21,709 --> 00:53:24,083
-dar au făcut-o în momentul când a fost crucificat.
+00:53:22,102 --> 00:53:26,636
+au făcut-o doar când a fost crucificat, L-au negat de fapt.
 
 804
-00:53:24,333 --> 00:53:28,709
-Dar au negat asta. Acum nu asta e problema fundamentală,
+00:53:26,837 --> 00:53:29,232
+Dar în ziua de azi nu asta este problema fundamentală,
 
 805
-00:53:29,000 --> 00:53:32,417
-problema nu există, pentru că a nega e...
+00:53:29,433 --> 00:53:30,942
+această problemă nu există,
 
 806
-00:53:32,542 --> 00:53:35,542
-necesită mai mult efort, aşa că e mai bine astăzi.
+00:53:31,143 --> 00:53:33,767
+pentru că a nega necesită mai mult efort,
 
 807
-00:53:35,792 --> 00:53:39,417
-E o prostie. Încă o dată spun, e o prostie să-ţi baţi joc de ceva,
+00:53:33,989 --> 00:53:35,677
+deci e mai bine să iei în râs.
 
 808
-00:53:39,583 --> 00:53:43,792
-pentru că voi sunteţi asta, voi sunteţi Spiritul.
+00:53:35,878 --> 00:53:37,613
+E o prostie, din nou vă spun.
 
 809
-00:53:44,000 --> 00:53:46,792
-Voi sunteţi cei care trebuie să-l obţină, şi dacă ştiţi
+00:53:37,814 --> 00:53:40,258
+E o prostie să râdeți de aceste lucruri,
 
 810
-00:53:46,999 --> 00:53:49,542
-doar să vă bateţi joc, vă rog mergeţi şi amuzaţi-vă.
+00:53:40,459 --> 00:53:43,792
+pentru că voi asta sunteţi de fapt, voi sunteţi Spiritul.
 
 811
-00:53:49,792 --> 00:53:51,417
-Viaţa voastră merge mai departe, vieţile voastre
+00:53:44,000 --> 00:53:46,019
+Voi sunteţi cei care trebuie să ajungeți Spiritul
 
 812
-00:53:51,583 --> 00:53:53,125
-merg mai departe, la ce bun?
+00:53:46,220 --> 00:53:48,024
+şi dacă tot ce ştiţi este să ridiculizați,
 
 813
-00:53:53,417 --> 00:53:57,083
-Şi dacă nu vă primiţi Realizarea,
+00:53:48,225 --> 00:53:49,766
+continuați atunci în acest mod stupid.
 
 814
-00:53:57,583 --> 00:54:02,208
-în ceea ce priveşte judecata de apoi aţi eşuat,
+00:53:49,967 --> 00:53:53,178
+Toată viața va trece așa, toate vieţile vor trece așa. La ce bun?
 
 815
-00:54:02,542 --> 00:54:05,834
-aţi eşuat, iar asta e o şansă care vi se dă.
+00:53:53,379 --> 00:53:57,482
+Şi dacă nu vă primiţi Realizarea,
 
 816
-00:54:06,417 --> 00:54:10,458
-Puteţi fi mângâiaţi şi puteţi fi sfătuiţi,
+00:53:57,683 --> 00:54:02,428
+putem spune că aţi eşuat în ceea ce priveşte judecata voastră,
 
 817
-00:54:10,709 --> 00:54:14,208
-puteţi fi mântuiţi; dar nimeni nu vă poate face să gustaţi
+00:54:02,629 --> 00:54:05,921
+ați eșuat în această şansă care vi se dă.
 
 818
-00:54:14,458 --> 00:54:18,333
-din frumuseţea propriei fiinţe, asta trebuie să faceţi voi înşivă.
+00:54:06,459 --> 00:54:11,866
+Puteţi fi alinaţi, puteţi fi sfătuiţi, puteţi fi mântuiţi
 
 819
-00:54:18,542 --> 00:54:22,250
-Dacă nu vreţi s-o faceţi, în regulă. E perfect în regulă.
+00:54:12,067 --> 00:54:14,015
+dar nimeni nu vă poate face
 
 820
-00:54:22,542 --> 00:54:23,917
-Sunteţi liberi s-o faceţi, faceţi ce vreţi.
+00:54:14,215 --> 00:54:16,499
+să descoperiți frumuseţea propriei fiinţe.
 
 821
-00:54:24,125 --> 00:54:28,583
-Dar dacă vreţi s-o faceţi, vă rog nu mai daţi bani vreunui guru
+00:54:16,700 --> 00:54:18,499
+Trebuie să o faceţi voi înşivă.
 
 822
-00:54:29,125 --> 00:54:33,000
-şi nu mai pendulaţi încoace şi-ncolo; opriţi-vă şi vedeţi de ce aveţi nevoie.
+00:54:18,700 --> 00:54:22,250
+Dacă nu vreţi s-o faceţi, în regulă, e perfect în regulă.
 
 823
-00:54:33,250 --> 00:54:35,125
-E un lucru serios, ar trebui să se întâmple.
+00:54:22,451 --> 00:54:24,076
+Sunteţi liberi să faceţi ce vreţi.
 
 824
-00:54:35,458 --> 00:54:37,999
-Până când fiinţele umane nu evoluează,
+00:54:24,277 --> 00:54:26,099
+Dar dacă vreţi s-o faceţi,
 
 825
-00:54:38,250 --> 00:54:40,583
-niciuna din problemele lumii nu se rezolvă,
+00:54:26,300 --> 00:54:30,517
+încetați să-i mai căutați și să oscilați între acești guru plătiți.
 
 826
-00:54:40,792 --> 00:54:42,333
-niciuna din probleme, credeţi-mă pe cuvânt.
+00:54:30,717 --> 00:54:33,049
+Opriţi-vă şi încercați să înțelegeți de ce aveţi nevoie.
 
 827
-00:54:42,667 --> 00:54:44,792
-Tot ce-au făcut prin gândire – să zicem
+00:54:33,250 --> 00:54:35,359
+E un lucru serios, care ar trebui să se întâmple.
 
 828
-00:54:45,000 --> 00:54:50,000
-că au creat democraţia, au creat comunismul, cutare
+00:54:35,560 --> 00:54:38,024
+Până când fiinţele umane nu evoluează,
 
 829
-00:54:50,208 --> 00:54:54,208
-şi cutare lucru – toate aceste lucruri absurde n-au niciun sens în realitate,
+00:54:38,225 --> 00:54:40,660
+niciuna dintre problemele lumii nu se va rezolva,
 
 830
-00:54:54,583 --> 00:54:57,000
-n-au niciun sens. Pentru că, aţi putea spune
+00:54:40,861 --> 00:54:42,676
+niciuna din probleme, credeţi-Mă.
 
 831
-00:54:57,333 --> 00:54:59,834
-de pildă eu sunt foarte puternică, aşa că sunt capitalistă,
+00:54:42,877 --> 00:54:46,171
+Tot ce-au creat prin gândire – spre exemplu, au creat democraţia,
 
 832
-00:55:00,125 --> 00:55:03,125
-dar nu pot trăi fără să dau celorlalţi, aşa că sunt comunistă.
+00:54:46,372 --> 00:54:51,477
+au creat comunismul, toate aceste lucruri absurde -
 
 833
-00:55:03,375 --> 00:55:06,999
-Sunt un capitalist absolut şi un comunist absolut.
+00:54:51,678 --> 00:54:54,208
+toate acestea nu au nicio semnificație în realitate,
 
 834
-00:55:07,208 --> 00:55:10,834
-Totul există în interiorul meu, iar aceste idei sunt toate artificiale,
+00:54:54,409 --> 00:54:55,666
+nu au niciun sens.
 
 835
-00:55:11,000 --> 00:55:13,375
-cum că-i faceţi pe unii democratici,
+00:54:55,867 --> 00:54:57,652
+Deoarece, se poate spune, de pildă,
 
 836
-00:55:13,667 --> 00:55:15,000
-şi pe alţii altfel.
+00:54:57,853 --> 00:55:00,153
+că am foarte multe puteri, deci sunt capitalistă,
 
 837
-00:55:15,250 --> 00:55:18,834
-Pentru că, atâta timp cât sunt atraşi de egoism,
+00:55:00,354 --> 00:55:03,321
+dar nu pot trăi fără să împart cu alţii, aşa că sunt și comunistă.
 
 838
-00:55:19,083 --> 00:55:22,792
-de toate aceste lucruri, nu vor reuşi să facă nicio treabă bună.
+00:55:03,522 --> 00:55:06,824
+Sunt în întregime un capitalist şi un comunist de asemenea.
 
 839
-00:55:23,000 --> 00:55:26,083
-Detaşarea se instaurează pentru că deveniţi
+00:55:07,025 --> 00:55:08,858
+Totul este în interiorul Meu!
 
 840
-00:55:26,333 --> 00:55:30,458
-una cu Spiritul care nu este ataşat,
+00:55:09,059 --> 00:55:10,939
+Iar toate aceste idei sunt artificiale:
 
 841
-00:55:30,792 --> 00:55:33,792
-care vă dă lumină, vă dă detaşarea prin care
+00:55:11,140 --> 00:55:15,000
+că îi fac pe unii oameni democratici, iar pe alţii altfel.
 
 842
-00:55:34,083 --> 00:55:37,125
-puteţi vedea toate lucrurile ca într-o piesă de teatru.
+00:55:15,201 --> 00:55:19,694
+Asta pentru că dacă sunt atraşi de egoism, de astfel de lucruri,
 
 843
-00:55:37,333 --> 00:55:40,083
-Şi faceţi ca totul să meargă foarte bine. Deveniţi atât de dinamici,
+00:55:19,895 --> 00:55:22,792
+nu vor reuşi să facă nimic bun în acest sens.
 
 844
-00:55:40,250 --> 00:55:42,667
-atât de dinamici, încât sunteţi surprinşi de propriul dinamism.
+00:55:23,000 --> 00:55:25,364
+În Sahaja Yoga detaşarea se instalează
 
 845
-00:55:43,542 --> 00:55:46,542
-În afară de asta, trebuie să conştientizăm că există o putere,
+00:55:25,603 --> 00:55:28,012
+pentru că deveniţi una cu Spiritul,
 
 846
-00:55:46,917 --> 00:55:50,542
-care este o putere atotpătrunzătoare. Acea putere gândeşte
+00:55:28,213 --> 00:55:30,327
+care nu este ataşat,
 
 847
-00:55:50,792 --> 00:55:53,250
-ea însăşi, organizează totul şi are grijă de voi.
+00:55:30,528 --> 00:55:33,370
+care vă dă acea lumină, acea detaşare,
 
 848
-00:55:53,917 --> 00:55:57,458
-Atât de multe lucruri li s-au întâmplat sahaja yoghinilor,
+00:55:33,571 --> 00:55:36,915
+prin care puteţi vedea totul ca pe o piesă de teatru
 
 849
-00:55:57,709 --> 00:56:00,375
-că dacă ar fi să vă spun totul despre ele, aţi fi uimiţi.
+00:55:37,116 --> 00:55:38,937
+și rezolva totul în cel mai bun mod.
 
 850
-00:56:00,667 --> 00:56:02,000
-S-au întâmplat lucruri uimitoare.
+00:55:39,138 --> 00:55:43,215
+Deveniţi atât de dinamici, atât de dinamici, încât sunteţi uimiți.
 
 851
-00:56:02,208 --> 00:56:05,792
-Dar Krishna a spus clar: Yogakshema vahamyaham,
+00:55:43,416 --> 00:55:46,987
+În afară de asta, trebuie să deveniți conştienți că există o Putere,
 
 852
-00:56:06,000 --> 00:56:10,375
-însemnând: „Când veţi obţine yoga, veţi dobândi bunăstarea.”
+00:55:47,188 --> 00:55:48,896
+o Putere Atotpătrunzătoare.
 
 853
-00:56:10,709 --> 00:56:14,208
-După yoga. El a spus întâi yoga, întâi trebuie să aibă loc unirea,
+00:55:49,097 --> 00:55:53,794
+Acea putere gândeşte, organizează totul şi are grijă de voi.
 
 854
-00:56:14,458 --> 00:56:16,333
-apoi veţi dobândi bunăstarea.
+00:55:53,995 --> 00:55:57,279
+Atât de multe lucruri li s-au întâmplat Sahaja Yoghinilor,
 
 855
-00:56:16,583 --> 00:56:19,125
-Am văzut oameni care se duc la aşa-zişii guru
+00:55:57,480 --> 00:56:00,375
+încât dacă ar trebui să vi le spun pe toate, aţi fi uimiţi.
 
 856
-00:56:19,208 --> 00:56:23,667
-şi par bolnavi, le vezi feţele palide, sunt la pământ,
+00:56:00,576 --> 00:56:02,198
+S-au întâmplat lucruri uimitoare.
 
 857
-00:56:23,917 --> 00:56:26,500
-nu sunt buni de nimic, oameni absolut jalnici.
+00:56:02,399 --> 00:56:05,792
+Shri Krishna a spus foarte clar: „Yoga kshema vahamyaham”,
 
 858
-00:56:26,667 --> 00:56:29,667
-Şi cum ar putea astfel de oameni să fie în yoga?
+00:56:06,000 --> 00:56:10,000
+însemnând: „Când veţi obţine Yoga, veţi dobândi bunăstarea”.
 
 859
-00:56:29,959 --> 00:56:32,959
-Nu numai fizic, mental sunt plini de pace,
+00:56:10,558 --> 00:56:12,997
+După yoga. A spus că mai întâi trebuie să aveți yoga.
 
 860
-00:56:33,083 --> 00:56:34,542
-sunt plini de compasiune şi iubire.
+00:56:13,198 --> 00:56:15,966
+Mai întâi trebuie să aibă loc Unirea și apoi va veni bunăstarea.
 
 861
-00:56:34,667 --> 00:56:37,917
-Iar compasiunea nu vorbeşte, ci doar curge, curge,
+00:56:16,167 --> 00:56:19,163
+Dar am văzut oameni care se duc la acești aşa-zişi guru
 
 862
-00:56:38,166 --> 00:56:41,375
-emite, puteţi da compasiunea voastră chiar şi florilor.
+00:56:19,364 --> 00:56:23,716
+şi arată bolnavi, au feţele palide, complet dărâmați,
 
 863
-00:56:41,625 --> 00:56:44,041
-Dacă florile mor, le puteţi da asta
+00:56:23,917 --> 00:56:26,500
+buni de nimic, oameni absolut nefericiți.
 
 864
-00:56:44,208 --> 00:56:46,417
-şi mai trăiesc o vreme. Dacă există, să zicem,
+00:56:26,730 --> 00:56:29,667
+Deci cum ar putea astfel de oameni să aibă Yoga?
 
 865
-00:56:46,667 --> 00:56:49,291
-copaci pe moarte, dacă le-o daţi, vor prospera.
+00:56:29,879 --> 00:56:32,774
+Yoghinii nu numai fizic, dar și mental sunt plini de pace,
 
 866
-00:56:49,500 --> 00:56:51,333
-Dacă le-o daţi animalelor, se vor schimba; pentru că
+00:56:32,975 --> 00:56:34,760
+plini de compasiune şi iubire,
 
 867
-00:56:51,667 --> 00:56:55,208
-întâi de toate, numai după ce căpătaţi această putere,
+00:56:34,961 --> 00:56:38,534
+o compasiune care nu vorbeşte, ci pur și simplu curge, curge,
 
 868
-00:56:55,500 --> 00:56:57,166
-oferiţi naturii ceva înapoi.
+00:56:38,735 --> 00:56:41,518
+emite, o puteţi oferi chiar şi florilor.
 
 869
-00:56:57,417 --> 00:57:00,083
-Până acum aţi luat mereu de la natură.
+00:56:41,719 --> 00:56:43,851
+Dacă florile mor, le puteţi oferi compasiunea voastră
 
 870
-00:57:00,333 --> 00:57:01,667
-Acum este prima dată când începeţi să daţi
+00:56:44,052 --> 00:56:45,507
+şi vor mai trăi o vreme.
 
 871
-00:57:01,875 --> 00:57:04,917
-ceva naturii. Deoarece compasiunea doar curge,
+00:56:45,708 --> 00:56:49,115
+Dacă le oferiți compasiune copacilor care se usucă, își vor reveni.
 
 872
-00:57:05,208 --> 00:57:08,542
-nu primeşte nimic, merge către ceilalţi
+00:56:49,316 --> 00:56:51,628
+Dacă o oferiţi animalelor, se vor comporta diferit;
 
 873
-00:57:08,875 --> 00:57:10,291
-şi asta e ceea ce ar trebui să vi se întâmple.
+00:56:51,829 --> 00:56:55,208
+pentru că pentru prima oară, doar după ce obțineți această putere,
 
 874
-00:57:10,542 --> 00:57:13,500
-Să nu fiţi satisfăcuţi de lucruri ieftine, de ceva fără sens,
+00:56:55,409 --> 00:56:57,066
+dăruiţi ceva înapoi naturii.
 
 875
-00:57:13,875 --> 00:57:20,667
-ceva ce e doar imitaţie sau o idee a maselor.
+00:56:57,267 --> 00:57:00,051
+Până acum nu aţi făcut decât să luați mereu de la natură.
 
 876
-00:57:20,875 --> 00:57:24,792
-Mă refer la colectivitatea în care fiecare individ este conştient.
+00:57:00,252 --> 00:57:03,284
+Este pentru prima dată acum când începeţi să dăruiţi ceva naturii.
 
 877
-00:57:25,083 --> 00:57:29,999
-Nu e o activitate în masă, e colectivitate. Dumnezeu să vă binecuvânteze!
+00:57:03,485 --> 00:57:05,930
+Deoarece compasiunea curge pur și simplu,
 
 878
-00:57:30,166 --> 00:57:33,917
-Sper ca astăzi mulţi să-şi primească Realizarea şi să devină una
+00:57:06,131 --> 00:57:08,802
+nu primeşte nimic, ci se îndreaptă doar către ceilalţi.
 
 879
-00:57:34,208 --> 00:57:36,999
-cu Spiritul şi să-şi simtă colectivitatea.
+00:57:09,003 --> 00:57:10,858
+Și asta ar trebui să se întâmple cu voi.
 
 880
-00:57:37,208 --> 00:57:40,875
-Asta e ceea ce sper eu. Plasez Brightonul foarte sus
+00:57:11,059 --> 00:57:14,245
+Nu ar trebui să fiţi satisfăcuţi cu lucruri triviale, prostești,
 
 881
-00:57:41,083 --> 00:57:43,917
-în Anglia, şi am spus mereu că Anglia este inima universului.
+00:57:14,446 --> 00:57:18,075
+lucruri care sunt doar imitaţii
 
 882
-00:57:44,166 --> 00:57:47,333
-E foarte important faptul că e inima, fără îndoială,
+00:57:18,275 --> 00:57:20,674
+sau idei ale unor mari mase de oameni.
 
 883
-00:57:47,625 --> 00:57:50,542
-şi de aceea Blake a spus că trebuie să devină Ierusalimul.
+00:57:20,875 --> 00:57:22,695
+Eu Mă refer la colectivitate,
 
 884
-00:57:50,792 --> 00:57:52,083
-Există mult adevăr în ceea ce a spus.
+00:57:22,895 --> 00:57:25,601
+în care fiecare persoană care o compune este conştientă.
 
 885
-00:57:52,333 --> 00:57:54,083
-A spus multe lucruri despre Sahaja Yoga,
+00:57:25,802 --> 00:57:29,252
+Nu este activitatea unei mari mase de oameni, ci este colectivitate.
 
 886
-00:57:54,333 --> 00:57:58,875
-e foarte adevărat. Dar inima este leneşă.
+00:57:29,453 --> 00:57:32,712
+Dumnezeu să vă binecuvânteze! Sper că mulţi vor primi Realizarea azi
 
 887
-00:57:59,166 --> 00:58:01,792
-Inima doarme, e un fapt.
+00:57:32,913 --> 00:57:36,889
+și vor deveni una cu Spiritul lor, vor simți colectivitatea.
 
 888
-00:58:02,083 --> 00:58:06,875
-Aşa cum am spus, Europa este ficatul şi aici se bea;
+00:57:37,090 --> 00:57:38,658
+Asta este ceea ce sper.
 
 889
-00:58:07,083 --> 00:58:09,458
-vă daţi seama care este starea de lucruri a acestuia,
+00:57:38,858 --> 00:57:41,927
+Consider că Brighton este la un nivel foarte înalt în Anglia,
 
 890
-00:58:09,667 --> 00:58:13,667
-chiar mai rău, când totul se întoarce împotriva propriei esenţe?
+00:57:42,128 --> 00:57:44,586
+şi am spus mereu că Anglia este inima universului.
 
 891
-00:58:13,875 --> 00:58:17,875
-Iar esenţa englezilor e că ei sunt inima.
+00:57:44,787 --> 00:57:47,714
+E foarte important faptul că e inima, fără îndoială.
 
 892
-00:58:18,083 --> 00:58:21,000
-Asta înseamnă că ea e cea care uneşte, face să circule.
+00:57:47,915 --> 00:57:50,747
+De aceea Blake a spus că trebuie să devină Ierusalimul.
 
 893
-00:58:21,333 --> 00:58:23,999
-Tot ce se întâmplă în Anglia e luat în serios.
+00:57:50,948 --> 00:57:52,773
+Există mult adevăr în ceea ce a spus.
 
 894
-00:58:24,208 --> 00:58:26,750
-Să presupunem că deveniţi cu toţii oameni stupizi -
+00:57:52,974 --> 00:57:55,744
+A spus multe lucruri despre Sahaja Yoga, care s-au adeverit.
 
 895
-00:58:27,000 --> 00:58:28,208
-întreaga lume va deveni aşa.
+00:57:55,945 --> 00:57:59,817
+Dar inima este letargică.
 
 896
-00:58:28,458 --> 00:58:30,333
-Pe umerii voştri apasă o aşa mare responsabilitate,
+00:58:00,018 --> 00:58:02,247
+Inima doarme - e un lucru trist.
 
 897
-00:58:30,625 --> 00:58:31,875
-de care nici nu vă daţi seama.
+00:58:02,448 --> 00:58:07,086
+Aşa cum și despre Europa spun că este ficatul; iar acolo se bea.
 
 898
-00:58:32,083 --> 00:58:34,333
-Este un lucru foarte important pe care-l facem.
+00:58:07,287 --> 00:58:10,452
+Vă daţi seama care va fi starea universului,
 
 899
-00:58:34,667 --> 00:58:38,208
-Pare foarte mic în ţara asta, pentru că sunt foarte puţini
+00:58:10,653 --> 00:58:13,776
+din moment ce toate aceste zone se întorc împotriva propriei esenţe?
 
 900
-00:58:38,458 --> 00:58:41,208
-oameni care au venit la Sahaja Yoga şi s-au stabilizat cu adevărat.
+00:58:13,977 --> 00:58:18,061
+Iar esenţa englezilor este că ei sunt inima.
 
 901
-00:58:41,458 --> 00:58:44,625
-Foarte puţini oameni, sunt foarte puţini de acest calibru.
+00:58:18,262 --> 00:58:21,380
+Inima este cea care uneşte, care face ca totul să circule.
 
 902
-00:58:44,875 --> 00:58:47,333
-Cred că din moment ce există aici copii mici, mulţi se vor ridica,
+00:58:21,581 --> 00:58:24,310
+Tot ce se întâmplă în Anglia este preluat cu seriozitate.
 
 903
-00:58:47,625 --> 00:58:49,417
-să zicem, cam în 10 ani.
+00:58:24,511 --> 00:58:27,267
+Presupunând că deveniţi cu toţii oameni stupizi,
 
 904
-00:58:49,625 --> 00:58:53,208
-Sunt sigură că vor veni oameni de o calitate foarte bună,
+00:58:27,468 --> 00:58:30,777
+întreaga lume va deveni aşa. Aveți așa o mare responsabilitate,
 
 905
-00:58:53,417 --> 00:58:55,291
-iar căutătorii de aici sunt de asemenea
+00:58:30,978 --> 00:58:32,576
+de care nici nu vă daţi seama.
 
 906
-00:58:55,542 --> 00:58:58,333
-cam agitaţi, pentru că vor să înveţe
+00:58:32,777 --> 00:58:35,250
+Ceea ce facem este foarte important.
 
 907
-00:58:58,583 --> 00:59:00,417
-de la americani şi de la europeni.
+00:58:35,451 --> 00:58:37,634
+Pare foarte mic, pentru că în ţara asta
 
 908
-00:59:00,667 --> 00:59:01,917
-Nu e nimic de învăţat de la ei.
+00:58:37,835 --> 00:58:41,424
+sunt foarte puţini cei care vin la Sahaja Yoga şi se stabilizează,
 
 909
-00:59:02,166 --> 00:59:04,083
-Voi sunteţi cei care circulă;
+00:58:41,625 --> 00:58:44,625
+foarte puţini, sunt foarte puţini de acest calibru.
 
 910
-00:59:04,291 --> 00:59:05,667
-voi veţi transmite mesajul.
+00:58:44,875 --> 00:58:49,801
+Cred că există însă copii mici care se vor ridica în circa 10 ani
 
 911
-00:59:05,917 --> 00:59:08,999
-Ştiu că e o ţară foarte importantă şi s-a întâmplat cumva
+00:58:50,002 --> 00:58:54,300
+și sunt sigură că vor deveni oameni de o calitate foarte bună.
 
 912
-00:59:09,166 --> 00:59:11,750
-ca soţul meu să fie ales
+00:58:54,501 --> 00:58:57,923
+Căutătorii de aici sunt de asemenea cam agitaţi,
 
 913
-00:59:11,999 --> 00:59:13,625
-în Anglia şi acum suntem aici
+00:58:58,124 --> 00:59:00,965
+pentru că vor să înveţe de la americani şi de la europeni.
 
 914
-00:59:13,792 --> 00:59:15,458
-de 8 ani, vă vine să credeţi?
+00:59:01,166 --> 00:59:02,626
+Nu aveți ce învăţa de la ei.
 
 915
-00:59:15,792 --> 00:59:20,208
-Şi probabil voi mai fi aici încă patru ani, cel mult.
+00:59:02,827 --> 00:59:06,084
+Voi sunteţi cei ce veți pune în circulație și veţi purta mesajul.
 
 916
-00:59:20,458 --> 00:59:23,208
-Deci sper să se întâmple ceva, şi în acest Brighton,
+00:59:06,285 --> 00:59:08,414
+Ştiu că Anglia e o ţară foarte importantă
 
 917
-00:59:23,542 --> 00:59:28,583
-care este un loc foarte bun, sunt sigură că mulţi
+00:59:08,615 --> 00:59:13,296
+şi totul a decurs astfel încât soţul Meu să fie desemnat în Anglia.
 
 918
-00:59:28,917 --> 00:59:31,208
-îşi vor primi Realizarea şi vor ajuta
+00:59:13,497 --> 00:59:15,819
+Suntem aici de 8 ani, puteți crede?
 
 919
-00:59:31,458 --> 00:59:33,875
-la emanciparea fiinţelor umane.
+00:59:16,020 --> 00:59:20,459
+Şi vom mai fi aici pentru încă patru ani cel mult.
 
 920
+00:59:20,660 --> 00:59:22,730
+Deci sper să se schimbe ceva.
+
+921
+00:59:22,931 --> 00:59:28,287
+Și sunt sigură că și în Brighton, care este un loc foarte bun,
+
+922
+00:59:28,488 --> 00:59:30,319
+mulţi îşi vor primi Realizarea
+
+923
+00:59:30,520 --> 00:59:33,875
+şi vor ajuta la emanciparea fiinţelor umane.
+
+924
 00:59:34,083 --> 00:59:37,166
 Vă mulţumesc foarte mult. Dumnezeu să vă binecuvânteze!
 
-921
-00:59:37,417 --> 00:59:50,083
-Dacă aveţi întrebări puteţi să mi le puneţi.
-
-922
-00:59:50,417 --> 00:59:53,125
-Cu toată sinceritatea vă spun că sunt mama voastră.
-
-923
-00:59:53,417 --> 00:59:56,583
-Nu mă simt deranjată să-mi puneţi întrebări.
-
-924
-00:59:56,875 --> 00:59:59,291
-Este important pentru că, fără îndoială, eu nu am întrebări.
-
 925
-00:59:59,542 --> 01:00:01,000
-Voi trebuie să mă întrebaţi; eu n-am nicio întrebare.
+00:59:37,417 --> 00:59:38,938
+Dacă aveţi...
+
+926
+00:59:47,472 --> 00:59:50,421
+Dacă aveți întrebări, vă rog întrebați-Mă.
+
+927
+00:59:50,622 --> 00:59:53,389
+Cu toată sinceritatea vă spun că sunt Mama voastră.
+
+928
+00:59:53,590 --> 00:59:55,047
+Nu Mă pot simți ofensată.
+
+929
+00:59:55,247 --> 00:59:57,385
+Este important să-Mi puneţi întrebări,
+
+930
+00:59:57,586 --> 00:59:59,674
+pentru că Eu nu am întrebări de fapt.
+
+931
+00:59:59,875 --> 01:00:04,071
+Voi trebuie să Mă întrebaţi; Eu nu am nicio întrebare.
 
