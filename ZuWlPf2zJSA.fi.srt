@@ -1,7 +1,7 @@
 1
-00:00:01,926 --> 00:00:09,426
+00:00:01,959 --> 00:00:09,459
 Shri Mahakalin siunaukset
-Cabella ligure, Italia, 17.10.1999 - katkelmia puheesta
+Cabella Ligure, Italia, 17.10.1999 — katkelmia puheesta
 
 2
 00:00:14,250 --> 00:00:22,209
@@ -47,7 +47,7 @@ on tiedettävä tämä: kaikki tämä on tapahtunut siksi,
 
 12
 00:01:00,918 --> 00:01:04,584
-että sisällänne on Mahakalin Voima.
+että sisällänne on Mahakalin voima.
 
 13
 00:01:04,792 --> 00:01:07,083
@@ -64,12 +64,11 @@ Kunnioittaen teidän pitää tietää, että Mahakali
 
 16
 00:01:15,125 --> 00:01:20,292
-on hyvin herkkä persoona.
-Hän on hyvin herkkä.
+on hyvin herkkä persoona. Hän on hyvin herkkä.
 
 17
 00:01:20,500 --> 00:01:25,292
-Jos yritätte tehdä jotain vääryyttä jotakin kohtaan,
+Jos yritätte tehdä jotain vääryyttä toista ihmistä kohtaan,
 
 18
 00:01:25,500 --> 00:01:29,042
@@ -77,7 +76,7 @@ Hän valvoo teitä. Hän kertoo monin tavoin,
 
 19
 00:01:29,250 --> 00:01:33,751
-että se mitä teette on väärin —
+että se, mitä teette on väärin —
 miksi teette väärin jotakin toista kohtaan?
 
 20
@@ -125,7 +124,7 @@ Hän suojelee kaikkia kehonne elimiä.
 
 30
 00:02:28,626 --> 00:02:34,292
-Hän on se Yksi, joka antaa teille kaiken turvan elämässänne.
+Hän on se, joka antaa teille kaiken elämän turvan.
 
 31
 00:02:34,751 --> 00:02:40,209
@@ -164,7 +163,7 @@ Hän tarttuu käteenne.
 
 39
 00:03:08,918 --> 00:03:15,876
-Hän todella osaa opastaa. Hän on oikeastaan se Yksi,
+Hän todella osaa opastaa. Hän on oikeastaan se,
 joka antaa meille olemassaolomme.
 
 40
@@ -193,17 +192,16 @@ mikä on totuus ja mikä ei ole.
 Joskus ihmiset suuressa egossaan yrittävät uskoa,
 
 46
-00:03:52,459 --> 00:03:57,334
-että "Se, mitä minä ajattelen, on totuus."
-Silloin Hän tulee osoittamaan
+00:03:52,459 --> 00:03:55,834
+että "Se, mitä minä ajattelen, on totuus". Silloin Hän tulee
 
 47
-00:03:57,342 --> 00:04:05,018
-luomalla 'mayan', eräänlaisen sekaannuksen,
+00:03:56,042 --> 00:04:04,918
+osoittamaan luomalla 'mayan', eräänlaisen sekaannuksen,
 
 48
 00:04:05,125 --> 00:04:08,500
-että alatte ajatella, "Mitä ihmettä?"
+että alatte ajatella: "Mitä ihmettä?"
 
 49
 00:04:08,709 --> 00:04:14,083
@@ -215,7 +213,7 @@ Hän laittaa teitä myös illuusioon, Hän koettelee teitä —
 
 51
 00:04:17,792 --> 00:04:24,500
-laitta teidät illuusioon ja lopuksi sitten
+laittaa teidät illuusioon ja lopuksi sitten
 ottaa teidät pois illuusioista.
 
 52
@@ -247,7 +245,7 @@ Se ei ole vain fyysinen, vaan myös mentaali tunne,
 
 58
 00:04:53,918 --> 00:04:58,292
-että hän vapauttaa mielenne täysin kaikista huolista.
+että Hän vapauttaa mielenne täysin kaikista huolista.
 
 59
 00:04:58,500 --> 00:05:03,125
@@ -269,7 +267,7 @@ Huolehtiminen on hyvin yleistä,
 63
 00:05:14,751 --> 00:05:18,042
 ja ihmiset ylpeilevät suuresti sanomalla,
-"Kylläpä olin huolissani."
+"Kylläpä olin huolissani".
 
 64
 00:05:18,250 --> 00:05:23,083
@@ -345,12 +343,12 @@ Hän pitää myös valosta, Hän pitää auringosta,
 Hän pitää sellaisesta, joka valaistuu ja kirkastuu kokonaan.
 
 80
-00:06:40,167 --> 00:06:45,884
+00:06:40,167 --> 00:06:44,584
 Olette varmasti kuulleet ihmisistä,
-joita kutsutaan… en tiedä millä nimellä (vampyyrit!),
+joita kutsutaan, en tiedä millä nimellä (vampyyrit),
 
 81
-00:06:45,992 --> 00:06:50,159
+00:06:44,792 --> 00:06:49,959
 mutta erityisesti lännessä heitä näkee:
 
 82
@@ -359,11 +357,11 @@ heillä on suuret hampaat ja… Ha!
 
 83
 00:06:56,792 --> 00:07:04,667
-Ja he eivät — kuvitelkaa — he eivät voi olla auringossa.
+Ja he eivät, kuvitelkaa, he eivät voi olla auringossa.
 
 84
 00:07:04,876 --> 00:07:10,709
-Heti, kun aurinko nousee, he haluavat
+Heti kun aurinko nousee, he haluavat
 vain mennä pois ja nukkua,
 
 85
@@ -373,7 +371,7 @@ jolloin he eivät näe aurinkoa, koska eivät kestä valoa.
 86
 00:07:16,250 --> 00:07:20,626
 Siinä on tapahtunut niin,
-että Mahalakshmi...
+että Mahalakshmi…
 
 87
 00:07:20,834 --> 00:07:24,125
@@ -390,7 +388,8 @@ jotka tietävät heidän pelkäävän.
 
 90
 00:07:36,918 --> 00:07:44,167
-Aurinko itsessään on hyvin tärkeä Mahakalin toiminnassa.
+Aurinko itsessään on hyvin tärkeä,
+jotta Mahakali toimisi meissä.
 
 91
 00:07:44,375 --> 00:07:51,751
@@ -532,12 +531,11 @@ Tämän päivän suurin ongelma on ego,
 
 123
 00:10:36,292 --> 00:10:39,250
-joka esittää: "Ei, ei, kyllä minä osaan tehdä tämän."
+joka esittää: "Ei, ei, kyllä minä osaan tehdä tämän".
 
 124
 00:10:39,459 --> 00:10:46,167
-Ego sanoo: "Minä teen sen."
-Ego sanoo: "Asia hoidetaan."
+Ego sanoo: "Minä teen sen". Ego sanoo: "Asia hoidetaan".
 
 125
 00:10:46,375 --> 00:10:50,959
@@ -629,7 +627,7 @@ Montako ihmistä parannatte, montaako autatte?"
 
 146
 00:12:24,876 --> 00:12:28,292
-Hän on hyvin tietoinen kaikesta mitä teette.
+Hän on hyvin tietoinen kaikesta, mitä teette.
 
 147
 00:12:28,500 --> 00:12:33,000
@@ -694,22 +692,22 @@ eikä teille voi tapahtua mitään,
 
 161
 00:13:25,876 --> 00:13:29,500
-jos todella palvotte Häntä täydestä sydämestänne:
+jos todella palvotte Häntä täydestä sydämestänne.
 
 162
 00:13:29,709 --> 00:13:34,459
-ei minkään hyödyn tai saavutuksen takia,
+Ette minkään hyödyn tai saavutuksen takia,
 
 163
 00:13:34,667 --> 00:13:37,375
 vaan Hänen siunauksiensa takia.
 
 164
-00:13:37,459 --> 00:13:40,117
+00:13:37,459 --> 00:13:40,417
 Hänen siunauksensa ovat hyvin suuria,
 
 165
-00:13:40,284 --> 00:13:47,475
+00:13:40,584 --> 00:13:47,375
 ja ne ovat todella rikastuttaneet ihmisolentoja,
 ne ovat rikastuttaneet koko maata.
 
@@ -733,7 +731,7 @@ ja pyytää Mahakalia: "Tuhoa, tuhoa hänet (rakshasa),
 
 170
 00:14:06,209 --> 00:14:09,250
-koska shän tuhoaa maailman. Ole hyvä ja tuhoa hänet."
+koska hän tuhoaa maailman. Ole hyvä ja tuhoa hänet."
 
 171
 00:14:09,459 --> 00:14:11,667
