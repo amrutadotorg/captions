@@ -3096,7 +3096,7 @@ Iisus a spus foarte clar:
 
 775
 00:45:04,920 --> 00:45:09,883
-„Mă veți chema: <<Iisus, Iisus>>, dar Eu nu vă voi recunoaște”.
+„Mă veți chema: Iisus, Iisus, dar Eu nu vă voi recunoaște”.
 
 776
 00:45:10,287 --> 00:45:13,378
@@ -6226,4 +6226,3 @@ Să încercăm din nou.
 1557
 01:32:55,581 --> 01:32:57,360
 Încă o dată.
-
