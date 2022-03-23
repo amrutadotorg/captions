@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,960 --> 00:00:05,250
 Ahora hemos llegado todos, muy bien.
 
@@ -1733,3 +1733,4 @@ que se expresa por sí misma, que se manifiesta por sí misma.
 434
 00:43:39,500 --> 00:43:41,720
 Que Dios os bendiga.
+
