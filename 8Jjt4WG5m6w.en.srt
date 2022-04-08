@@ -1,4 +1,4 @@
-﻿1
+1
 00:05:36,440 --> 00:05:38,833
 Shall I talk in Hindi? I will speak in English,
 
@@ -752,7 +752,7 @@ That we can say today,
 
 189
 00:19:10,022 --> 00:19:13,706
-that it is about twelve years some months,
+that it is about twelve years ten months,
 
 190
 00:19:14,584 --> 00:19:18,037
