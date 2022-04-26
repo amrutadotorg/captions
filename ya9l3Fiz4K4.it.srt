@@ -474,7 +474,7 @@ come il sapone!
 
 96
 00:10:01,782 --> 00:10:06,356
-Io, naturalmente l’ho letta,
+Io naturalmente l’ho letta,
 non so quanti lo facciano.
 
 97
@@ -1574,7 +1574,7 @@ per raggiungere la perfezione.
 
 319
 00:30:58,571 --> 00:31:03,464
-Riceverebbe lo stesso compenso
+Riceverà lo stesso compenso
 che sia perfetto o no,
 
 320
