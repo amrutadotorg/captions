@@ -974,7 +974,7 @@ Mitä silloin on pelko?
 
 238
 00:23:19,167 --> 00:23:22,483
-Miksi siitä pitäisi puhua?
+Mitä siitä voisi sanoa?
 
 239
 00:23:22,592 --> 00:23:27,467
@@ -986,7 +986,7 @@ Ei voi sanoa: "Se on tällainen, se on tuollainen".
 
 241
 00:23:33,500 --> 00:23:36,984
-Sen kuvaamiseksi ei ole absoluuttisia sanoja.
+Sen kuvaamiseen ei ole absoluuttisia sanoja.
 
 242
 00:23:37,092 --> 00:23:40,017
@@ -994,7 +994,7 @@ Vain kieltämällä: 'ei tätä, ei tätä, ei tätä',
 
 243
 00:23:40,084 --> 00:23:43,459
-ja mitä jää jäljelle on absoluutti.
+ja se mitä jää jäljelle on absoluutti.
 
 244
 00:23:46,375 --> 00:23:50,751
