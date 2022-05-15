@@ -237,8 +237,8 @@ tetiklemek için kullanılan yöntem buydu.
 
 53
 00:05:35,847 --> 00:05:39,510
-Ben gençken, sizin gibi,
-o zamanlar Kendimi incelerken,
+Ben gençken, sizin gibi, o zamanlar 
+eğitimime devam ederken
 
 54
 00:05:39,535 --> 00:05:42,788
@@ -1909,7 +1909,7 @@ Bu Tanrı’nın amacına aykırıdır
 
 417
 00:35:09,018 --> 00:35:11,850
-ve bu yüzden Ben onlara 
+ve bu yüzden Ben onlara
 Şeytan diyeceğim.
 
 418
