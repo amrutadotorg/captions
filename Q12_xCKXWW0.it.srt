@@ -1630,14 +1630,14 @@ ho lavorato molto duramente,
 giorno e notte,
 
 328
-00:35:03,844 --> 00:35:07,790
-ed il mio solo desiderio è
-che voi
+00:35:03,844 --> 00:35:06,629
+ed il mio solo desiderio
+era
 
 329
-00:35:07,991 --> 00:35:11,781
-prendiate tutto questo seriamente
-e lo realizziate.
+00:35:06,830 --> 00:35:11,781
+che voi prendeste tutto questo
+seriamente e lo concretizzaste.
 
 330
 00:35:11,982 --> 00:35:14,718
@@ -1681,7 +1681,7 @@ anime realizzate.
 
 338
 00:35:39,446 --> 00:35:42,811
-Vi rispetterà. E anche se
+Vi rispetterà. Ed anche se
 farete degli errori
 
 339
