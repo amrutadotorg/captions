@@ -780,8 +780,8 @@ estava administrando um restaurante.
 
 158
 00:11:44,762 --> 00:11:50,129
-E um ladrão tinha roubado um casaco de um
-restaurante e foi ao restaurante dela…
+E um ladrão tinha roubado um casaco de
+um restaurante e foi ao restaurante dela…
 
 159
 00:11:50,330 --> 00:11:54,170
@@ -3458,8 +3458,8 @@ e quando vocês têm dinheiro.
 
 702
 00:50:13,800 --> 00:50:19,221
-Eu diria que vocês são pessoas pobres
-que estão morrendo de fome.
+Eu não diria se vocês são pessoas
+pobres que estão morrendo de fome.
 
 703
 00:50:19,557 --> 00:50:22,988
@@ -4187,7 +4187,8 @@ que foram $375 no ano passado,
 
 850
 01:00:49,645 --> 01:00:52,678
-achei que eram apenas $300, então Eu disse que era suficiente aumentar 100 rúpias.
+achei que eram apenas $300, então Eu disse
+que era suficiente aumentar 100 rúpias.
 
 851
 01:00:52,878 --> 01:00:55,189
