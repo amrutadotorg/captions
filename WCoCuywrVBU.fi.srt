@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:07,340 --> 00:00:10,029
 Sitten meillä on yläpuolella toinen keskus,
 
