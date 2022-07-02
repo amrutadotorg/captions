@@ -367,7 +367,7 @@ Ensimmäinen sisällämme oleva tuhoaja
 
 81
 00:06:51,720 --> 00:06:54,560
-On Shri Ganeshan voima,
+on Shri Ganeshan voima,
 
 82
 00:06:55,880 --> 00:06:59,720
@@ -518,7 +518,7 @@ Tämä on minun päämääräni."
 115
 00:09:52,760 --> 00:09:58,909
 Tästä on kysymys, kaikki toiminta täytyy
-alistaa tälle työlle
+alistaa tälle työlle.
 
 116
 00:09:59,880 --> 00:10:04,630
@@ -547,7 +547,6 @@ lapsia ei pidetä tärkeinä,
 
 122
 00:10:25,225 --> 00:10:26,980
-
 ihmiset ovat itsekkäitä,
 
 123
@@ -951,7 +950,7 @@ Syntyy reaktio.
 
 211
 00:17:52,000 --> 00:17:55,080
-ne, jotka näkevät rikkaiden ongelmat,
+Ne, jotka näkevät rikkaiden ongelmat,
 
 212
 00:17:55,400 --> 00:17:58,520
@@ -1278,7 +1277,8 @@ leija taivaalla, Muladharaan kiinnittyneenä,
 
 282
 00:24:05,386 --> 00:24:09,616
-ja voitte liikkua mihin suuntaan tahansa, kuinka korkealle haluatte, ja minne tahansa menette,
+ja voitte liikkua mihin suuntaan tahansa, 
+kuinka korkealle haluatte, ja minne tahansa menette,
 
 283
 00:24:09,846 --> 00:24:13,772
@@ -1296,7 +1296,7 @@ saada ensin vahvat juuret,
 
 286
 00:24:26,800 --> 00:24:31,392
-jotta halunne kasvaa ylöspäin,
+jotta halunne voi kasvaa ylöspäin,
 kuten puu.
 
 287
