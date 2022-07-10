@@ -526,8 +526,8 @@ voit saada toisenlaisia ongelmia.
 
 125
 00:12:12,709 --> 00:12:19,000
-Nykyään on kuuluisa sairaus
-nimeltään Alzheimerin tauti.
+Nykyään puhutaan paljon sairaudesta
+nimeltä Alzheimerin tauti.
 
 126
 00:12:19,959 --> 00:12:22,459
@@ -1862,7 +1862,7 @@ luentoja siitä. Ei!
 
 432
 00:35:41,459 --> 00:35:46,042
-Se tarkoittaa sitä, että antaa oivalluksia muille.
+Se tarkoittaa sitä, että annatte oivalluksia muille.
 
 433
 00:35:47,751 --> 00:35:53,125
@@ -1876,7 +1876,7 @@ tuntea sisällään kuin aallot,
 
 435
 00:35:58,667 --> 00:36:02,959
-rakkauden meren laineet sydämessänne.
+rakkauden meren laineet sydämessään.
 
 436
 00:36:03,584 --> 00:36:08,709
