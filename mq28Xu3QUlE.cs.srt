@@ -5391,7 +5391,7 @@ Alláhem a Mojžíšem,
 
 1156
 02:21:59,255 --> 02:22:03,086
-dokud motlitby nebyly
+dokud modlitby nebyly
 sníženy na pìt.
 
 1157
@@ -5411,7 +5411,7 @@ modlit pìtkrát dennì,
 
 1160
 02:22:18,003 --> 02:22:20,705
-obdrží odmìnu za padesát motliteb.“
+obdrží odmìnu za padesát modliteb.“
 
 1161
 02:22:20,906 --> 02:22:24,072
