@@ -495,8 +495,8 @@ Kaikissa pyhissä kirjoituksissa sanotaan,
 
 114
 00:10:07,000 --> 00:10:11,920
-että meidän pitää pukeutua tavalla,
-joka on säädyllistä ja hillittyä
+että meidän pitää pukeutua niin,
+että näytämme säädyllisiltä ja hillityiltä
 
 115
 00:10:12,240 --> 00:10:15,280
@@ -522,7 +522,7 @@ Uskon, että sahaja-joogit ovat tajunneet sen,
 
 120
 00:10:39,160 --> 00:10:43,520
-että vaatetuksemme pitää olla säädyllistä ja arvokasta,
+että vaatetuksemme pitää olla säädyllinen ja arvokas,
 
 121
 00:10:44,000 --> 00:10:53,600
@@ -1032,7 +1032,7 @@ Ja jonkin ajan kuluttua tuuli laantuu.
 
 237
 00:19:55,720 --> 00:20:01,560
-Ja oikeastaan tämä pitää tapahtua maailmalle,
+Ja oikeastaan tämän pitää tapahtua maailmalle,
 
 238
 00:20:01,720 --> 00:20:10,000
@@ -1046,7 +1046,7 @@ ja lujalla uskollaan Sahaja Yogaan.
 240
 00:20:20,120 --> 00:20:26,240
 Muuten hekin voivat lentää tuulen mukana,
-jos he eivät ole oikein sijoittuneina,
+jos he eivät ole tukevasti paikoillaan,
 
 241
 00:20:26,440 --> 00:20:28,320
@@ -1063,7 +1063,7 @@ tämä tuuli voi viedä heidät mennessään,
 
 244
 00:20:38,280 --> 00:20:44,200
-joka piinaa koko maailmaa,
+tuuli, joka piinaa koko maailmaa,
 joka tuhoaa koko maailman.
 
 245
@@ -1683,7 +1683,7 @@ Hänelle Äiti on kaikki.
 
 385
 00:31:13,400 --> 00:31:16,200
-Hänen ei tarvitse katsella keneenkään muuhun.
+Hänen ei tarvitse katsoa keneenkään muuhun.
 
 386
 00:31:16,920 --> 00:31:24,360
@@ -1782,8 +1782,8 @@ Olen kertonut siitä tavallaan hyvin suurpiirteisesti,
 
 407
 00:33:05,880 --> 00:33:08,960
-mutta kaikista hienojakoisista asioista
-en ole puhunut paljonkaan.
+mutta kaikkein hienojakoisimmista asioista
+en ole puhunut paljoakaan.
 
 408
 00:33:09,320 --> 00:33:15,880
