@@ -20,7 +20,7 @@ Saturday, Sunday, Monday, Friday,Saturday, Sunday.
 
 6
 00:00:49,465 --> 00:00:54,340
-Whenever either it is on the date or not we have to arrange
+Whenever it is, whether it is on that date or not,we have to arrange
 
 7
 00:00:54,548 --> 00:00:55,257
@@ -440,7 +440,7 @@ then for us kindness, sweetness, compassion and love
 
 111
 00:08:34,840 --> 00:08:37,049
-is the main qualities we should have
+is the main quality we should have
 
 112
 00:08:37,299 --> 00:08:42,257
