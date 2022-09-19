@@ -140,7 +140,7 @@ turėtumėte prisiminti, kaip gavote Realizaciją.
 
 36
 00:02:57,209 --> 00:03:02,501
-Nesvarbu, koks nemalonus ar džiugus būtų priminimas,
+Nesvarbu, koks nemalonus ar džiugus būtų prisiminimas,
 
 37
 00:03:02,626 --> 00:03:10,792
@@ -172,7 +172,7 @@ surinksite kelias akimirkas tam,
 
 44
 00:03:44,459 --> 00:03:54,083
-kad įtvirtintumėte dar kitas priminimų akimirkas.
+kad įtvirtintumėte tokių pačių prisiminimų akimirkas.
 
 45
 00:03:55,459 --> 00:03:59,209
