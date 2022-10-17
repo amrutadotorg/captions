@@ -48,7 +48,7 @@ to priežastis – vakariečiai daug dėmesio skyrė proto pažangai,
 
 13
 00:01:08,918 --> 00:01:11,667
-taip širdis liko mažiau išsivystyta.
+taip širdis liko mažiau išvystyta.
 
 14
 00:01:11,792 --> 00:01:15,209
@@ -60,7 +60,7 @@ kur vystosi žmonių smegenys,
 
 16
 00:01:18,000 --> 00:01:21,417
-ir šalys, ten ir širdis labiau išsivysčiusi.
+ir besivystančiose šalyse širdis labiau išsivysčiusi.
 
 17
 00:01:21,542 --> 00:01:23,959
@@ -148,7 +148,7 @@ visiškai atsispindi tokio žmogaus prote
 
 38
 00:02:50,125 --> 00:02:57,584
-tarsi ramaus ežero paviršiuje; visa, kas aplink, atsispindi jame.
+tarsi ramaus ežero paviršiuje – visa, kas aplink, atsispindi jame.
 
 39
 00:02:58,501 --> 00:03:02,584
