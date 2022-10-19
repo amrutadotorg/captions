@@ -926,7 +926,7 @@ Tout dort,
 
 232
 00:21:23,658 --> 00:21:28,134
-à la manière dont nous dormons. Ainsi le monde entier dort, par exemple.
+à la manière dont nous dormons. Ainsi le monde entier dort, pour vous.
 
 233
 00:21:28,134 --> 00:21:32,423
@@ -1214,7 +1214,7 @@ Le Spectateur a un désir.
 
 304
 00:28:12,417 --> 00:28:16,540
-Tant que le Spectateur est heuruex, le jeu continue.
+Tant que le Spectateur est heureux, le jeu continue.
 
 305
 00:28:16,540 --> 00:28:21,256
