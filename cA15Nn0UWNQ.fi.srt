@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:07,495 --> 00:00:11,079
 Tämä meidän toinen keskuksemme
 on hyvin tärkeä,
