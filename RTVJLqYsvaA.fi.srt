@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:03,250 --> 00:00:05,792
 En pystynyt majoittamaan teitä kaikkia kotiini,
 
