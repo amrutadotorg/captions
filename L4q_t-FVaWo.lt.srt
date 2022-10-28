@@ -116,8 +116,7 @@ sudeginti;
 
 26
 00:02:56,459 --> 00:03:01,626
-ir Sahadža Jogoje jūs galite suprasti, kaip
-žvakė dega
+ir Sahadža jogoje jūs galite suprasti, kaip dega žvakė
 
 27
 00:03:01,792 --> 00:03:07,209
@@ -154,7 +153,7 @@ per 10-ą pilnėjančio
 
 34
 00:03:45,167 --> 00:03:52,417
-Mėnulio dieną – tai buvo Dasera –
+mėnulio dieną – tai buvo Dasera –
 
 35
 00:03:52,626 --> 00:03:57,542
@@ -233,7 +232,7 @@ Ir štai kodėl „Radžabišek“, turiu omenyje,
 
 51
 00:05:40,918 --> 00:05:44,959
-karūnavimo ceremonija įvyko šią dieną.
+karūnavimo ceremonija, įvyko šią dieną.
 
 52
 00:05:45,167 --> 00:05:55,375
@@ -319,7 +318,7 @@ kitas yra Šalivahan – Šalivahanų.
 69
 00:07:47,501 --> 00:07:51,918
 Ir tai yra dinastija, kaip žinote,
-kurie yra mano protėviai,
+tai mano protėviai,
 
 70
 00:07:52,125 --> 00:07:55,250
@@ -346,12 +345,12 @@ tačiau iš tikrųjų tai reiškia šalį [juo apsigaubiame].
 75
 00:08:24,709 --> 00:08:28,334
 Marathi kalboje šalis vadinamas
-Šali,
+„šali“,
 
 76
 00:08:28,501 --> 00:08:33,709
 ir tas, kuris neša Motinos
-šalį, yra vadinamas Šalivahan.
+šalį, yra vadinamas „šalivahan“.
 
 77
 00:08:33,918 --> 00:08:37,167
@@ -388,11 +387,11 @@ Ir jie labai džiaugėsi tai darydami.
 
 84
 00:09:04,876 --> 00:09:08,250
-Taigi, rytoj yra naujų metų diena.
+Taigi, rytoj yra Naujųjų metų diena.
 
 85
 00:09:08,459 --> 00:09:14,292
-Dabar kodėl yra svarbu turėti naujų metų
+Dabar kodėl yra svarbu turėti Naujųjų metų
 dieną mūsų gyvenime?
 
 86
@@ -417,7 +416,7 @@ Kai gaunate realizaciją,
 
 90
 00:09:48,542 --> 00:09:55,417
-jūs tampate taip į tai įtsitraukę,
+jūs tampate taip į tai įsitraukę,
 taip mėgaujatės ja, kad galvojate:
 
 91
@@ -535,11 +534,11 @@ pamiršti
 
 114
 00:11:49,459 --> 00:11:53,834
-tą momentą, kai gavome savirealizaciją
+tą momentą, kai gavome savirealizaciją,
 
 115
 00:11:54,375 --> 00:11:59,459
-ir kad sau viduje buvome pažadėję
+ir, kad sau viduje buvome pažadėję
 tai daryti.
 
 116
@@ -568,8 +567,8 @@ atneša gyvenimo gaivumą,
 
 121
 00:12:35,375 --> 00:12:41,542
-ir vėl pradedate turėdami daugiau
-entuziazmo naują dieną,
+ir vėl pradedate naują dieną turėdami daugiau
+entuziazmo,
 
 122
 00:12:41,751 --> 00:12:50,334
@@ -629,7 +628,7 @@ prisipildo sklidinai,
 
 134
 00:13:45,375 --> 00:13:51,125
-jis sako: „Ne, įpilti [...] nieko.
+jis sako: „Ne, įpilti [...] nieko.“
 Viskas, ką pilsite, teks kitiems.
 
 135
