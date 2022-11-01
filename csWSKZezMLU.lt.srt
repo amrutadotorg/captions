@@ -2635,7 +2635,7 @@ tada nustokite valgyti pas jį. Jums nėra su juo ką veikti.
 Jūs turite dirbti mūsų šalies gerovei,
 
 660
-00:47:04,709 --> 00:47:08,442
+00:47:04,709 --> 00:47:04,709
 nes Dievas mums davė šviesą. Matykite toje šviesoje.
 
 661
@@ -3305,3 +3305,4 @@ ir malonu, kad jums patiko.
 827
 01:01:38,834 --> 01:01:41,542
 Ačiū.
+

@@ -3305,3 +3305,4 @@ ja oli ystävällistä, että otitte vastaan sanomani.
 827
 01:01:38,834 --> 01:01:41,542
 Kiitos.
+
