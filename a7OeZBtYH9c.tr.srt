@@ -401,3 +401,4 @@ hiç bir şey veremeyeceğim.
 101
 00:11:42,667 --> 00:11:47,458
 Tanrı sizleri korusun
+
