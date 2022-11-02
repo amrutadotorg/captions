@@ -2356,11 +2356,11 @@ Guido a spus: „Mamă, dacă le spuneți asta, vor răspunde:
 
 590
 00:41:09,031 --> 00:41:11,346
-<<Bine, vom medita seara, dar nu și dimineața>>,
+Bine, vom medita seara, dar nu și dimineața,
 
 591
 00:41:11,547 --> 00:41:14,939
-pentru că Mama a spus: <<Meditați seara>>.”
+pentru că Mama a spus: Meditați seara.”
 
 592
 00:41:15,697 --> 00:41:20,601
@@ -3673,4 +3673,3 @@ Dumnezeu să vă binecuvânteze!
 919
 01:02:32,189 --> 01:02:35,645
 Dumnezeu să vă binecuvânteze!
-
