@@ -224,7 +224,7 @@ Is alles goed met je? Voel je de koele bries? Voel je het?
 
 57
 00:22:20,067 --> 00:23:04,787
-
+ 
 
 58
 00:23:09,987 --> 00:23:14,267
@@ -605,3 +605,4 @@ Deze oefening zal je in gedachteloos bewustzijn brengen,
 152
 00:33:03,787 --> 00:33:07,467
 het vestigt het gedachteloos bewustzijn in je. Er is geen gedachte.
+
