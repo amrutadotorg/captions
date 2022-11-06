@@ -1697,3 +1697,4 @@ Miltä näyttää? Täsmälleen oikea aika.
 425
 00:33:20,720 --> 00:33:26,520
 Kuinka onnistuinkaan ilman, että katsoin kelloa?
+
