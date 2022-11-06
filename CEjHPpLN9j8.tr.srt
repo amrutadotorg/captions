@@ -224,7 +224,7 @@ Bu sadece bir piknik veya bir gezi değil, bu türden bir şey değil,
 
 57
 00:05:50,442 --> 00:05:56,033
-içsel bir çalışmadır bu. Şimdi, bunun işe yarayacağından eminim.
+ içsel bir çalışmadır bu. Şimdi, bunun işe yarayacağından eminim.
 
 58
 00:05:56,528 --> 00:06:01,769
@@ -256,7 +256,7 @@ Yani en azından pek çok kez gelmiş olanlar
 
 65
 00:06:27,856 --> 00:06:29,919
-insanların isimlerini bilmeye çalışmalılar,
+ insanların isimlerini bilmeye çalışmalılar,
 
 66
 00:06:30,240 --> 00:06:33,131
@@ -280,7 +280,7 @@ Shri Krishna’nın dediği gibi,
 
 71
 00:06:45,381 --> 00:06:48,682
-“siz birbirinizi sevmedikçe,
+ “siz birbirinizi sevmedikçe,
 
 72
 00:06:49,598 --> 00:06:51,669
@@ -316,15 +316,15 @@ Geçen gün onlara tören alayımızın İngiliz bir şair  tarafından
 
 80
 00:07:19,320 --> 00:07:23,309
-tarif edilmiş olduğunu onlara izah ettim.  Şair vizyonunda
+ tarif edilmiş olduğunu onlara izah ettim.  Şair vizyonunda
 
 81
 00:07:24,222 --> 00:07:27,504
-bizim tören alayımızı gördü ve onlara bunu söylediğim zaman,
+ bizim tören alayımızı gördü ve onlara bunu söylediğim zaman,
 
 82
 00:07:27,732 --> 00:07:31,643
-Lewis gibi bir İngiliz şairin bu noktayı görebilmiş olmasına ve
+ Lewis gibi bir İngiliz şairin bu noktayı görebilmiş olmasına ve
 
 83
 00:07:31,897 --> 00:07:35,983
@@ -389,3 +389,4 @@ bu insanlara kitabı verin, onlar basılmış halde geri getireceklerdir
 98
 00:08:30,331 --> 00:08:32,505
 ve herkes kitaba sahip olabilir.
+
