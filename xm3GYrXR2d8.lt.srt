@@ -72,7 +72,7 @@ ir visas kūrimas buvo atliktas
 
 19
 00:01:34,792 --> 00:01:38,375
-labai gražiai, su didele užuojauta, rūpesčiu.
+labai gražiai, su didele atjauta, rūpesčiu.
 
 20
 00:01:40,209 --> 00:01:42,209
@@ -88,7 +88,7 @@ kaip augimas,
 
 23
 00:01:48,918 --> 00:01:51,292
-jie išreikšti
+jie pasireiškė
 
 24
 00:01:51,542 --> 00:01:52,792
@@ -200,7 +200,7 @@ nuo jų nukrypti ar įgyti.
 
 51
 00:03:13,918 --> 00:03:20,417
-Tai tapo tam tikru katalizatoriumi, galime sakyti,
+Tai atėjo kaip tam tikras katalizatorius, galime sakyti,
 
 52
 00:03:20,918 --> 00:03:26,959
@@ -248,11 +248,11 @@ Viduje pradėjo kurtis nauja sistema,
 
 63
 00:04:12,751 --> 00:04:15,125
-kurioje įsitvirtino susikryžiavimas,
+kurioje įvyko susikryžiavimas,
 
 64
 00:04:15,626 --> 00:04:20,292
-ir šis energijų susiktyžiavimas nulėmė dviejų „balionų“,
+ir šis energijų susikryžiavimas nulėmė dviejų „balionų“,
 
 65
 00:04:20,626 --> 00:04:22,626
@@ -284,11 +284,11 @@ pradėjo formuotis nauja sistema, kuri nulėmė ego atsiradimą.
 
 72
 00:04:48,792 --> 00:04:52,083
-Kai žmogus dirbo, priėmė sprendimus,
+Kai žmogus dirbo, veikė
 
 73
 00:04:53,167 --> 00:04:57,626
-kuriuos kūrė savo mentaliniame ir psichiniame lygmenyje,
+savo mentaliniame ir psichiniame lygmenyje,
 
 74
 00:04:58,125 --> 00:05:00,584
@@ -340,7 +340,7 @@ tampate visiškai nepriklausomi, išsivysto „Aš“.
 
 86
 00:05:51,250 --> 00:05:54,334
-Tai reiškia, jog tampate kiaušiniu.
+Tai reiškia, jog tampate kaip kiaušinis.
 
 87
 00:05:55,083 --> 00:05:58,876
@@ -380,7 +380,7 @@ ir kokias problemas bei ligas įgyja.
 
 96
 00:06:38,042 --> 00:06:42,375
-Lygiai taip pat, minėjau ankščiau,
+Lygiai taip pat, minėjau anksčiau,
 
 97
 00:06:42,876 --> 00:06:47,042
@@ -416,7 +416,7 @@ jog anglis turi keturis gyvybinius šaltinius.
 
 105
 00:07:15,167 --> 00:07:19,000
-kurios Biblijoje įvardijamos kaip Dešimt Dievo įsakymų.
+kurios Biblijoje įvardijamos kaip 10 Dievo įsakymų.
 
 106
 00:07:19,501 --> 00:07:22,042
@@ -424,7 +424,7 @@ Jie skirti žmonių išgyvenimui.
 
 107
 00:07:22,751 --> 00:07:25,918
-Kai Mozė buvo Žemėje, tuo metu
+Kai Mozė buvo Žemėje, tuo metu,
 
 108
 00:07:26,417 --> 00:07:30,626
@@ -588,7 +588,7 @@ Kristus atėjo į Žemę, kad įtvirtintų šią tiesą.
 
 148
 00:10:14,876 --> 00:10:18,501
-Jis buvo tas, kuris buvo Aum, tas,
+Jis buvo tas, kuris buvo AUM, tas,
 
 149
 00:10:18,834 --> 00:10:23,250
@@ -640,7 +640,7 @@ graikas. Jis papirkinėjo žmones, kad galėtų gauti vizą į Romą
 
 161
 00:11:14,709 --> 00:11:17,751
-ar kažkas tokio.
+ar kažką tokio.
 
 162
 00:11:17,918 --> 00:11:21,709
@@ -772,7 +772,7 @@ Tai tikriausiai atėjo iš tų laikų, kai buvo Mozė.
 
 194
 00:13:36,167 --> 00:13:39,918
-Jau 1000 metų praėjo nuo tada, kai gyveno Mozė.
+Jau tūkstančiai metų praėjo nuo tada, kai gyveno Mozė.
 
 195
 00:13:40,083 --> 00:13:44,042
@@ -868,7 +868,7 @@ Tačiau vietoj to grįžome prie senų dalykų,
 
 218
 00:15:19,209 --> 00:15:21,959
-kurie buvo prieš 1000 metų, nesuprasdami,
+kurie buvo prieš tūkstančius metų, nesuprasdami,
 
 219
 00:15:22,083 --> 00:15:23,959
@@ -1917,3 +1917,4 @@ Ačiū jums labai. Norėčiau, kad užduotumėte man klausimų
 480
 00:32:06,501 --> 00:32:11,501
 prieš tęsiant. Telaimina jus Dievas.
+
