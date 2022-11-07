@@ -1011,7 +1011,6 @@ Bu başarı ne kadar sürer?
 
 216
 00:34:19,406 --> 00:34:21,723
-
 Kısa sürede yok olur.
 
 217
