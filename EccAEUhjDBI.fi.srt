@@ -3797,3 +3797,4 @@ Yksinkertaisesti sanottuna teidän pitää palvoa itseänne.
 950
 01:17:22,625 --> 01:17:24,875
 Hyvä.
+
