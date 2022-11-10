@@ -2666,7 +2666,6 @@ Her ne ise, bununla yüzleşin.
 
 593
 00:50:00,479 --> 00:50:04,315
-
 “Hata yaptım” demenin bir zararı yoktur.
 
 594
