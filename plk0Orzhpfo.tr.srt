@@ -1,6 +1,6 @@
 1
 00:00:00,333 --> 00:00:05,200
-Shri Guru Puja. Cabella Ligure (İtalya), 
+Shri Guru Puja. Cabella Ligure (İtalya),
 24 Temmuz 1994.
 
 2
@@ -3902,3 +3902,4 @@ Kısaca, kendinize ibadet etmelisiniz.
 976
 01:14:36,490 --> 01:14:38,660
 Tamam
+

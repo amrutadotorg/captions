@@ -3797,3 +3797,4 @@ Trumpai tariant, turite šlovinti save. Jei trumpiau.
 950
 01:14:36,750 --> 01:14:38,999
 Gerai.
+
