@@ -1,4 +1,4 @@
-﻿1
+1
 00:01:04,135 --> 00:01:09,735
 Bugün Hamsa çakraya ibadet edeceğiz.
 
@@ -1940,3 +1940,4 @@ ve tüm dünyaya güzel bir koku yayacaksınız.
 455
 00:46:17,852 --> 00:46:20,431
 Tanrı hepinizi kutsasın.
+
