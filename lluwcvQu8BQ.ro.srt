@@ -1,441 +1,544 @@
 1
-00:00:02,007 --> 00:00:07,329
-Va doresc tuturor o Diwali fericita,
+00:00:01,846 --> 00:00:06,997
+Vă doresc tuturor un Diwali fericit
 
 2
-00:00:07,369 --> 00:00:13,484
-si un An Nou prosper.
+00:00:07,233 --> 00:00:12,571
+și un An Nou prosper.
 
 3
-00:00:17,849 --> 00:00:21,214
-Toata seara a fost plina de bucurie,
+00:00:17,729 --> 00:00:22,617
+Toată seara a fost atât de plină de bucurie și pace,
 
 4
-00:00:21,239 --> 00:00:27,233
-pace pe care nu stiu sa o descriu
+00:00:23,149 --> 00:00:26,938
+încât nu am cuvinte să descriu acest lucru.
 
 5
-00:00:27,258 --> 00:00:33,886
-tot evenimentul a fost facut asa de frumos de francezi.
+00:00:27,138 --> 00:00:33,104
+Întregul eveniment a fost organizat atât de frumos de francezi.
 
 6
-00:00:35,010 --> 00:00:41,179
-In special oamenii din Africa de Sud, din Benin,
+00:00:34,890 --> 00:00:38,406
+În special cei din Africa de Sud,
 
 7
-00:00:41,204 --> 00:00:46,194
-din Coasta de Fildes, din Kenya,
+00:00:38,732 --> 00:00:40,883
+din Benin,
 
 8
-00:00:46,219 --> 00:00:54,417
-si multi altii care au venit din diferite tari,
+00:00:41,084 --> 00:00:43,377
+din Coasta de Fildeș,
 
 9
-00:00:54,442 --> 00:00:59,353
-si-au aratat talentul, bucuria, si fericirea.
+00:00:43,600 --> 00:00:45,898
+din Kenya
 
 10
-00:00:59,378 --> 00:01:05,114
-Cea mai buna parte este ca i-am gasit foarte bine echipati
+00:00:46,099 --> 00:00:50,066
+și mulți alții de asemenea,
 
 11
-00:01:05,139 --> 00:01:12,267
-cu numele tuturor zeitatilor si cum sa le venereze.
+00:00:50,266 --> 00:00:54,121
+care au venit din alte țări,
 
 12
-00:01:12,292 --> 00:01:16,123
-Foarte surprinzator cum in asa de putin timp Sahaja Yoga
+00:00:54,322 --> 00:00:59,058
+și-au arătat talentul, bucuria, fericirea.
 
 13
-00:01:16,148 --> 00:01:19,643
-s-a imprastiat in toate aceste tari.
+00:00:59,258 --> 00:01:02,867
+Cel mai bun lucru însă este că am descoperit,
 
 14
-00:01:20,108 --> 00:01:23,995
-In ceea ce priveste programul, acela a fost prezentat
+00:01:03,068 --> 00:01:08,998
+că știu foarte bine numele tuturor zeităților
 
 15
-00:01:24,020 --> 00:01:27,936
-de francezi, trebuie sa spun ca a fost remarcabil.
+00:01:09,198 --> 00:01:11,971
+și știu cum să le venereze.
 
 16
-00:01:27,961 --> 00:01:32,455
-Anul trecut au avut o piesa foarte buna in Jnanadeva;
+00:01:12,172 --> 00:01:14,586
+Este foarte surprinzător cum într-un timp atât de scurt
 
 17
-00:01:32,480 --> 00:01:37,548
-si anul acesta cealalta a fost cu adevarat remarcabila.
+00:01:14,787 --> 00:01:18,958
+Sahaja Yoga s-a răspândit în toate aceste țări.
 
 18
-00:01:37,573 --> 00:01:41,585
-Cu mult timp in urma le-am zis ca Ioana D'Arc
+00:01:19,935 --> 00:01:25,246
+Programul, care a fost prezentat de francezi,
 
 19
-00:01:41,610 --> 00:01:48,548
-a fost speciala, binecuvantata de Divinitate
+00:01:25,447 --> 00:01:27,641
+trebuie să spun că a fost remarcabil.
 
 20
-00:01:48,573 --> 00:01:53,374
-si ca ar trebui venerata ca zeita sau zeitate
+00:01:27,841 --> 00:01:32,160
+Anul trecut au avut o piesă foarte bună despre Jnanadeva,
 
 21
-00:01:53,399 --> 00:01:57,499
-care a protejat Franta si independenta ei.
+00:01:32,360 --> 00:01:37,203
+iar cea de anul ăsta a fost cu adevărat extraordinară.
 
 22
-00:01:57,524 --> 00:02:00,672
-Dar apoi oamenii, in fiecare an am repetat
+00:01:37,404 --> 00:01:39,836
+Cu mult timp în urmă le-am spus
 
 23
-00:02:00,697 --> 00:02:03,120
-dar nu au facut nimic cu ea.
+00:01:40,037 --> 00:01:45,799
+că Ioana D'Arc a fost o persoană specială,
 
 24
-00:02:03,145 --> 00:02:08,360
-Asa ca am fost foarte fericita sa o vad pe Ioana d'Arc reprezentata aici
+00:01:46,000 --> 00:01:48,252
+binecuvântată de Divin,
 
 25
-00:02:08,385 --> 00:02:11,867
-De fapt, in propria-mi viata, Am vazut, la frageda varsta
+00:01:48,453 --> 00:01:53,079
+și că ar trebui venerată ca zeiță sau ca divinitate,
 
 26
-00:02:11,892 --> 00:02:14,340
-de paisprezece respectiv optisprezece ani
+00:01:53,279 --> 00:01:57,204
+care a avut grijă de Franța și de independența ei.
 
 27
-00:02:14,365 --> 00:02:19,348
-luptam pentru independenta tarii noastre
+00:01:57,404 --> 00:02:00,377
+Dar deși le-am repetat asta în fiecare an,
 
 28
-00:02:19,373 --> 00:02:28,238
-Si profesorul meu, directorul colegiului, mi-a spus mai tarziu
+00:02:00,577 --> 00:02:02,825
+oamenii nu au făcut nimic privind statutul ei.
 
 29
-00:02:28,263 --> 00:02:32,077
-ca " Am stiut ca esti Shakti, altfel cum ai fi putut,
+00:02:03,025 --> 00:02:06,272
+Așa că am fost foarte fericită să o văd pe Ioana d'Arc
 
 30
-00:02:32,102 --> 00:02:35,128
-singura, sa lupti cu toti acei oameni?"
+00:02:06,473 --> 00:02:08,064
+reprezentată aici.
 
 31
-00:02:35,153 --> 00:02:41,145
-Astfel toata aceasta agresivitate este acum destul de vizibila,
+00:02:08,265 --> 00:02:11,572
+De fapt, în propria-Mi viață, la frageda vârstă
 
 32
-00:02:41,170 --> 00:02:45,281
-si lumea poate vedea cum au fost agresati.
+00:02:11,772 --> 00:02:14,045
+de paisprezece sau optsprezece ani
 
 33
-00:02:45,306 --> 00:02:49,448
-Acum francezii au acesti oameni, aceste tari.
+00:02:14,245 --> 00:02:19,053
+am luptat pentru independența țării noastre.
 
 34
-00:02:49,473 --> 00:02:54,987
-Datorita agresiunii lor, ei au fost
+00:02:19,253 --> 00:02:23,507
+Iar profesorul Meu,
 
 35
-00:02:55,012 --> 00:02:57,943
-capabili sa intre in Sahaja Yoga, intr-un fel,
+00:02:24,888 --> 00:02:27,942
+directorul colegiului, Mi-a spus mai târziu:
 
 36
-00:02:57,968 --> 00:03:01,024
-deoarecea apoi francezii au devenit interesati de acei oameni,
+00:02:28,143 --> 00:02:30,435
+„Am știut că ești Shakti,
 
 37
-00:03:01,049 --> 00:03:05,866
-si acum, ei sunt, unii dintre ei sunt musulmani, si de diferite religii
+00:02:30,636 --> 00:02:34,833
+altfel, cum ai fi putut să lupți singură cu toți acești oameni?"
 
 38
-00:03:05,891 --> 00:03:11,780
-ei au intrat in Sahaja Yoga; este un lucru remarcabil care a avut loc.
+00:02:35,033 --> 00:02:40,850
+Deci toată această agresivitate este acum destul de vizibilă,
 
 39
-00:03:11,805 --> 00:03:15,361
-Sunt plini de ritm, ritmul este corpul lor.
+00:02:41,050 --> 00:02:44,986
+iar oamenii pot vedea cum au fost agresați.
 
 40
-00:03:15,386 --> 00:03:18,646
-Dumnezeu da tuturor ceva.
+00:02:45,186 --> 00:02:49,153
+Ei bine, francezii au agresat acești oameni, aceste țări.
 
 41
-00:03:18,671 --> 00:03:22,859
-Acum, daca sunte persoane care au pielea alba,
+00:02:49,353 --> 00:02:52,420
+Totuși, datorită agresiunii lor, într-un fel,
 
 42
-00:03:22,884 --> 00:03:26,468
-nu cred ca Dumnezeu se gandeste asa de mult la asta.
+00:02:52,621 --> 00:02:57,648
+oamenii din aceste țări au putut veni la Sahaja Yoga,
 
 43
-00:03:26,493 --> 00:03:30,060
-Dar daca oamanii au pielea neagra, uitati-va la ritmul lor,
+00:02:57,848 --> 00:03:00,729
+pentru că francezii au devenit interesați de ei,
 
 44
-00:03:30,085 --> 00:03:35,867
-sensul ritmului, si modul in care danseaza pe ton.
+00:03:00,929 --> 00:03:05,571
+iar acum, chiar dacă unii sunt musulmani sau aparțin altor religii,
 
 45
-00:03:35,892 --> 00:03:41,481
-Nu numai, dar cu ce viteza dansau. Trebuie sa va felicit pe toti
+00:03:05,771 --> 00:03:07,956
+ei au venit la Sahaja Yoga;
 
 46
-00:03:41,506 --> 00:03:45,193
-pentru o piesa asa frumoasa despre Ioana d'Arc
+00:03:08,156 --> 00:03:11,484
+este un lucru absolut remarcabil.
 
 47
-00:03:45,218 --> 00:03:48,880
-si toti actorii, in spaecial cea care a interpretat-o
+00:03:11,685 --> 00:03:15,066
+Sunt plini de ritm, ritmul există în corpul lor.
 
 48
-00:03:48,905 --> 00:03:52,640
-pe Ioana d'Arc, a fost remarcabil de buna.
+00:03:15,266 --> 00:03:18,351
+Dumnezeu a dăruit tuturor câte ceva.
 
 49
-00:03:52,665 --> 00:03:57,080
-Trebuie sa spun ca nu M-am asteptat niciodata ca sahaja yoginii
+00:03:18,551 --> 00:03:22,564
+Ei bine, dacă unii au fost înzestrați cu o piele albă -
 
 50
-00:03:57,105 --> 00:04:00,604
-sa vina cu o piesa asa de frumoasa despre Ioana d'Arc
+00:03:22,764 --> 00:03:26,173
+nu cred că Dumnezeu se gândește foarte mult la acest lucru.
 
 51
-00:04:00,629 --> 00:04:07,121
-Practic, ea a fost uitata, pentru ca in final a fost arsa.
+00:03:26,373 --> 00:03:29,765
+Dar uitați-vă la cei cu pielea neagră, ce ritm au,
 
 52
-00:04:07,146 --> 00:04:19,088
-SI multi m-u intrebat," Daca a fost binecuvantata si protejata de zei,
+00:03:29,965 --> 00:03:31,514
+ce simț al ritmului
 
 53
-00:04:19,113 --> 00:04:24,064
-de ce a fost arsa?"  de ce a fost distrusa?"
+00:03:31,714 --> 00:03:35,571
+și la modul în care dansează în ritmul muzicii.
 
 54
-00:04:24,089 --> 00:04:29,487
-Astfel toti a trebuit sa faca fata, toti sfintii au trebuit sa faca fata intregii negativitati,
+00:03:35,772 --> 00:03:38,984
+Mai mult decât atât, ați văzut cu ce viteză dansau.
 
 55
-00:04:29,512 --> 00:04:35,408
-si chiar daca au murit, nu conteaza, sunt eterni.
+00:03:39,184 --> 00:03:41,185
+Trebuie să vă felicit pe toți
 
 56
-00:04:35,433 --> 00:04:38,650
-Astfel nu este un lucru foarte trist
+00:03:41,386 --> 00:03:44,898
+pentru piesa atât de frumoasă despre Ioana d'Arc.
 
 57
-00:04:38,675 --> 00:04:44,309
-sa te gandesti ca toti oamenii care sunt sfinti trebuie sa sufere.
+00:03:45,098 --> 00:03:46,763
+Felicit toți actorii,
 
 58
-00:04:44,334 --> 00:04:48,358
-Ei pot suferi pentru ca isi permit;
+00:03:46,970 --> 00:03:49,722
+în special pe actrița care a interpretat-o pe Ioana d'Arc -
 
 59
-00:04:48,383 --> 00:04:56,768
-ei au puterea sa sufere. De aceea toti cei care sunt sfinti
+00:03:49,923 --> 00:03:52,345
+a fost extrem de convingătoare.
 
 60
-00:04:56,793 --> 00:05:00,991
-sunt ei insasi, toata lumea este rasplatita;
+00:03:52,545 --> 00:03:56,785
+Trebuie să spun că nu M-am așteptat niciodată ca Sahaja Yoghinii
 
 61
-00:05:01,016 --> 00:05:06,288
-toti ati devenit sahaja yoghini acum.
-Indiferent daca sunteti din Africa de Sud
+00:03:56,985 --> 00:04:00,309
+să pună în scenă o piesă atât de frumoasă despre Ioana d'Arc.
 
 62
-00:05:06,313 --> 00:05:10,336
-sau di Franta, Anglia, de oriunde.
+00:04:00,509 --> 00:04:03,141
+Practic, ea a fost uitată,
 
 63
-00:05:10,361 --> 00:05:16,582
-Nu ar trebui ca nimeni sa nu aibe idei de dominare,
+00:04:03,341 --> 00:04:06,825
+pentru că în final a fost arsă pe rug.
 
 64
-00:05:16,607 --> 00:05:19,036
-sau sa preia conducerea a nimic.
+00:04:07,026 --> 00:04:14,751
+Și mulți M-au întrebat, dacă într-adevăr a fost binecuvântată
 
 65
-00:05:19,061 --> 00:05:23,123
-Odata ce intelegeti ca suntem cu totii frati si surori;
+00:04:15,108 --> 00:04:18,792
+și protejată de Zeiță,
 
 66
-00:05:23,148 --> 00:05:27,325
-si ca sunteti sub un singur steag al Sahajei Yoga
+00:04:18,993 --> 00:04:23,769
+de ce a fost arsă, de ce a fost omorâtă?
 
 67
-00:05:27,350 --> 00:05:32,924
-nu ar trebui sa aveti idei de individualitate
+00:04:23,969 --> 00:04:29,192
+Ei bine, toți sfinții au trebuit să se confrunte cu negativitatea.
 
 68
-00:05:32,949 --> 00:05:37,666
-sau sa incercti sa aratati ca sunteti mai buni decat altii.
+00:04:29,392 --> 00:04:32,515
+Și chiar dacă au murit, nu contează,
 
 69
-00:05:37,691 --> 00:05:43,927
-In ochii Mei, in viziunea Mea, sunteti cu totii la fel.
+00:04:32,715 --> 00:04:35,112
+ei sunt eterni.
 
 70
-00:05:43,952 --> 00:05:48,763
-Indiferent daca sunteti bine educati sau nu, daca nu sunteti educati,
+00:04:35,313 --> 00:04:38,355
+Deci nu ar trebui să ne simțim triști
 
 71
-00:05:48,788 --> 00:05:53,374
-indiferent daca sunteti negrii sau albi sau indiferent ce culoare aveti
+00:04:38,555 --> 00:04:44,014
+gândind că toți oamenii sfinți au trebuit să sufere.
 
 72
-00:05:53,399 --> 00:05:56,586
-in ochi mei sunteti exact la fel. Priviti Mama Pamant,
+00:04:44,214 --> 00:04:48,063
+Ei suferă pentru că pot îndura acest lucru,
 
 73
-00:05:56,611 --> 00:06:00,905
-dupa cum ati vazut, oricine vrea sa o vada pe Mama Pamant poate invata
+00:04:48,263 --> 00:04:51,966
+au puterea de a suferi.
 
 74
-00:06:00,930 --> 00:06:05,233
-ca nu face diferente. Are grija de toti
+00:04:52,173 --> 00:04:56,472
+De aceea toți cei care sunt sfinți
 
 75
-00:06:05,258 --> 00:06:10,400
-cu aceeasi iubire si afectiune. Astfel cred
+00:04:56,673 --> 00:05:00,696
+sunt ei înșiși, o răsplată pentru întreaga lume.
 
 76
-00:06:10,425 --> 00:06:15,562
-daca exista in mintea voastra orice urma din aceste arii
+00:05:00,896 --> 00:05:03,473
+Acum ați devenit cu toții Sahaja Yoghini,
 
 77
-00:06:15,587 --> 00:06:20,822
-dominatoare sau natura dominanta in capul vostru,
+00:05:03,673 --> 00:05:06,180
+indiferent că sunteți din Africa de Sud
 
 78
-00:06:20,847 --> 00:06:26,358
-va rog sa incercati sa scapati de ea si incercati sa deveniti persoane umile.
+00:05:06,381 --> 00:05:10,041
+din Franța, Anglia, sau de oriunde.
 
 79
-00:06:26,383 --> 00:06:30,368
-fara umilinta, nu puteti atinge inaltimi spirituale,
+00:05:10,241 --> 00:05:16,287
+Deci n-ar trebui să existe nicio idee de dominare asupra cuiva,
 
 80
-00:06:30,393 --> 00:06:34,410
-este foarte importanta sa fiti umili. Si la momentul potrivit
+00:05:16,487 --> 00:05:18,741
+sau de a prelua controlul în anumite lucruri.
 
 81
-00:06:34,435 --> 00:06:39,167
-veti fi uimiti cum veti fi rasplatiti pentru ea.
+00:05:18,941 --> 00:05:22,828
+De îndată ce înțelegeți că sunteți cu toții frați și surori
 
 82
-00:06:39,192 --> 00:06:42,512
-Astfel maine vom face puja.
+00:05:23,028 --> 00:05:27,030
+și sunteți cu toții sub un singur steag, al Sahaja Yogăi,
 
 83
-00:06:42,537 --> 00:06:45,708
-Este o puja foarte buna pentru Shri Lakshmi.
+00:05:27,230 --> 00:05:32,629
+nu ar mai trebui să aveți ideea de a fi individualiști
 
 84
-00:06:45,733 --> 00:06:48,614
-Ma gandeam, pentru ca este un loc calduros,
+00:05:32,829 --> 00:05:37,371
+sau să încercați să arătați că sunteți mai buni decât alții.
 
 85
-00:06:48,639 --> 00:06:53,929
-o putem face la ora sase maine. Si sper sa veniti cu totii
+00:05:37,571 --> 00:05:41,921
+În ochii Mei, în viziunea Mea,
 
 86
-00:06:53,954 --> 00:06:57,965
-sa participati la puja si sa primiti binecuvantarile lui Shri Lakshmi.
+00:05:42,122 --> 00:05:43,875
+sunteți cu toții la fel,
 
 87
-00:06:57,990 --> 00:07:02,326
-Este foarte necesar, trebuie sa va zic, ca V-am permis tuturor
+00:05:44,076 --> 00:05:48,468
+indiferent dacă sunteți educați sau nu,
 
 88
-00:07:02,351 --> 00:07:06,099
-sa faceti puje pentru toate aceste zeitati,
+00:05:48,668 --> 00:05:53,079
+indiferent că sunteți negri sau albi sau orice culoare ați avea.
 
 89
-00:07:06,124 --> 00:07:09,293
-dar trebuie sa stiti ca este o arie foarte sensibila
+00:05:53,279 --> 00:05:55,525
+În ochii Mei sunteți exact la fel.
 
 90
-00:07:09,318 --> 00:07:13,047
-unde trebuie sa fiti auspiciosi, trebuie sa fiti sensibili.
+00:05:55,726 --> 00:06:00,735
+Priviți la Mama Pământ; după cum vedeți, oricine poate învăța
 
 91
-00:07:13,072 --> 00:07:16,128
-Nu puteti veni pur si simplu la puja
+00:06:00,936 --> 00:06:02,986
+că Mama Pământ nu face diferențe.
 
 92
-00:07:16,153 --> 00:07:19,386
-fara sa intelegeti semnificatia intregului lucru.
+00:06:03,187 --> 00:06:08,350
+Are grijă de toți cu aceeași iubire și afecțiune.
 
 93
-00:07:19,411 --> 00:07:23,415
-Acum si pentru [uja lui Shri Lakshmi exista un avertisment.
+00:06:08,556 --> 00:06:15,267
+Deci cred că dacă mai aveți în minte fie și o mică urmă
 
 94
-00:07:23,440 --> 00:07:28,183
-Daca veniti cu o minte inchisa
+00:06:15,467 --> 00:06:20,680
+din natura dominatoare care vă caracteriza în trecut,
 
 95
-00:07:28,208 --> 00:07:36,131
-sau cu o inima inchisa, care nu are generozitate in ea,
+00:06:20,881 --> 00:06:22,663
+vă rog să încercați să scăpați de ea
 
 96
-00:07:36,156 --> 00:07:42,031
-si care are tot felul de idei hilare in cap; toti acesti oameni nu vor fi binecuvntati.
+00:06:22,863 --> 00:06:25,887
+și asigurați-vă că deveniți persoane umile.
 
 97
-00:07:42,056 --> 00:07:43,854
-Din potriva, ei vor primi
+00:06:26,087 --> 00:06:30,072
+Fără umilință, nu puteți primi ajutorul divin.
 
 98
-00:07:43,879 --> 00:07:47,463
-un fel de alta parte a lu Lakshmi numita A-Lakshmi.
+00:06:30,273 --> 00:06:32,323
+Este foarte important să fiți umili.
 
 99
-00:07:47,488 --> 00:07:50,172
-Deaceea trebuie sa fiti atenti
+00:06:32,524 --> 00:06:35,625
+Și la momentul potrivit veți fi uimiți,
 
 100
-00:07:50,197 --> 00:07:54,250
-ca atunci cand veniti maine la puja, sa veniti cu inima deschisa,
+00:06:35,825 --> 00:06:38,871
+că această umilință este răsplătită.
 
 101
-00:07:54,275 --> 00:07:58,930
-cu iubire in inima  s sa existe o receptie potrivita
+00:06:39,072 --> 00:06:42,217
+Așadar, mâine vom avea Puja.
 
 102
-00:07:58,955 --> 00:08:03,242
-a binecuvantarilor lui Lakshmi. Fie ca Dumnezeu sa va binecuvinteze pe toti.
+00:06:42,417 --> 00:06:45,413
+Este o Puja foarte importantă, o Puja pentru Shri Lakshmi.
 
 103
-00:08:03,267 --> 00:08:06,102
-Va multumesc foarte mult pentru frumosul divertisment
+00:06:45,613 --> 00:06:48,319
+Mă gândeam, acesta fiind un loc călduros,
 
 104
-00:08:06,127 --> 00:08:09,550
-si pentru afisarea tuturor talentelor din lume.
+00:06:48,519 --> 00:06:51,453
+că am putea începe Puja mâine, pe la ora șase.
 
 105
-00:08:09,575 --> 00:08:14,866
-Trebuie sa spun ca imi pare rau pentru portughezi, deoarece trebuia sa merg in Portugalia,
+00:06:51,653 --> 00:06:54,820
+Și sper să veniți cu toții, să participați la Puja
 
 106
-00:08:14,891 --> 00:08:19,244
-dar nu am putut datorita starii mele precare de sanatate.
+00:06:55,021 --> 00:06:57,670
+și să primiți binecuvântările lui Shri Lakshmi.
 
 107
-00:08:19,269 --> 00:08:23,432
-Nu cred ca am probleme de sanatate, dar indiferent ce este.
+00:06:57,870 --> 00:06:59,819
+Este foarte necesar să veniți.
 
 108
-00:08:23,457 --> 00:08:25,815
-Pur si simplu nu am putut de aceasta data,
+00:07:00,020 --> 00:07:04,010
+Trebuie să vă spun că v-am permis tuturor să faceți Puja
 
 109
-00:08:25,840 --> 00:08:29,053
-dar sunt sigura ca anul viitor voi ajunge.
+00:07:04,210 --> 00:07:05,984
+pentru toate aceste zeități,
 
 110
-00:08:29,078 --> 00:08:33,652
-Fie ca Dumnezeu sa va binecuvanteze. Va multumesc mult, multumesc.
+00:07:06,185 --> 00:07:08,998
+dar trebuie să știți că este o zonă foarte sensibilă
+
+111
+00:07:09,198 --> 00:07:12,752
+unde trebuie să fiți auspicioși, trebuie să fiți înțelepți.
+
+112
+00:07:12,952 --> 00:07:15,833
+Nu puteți veni pur și simplu la Puja
+
+113
+00:07:16,033 --> 00:07:19,091
+fără să înțelegeți semnificația ei în întregime.
+
+114
+00:07:19,291 --> 00:07:23,120
+Ei bine, și pentru Shri Lakshmi Puja există un avertisment.
+
+115
+00:07:23,320 --> 00:07:27,888
+Dacă veniți cu o minte închisă
+
+116
+00:07:28,088 --> 00:07:33,403
+sau cu o inimă închisă,
+
+117
+00:07:33,603 --> 00:07:35,877
+lipsită de generozitate,
+
+118
+00:07:36,078 --> 00:07:39,450
+cu tot felul de idei ciudate în minte,
+
+119
+00:07:39,650 --> 00:07:41,735
+nu veți fi binecuvântați.
+
+120
+00:07:41,936 --> 00:07:47,168
+Dimpotrivă, ei vor primi reversul lui Shri Lakshmi, numit a-Lakshmi.
+
+121
+00:07:47,368 --> 00:07:49,877
+De aceea trebuie să fiți foarte atenți
+
+122
+00:07:50,077 --> 00:07:53,955
+ca mâine, când veniți la Puja, să veniți cu inima deschisă,
+
+123
+00:07:54,155 --> 00:07:55,872
+cu iubire în inimă,
+
+124
+00:07:56,072 --> 00:07:58,634
+astfel încât să puteți absorbi cu adevărat
+
+125
+00:07:58,835 --> 00:08:01,099
+binecuvântările lui Lakshmi.
+
+126
+00:08:01,299 --> 00:08:03,180
+Dumnezeu să vă binecuvânteze!
+
+127
+00:08:03,381 --> 00:08:05,807
+Vă mulțumesc pentru programul frumos pe care l-ați pregătit
+
+128
+00:08:06,007 --> 00:08:09,255
+și pentru toate talentele din lume pe care le-ați prezentat.
+
+129
+00:08:09,455 --> 00:08:11,887
+Trebuie să spun că îmi pare rău pentru portughezi,
+
+130
+00:08:12,087 --> 00:08:14,570
+deoarece trebuia să merg în Portugalia,
+
+131
+00:08:14,771 --> 00:08:18,949
+dar nu am putut din cauza stării mele de sănătate.
+
+132
+00:08:19,149 --> 00:08:21,268
+Nu cred că am probleme de sănătate,
+
+133
+00:08:21,468 --> 00:08:23,136
+dar indiferent ce este,
+
+134
+00:08:23,337 --> 00:08:25,520
+pur și simplu nu am putut ajunge de această dată,
+
+135
+00:08:25,720 --> 00:08:28,758
+dar sunt sigură că o voi face anul viitor.
+
+136
+00:08:28,958 --> 00:08:33,065
+Dumnezeu să vă binecuvânteze. Vă mulțumesc mult, mulțumesc.
 
