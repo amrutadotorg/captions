@@ -104,7 +104,7 @@ por  patjeter per Ate
 
 27
 00:02:08,350 --> 00:02:13,058
-kur Ai tha,"Une jam Alfa dhe Omega,"
+kur Ai tha,"Une jam Alfa dhe Omega," 
 
 28
 00:02:20,808 --> 00:02:26,100
@@ -216,7 +216,7 @@ Por ajo qe ndodhi ne rastin e Tij
 
 55
 00:04:22,100 --> 00:04:27,225
-ishte qe Ai u
+ishte qe Ai u  
 
 56
 00:04:28,682 --> 00:04:31,891
@@ -276,7 +276,7 @@ tek te gjithe ata njerez
 
 70
 00:05:20,933 --> 00:05:23,808
-te cilet pretendojne se jane ata
+te cilet pretendojne se jane ata 
 
 71
 00:05:24,141 --> 00:05:27,933
@@ -364,11 +364,12 @@ Dhe ka shkuar ne nje gjendje te tille
 
 92
 00:06:37,433 --> 00:06:40,433
-sa ju nuk mund te gjeni as edhe nje nuance.
+sa ju nuk mund te gjeni as edhe nje nuance. 
 
 93
 00:06:40,849 --> 00:06:45,308
 te vogel te jetes fetare ne mesin e ketyre njerezve.
+ 
 
 94
 00:06:45,808 --> 00:06:47,724
@@ -396,7 +397,7 @@ nuk jane bere kurre.
 
 100
 00:07:09,225 --> 00:07:12,682
-"Te duhet te njohesh veten" nuk eshte bere kurre.
+"Te duhet te njohesh veten" nuk eshte bere kurre. 
 
 101
 00:07:13,058 --> 00:07:16,517
@@ -488,7 +489,7 @@ Nese shikoni gjithcka tani eshte per shkaterrimin tuaj.
 
 123
 00:08:47,058 --> 00:08:49,600
-Prandaj kur ju dilni prej saj,
+Prandaj kur ju dilni prej saj, 
 
 124
 00:08:50,058 --> 00:08:53,058
@@ -568,7 +569,7 @@ dhe per Te ishte thjesht nje transformim fizik,
 
 143
 00:10:07,891 --> 00:10:10,225
-ne kuptimin qe, meqe Ai vdiq
+ne kuptimin qe, meqe Ai vdiq  
 
 144
 00:10:10,682 --> 00:10:13,724
@@ -620,7 +621,7 @@ Pra ne duhet te behemi drita.
 
 156
 00:10:46,974 --> 00:10:50,891
-Dhe tani ju duhet te ruani
+Dhe tani ju duhet te ruani 
 
 157
 00:10:51,766 --> 00:10:55,350
@@ -760,7 +761,7 @@ nuk ka per t'ju ndihmuar aspak.
 
 191
 00:13:16,392 --> 00:13:19,392
-Ajo qe ju duhet te beni eshte te
+Ajo qe ju duhet te beni eshte te 
 
 192
 00:13:20,183 --> 00:13:22,016
@@ -1240,7 +1241,7 @@ duhet te behen si Krishti
 
 311
 00:20:25,974 --> 00:20:28,891
-per aq sa ka te beje me besimin.
+per aq sa ka te beje me besimin. 
 
 312
 00:20:29,475 --> 00:20:33,849
@@ -1272,7 +1273,7 @@ dhe nuk ka asgje serioze,
 
 319
 00:20:58,808 --> 00:21:00,016
-asgje nuk ka rendesi, 
+asgje nuk ka rendesi,
 ,
 
 320
@@ -1737,7 +1738,7 @@ Dhe shoku i kish thene,
 
 435
 00:28:45,392 --> 00:28:48,350
-Do te kthej parate, dhe me shume
+Do te kthej parate, dhe me shume 
 
 436
 00:28:48,766 --> 00:28:52,600
@@ -1954,7 +1955,7 @@ menjehere do te funksionojne.
 
 489
 00:31:47,016 --> 00:31:48,266
-Sic Me tregoi Guido qe
+Sic Me tregoi Guido qe  
 
 490
 00:31:48,642 --> 00:31:51,392
@@ -2014,7 +2015,7 @@ Me pas ata nuk ndihen keq,
 
 504
 00:32:52,100 --> 00:32:54,808
-supozoni Une mund te mos i takoj ata,supozoni une mund te them,
+supozoni Une mund te mos i takoj ata,supozoni une mund te them, 
 
 505
 00:32:55,183 --> 00:32:57,683
@@ -2266,7 +2267,7 @@ Pastaj filloi te me jepte Mua raste. "Ne rregull tani,"
 
 567
 00:36:32,058 --> 00:36:33,891
-I them, "Me ke treguar gjithcka?" 
+I them, "Me ke treguar gjithcka?"
 "Po".
 
 568
@@ -2616,3 +2617,4 @@ dhe te jete nje model per te gjithe boten.
 654
 00:41:58,183 --> 00:42:01,766
 Zoti ju bekofte te gjitheve.
+

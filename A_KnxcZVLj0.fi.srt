@@ -2629,3 +2629,4 @@ ja lapset saavat joka tapauksessa tulla pesemään Jalkani.
 658
 00:42:49,891 --> 00:42:54,392
 Mahdummeko me tähän, vai pitäisikö sitä siirtää?
+
