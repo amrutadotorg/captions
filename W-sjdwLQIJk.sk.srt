@@ -1,6 +1,6 @@
 1
 00:00:01,600 --> 00:00:10,250
-Ľudia v Rusku majú, nevedno prečo, otvorenú myseľ.
+Ľudia v\hRusku majú, nevedno prečo, otvorenú myseľ.
 
 2
 00:00:10,916 --> 00:00:12,459
@@ -12,7 +12,7 @@ obzvlášť vedci majú veľmi otvorenú myseľ
 
 4
 00:00:17,542 --> 00:00:19,708
-a keďže boli veľmi prenasledovaní,
+a\hkeďže boli veľmi prenasledovaní,
 
 5
 00:00:20,083 --> 00:00:23,624
@@ -28,11 +28,11 @@ nechceli robiť len objavy o chemikáliách
 
 8
 00:00:33,167 --> 00:00:39,000
-či o fyzikálnych vlastnostiach svetla,
+či o\hfyzikálnych vlastnostiach svetla,
 
 9
 00:00:39,542 --> 00:00:44,500
-chceli preniknúť k subtílnejšej podstate.
+chceli preniknúť k\hsubtílnejšej podstate.
 
 10
 00:00:44,958 --> 00:00:47,000
@@ -44,7 +44,7 @@ vyskúmali už veľa poznatkov
 
 12
 00:00:53,833 --> 00:00:56,916
-o aurách: aurách okolo ruky,
+o\haurách: aurách okolo ruky,
 
 13
 00:00:57,334 --> 00:00:59,042
@@ -56,7 +56,7 @@ Urobili rozsiahle výskumy
 
 15
 00:01:02,292 --> 00:01:06,167
-a všade na svete ich akceptovali, ich objavy.
+a\hvšade na svete ich akceptovali, ich objavy.
 
 16
 00:01:06,624 --> 00:01:08,875
@@ -72,7 +72,7 @@ je veľmi, veľmi známou osobnosťou
 
 19
 00:01:14,042 --> 00:01:16,292
-a zastáva veľmi vysoký post.
+a\hzastáva veľmi vysoký post.
 
 20
 00:01:16,750 --> 00:01:18,000
@@ -84,11 +84,11 @@ musí viesť okolo 150 organizácií.
 
 22
 00:01:21,625 --> 00:01:24,375
-Veľmi skromný a veľmi príjemný človek.
+Veľmi skromný a\hveľmi príjemný človek.
 
 23
 00:01:24,791 --> 00:01:29,083
-A keď zverejnil svoj objav,
+A\hkeď zverejnil svoj objav,
 
 24
 00:01:29,958 --> 00:01:31,459
@@ -104,7 +104,7 @@ nik to nemôže spochybňovať.
 
 27
 00:01:37,833 --> 00:01:41,042
-Napísal už knihu s celým algebrickým
+Napísal už knihu s\hcelým algebrickým
 
 28
 00:01:41,375 --> 00:01:45,125
@@ -112,7 +112,7 @@ spracovaním toho, čo chcel dokázať.
 
 29
 00:01:45,500 --> 00:01:47,875
-A povedal, že jestvuje vákuum,
+A\hpovedal, že jestvuje vákuum,
 
 30
 00:01:48,334 --> 00:01:50,833
@@ -120,15 +120,15 @@ nad vedomím jestvuje vákuum,
 
 31
 00:01:51,125 --> 00:01:55,125
-a jedine v tomto vákuu je možné spoznať realitu.
+a\hjedine v\htomto vákuu je možné spoznať realitu.
 
 32
 00:01:55,584 --> 00:01:59,958
-A keď sa všetko stane realitou, stane sa z toho veda,
+A\hkeď sa všetko stane realitou, stane sa z\htoho veda,
 
 33
 00:02:00,417 --> 00:02:03,000
-a takto sa z toho stane veda.
+a\htakto sa z\htoho stane veda.
 
 34
 00:02:03,459 --> 00:02:06,292
@@ -140,7 +140,7 @@ obzvlášť tú, na ktorej vychádza množstvo energie
 
 36
 00:02:10,292 --> 00:02:13,417
-z mojej sahasráry, keď sme boli na lodi.
+z\hmojej sahasráry, keď sme boli na lodi.
 
 37
 00:02:13,791 --> 00:02:17,958
@@ -148,7 +148,7 @@ Povedal teda: „Ona je zdrojom všetkej kozmickej energie.“
 
 38
 00:02:18,334 --> 00:02:20,750
-A to je to, čo je Adi Šakti:
+A\hto je to, čo je Adi Šakti:
 
 39
 00:02:21,125 --> 00:02:24,167
@@ -168,7 +168,7 @@ Prvé, čo robí, je –
 
 43
 00:02:40,208 --> 00:02:42,666
-písala som o tom aj v mojej knihe,
+písala som o\htom aj v\hmojej knihe,
 
 44
 00:02:43,167 --> 00:02:46,167
@@ -208,24 +208,24 @@ Takže prvé, čo urobila, je, že vytvorila Ganéšu
 
 53
 00:03:26,334 --> 00:03:28,208
-a dala mu pevné miesto.
+a\hdala mu pevné miesto.
 
 54
 00:03:28,624 --> 00:03:31,459
-Potom postupuje smerom dohora, samozrejme v tele viráty,
+Potom postupuje smerom dohora, samozrejme v\htele viráty,
 
 55
 00:03:32,042 --> 00:03:33,833
-a potom pokračuje na pravej strane
+a\hpotom pokračuje na pravej strane
 
 56
 00:03:34,250 --> 00:03:37,167
-a tvorí smerom nahor po pravej strane,
+a\htvorí smerom nahor po pravej strane,
 
 57
 00:03:37,624 --> 00:03:39,500
 ale iným spôsobom -
-00:13:30:04 00:13:33:00 tam vytvára všetky vesmíry,
+00:13:30:04 00:13:33:00\htam vytvára všetky vesmíry,
 
 58
 00:03:43,083 --> 00:03:45,625
@@ -233,7 +233,7 @@ ako im hovoríte, bhúvany.
 
 59
 00:03:46,125 --> 00:03:50,292
-Jeden vesmír – v bhúvane je ich štrnásť,
+Jeden vesmír – v\hbhúvane je ich štrnásť,
 
 60
 00:03:50,708 --> 00:03:55,875
@@ -249,7 +249,7 @@ na pravej strane.
 
 63
 00:04:01,625 --> 00:04:05,958
-Potom postupuje nahor a zostúpi nadol,
+Potom postupuje nahor a\hzostúpi nadol,
 
 64
 00:04:06,417 --> 00:04:08,417
@@ -265,7 +265,7 @@ Zostupuje tvoriac všetky peethy
 
 67
 00:04:14,624 --> 00:04:18,708
-a potom sa usadí v podobe Kundalini.
+a\hpotom sa usadí v podobe Kundalini.
 
 68
 00:04:19,208 --> 00:04:22,375
@@ -289,7 +289,7 @@ teda tá, ktorá zostala po celej spomínanej púti...
 
 73
 00:04:36,875 --> 00:04:40,916
-Prejde teda dookola a vráti sa ako Kundalini.
+Prejde teda dookola a\hvráti sa ako Kundalini.
 
 74
 00:04:41,459 --> 00:04:45,000
@@ -313,7 +313,7 @@ vravíme im peethy čakier.
 
 79
 00:05:01,417 --> 00:05:04,542
-A potom schádza dole a tvorí čakry,
+A\hpotom schádza dole a\htvorí čakry,
 
 80
 00:05:05,000 --> 00:05:09,500
@@ -329,7 +329,7 @@ vytvorí ľudské bytosti, ale nie priamo:
 
 83
 00:05:16,916 --> 00:05:20,167
-v evolučnom procese,
+v\hevolučnom procese,
 
 84
 00:05:20,625 --> 00:05:22,833
@@ -337,7 +337,7 @@ a preto začala evolúcia.
 
 85
 00:05:23,292 --> 00:05:29,375
-A začína ich vytvárať od drobulinkých,
+A\hzačína ich vytvárať od drobulinkých,
 
 86
 00:05:29,875 --> 00:05:34,042
@@ -353,7 +353,7 @@ Takže keď vytvorí vodu
 
 89
 00:05:40,750 --> 00:05:42,334
-a keď vytvorí všetky vesmíry,
+a\hkeď vytvorí všetky vesmíry,
 
 90
 00:05:42,791 --> 00:05:45,375
@@ -369,11 +369,11 @@ vytvorí spomínané mikroskopické veci.
 
 93
 00:05:53,750 --> 00:05:54,875
-Samozrejme som o tom všetkom napísala
+Samozrejme som o\htom všetkom napísala
 
 94
 00:05:55,500 --> 00:05:57,750
-a keď moja kniha vyjde,
+a\hkeď moja kniha vyjde,
 
 95
 00:05:58,208 --> 00:06:01,916
@@ -381,19 +381,19 @@ uvidíte, ako sa najprv vodík,
 
 96
 00:06:02,250 --> 00:06:05,708
-uhlík a kyslík a všetky ostatné prvky
+uhlík a kyslík a\hvšetky ostatné prvky
 
 97
 00:06:06,083 --> 00:06:08,666
-zoskupili a ako vstúpil do hry dusík
+zoskupili a\hako vstúpil do hry dusík
 
 98
 00:06:09,167 --> 00:06:11,875
-a ako vznikne život.
+a\hako vznikne život.
 
 99
 00:06:12,375 --> 00:06:14,708
-Všetko toto, čo som urobila, bude v mojej druhej knihe,
+Všetko toto, čo som urobila, bude v\hmojej druhej knihe,
 
 100
 00:06:15,083 --> 00:06:16,750
@@ -405,7 +405,7 @@ Presnejšie povedané, je už takmer hotová,
 
 102
 00:06:18,625 --> 00:06:20,958
-treba však ešte napísať o niektorých čakrách.
+treba však ešte napísať o\hniektorých čakrách.
 
 103
 00:06:21,459 --> 00:06:23,334
@@ -413,7 +413,7 @@ Spomínané udalosti, viete,
 
 104
 00:06:23,833 --> 00:06:25,916
-povedú k tomu, že nič z toho, čo napíšem,
+povedú k\htomu, že nič z toho, čo napíšem,
 
 105
 00:06:26,292 --> 00:06:28,000
@@ -425,7 +425,7 @@ Budú vedieť, že sú to vedecké fakty
 
 107
 00:06:30,708 --> 00:06:33,833
-a že všetko, čo vravím, je pravda.
+a\hže všetko, čo vravím, je pravda.
 
 108
 00:06:34,208 --> 00:06:36,750
@@ -433,7 +433,7 @@ Veriť na…
 
 109
 00:06:37,125 --> 00:06:43,000
-Dokonca veriť v Mamu, v Adi Šakti, bolo čosi nemožné.
+Dokonca veriť v\hMamu, v\hAdi Šakti, bolo čosi nemožné.
 
 110
 00:06:43,625 --> 00:06:47,292
@@ -457,11 +457,11 @@ Mamu úplne popreli.
 
 115
 00:06:59,791 --> 00:07:03,292
-Len v indickej filozofii vystupuje Mama
+Len v\hindickej filozofii vystupuje Mama
 
 116
 00:07:03,625 --> 00:07:07,208
-a Indovia vlastne uctievajú Šakti.
+a\hIndovia vlastne uctievajú Šakti.
 
 117
 00:07:07,625 --> 00:07:10,042
@@ -469,7 +469,7 @@ Takto to teda prebiehalo
 
 118
 00:07:10,417 --> 00:07:13,791
-a bolo dovedené na túto úroveň,
+a\hbolo dovedené na túto úroveň,
 
 119
 00:07:14,292 --> 00:07:20,000
@@ -477,11 +477,11 @@ keď si ľudia, keď ľudia nadobudli predstavu
 
 120
 00:07:20,334 --> 00:07:25,417
-o princípe Mamy, ktorý všetko vypracoval.
+o\hprincípe Mamy, ktorý všetko vypracoval.
 
 121
 00:07:26,125 --> 00:07:29,417
-Čo sa týka tohto princípu Mamy, ľudia v Indii sú si celkom istí,
+Čo sa týka tohto princípu Mamy, ľudia v\hIndii sú si celkom istí,
 
 122
 00:07:29,916 --> 00:07:31,875
@@ -489,7 +489,7 @@ o princípe Mamy, ktorý všetko vypracoval.
 
 123
 00:07:32,292 --> 00:07:35,624
-a preto máme v Indii mnoho, nazvime ich
+a\hpreto máme v\hIndii mnoho, nazvime ich
 
 124
 00:07:37,666 --> 00:07:39,958
@@ -513,11 +513,11 @@ Mahasaraswatino, Mahalakšmino
 
 129
 00:07:50,417 --> 00:07:54,791
-a máme aj miesto pre Adi Šakti.
+a\hmáme aj miesto pre Adi Šakti.
 
 130
 00:07:55,208 --> 00:07:57,417
-Tí ľudia, ktorí boli v Nasiku,
+Tí ľudia, ktorí boli v\hNasiku,
 
 131
 00:07:57,750 --> 00:08:00,833
@@ -529,7 +529,7 @@ Koľkí boli v Čaturšringi,
 
 133
 00:08:04,167 --> 00:08:07,916
-koľkí z vás? To je dobre.
+koľkí z\hvás? To je dobre.
 
 134
 00:08:08,666 --> 00:08:12,666
@@ -581,7 +581,7 @@ celá atmosféra je spojená s Adi Šakti,
 
 146
 00:08:56,624 --> 00:08:58,791
-všetky elementy sú spojené s Adi Šakti,
+všetky elementy sú spojené s\hAdi Šakti,
 
 147
 00:08:59,292 --> 00:09:02,584
@@ -601,7 +601,7 @@ Je to jediná, povedala by som
 
 151
 00:09:16,250 --> 00:09:20,666
-a ktorá má v sebe ego.
+a\hktorá má v\hsebe ego.
 
 152
 00:09:21,125 --> 00:09:24,916
@@ -609,7 +609,7 @@ Dá sa povedať, že toto ego ich vystavilo vplyvu máye,
 
 153
 00:09:25,292 --> 00:09:28,875
-takže zabudli na Princíp,
+takže\hzabudli na Princíp,
 
 154
 00:09:29,292 --> 00:09:32,125
@@ -645,7 +645,7 @@ zničili obrovské množstvo ľudí
 
 162
 00:09:49,916 --> 00:09:51,916
-a nikdy kvôli tomu nemali výčitky svedomia.
+a\hnikdy kvôli tomu nemali výčitky svedomia.
 
 163
 00:09:52,417 --> 00:09:54,542
@@ -657,7 +657,7 @@ iných napádať,
 
 165
 00:09:56,542 --> 00:10:00,000
-ako ich ovládať a ako im škodiť.
+ako ich ovládať a\hako im škodiť.
 
 166
 00:10:00,292 --> 00:10:02,542
@@ -673,7 +673,7 @@ nikdy sa nevenovali introspekcii, aby odhalili,
 
 169
 00:10:09,750 --> 00:10:11,167
-a že by sa to robiť nemalo.
+a\hže by sa to robiť nemalo.
 
 170
 00:10:11,666 --> 00:10:14,000
@@ -681,23 +681,23 @@ Vďaka slobode, ktorú majú,
 
 171
 00:10:14,375 --> 00:10:16,000
-vládne v tomto svete taký zmätok.
+vládne v\htomto svete taký zmätok.
 
 172
 00:10:16,542 --> 00:10:19,750
-A ľudia, ktorí boli na vedúcich pozíciách,
+A\hľudia, ktorí boli na vedúcich pozíciách,
 
 173
 00:10:20,167 --> 00:10:23,167
-boli veľmi, veľmi krutí a nesmierne...
+boli veľmi, veľmi krutí a\hnesmierne...
 
 174
 00:10:24,125 --> 00:10:28,791
-Necítili k iným vôbec nič.
+Necítili k\hiným vôbec nič.
 
 175
 00:10:29,167 --> 00:10:32,833
-A toto sa stalo tak veľakrát v... Na zemi.
+A\htoto sa stalo tak veľakrát v... Na zemi.
 
 176
 00:10:33,417 --> 00:10:36,624
@@ -741,7 +741,7 @@ To je veľmi nesprávne.
 
 186
 00:11:10,292 --> 00:11:12,459
-Ak ste v Sahadža joge, musíte vedieť,
+Ak ste v\hSahadža joge, musíte vedieť,
 
 187
 00:11:12,791 --> 00:11:16,791
@@ -757,7 +757,7 @@ ste jediní ľudia, ktorí niečo dosiahli.
 
 190
 00:11:24,584 --> 00:11:26,625
-A že za týchto okolností
+A\hže za týchto okolností
 
 191
 00:11:27,083 --> 00:11:28,875
@@ -781,7 +781,7 @@ Buď si vôbec nevážia samých seba alebo iných
 
 196
 00:11:44,292 --> 00:11:47,083
-a celý ich prístup je veľmi komický.
+a\hcelý ich prístup je veľmi komický.
 
 197
 00:11:47,500 --> 00:11:49,042
@@ -793,11 +793,11 @@ niektorým ide o moc.
 
 199
 00:11:51,584 --> 00:11:53,791
-A tí, ktorí chcú mať moc, sú nebezpečnejší,
+A\htí, ktorí chcú mať moc, sú nebezpečnejší,
 
 200
 00:11:54,417 --> 00:11:56,125
-myslím, ako tí, ktorým ide o peniaze,
+myslím, ako tí, ktorým ide o\hpeniaze,
 
 201
 00:11:56,500 --> 00:11:58,500
@@ -809,19 +809,19 @@ sa vlastne snažia, aby mala Sahadža joga zlé meno.
 
 203
 00:12:03,833 --> 00:12:08,125
-Sú to veľmi hrubí, panovační a strašní ľudia.
+Sú to veľmi hrubí, panovační a\hstrašní ľudia.
 
 204
 00:12:08,624 --> 00:12:13,624
-Ide im len o získanie moci v Sahadža joge
+Ide im len o\hzískanie moci v\hSahadža joge
 
 205
 00:12:14,000 --> 00:12:16,708
-a používajú všetky triky, aby to dosiahli.
+a\hpoužívajú všetky triky, aby to dosiahli.
 
 206
 00:12:17,167 --> 00:12:20,208
-Istú dobu sa zdá, že sú celkom v poriadku,
+Istú dobu sa zdá, že sú celkom v\hporiadku,
 
 207
 00:12:20,666 --> 00:12:22,125
@@ -829,11 +829,11 @@ po čase ale zistíte,
 
 208
 00:12:22,500 --> 00:12:25,624
-že sa zo sahadžajogínskeho sveta vytratili.
+že sa zo\hsahadžajogínskeho sveta vytratili.
 
 209
 00:12:26,000 --> 00:12:28,584
-Jedná sa o ohromný čistiaci proces.
+Jedná sa o\hohromný čistiaci proces.
 
 210
 00:12:29,042 --> 00:12:31,875
@@ -845,7 +845,7 @@ do oblasti veľmi vysokého vedomia,
 
 212
 00:12:41,791 --> 00:12:45,542
-kde budete v kontakte s Bohom.
+kde budete v\hkontakte s Bohom.
 
 213
 00:12:46,000 --> 00:12:49,042
@@ -853,7 +853,7 @@ Ak sa tu správate ako obyčajní ľudia,
 
 214
 00:12:49,542 --> 00:12:52,083
-ktorí v sebe nemajú štipku božskosti,
+ktorí v\hsebe nemajú štipku božskosti,
 
 215
 00:12:52,542 --> 00:12:54,791
@@ -865,11 +865,11 @@ Je teda veľmi dôležité, aby ste sa snažili meditovať
 
 217
 00:13:00,292 --> 00:13:01,708
-a vyvíjať sa
+a\hvyvíjať sa
 
 218
 00:13:02,083 --> 00:13:05,417
-a stať sa veľmi dobrými sahadžajogínmi.
+a\hstať sa veľmi dobrými sahadžajogínmi.
 
 219
 00:13:05,875 --> 00:13:08,875
@@ -877,11 +877,11 @@ Na niektorých miestach sme mali šťastie.
 
 220
 00:13:09,292 --> 00:13:11,916
-V niektorých krajinách to ide veľmi dobre.
+V\hniektorých krajinách to ide veľmi dobre.
 
 221
 00:13:12,375 --> 00:13:15,500
-Ale v iných krajinách, sa mi zdá, sú ľudia
+Ale v\hiných krajinách, sa mi zdá, sú ľudia
 
 222
 00:13:15,875 --> 00:13:17,375
@@ -897,7 +897,7 @@ Prídu na môj program
 
 225
 00:13:21,584 --> 00:13:23,708
-a potom jednoducho zmiznú.
+a\hpotom jednoducho zmiznú.
 
 226
 00:13:24,208 --> 00:13:26,791
@@ -921,7 +921,7 @@ Celkovo tam musí byť nejaká veľká chyba,
 
 231
 00:13:41,125 --> 00:13:44,875
-a preto to tam nefunguje tak,
+a\hpreto to tam nefunguje tak,
 
 232
 00:13:45,208 --> 00:13:47,500
@@ -937,7 +937,7 @@ Musím vám teda povedať, že všetko toto tu je,
 
 235
 00:13:54,500 --> 00:13:56,624
-a všetko tu je vďaka Adi Šakti.
+a\hvšetko tu je vďaka Adi Šakti.
 
 236
 00:13:56,958 --> 00:13:59,791
@@ -953,7 +953,7 @@ pretože ste tí, ktorí majú transformovať ľudí.
 
 239
 00:14:07,000 --> 00:14:09,750
-Každý musí chápať a vedieť,
+Každý musí chápať a\hvedieť,
 
 240
 00:14:10,250 --> 00:14:13,542
@@ -961,7 +961,7 @@ koľkým sme dali Realizáciu.
 
 241
 00:14:14,083 --> 00:14:17,292
-Musíme premýšľať o tom,
+Musíme premýšľať o\htom,
 
 242
 00:14:18,000 --> 00:14:20,292
@@ -969,7 +969,7 @@ Musíme premýšľať o tom,
 
 243
 00:14:20,875 --> 00:14:24,750
-Raz som cestovala lietadlom a videla som... Bolo to takto.
+Raz som cestovala lietadlom a\hvidela som... Bolo to takto.
 
 244
 00:14:25,125 --> 00:14:27,000
@@ -977,7 +977,7 @@ Stretla som pani, ktorá sedela vedľa mňa,
 
 245
 00:14:27,417 --> 00:14:29,833
-a bola veľmi horúca, nevedela som pochopiť, prečo.
+a\hbola veľmi horúca, nevedela som pochopiť, prečo.
 
 246
 00:14:30,208 --> 00:14:32,875
@@ -985,11 +985,11 @@ Potom mi povedala, že je žiačkou gurua
 
 247
 00:14:33,208 --> 00:14:35,375
-a je na to veľmi hrdá, a začala mi rozprávať
+a\hje na to veľmi hrdá, a\hzačala mi rozprávať
 
 248
 00:14:35,708 --> 00:14:36,958
-o ňom a o všetkom.
+o\hňom a\ho všetkom.
 
 249
 00:14:37,500 --> 00:14:39,624
@@ -997,7 +997,7 @@ o ňom a o všetkom.
 
 250
 00:14:40,083 --> 00:14:42,666
-nedal jej nič a ona v jednom kuse vypráva:
+nedal jej nič a\hona v\hjednom kuse vypráva:
 
 251
 00:14:43,125 --> 00:14:44,666
@@ -1005,7 +1005,7 @@ nedal jej nič a ona v jednom kuse vypráva:
 
 252
 00:14:45,125 --> 00:14:46,875
-urobila som pre neho toto” a tak ďalej.
+urobila som pre neho toto” a\htak ďalej.
 
 253
 00:14:47,459 --> 00:14:49,875
@@ -1017,15 +1017,15 @@ vyprávala mne,
 
 255
 00:14:52,459 --> 00:14:54,750
-neznámej osobe, o svojom guruovi.
+neznámej osobe, o\hsvojom guruovi.
 
 256
 00:14:55,292 --> 00:14:58,459
-V Sahadža joge som však videla, že ľudia sú dosť hanbliví.
+V\hSahadža joge som však videla, že ľudia sú dosť hanbliví.
 
 257
 00:14:58,958 --> 00:15:01,708
-Nechcú iným otvorene hovoriť o Sahadža joge,
+Nechcú iným otvorene hovoriť o\hSahadža joge,
 
 258
 00:15:02,292 --> 00:15:04,624
@@ -1041,7 +1041,7 @@ Dostali ste Realizáciu,
 
 261
 00:15:10,624 --> 00:15:12,625
-samozrejme, veď ste hľadali, to je v poriadku,
+samozrejme, veď ste hľadali, to je v\hporiadku,
 
 262
 00:15:13,250 --> 00:15:16,708
@@ -1053,11 +1053,11 @@ Musím povedať, že muži boli, neviem prečo, dynamickejší
 
 264
 00:15:22,375 --> 00:15:23,500
-a pracovali na tom.
+a\hpracovali na tom.
 
 265
 00:15:23,958 --> 00:15:26,417
-Ženy v Sahadža joge sa ešte nedostali
+Ženy v\hSahadža joge sa ešte nedostali
 
 266
 00:15:26,708 --> 00:15:28,167
@@ -1069,7 +1069,7 @@ Musia pre to prejaviť viac pochopenia
 
 268
 00:15:31,375 --> 00:15:32,666
-a musia to dať do poriadku.
+a\hmusia to dať do poriadku.
 
 269
 00:15:33,042 --> 00:15:34,916
@@ -1113,7 +1113,7 @@ aby boli ženy ešte dynamickejšie,
 
 279
 00:16:04,292 --> 00:16:08,584
-pretože sú šakti a ja som žena.
+pretože sú šakti a\hja som žena.
 
 280
 00:16:08,875 --> 00:16:12,791
@@ -1121,11 +1121,11 @@ Takže vidím, že muži sú, zdá sa, aktívnejší
 
 281
 00:16:13,459 --> 00:16:15,459
-a dynamickejší, pokiaľ ide o Sahadža jogu,
+a\hdynamickejší, pokiaľ ide o\hSahadža jogu,
 
 282
 00:16:15,791 --> 00:16:18,916
-a neviem, z akého dôvodu ženy nie sú.
+a\hneviem, z\hakého dôvodu ženy nie sú.
 
 283
 00:16:19,250 --> 00:16:24,000
@@ -1149,7 +1149,7 @@ sú kvality mamy, ženy.
 
 288
 00:16:37,958 --> 00:16:40,542
-A ak ženy túto kvalitu nemajú,
+A\hak ženy túto kvalitu nemajú,
 
 289
 00:16:40,875 --> 00:16:42,708
@@ -1177,7 +1177,7 @@ dostali ste Realizáciu a
 
 295
 00:16:58,542 --> 00:17:00,625
-a musíte rozhodnúť, čo ste doteraz urobili,
+a\hmusíte rozhodnúť, čo ste doteraz urobili,
 
 296
 00:17:01,125 --> 00:17:03,334
@@ -1185,7 +1185,7 @@ a musíte rozhodnúť, čo ste doteraz urobili,
 
 297
 00:17:03,708 --> 00:17:06,250
-Povedala by som však, že aj v Sahadža joge
+Povedala by som však, že aj v\hSahadža joge
 
 298
 00:17:06,624 --> 00:17:10,916
@@ -1205,7 +1205,7 @@ hovoria o nich
 
 302
 00:17:17,958 --> 00:17:20,624
-a je to istý prejav túžby po moci.
+a\hje to istý prejav túžby po moci.
 
 303
 00:17:21,000 --> 00:17:22,875
@@ -1213,11 +1213,11 @@ Chcú iných deptať
 
 304
 00:17:23,417 --> 00:17:26,208
-a získať nad nimi moc a zastrašujú ľudí
+a získať nad nimi moc a\hzastrašujú ľudí
 
 305
 00:17:26,666 --> 00:17:29,292
-a správajú sa,
+a\hsprávajú sa,
 
 306
 00:17:29,708 --> 00:17:32,833
@@ -1233,11 +1233,11 @@ Niektorí začnú vykladať:
 
 309
 00:17:38,625 --> 00:17:43,250
-V snahe dosiahnuť moc
+V\hsnahe dosiahnuť moc
 
 310
 00:17:43,625 --> 00:17:46,125
-si vymýšľajú a vyprávajú takým spôsobom…
+si vymýšľajú a\hvyprávajú takým spôsobom…
 
 311
 00:17:46,624 --> 00:17:47,875
@@ -1265,11 +1265,11 @@ Prázdne reči o iných, kritizovanie iných,
 
 317
 00:18:00,708 --> 00:18:04,500
-rozprávanie o nedostatkoch v Sahadža joge,
+rozprávanie o\hnedostatkoch v\hSahadža joge,
 
 318
 00:18:05,000 --> 00:18:08,125
-hľadanie chýb v iných,
+hľadanie chýb v\hiných,
 
 319
 00:18:08,500 --> 00:18:11,459
@@ -1277,7 +1277,7 @@ to všetko sú, povedala by som, počiatočnícke chyby,
 
 320
 00:18:11,833 --> 00:18:15,250
-ktoré sme robili predtým a s ktorými treba teraz prestať.
+ktoré sme robili predtým a\hs ktorými treba teraz prestať.
 
 321
 00:18:15,791 --> 00:18:18,083
@@ -1321,7 +1321,7 @@ najmä sahadžajogínok,
 
 331
 00:18:51,250 --> 00:18:52,708
-veľa toho o Sahadža joge nevedia,
+veľa toho o\hSahadža joge nevedia,
 
 332
 00:18:53,083 --> 00:18:54,708
@@ -1329,7 +1329,7 @@ nevedia o čakrách,
 
 333
 00:18:55,000 --> 00:18:57,375
-nevedia nič o božstvách,
+nevedia nič o\hbožstvách,
 
 334
 00:18:57,666 --> 00:18:59,042
@@ -1341,7 +1341,7 @@ Ako môžu byť sahadžajogínmi?
 
 336
 00:19:01,916 --> 00:19:03,417
-Musíte o tom vedieť všetko.
+Musíte o\htom vedieť všetko.
 
 337
 00:19:03,833 --> 00:19:06,459
@@ -1361,7 +1361,7 @@ Vo svojom vnútri musíte mať poznanie
 
 341
 00:19:16,958 --> 00:19:22,500
-o čakrách a o Sahadža joge, o tom ako pracuje,
+o\hčakrách a\ho\hSahadža joge, o\htom ako pracuje,
 
 342
 00:19:22,875 --> 00:19:24,208
@@ -1381,11 +1381,11 @@ potom aj vy dosiahnete
 
 346
 00:19:34,624 --> 00:19:39,167
-istý druh dokonalosti v zaobchádzaní s ľuďmi
+istý druh dokonalosti v\hzaobchádzaní s ľuďmi
 
 347
 00:19:39,500 --> 00:19:41,625
-a v tom, ako ich priviesť do Sahadža jogy.
+a\hv\htom, ako ich priviesť do Sahadža jogy.
 
 348
 00:19:42,042 --> 00:19:44,167
@@ -1405,7 +1405,7 @@ ešte stále zaostávajú
 
 352
 00:19:54,958 --> 00:20:00,916
-a je veľmi podivuhodné, že žijú v nejakej krajine,
+a\hje veľmi podivuhodné, že žijú v\hnejakej krajine,
 
 353
 00:20:01,334 --> 00:20:03,208
@@ -1413,7 +1413,7 @@ a je veľmi podivuhodné, že žijú v nejakej krajine,
 
 354
 00:20:03,624 --> 00:20:04,791
-a že ich to nezaujíma.
+a\hže ich to nezaujíma.
 
 355
 00:20:05,250 --> 00:20:06,624
@@ -1437,7 +1437,7 @@ Takže Sahadža joga, ktorá práve začína rásť,
 
 360
 00:20:22,167 --> 00:20:25,250
-nemôže rásť len s jednou alebo dvomi krajinami.
+nemôže rásť len s\hjednou alebo dvomi krajinami.
 
 361
 00:20:25,542 --> 00:20:29,833
@@ -1457,7 +1457,7 @@ Okrem toho máme knihy, aby sme ľudí presvedčili,
 
 365
 00:20:41,708 --> 00:20:44,250
-musíme sa s nimi o tom rozprávať.
+musíme sa s nimi o\htom rozprávať.
 
 366
 00:20:44,624 --> 00:20:47,666
@@ -1541,7 +1541,7 @@ sa boria s drogovou závislosťou.
 
 386
 00:21:45,083 --> 00:21:46,666
-Prečo berú ľudia v takom veľkom rozsahu drogy?
+Prečo berú ľudia v\htakom veľkom rozsahu drogy?
 
 387
 00:21:47,125 --> 00:21:49,083
@@ -1549,7 +1549,7 @@ Potom robia všelijaké hriešne veci,
 
 388
 00:21:49,584 --> 00:21:51,167
-o ktorých nechcem nehovoriť,
+o\hktorých nechcem nehovoriť,
 
 389
 00:21:51,624 --> 00:21:54,833
@@ -1565,11 +1565,11 @@ Ak sa takéto veci dejú okolo vás,
 
 392
 00:22:01,250 --> 00:22:03,250
-zistite, v čom je chyba
+zistite, v\hčom je chyba
 
 393
 00:22:03,624 --> 00:22:05,584
-a ako to môžete dať do poriadku,
+a\hako to môžete dať do poriadku,
 
 394
 00:22:06,624 --> 00:22:08,542
@@ -1601,7 +1601,7 @@ Najprv sa však musíte zbaviť ega.
 
 401
 00:22:27,459 --> 00:22:29,750
-Viete, len keď k tomu dôjde,
+Viete, len keď k\htomu dôjde,
 
 402
 00:22:30,208 --> 00:22:32,542
@@ -1609,11 +1609,11 @@ bude vaša pozornosť pevná.
 
 403
 00:22:32,875 --> 00:22:35,042
-A toto ego je pre vás maličkosť,
+A\htoto ego je pre vás maličkosť,
 
 404
 00:22:35,417 --> 00:22:38,666
-pretože uctievate Krista a Kristus je ten,
+pretože uctievate Krista a\hKristus je ten,
 
 405
 00:22:39,042 --> 00:22:42,292
@@ -1633,7 +1633,7 @@ ste jeho pravým opakom.
 
 409
 00:22:48,584 --> 00:22:50,584
-Všade došlo k tomu,
+Všade došlo k\htomu,
 
 410
 00:22:50,916 --> 00:22:52,459
@@ -1653,11 +1653,11 @@ povedala by som, že hinduistická filozofia vraví,
 
 414
 00:22:59,624 --> 00:23:01,791
-že v každom sídli duša.
+že v\hkaždom sídli duša.
 
 415
 00:23:02,750 --> 00:23:04,958
-Ak má každý dušu,
+Ak má\hkaždý dušu,
 
 416
 00:23:05,417 --> 00:23:07,791
@@ -1665,7 +1665,7 @@ ako potom môžete mať rozličné kastové systémy
 
 417
 00:23:08,250 --> 00:23:11,625
-a ako môžete mať „vyšších“ a „nižších“?
+a\hako môžete mať „vyšších“ a „nižších“?
 
 418
 00:23:12,042 --> 00:23:14,500
@@ -1677,11 +1677,11 @@ Naopak, Kristus povedal,
 
 420
 00:23:18,083 --> 00:23:20,042
-a musíte sa pokoriť.
+a\hmusíte sa pokoriť.
 
 421
 00:23:20,459 --> 00:23:22,584
-A čo vidíme?
+A\hčo vidíme?
 
 422
 00:23:22,916 --> 00:23:26,250
@@ -1697,7 +1697,7 @@ Muži sú takí, ženy sú také,
 
 425
 00:23:30,875 --> 00:23:33,459
-a potom sa muži a ženy hádajú.
+a\hpotom sa muži a\hženy hádajú.
 
 426
 00:23:33,791 --> 00:23:35,750
@@ -1705,7 +1705,7 @@ Je úplne vylúčené, že by bol niekto pokorný,
 
 427
 00:23:36,125 --> 00:23:37,791
-mierumilovný a tak ďalej.
+mierumilovný a\htak ďalej.
 
 428
 00:23:38,292 --> 00:23:41,500
@@ -1717,7 +1717,7 @@ Takže je to len strojené predvádzanie sa,
 
 430
 00:23:44,000 --> 00:23:47,666
-v ich srdciach však, ako vidím,
+v\hich srdciach však, ako vidím,
 
 431
 00:23:48,167 --> 00:23:50,833
@@ -1753,7 +1753,7 @@ len vtedy zavŕšite to, prečo ste sa narodili
 
 439
 00:24:15,624 --> 00:24:18,334
-v tomto období rozkvetu.
+v\htomto období rozkvetu.
 
 440
 00:24:18,916 --> 00:24:21,916
@@ -1761,15 +1761,15 @@ Inak ste sa mohli narodiť skôr
 
 441
 00:24:22,417 --> 00:24:24,666
-a stať sa niečím iným.
+a\hstať sa niečím iným.
 
 442
 00:24:25,083 --> 00:24:28,459
-Narodili ste sa však v špeciálnom čase, uvedomte si teda svoju hodnotu,
+Narodili ste sa však v\hšpeciálnom čase, uvedomte si teda svoju hodnotu,
 
 443
 00:24:28,833 --> 00:24:33,042
-uvedomte si, čo ste, a snažte sa to pochopiť.
+uvedomte si, čo ste, a\hsnažte sa to pochopiť.
 
 444
 00:24:33,459 --> 00:24:36,250
@@ -1801,7 +1801,7 @@ Keď začnete robiť Božiu prácu, začne Boh robiť vašu prácu.
 
 451
 00:24:54,167 --> 00:24:56,208
-A tak budete žasnúť nad tým,
+A\htak budete žasnúť nad tým,
 
 452
 00:24:56,584 --> 00:24:59,459
@@ -1809,7 +1809,7 @@ ako si nájdete čas robiť to, čo je správne.
 
 453
 00:24:59,833 --> 00:25:04,625
-Teraz je na vás, aby ste sa utiahli a venovali sa introspekcii,
+Teraz je na vás, aby ste sa utiahli a\hvenovali sa introspekcii,
 
 454
 00:25:05,000 --> 00:25:06,125
@@ -1829,7 +1829,7 @@ správam sa veľmi, veľmi pokorne
 
 458
 00:25:17,750 --> 00:25:19,958
-a ľudia ma berú ako niečo samozrejmé.
+a\hľudia ma berú ako niečo samozrejmé.
 
 459
 00:25:20,584 --> 00:25:22,000
@@ -1849,7 +1849,7 @@ sami robíte zo seba niktošov,
 
 463
 00:25:28,167 --> 00:25:31,875
-ak sa o seba nestaráte a nerastiete.
+ak sa o\hseba nestaráte a nerastiete.
 
 464
 00:25:32,167 --> 00:25:34,208
@@ -1857,7 +1857,7 @@ Tento objav je taký významný
 
 465
 00:25:34,624 --> 00:25:37,916
-a pritom tento pán o mne predtým nič nevedel.
+a\hpritom tento pán o\hmne predtým nič nevedel.
 
 466
 00:25:38,250 --> 00:25:41,125
@@ -1865,7 +1865,7 @@ Je veľmi vzdelaný, ale veľmi skromný,
 
 467
 00:25:41,624 --> 00:25:43,250
-a povedal mi:
+a\hpovedal mi:
 
 468
 00:25:43,625 --> 00:25:48,250
@@ -1873,11 +1873,11 @@ a povedal mi:
 
 469
 00:25:48,624 --> 00:25:51,334
-tohto sveta a cítim sa celkom „normálne“.“
+tohto sveta a\hcítim sa celkom „normálne“.“
 
 470
 00:25:51,625 --> 00:25:53,666
-Povedala som mu teda: „A čo by sa s tebou malo stať, čo myslíš?“
+Povedala som mu teda: „A čo by sa s\htebou malo stať, čo myslíš?“
 
 471
 00:25:54,000 --> 00:25:56,375
@@ -1889,7 +1889,7 @@ Odvetil: „Mama, je to niečo úžasné,
 
 473
 00:25:58,791 --> 00:26:00,625
-a že si tu.“
+a\hže si tu.“
 
 474
 00:26:00,958 --> 00:26:04,624
@@ -1913,11 +1913,11 @@ Musíme vedieť, že máme mať
 
 479
 00:26:19,125 --> 00:26:21,584
-len lásku a milosrdenstvo.
+len lásku a\hmilosrdenstvo.
 
 480
 00:26:21,958 --> 00:26:25,584
-Milosrdenstvo a lásku v tom zmysle,
+Milosrdenstvo a\hlásku v tom zmysle,
 
 481
 00:26:26,000 --> 00:26:28,833
@@ -1937,7 +1937,7 @@ myslia si, že sú veľmi inteligentní. Nie je to pravda.
 
 485
 00:26:38,750 --> 00:26:42,167
-Keď sa s niekým rozprávate, musíte povedať niečo
+Keď sa s\hniekým rozprávate, musíte povedať niečo
 
 486
 00:26:42,625 --> 00:26:45,250
@@ -1965,7 +1965,7 @@ Treba mu povedať, tomuto hnevu:
 
 492
 00:26:57,958 --> 00:26:59,292
-Nechcem mať s tebou nič spoločné.“
+Nechcem mať s\htebou nič spoločné.“
 
 493
 00:26:59,624 --> 00:27:00,584
@@ -1993,7 +1993,7 @@ ovládať iných.
 
 499
 00:27:15,000 --> 00:27:16,167
-Aký máte z toho osoh?
+Aký máte z\htoho osoh?
 
 500
 00:27:16,624 --> 00:27:18,375
@@ -2005,7 +2005,7 @@ Zo svetského hľadiska možno získate trochu popularity,
 
 502
 00:27:23,666 --> 00:27:26,875
-nadobudnete isté postavenie a podobne.
+nadobudnete isté postavenie a\hpodobne.
 
 503
 00:27:27,250 --> 00:27:28,833
@@ -2045,7 +2045,7 @@ Je to veľmi dôležité.
 
 512
 00:27:52,542 --> 00:27:54,334
-Bola som prekvapená, že v samotnom Rusku
+Bola som prekvapená, že v\hsamotnom Rusku
 
 513
 00:27:54,708 --> 00:27:56,125
@@ -2065,7 +2065,7 @@ Neviem, ako na to prišli.
 
 517
 00:28:06,459 --> 00:28:09,666
-A to nie po spomínanom objave, ale už predtým.
+A\hto nie po spomínanom objave, ale už predtým.
 
 518
 00:28:09,833 --> 00:28:14,750
@@ -2073,7 +2073,7 @@ Boli takí milí, takí pokorní, takí láskyplní!
 
 519
 00:28:15,334 --> 00:28:16,916
-A deti mi dokonca nosili
+A\hdeti mi dokonca nosili
 
 520
 00:28:17,292 --> 00:28:18,791
@@ -2093,15 +2093,15 @@ dosiahli túto schopnosť „stať sa“.
 
 524
 00:28:29,750 --> 00:28:34,250
-A myslím si, že Rusko je tou krajinou Západu,
+A\hmyslím si, že Rusko je tou krajinou Západu,
 
 525
 00:28:34,542 --> 00:28:38,000
-ktorá dosiahne v duchovnosti vysokú úroveň,
+ktorá dosiahne v\hduchovnosti vysokú úroveň,
 
 526
 00:28:38,375 --> 00:28:41,208
-a to znamená, že to budú najsilnejší ľudia.
+a\hto znamená, že to budú najsilnejší ľudia.
 
 527
 00:28:41,584 --> 00:28:44,042
@@ -2109,7 +2109,7 @@ Pozrime sa, čo urobíte vo svojich krajinách
 
 528
 00:28:44,375 --> 00:28:46,459
-a ako na tom budete pracovať.
+a\hako na tom budete pracovať.
 
 529
 00:28:46,791 --> 00:28:50,000
@@ -2125,11 +2125,11 @@ ak si uvedomíte,
 
 532
 00:28:55,125 --> 00:28:58,042
-A potom sa zmení váš temperament,
+A\hpotom sa zmení váš temperament,
 
 533
 00:28:58,417 --> 00:29:01,208
-vaša povaha. Stane sa z vás veľmi,
+vaša povaha. Stane sa z\hvás veľmi,
 
 534
 00:29:01,624 --> 00:29:05,459
@@ -2137,11 +2137,11 @@ veľmi nežný človek, roztomilý človek
 
 535
 00:29:05,833 --> 00:29:10,875
-a všetci si pomyslia: toto je svätec, čo tu chodí.
+a\hvšetci si pomyslia: toto je svätec, čo tu chodí.
 
 536
 00:29:11,334 --> 00:29:13,584
-To je všetko, čo musím o tom povedať.
+To je všetko, čo musím o\htom povedať.
 
 537
 00:29:13,833 --> 00:29:17,417
@@ -2153,11 +2153,11 @@ je to objav pre celý svet.
 
 539
 00:29:19,958 --> 00:29:23,958
-A som si istá, že keď sa to dokončí
+A\hsom si istá, že keď sa to dokončí
 
 540
 00:29:25,417 --> 00:29:28,208
-a prezentuje svetu,
+a\hprezentuje svetu,
 
 541
 00:29:28,625 --> 00:29:31,584
