@@ -1,6 +1,6 @@
 1
 00:00:04,600 --> 00:00:09,183
-Dnes oslavujeme, v krajine Šrí Krišnu
+Dnes oslavujeme, v\hkrajine Šrí Krišnu
 
 2
 00:00:10,391 --> 00:00:15,266
@@ -12,7 +12,7 @@ Je to niečo nevídané
 
 4
 00:00:26,308 --> 00:00:36,600
-a výnimočné,
+a\hvýnimočné,
 
 5
 00:00:39,767 --> 00:00:43,892
@@ -32,7 +32,7 @@ na tejto Zemi ako Mahavišnu
 
 9
 00:01:04,641 --> 00:01:10,224
-a bol synom Radhi,
+a\hbol synom Radhi,
 
 10
 00:01:12,767 --> 00:01:21,475
@@ -60,15 +60,15 @@ ako sa toto Prapôvodné Dieťa premenilo na vajce
 
 16
 00:01:59,475 --> 00:02:03,391
-a polovica zostala ako Šrí Ganéša
+a\hpolovica zostala ako Šrí Ganéša
 
 17
 00:02:03,767 --> 00:02:11,058
-a druhá polovica ako Mahavišnu.
+a\hdruhá polovica ako Mahavišnu.
 
 18
 00:02:14,183 --> 00:02:24,224
-V evolučnom procese sa
+V\hevolučnom procese sa
 
 19
 00:02:26,057 --> 00:02:29,725
@@ -160,7 +160,7 @@ Takže na počiatku keď vytvorila Šakti tento vesmír
 
 41
 00:04:48,641 --> 00:04:52,725
-a Sadašiva sledoval Jej tvorenie,
+a\hSadašiva sledoval Jej tvorenie,
 
 42
 00:04:53,057 --> 00:04:59,391
@@ -168,7 +168,7 @@ prvé čo vytvorila na tejto zemi bola nevinnosť
 
 43
 00:05:00,017 --> 00:05:06,057
-a stelesnenie tejto nevinnosti bol Šrí Ganéša.
+a\hstelesnenie tejto nevinnosti bol Šrí Ganéša.
 
 44
 00:05:08,516 --> 00:05:13,808
@@ -184,7 +184,7 @@ Nevinnosť ochraňovala všetko stvorenie sveta
 
 47
 00:05:34,516 --> 00:05:38,349
-a prenikala do všetkej hmoty.
+a\hprenikala do všetkej hmoty.
 
 48
 00:05:38,683 --> 00:05:42,516
@@ -200,7 +200,7 @@ lebo je tak vytvorená.
 
 51
 00:05:51,475 --> 00:05:55,391
-V žiadnom prípade vám nechce ublížiť
+V\hžiadnom prípade vám nechce ublížiť
 
 52
 00:05:55,767 --> 00:05:57,975
@@ -244,7 +244,7 @@ alebo vstúpia na váš pozemok,
 
 62
 00:06:50,058 --> 00:06:52,099
-a narobia všade zmätok,
+a\hnarobia všade zmätok,
 
 63
 00:06:52,433 --> 00:06:54,767
@@ -256,7 +256,7 @@ alebo nedodržujú nejaké pravidlá.
 
 65
 00:07:00,808 --> 00:07:06,391
-Riadia sa zákonmi, ktoré sú v nich zabudované,
+Riadia sa zákonmi, ktoré sú v\hnich zabudované,
 
 66
 00:07:06,850 --> 00:07:11,349
@@ -280,7 +280,7 @@ Do tohto bodu zostáva nevinnosť nedotknutá,
 
 71
 00:07:43,266 --> 00:07:50,183
-pretože sa v nich nevyvinulo ego.
+pretože sa v\hnich nevyvinulo ego.
 
 72
 00:07:53,099 --> 00:07:55,516
@@ -300,7 +300,7 @@ alebo slon môže zašlapiť
 
 76
 00:08:14,600 --> 00:08:21,141
-Ale pokiaľ ide o vyšší stupeň,
+Ale pokiaľ ide o\hvyšší stupeň,
 
 77
 00:08:23,892 --> 00:08:27,057
@@ -308,7 +308,7 @@ Matka Šakti, Prapôvodná Matka uvažovala
 
 78
 00:08:27,433 --> 00:08:31,017
-o vytvorení osobnosti,
+o\hvytvorení osobnosti,
 
 79
 00:08:32,183 --> 00:08:38,516
@@ -316,7 +316,7 @@ ktorá by ochraňovala nevinnosť ľudských bytostí.
 
 80
 00:08:39,017 --> 00:08:42,308
-Nad hmotou a nad zvieratami,
+Nad hmotou a\hnad zvieratami,
 
 81
 00:08:42,683 --> 00:08:47,099
@@ -324,11 +324,11 @@ vytvorila Šrí Ganéšu.
 
 82
 00:08:47,683 --> 00:08:49,892
-A poznáte príbeh Šrí Ganéšu -
+A\hpoznáte príbeh Šrí Ganéšu -
 
 83
 00:08:50,266 --> 00:08:53,433
-ako prišiel k slonej hlave
+ako prišiel k\hslonej hlave
 
 84
 00:08:53,933 --> 00:08:56,808
@@ -340,7 +340,7 @@ hoci je ľudskou bytosťou,
 
 86
 00:08:59,475 --> 00:09:03,349
-je ako zvieratá - pokiaľ ide o Jeho hlavu,
+je ako zvieratá - pokiaľ ide o\hJeho hlavu,
 
 87
 00:09:03,725 --> 00:09:09,266
@@ -352,11 +352,11 @@ má hlavu slona,
 
 89
 00:09:15,224 --> 00:09:22,433
-ktorý je najmúdrejším zvieraťom v ríši zvierat.
+ktorý je najmúdrejším zvieraťom v\hríši zvierat.
 
 90
 00:09:23,349 --> 00:09:28,767
-Takže v takej hlave, ktorá je nevinná,
+Takže v\htakej hlave, ktorá je nevinná,
 
 91
 00:09:29,099 --> 00:09:30,933
@@ -372,7 +372,7 @@ Ale ľudské bytosti boli vytvorené odlišným spôsobom
 
 94
 00:09:48,683 --> 00:09:55,641
-a keď bol vytvorený uhlík, aby vznikli aminokyseliny,
+a\hkeď bol vytvorený uhlík, aby vznikli aminokyseliny,
 
 95
 00:09:57,641 --> 00:10:02,683
@@ -380,7 +380,7 @@ taktiež ich usmernil v pohybe,
 
 96
 00:10:03,224 --> 00:10:08,141
-v ľudských bytostiach išlo o nový druh evolúcie
+v\hľudských bytostiach išlo o\hnový druh evolúcie
 
 97
 00:10:08,725 --> 00:10:12,933
@@ -408,7 +408,7 @@ navzdory zemskej príťažlivosti,
 
 103
 00:10:38,099 --> 00:10:44,975
-nastal nový problém v prúdení energie -
+nastal nový problém v\hprúdení energie -
 
 104
 00:10:47,058 --> 00:10:50,058
@@ -428,7 +428,7 @@ vyživovať,
 
 108
 00:11:06,057 --> 00:11:12,057
-alebo starať o problémovú Višudhi.
+alebo starať o\hproblémovú Višudhi.
 
 109
 00:11:14,349 --> 00:11:18,183
@@ -452,7 +452,7 @@ Keď takto narovnáte svoju Višudhi,
 
 114
 00:11:37,475 --> 00:11:39,933
-následok toho vidieť v tejto krajine,
+následok toho vidieť v\htejto krajine,
 
 115
 00:11:40,349 --> 00:11:45,308
@@ -488,11 +488,11 @@ Ale keby to bolo urobené
 
 123
 00:12:24,058 --> 00:12:26,641
-v úplnej oddanosti Bohu ,
+v\húplnej oddanosti Bohu ,
 
 124
 00:12:28,516 --> 00:12:32,975
-s hlavou sklonenou k Matke Zemi,
+s\hhlavou sklonenou k\hMatke Zemi,
 
 125
 00:12:33,391 --> 00:12:37,266
@@ -512,7 +512,7 @@ Včera ste videli tie krásne obrázky
 
 129
 00:12:54,475 --> 00:12:59,224
-prírody, ktorá vás v tejto krajine obklopuje.
+prírody, ktorá vás v\htejto krajine obklopuje.
 
 130
 00:13:00,099 --> 00:13:06,141
@@ -528,11 +528,11 @@ vztýčili hlavu
 
 133
 00:13:15,975 --> 00:13:21,224
-– a tak začal ten problém s Višudhi.
+– a\htak začal ten problém s Višudhi.
 
 134
 00:13:23,516 --> 00:13:29,683
-V každom ohľade a v celej sociálnej štruktúre
+V\hkaždom ohľade a\hv\hcelej sociálnej štruktúre
 
 135
 00:13:30,141 --> 00:13:33,308
@@ -540,7 +540,7 @@ sme boli učení bojovať proti prírode,
 
 136
 00:13:33,725 --> 00:13:37,475
-a nie s ňou žiť v harmónii.
+a\hnie s\hňou žiť v harmónii.
 
 137
 00:13:38,683 --> 00:13:44,308
@@ -552,7 +552,7 @@ Takže prvý útok bol proti nevinnosti
 
 139
 00:13:49,808 --> 00:13:55,475
-A tak sa od prirodzených spôsobov Muladháry upustilo.
+A\htak sa od prirodzených spôsobov Muladháry upustilo.
 
 140
 00:13:56,892 --> 00:14:05,099
@@ -564,7 +564,7 @@ dávno pred Abrahamom, dávno pred Mojžišom
 
 142
 00:14:16,141 --> 00:14:26,391
-a posvätnosť manželstva, ktoré bolo prijaté spoločnosťou,
+a\hposvätnosť manželstva, ktoré bolo prijaté spoločnosťou,
 
 143
 00:14:29,058 --> 00:14:33,850
@@ -604,7 +604,7 @@ preto
 
 152
 00:15:31,141 --> 00:15:34,808
-bolo v tejto krajine zavraždených toľko mužov a žien
+bolo v\htejto krajine zavraždených toľko mužov a žien
 
 153
 00:15:35,600 --> 00:15:37,683
@@ -620,7 +620,7 @@ zamilovaný do desiatich žien či mužov
 
 156
 00:15:46,725 --> 00:15:48,725
-k čomu je potom žiarlivosť?
+k\hčomu je potom žiarlivosť?
 
 157
 00:15:50,808 --> 00:15:56,017
@@ -640,7 +640,7 @@ začala sa rozvíjať neprirodzená atmosféra.
 
 161
 00:16:26,099 --> 00:16:32,099
-A tento spôsob života priviedol túto ohromnú krajinu,
+A\htento spôsob života priviedol túto ohromnú krajinu,
 
 162
 00:16:32,600 --> 00:16:38,683
@@ -656,7 +656,7 @@ je najväčšou slabosťou tejto krajiny.
 
 165
 00:16:51,975 --> 00:17:01,017
-To, že si nevážite silu cudnosti a cudného života
+To, že si nevážite silu cudnosti a\hcudného života
 
 166
 00:17:03,308 --> 00:17:10,683
@@ -664,7 +664,7 @@ je najväčšou chybou tých ľudí, ktorí
 
 167
 00:17:11,099 --> 00:17:16,141
-začali všemožné trendy a módne výstrelky.
+začali všemožné trendy a\hmódne výstrelky.
 
 168
 00:17:16,683 --> 00:17:23,475
@@ -680,7 +680,7 @@ začnete strácať svoje korene, celkom stratíte svoj základ.
 
 171
 00:17:33,767 --> 00:17:38,183
-A potom sa necháte vtiahnuť do hocijakého nezmyslu,
+A\hpotom sa necháte vtiahnuť do hocijakého nezmyslu,
 
 172
 00:17:38,600 --> 00:17:43,475
@@ -692,7 +692,7 @@ Až do takej miery, že uznávate osobu ako Freud
 
 174
 00:17:52,641 --> 00:17:55,933
-a na Krista zabudnete,
+a\hna Krista zabudnete,
 
 175
 00:17:56,308 --> 00:18:00,099
@@ -728,7 +728,7 @@ kvôli arogantným skutkom.
 
 183
 00:18:45,224 --> 00:18:55,725
-A ešte robia zo všetkého čo je deštruktívne martýrstvo.
+A\hešte robia zo všetkého čo je deštruktívne martýrstvo.
 
 184
 00:19:00,183 --> 00:19:05,224
@@ -736,11 +736,11 @@ Je to veľkou zodpovednosťou Sahadža Jogínov,
 
 185
 00:19:05,558 --> 00:19:10,808
-ktorí žijú v krajine Šrí Ganéšu.
+ktorí žijú v\hkrajine Šrí Ganéšu.
 
 186
 00:19:11,224 --> 00:19:21,558
-Ale ľudia, ktorí žijú v krajine Šrí Krišnu,
+Ale ľudia, ktorí žijú v\hkrajine Šrí Krišnu,
 
 187
 00:19:21,975 --> 00:19:30,017
@@ -748,7 +748,7 @@ majú zodpovednosť celkom na svojich pleciach
 
 188
 00:19:31,767 --> 00:19:37,058
-a nemôžete sa z toho vyzuť.
+a\hnemôžete sa z\htoho vyzuť.
 
 189
 00:19:39,057 --> 00:19:42,266
@@ -788,7 +788,7 @@ sa pomaly preberie zo svojho spánku,
 
 198
 00:20:28,767 --> 00:20:33,433
-napriek zraneniam a urážkam, ktoré ste mu spôsobili,
+napriek zraneniam a\hurážkam, ktoré ste mu spôsobili,
 
 199
 00:20:33,767 --> 00:20:37,433
@@ -804,11 +804,11 @@ Ako mu dodáme výživu?
 
 202
 00:20:46,516 --> 00:20:54,017
-Ako sa postaráme o Jeho rast?
+Ako sa postaráme o\hJeho rast?
 
 203
 00:20:57,308 --> 00:21:04,808
-Zodpovednosť Sahadža Jogínov v Amerike je veľká.
+Zodpovednosť Sahadža Jogínov v\hAmerike je veľká.
 
 204
 00:21:05,475 --> 00:21:10,558
@@ -832,7 +832,7 @@ proti týmto chybám
 
 209
 00:21:31,433 --> 00:21:36,183
-a upevniť Šrí Ganéšu v plnej miere,
+a\hupevniť Šrí Ganéšu v\hplnej miere,
 
 210
 00:21:36,808 --> 00:21:40,349
@@ -840,7 +840,7 @@ aby vám dal potrebnú rovnováhu
 
 211
 00:21:40,349 --> 00:21:45,099
-a korene, ktoré by vás vyživovali.
+a\hkorene, ktoré by vás vyživovali.
 
 212
 00:21:45,933 --> 00:21:47,516
@@ -872,7 +872,7 @@ Nie sme si vedomí niektorých pojmov ako prostitúcia?
 
 219
 00:22:31,266 --> 00:22:33,224
-A všetky tie špinavé slová čo používajú,
+A\hvšetky tie špinavé slová čo používajú,
 
 220
 00:22:33,600 --> 00:22:36,349
@@ -884,7 +884,7 @@ alebo stratili svoj význam?
 
 222
 00:22:43,224 --> 00:22:49,183
-Všetci sme si to uvedomovali, všetci sme o tom vedeli.
+Všetci sme si to uvedomovali, všetci sme o\htom vedeli.
 
 223
 00:22:49,892 --> 00:22:54,224
@@ -920,7 +920,7 @@ veľmi nepredvídateľná.
 
 231
 00:23:38,183 --> 00:23:41,808
-A Boh vie, čo môže vzísť z týchto
+A\hBoh vie, čo môže vzísť z týchto
 
 232
 00:23:42,141 --> 00:23:49,099
@@ -960,7 +960,7 @@ ako sa to všetko deje, dokonca aj po príchode do Sahadža Jogy,
 
 241
 00:24:44,349 --> 00:24:51,600
-sa niektorí z nás pokúšajú byť medzi tými, ktorí smerujú do pekla.
+sa niektorí z\hnás pokúšajú byť medzi tými, ktorí smerujú do pekla.
 
 242
 00:24:52,516 --> 00:24:54,975
@@ -976,7 +976,7 @@ tak sa pokúste poriadne upevniť svoju pozíciu.
 
 245
 00:25:12,600 --> 00:25:20,099
-a ruka, ktorá drží deštruktívnu zbraň Paraša -
+a\hruka, ktorá drží deštruktívnu zbraň Paraša -
 
 246
 00:25:21,433 --> 00:25:26,850
@@ -988,7 +988,7 @@ To je Jeho práca
 
 248
 00:25:37,224 --> 00:25:39,600
-a ak to zanedbávate,
+a\hak to zanedbávate,
 
 249
 00:25:42,017 --> 00:25:44,433
@@ -996,7 +996,7 @@ tá sila bude konať
 
 250
 00:25:46,099 --> 00:25:48,933
-a bude konať neúprosne,
+a\hbude konať neúprosne,
 
 251
 00:25:49,558 --> 00:25:52,057
@@ -1036,11 +1036,11 @@ Je vaša myseľ smilná?
 
 260
 00:26:35,850 --> 00:26:39,349
-Mnohí si myslia, že v Sahadža Joge vás Boh žehná,
+Mnohí si myslia, že v\hSahadža Joge vás Boh žehná,
 
 261
 00:26:39,767 --> 00:26:45,767
-a že potom musíte získať dobré zdravie,
+a\hže potom musíte získať dobré zdravie,
 
 262
 00:26:46,266 --> 00:26:48,057
@@ -1056,7 +1056,7 @@ a moc.
 
 265
 00:26:59,266 --> 00:27:06,600
-Prvá vec, o ktorú musíte žiadať je čistota Ganéšu,
+Prvá vec, o\hktorú musíte žiadať je čistota Ganéšu,
 
 266
 00:27:06,975 --> 00:27:11,558
@@ -1068,7 +1068,7 @@ Nirmal Ganéša.
 
 268
 00:27:21,475 --> 00:27:27,058
-požehnanie z upevnenia čistoty
+požehnanie z\hupevnenia čistoty
 
 269
 00:27:28,017 --> 00:27:33,391
@@ -1124,7 +1124,7 @@ bude svedčiť proti vám
 
 282
 00:28:53,308 --> 00:28:58,433
-a budete vyhostení z Ríše Boha,
+a\hbudete vyhostení z\hRíše Boha,
 
 283
 00:28:59,558 --> 00:29:03,641
@@ -1140,7 +1140,7 @@ nikdy nebude odpustená, nebude prijateľná.
 
 286
 00:29:16,975 --> 00:29:19,391
-Čokoľvek ste vykonali v minulosti je skončené,
+Čokoľvek ste vykonali v\hminulosti je skončené,
 
 287
 00:29:19,808 --> 00:29:22,475
@@ -1176,7 +1176,7 @@ mám toľko dcér a synov
 
 295
 00:30:06,641 --> 00:30:09,099
-a urobila som z vás to isté
+a\hurobila som z\hvás to isté
 
 296
 00:30:09,099 --> 00:30:13,391
@@ -1192,7 +1192,7 @@ Vašu Matku nepoteší nič iba čistota srdca
 
 299
 00:30:25,058 --> 00:30:33,892
-a čistota tela.
+a\hčistota tela.
 
 300
 00:30:35,892 --> 00:30:39,641
@@ -1220,15 +1220,15 @@ Ale prvé čo musíte urobiť je očistiť sa
 
 306
 00:31:00,308 --> 00:31:02,933
-a o zvyšok sa nemusíte starať,
+a\ho\hzvyšok sa nemusíte starať,
 
 307
 00:31:03,266 --> 00:31:07,266
-Šrí Ganéša sa o to postará.
+Šrí Ganéša sa o\hto postará.
 
 308
 00:31:07,808 --> 00:31:13,058
-Ak túto čakru udržujete čistú, o zvyšok bude postarané.
+Ak túto čakru udržujete čistú, o\hzvyšok bude postarané.
 
 309
 00:31:15,433 --> 00:31:21,433
@@ -1252,7 +1252,7 @@ počnúc schizofréniou, všetky
 
 314
 00:31:44,391 --> 00:31:48,558
-pochádzajú z narušenej Muladháry.
+pochádzajú z\hnarušenej Muladháry.
 
 315
 00:31:52,017 --> 00:31:54,933
@@ -1276,7 +1276,7 @@ ktorékoľvek miesto, oblasť, na ktorékoľvek ovocie.
 
 320
 00:32:12,641 --> 00:32:15,266
-Ale ak nie sú v poriadku korene,
+Ale ak nie sú v\hporiadku korene,
 
 321
 00:32:16,558 --> 00:32:18,767
@@ -1304,11 +1304,11 @@ Keď ho uctievate musíte si uvedomiť,
 
 327
 00:32:52,850 --> 00:32:56,808
-musíte v sebe upevniť
+musíte v\hsebe upevniť
 
 328
 00:32:58,391 --> 00:33:01,183
-a po upevnení
+a\hpo upevnení
 
 329
 00:33:03,725 --> 00:33:12,516
@@ -1348,7 +1348,7 @@ je ním Šrí Ganéša.
 
 338
 00:34:08,349 --> 00:34:10,808
-Nechajte ma osamote a poviem vám
+Nechajte ma osamote a\hpoviem vám
 
 339
 00:34:11,099 --> 00:34:18,433
@@ -1368,11 +1368,11 @@ letia celú cestu do Austrálie, na Sibír
 
 343
 00:34:29,058 --> 00:34:31,183
-pretože v sebe majú magnet,
+pretože v\hsebe majú magnet,
 
 344
 00:34:31,516 --> 00:34:33,516
-majú v sebe tú nevinnosť.
+majú v\hsebe tú nevinnosť.
 
 345
 00:34:33,933 --> 00:34:35,391
@@ -1380,7 +1380,7 @@ Jestvuje toľko rýb,
 
 346
 00:34:35,767 --> 00:34:40,683
-ktoré majú v sebe magnet.
+ktoré majú v\hsebe magnet.
 
 347
 00:34:41,600 --> 00:34:43,892
@@ -1388,11 +1388,11 @@ Vedci by to mali zistiť.
 
 348
 00:34:44,308 --> 00:34:52,183
-Rovnako je v nás Šrí Ganéša magnetický.
+Rovnako je v\hnás Šrí Ganéša magnetický.
 
 349
 00:34:52,933 --> 00:35:01,725
-Takže osoba, v ktorej sa prebudí Šrí Ganéša
+Takže osoba, v\hktorej sa prebudí Šrí Ganéša
 
 350
 00:35:02,933 --> 00:35:03,725
@@ -1400,7 +1400,7 @@ sa stane magnetická
 
 351
 00:35:13,183 --> 00:35:19,349
-a magnet priťahuje oceľ
+a\hmagnet priťahuje oceľ
 
 352
 00:35:20,600 --> 00:35:25,933
@@ -1408,11 +1408,11 @@ a magnet priťahuje oceľ
 
 353
 00:35:26,391 --> 00:35:29,850
-A oceľ je ako Guru Tattwa.
+A\hoceľ je ako Guru Tattwa.
 
 354
 00:35:30,266 --> 00:35:33,892
-Je to človek z ocele, povedala by som.
+Je to človek z\hocele, povedala by som.
 
 355
 00:35:34,349 --> 00:35:40,558
@@ -1420,7 +1420,7 @@ Je to človek z ocele, povedala by som.
 
 356
 00:35:41,057 --> 00:35:45,683
-a ktorý nemôže byť ovládaný pokušeniami,
+a\hktorý nemôže byť ovládaný pokušeniami,
 
 357
 00:35:46,058 --> 00:35:49,600
@@ -1432,7 +1432,7 @@ Takže tento magnet priťahuje oceľ.
 
 359
 00:35:58,975 --> 00:36:05,641
-Oceľ má len jednu nevýhodu, a tou je to, že je
+Oceľ má len jednu nevýhodu, a\htou je to, že je
 
 360
 00:36:07,099 --> 00:36:13,266
@@ -1444,7 +1444,7 @@ ale magnet priťahuje, čo znamená,
 
 362
 00:36:20,808 --> 00:36:25,725
-že v oceli vytvára tú špeciálnu kvalitu,
+že v\hoceli vytvára tú špeciálnu kvalitu,
 
 363
 00:36:27,349 --> 00:36:30,475
@@ -1492,7 +1492,7 @@ Je to čistá láska
 
 374
 00:37:16,767 --> 00:37:21,475
-a podstatou čistej lásky je, že nezávisí
+a\hpodstatou čistej lásky je, že nezávisí
 
 375
 00:37:21,933 --> 00:37:25,725
@@ -1516,7 +1516,7 @@ nič neočakáva.
 
 380
 00:37:38,850 --> 00:37:44,475
-Len sa všade šíri a osvecuje srdcia druhých ľudí.
+Len sa všade šíri a\hosvecuje srdcia druhých ľudí.
 
 381
 00:37:44,892 --> 00:37:50,767
@@ -1552,7 +1552,7 @@ nejako si poradíme.”
 
 389
 00:38:13,975 --> 00:38:15,516
-V Pune sme mali taký dav ľudí,
+V\hPune sme mali taký dav ľudí,
 
 390
 00:38:15,516 --> 00:38:19,058
@@ -1592,7 +1592,7 @@ nikto sa nepohol ani o piaď, ako obraz.
 
 399
 00:38:50,767 --> 00:38:53,600
-A hovorila som hodinu a pol.
+A\hhovorila som hodinu a pol.
 
 400
 00:38:53,933 --> 00:38:55,725
@@ -1608,7 +1608,7 @@ Len sedeli ako na obraze.
 
 403
 00:39:04,975 --> 00:39:08,224
-A ten pán, ktorý vlastnil tú halu
+A\hten pán, ktorý vlastnil tú halu
 
 404
 00:39:08,683 --> 00:39:12,725
@@ -1640,7 +1640,7 @@ takým spôsobom, že magnet nikdy neopustia.
 
 411
 00:39:40,141 --> 00:39:45,433
-Takže v Joge je dôležité, aby ste upevnili svoje magnety
+Takže v\hJoge je dôležité, aby ste upevnili svoje magnety
 
 412
 00:39:46,057 --> 00:39:56,433
@@ -1652,7 +1652,7 @@ Dieťa, ak je tam jedno dieťa,
 
 414
 00:39:59,808 --> 00:40:03,266
-všetci sú k tomu dieťaťu priťahovaní.
+všetci sú k\htomu dieťaťu priťahovaní.
 
 415
 00:40:04,767 --> 00:40:08,141
@@ -1668,7 +1668,7 @@ všetci si oň budú robiť starosť.
 
 418
 00:40:16,808 --> 00:40:17,975
-Čo sa deje s tým dieťaťom?
+Čo sa deje s\htým dieťaťom?
 
 419
 00:40:18,349 --> 00:40:23,266
@@ -1696,11 +1696,11 @@ Naše ego sa vyvinulo, muselo sa,
 
 425
 00:40:40,058 --> 00:40:44,057
-pretože sme sa mali rozhodovať v našej vlastnej slobode,
+pretože sme sa mali rozhodovať v\hnašej vlastnej slobode,
 
 426
 00:40:44,433 --> 00:40:47,725
-čo je správne a čo nesprávne.
+čo je správne a\hčo nesprávne.
 
 427
 00:40:48,183 --> 00:40:50,183
@@ -1716,7 +1716,7 @@ Ale my sme ho rozvinuli príliš,
 
 430
 00:40:59,266 --> 00:41:01,224
-a ešte prekrylo aj superego.
+a\hešte prekrylo aj superego.
 
 431
 00:41:01,641 --> 00:41:04,058
@@ -1748,7 +1748,7 @@ Aj superego bolo prekryté – egom.
 
 438
 00:41:26,808 --> 00:41:31,558
-Toto ego by bolo v poriadku,
+Toto ego by bolo v\hporiadku,
 
 439
 00:41:32,057 --> 00:41:36,516
@@ -1756,7 +1756,7 @@ keby ste si zachovali svoju Ganéša tatwu.
 
 440
 00:41:37,141 --> 00:41:42,516
-A to je sila múdrosti Šrí Ganéšu.
+A\hto je sila múdrosti Šrí Ganéšu.
 
 441
 00:41:43,017 --> 00:41:49,099
@@ -1764,7 +1764,7 @@ Druhou silou Šrí Ganéšu je, že vám dáva múdrosť.
 
 442
 00:41:49,767 --> 00:41:55,183
-Ak stretnete farmára a veľkého profesora,
+Ak stretnete farmára a\hveľkého profesora,
 
 443
 00:41:55,641 --> 00:41:59,475
@@ -1772,7 +1772,7 @@ alebo veľmi vzdelaného človeka
 
 444
 00:41:59,933 --> 00:42:02,057
-a porozprávate sa s oboma - zistíte, že farmár má
+a\hporozprávate sa s\hoboma - zistíte, že farmár má
 
 445
 00:42:02,349 --> 00:42:10,057
@@ -1780,7 +1780,7 @@ a porozprávate sa s oboma - zistíte, že farmár má
 
 446
 00:42:11,224 --> 00:42:14,308
-Prečo? Pretože dennodenne pracuje s Matkou zemou.
+Prečo? Pretože dennodenne pracuje s\hMatkou zemou.
 
 447
 00:42:14,767 --> 00:42:16,391
@@ -1788,7 +1788,7 @@ Pozná živé procesy.
 
 448
 00:42:16,850 --> 00:42:22,183
-Vie o nevinnosti Matky Zeme.
+Vie o\hnevinnosti Matky Zeme.
 
 449
 00:42:23,266 --> 00:42:28,516
@@ -1844,15 +1844,15 @@ je ako býk v aréne,
 
 462
 00:43:34,725 --> 00:43:36,850
-vráža do tej a tamtej osoby,
+vráža do tej a\htamtej osoby,
 
 463
 00:43:37,183 --> 00:43:39,850
-a do ďalšej osoby.
+a\hdo ďalšej osoby.
 
 464
 00:43:40,266 --> 00:43:42,683
-A keď sa tých troch zranených opýtate,
+A\hkeď sa tých troch zranených opýtate,
 
 465
 00:43:43,058 --> 00:43:44,808
@@ -1908,7 +1908,7 @@ Len keď sa otvoria oči
 
 478
 00:44:45,725 --> 00:44:49,558
-a vy uvidíte ako sa všetko zmení
+a\hvy uvidíte ako sa všetko zmení
 
 479
 00:44:50,057 --> 00:44:53,224
@@ -1916,7 +1916,7 @@ na krásne ráno
 
 480
 00:44:53,641 --> 00:44:59,725
-z celkom temnej noci.
+z\hcelkom temnej noci.
 
 481
 00:45:03,933 --> 00:45:07,892
@@ -1972,7 +1972,7 @@ niečím čo bráni, aby sa
 
 494
 00:46:14,600 --> 00:46:18,641
-v nás prejavil princíp Šrí Ganéšu.
+v\hnás prejavil princíp Šrí Ganéšu.
 
 495
 00:46:19,141 --> 00:46:23,516
@@ -2064,7 +2064,7 @@ On je Ganapati. On je ten, ktorý sedí na všetkých Ganoch,
 
 517
 00:48:18,558 --> 00:48:26,224
-v tom zmysle, že on je ako kráľom Ganov.
+v\htom zmysle, že on je ako kráľom Ganov.
 
 518
 00:48:28,266 --> 00:48:30,058
@@ -2072,7 +2072,7 @@ Ten kto poteší Šrí Ganéšu
 
 519
 00:48:30,516 --> 00:48:33,099
-poteší všetky Bohyne a Bohov,
+poteší všetky Bohyne a\hBohov,
 
 520
 00:48:33,558 --> 00:48:35,266
@@ -2084,7 +2084,7 @@ sa snažia potešiť Šrí Ganéšu, takže čo viac treba?
 
 522
 00:48:40,349 --> 00:48:42,266
-A Šrí Ganéša je veľmi chytrý.
+A\hŠrí Ganéša je veľmi chytrý.
 
 523
 00:48:42,767 --> 00:48:44,017
@@ -2108,7 +2108,7 @@ Je toľko kvalít Šrí Ganéšu,
 
 528
 00:49:09,600 --> 00:49:11,683
-o ktorých by sa dalo hovoriť.
+o\hktorých by sa dalo hovoriť.
 
 529
 00:49:12,099 --> 00:49:19,099
@@ -2132,7 +2132,7 @@ To znamená, že vám dáva potešenie
 
 534
 00:49:40,099 --> 00:49:43,099
-z jedla, ktoré pre vás uvarili.
+z\hjedla, ktoré pre vás uvarili.
 
 535
 00:49:43,641 --> 00:49:47,349
@@ -2168,11 +2168,11 @@ Jedného dňa Ma požiadali zaspievať pieseň
 
 543
 00:50:12,183 --> 00:50:17,391
-a Ja som si spomenula na jednu pieseň a zaspievala som im ju.
+a\hJa som si spomenula na jednu pieseň a\hzaspievala som im ju.
 
 544
 00:50:18,141 --> 00:50:23,266
-A asi po roku na programe, povedali,
+A\hasi po roku na programe, povedali,
 
 545
 00:50:23,683 --> 00:50:25,808
@@ -2228,7 +2228,7 @@ ti vtáčik prinesie darček.”
 
 558
 00:51:19,349 --> 00:51:22,099
-A dieťa vstane a nevidí žiadneho vtáčika.
+A\hdieťa vstane a\hnevidí žiadneho vtáčika.
 
 559
 00:51:22,600 --> 00:51:24,641
@@ -2240,7 +2240,7 @@ Môžeme povedať, že je Santa Klaus.
 
 561
 00:51:30,558 --> 00:51:34,057
-Dáva vám spôsoby a nápady a vraví vám
+Dáva vám spôsoby a nápady a\hvraví vám
 
 562
 00:51:34,558 --> 00:51:39,933
@@ -2252,11 +2252,11 @@ Ako skrývať, ako zabalíte malý darček,
 
 564
 00:51:52,224 --> 00:51:58,725
-len ho tam položíte a osoba, pre ktorú je, ho zbadá,
+len ho tam položíte a\hosoba, pre ktorú je, ho zbadá,
 
 565
 00:51:59,349 --> 00:52:03,349
-„Ó Bože.” A vidíte tie kvetiny,
+„Ó Bože.” A\hvidíte tie kvetiny,
 
 566
 00:52:03,850 --> 00:52:07,141
@@ -2276,11 +2276,11 @@ podstatu Šrí Ganéšu.
 
 570
 00:52:24,767 --> 00:52:26,224
-A podstata Šrí Ganéšu
+A\hpodstata Šrí Ganéšu
 
 571
 00:52:26,683 --> 00:52:33,808
-pochádza z podstaty Matky Zeme, je to vôňa.
+pochádza z\hpodstaty Matky Zeme, je to vôňa.
 
 572
 00:52:35,683 --> 00:52:40,391
@@ -2308,7 +2308,7 @@ Tá vôňa prichádza od Šrí Ganéšu
 
 578
 00:53:09,058 --> 00:53:14,808
-a to tým magnetom vo vás.
+a\hto tým magnetom vo vás.
 
 579
 00:53:16,183 --> 00:53:22,516
@@ -2320,7 +2320,7 @@ Taká osoba vonia, šíri vôňu po celý čas.
 
 581
 00:53:37,349 --> 00:53:44,224
-A tak môžete cítiť, kedy je váš Šrí Ganéša v poriadku.
+A\htak môžete cítiť, kedy je váš Šrí Ganéša v poriadku.
 
 582
 00:53:47,808 --> 00:53:53,017
@@ -2344,7 +2344,7 @@ Pomôžete tomu rešpektovaním
 
 587
 00:54:09,183 --> 00:54:12,391
-a On tam bude, vôňa vo vás.
+a\hOn tam bude, vôňa vo vás.
 
 588
 00:54:12,892 --> 00:54:16,433
@@ -2412,7 +2412,7 @@ dookola „Šrí Ganéša, Šrí Ganéša, Šrí Ganéša,
 
 604
 00:55:18,266 --> 00:55:24,099
-a robia rôzne smiešne veci.
+a\hrobia rôzne smiešne veci.
 
 605
 00:55:24,725 --> 00:55:29,183
@@ -2420,7 +2420,7 @@ Je to - akoby ste sa zbytočne podvádzali.
 
 606
 00:55:29,767 --> 00:55:33,850
-Je tak jednoduché upevniť v nás Šrí Ganéšu.
+Je tak jednoduché upevniť v\hnás Šrí Ganéšu.
 
 607
 00:55:34,308 --> 00:55:41,183
@@ -2452,7 +2452,7 @@ bez nejakého hluku, bez nejakého cirkusu.
 
 614
 00:56:11,475 --> 00:56:16,057
-A to je to, čo by som dnes povedala,
+A\hto je to, čo by som dnes povedala,
 
 615
 00:56:16,475 --> 00:56:22,516
@@ -2460,11 +2460,11 @@ keď som povedala všetky tie veci od srdca,
 
 616
 00:56:23,058 --> 00:56:28,475
-že vy Sahadža jogíni v sebe upevníte Šrí Ganéšu.
+že vy Sahadža jogíni v\hsebe upevníte Šrí Ganéšu.
 
 617
 00:56:28,933 --> 00:56:34,058
-A od vás sa bude šíriť taká sila,
+A\hod vás sa bude šíriť taká sila,
 
 618
 00:56:34,558 --> 00:56:38,683
@@ -2472,7 +2472,7 @@ A od vás sa bude šíriť taká sila,
 
 619
 00:56:39,058 --> 00:56:42,391
-svojho Šrí Ganéšu v tejto krajine.
+svojho Šrí Ganéšu v\htejto krajine.
 
 620
 00:56:43,057 --> 00:56:43,933
@@ -2496,7 +2496,7 @@ Teraz na deň Diwali uctievať Šrí Ganéšu
 
 625
 01:00:46,057 --> 01:00:48,975
-a v ten deň aj Šrí Lakšmi,
+a\hv\hten deň aj Šrí Lakšmi,
 
 626
 01:00:49,391 --> 01:00:53,308
@@ -2528,7 +2528,7 @@ Ty si veľké dievča …prečo plačeš?
 
 633
 01:01:44,641 --> 01:01:47,266
-A čo máš obuté na nôžkach? Pozrime sa.
+A\hčo máš obuté na nôžkach? Pozrime sa.
 
 634
 01:01:47,725 --> 01:01:50,892
@@ -2564,7 +2564,7 @@ Pozrime sa. Haló. Pristúp, poď sem.
 
 642
 01:02:23,058 --> 01:02:26,057
-Čo s ňou je?
+Čo s\hňou je?
 
 643
 01:02:26,600 --> 01:02:30,975
@@ -2700,5 +2700,5 @@ je darkyňa blaha. Nech ťa Boh žehná.
 
 676
 01:10:30,975 --> 01:10:36,767
-Môžete pristúpiť a pomôcť pri pudži.
+Môžete pristúpiť a\hpomôcť pri pudži.
 
