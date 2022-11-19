@@ -2060,7 +2060,7 @@ všechna kouzla, všechny zázraky ve světě.
 
 516
 01:07:27,417 --> 01:07:33,337
-Je Ganapati. Je tím, kdo zasedá s Gany
+Je Ganapati. Je tím, kdo zasedá s\hGany
 
 517
 01:07:33,897 --> 01:07:41,577
