@@ -37,7 +37,7 @@ wszystko jest pod opieką,
 10
 00:00:45,405 --> 00:00:48,113
 wszystko musi zostać wypracowane.
-00:02:25:15 00:02:27:24 Gdyby nie zostało wypracowane
+00:02:25:15 00:02:27:24\hGdyby nie zostało wypracowane
 
 11
 00:00:51,321 --> 00:00:53,780
@@ -693,7 +693,7 @@ kiedy macie poznać swojego męża czy żonę
 
 174
 00:10:03,196 --> 00:10:06,363
-więc jesteście na tym skoncentrowani.
+więc jesteście\hna tym\hskoncentrowani.
 
 175
 00:10:09,196 --> 00:10:11,822
@@ -721,11 +721,11 @@ jako uczucie, widząc tę osobę.
 
 181
 00:10:27,405 --> 00:10:29,655
-Ale wówczas nie odwracacie swojej uwagi
+Ale wówczas nie odwracacie\hswojej uwagi
 
 182
 00:10:29,988 --> 00:10:33,113
-to jest całkowicie skoncentrowany wysiłek.
+to jest całkowicie\hskoncentrowany wysiłek.
 
 183
 00:10:33,613 --> 00:10:37,571
@@ -1514,7 +1514,7 @@ Ale niektórzy ludzie mają tak przedziwną wiedzę,
 379
 00:19:53,071 --> 00:19:55,279
 że czasami jestem zaskoczona.
-00:21:32:19 00:21:35:22 Jak na przykład, był pewien gość, który był homoseksualistą,
+00:21:32:19 00:21:35:22\hJak na przykład, był\hpewien\hgość, który był homoseksualistą,
 
 380
 00:19:59,196 --> 00:20:00,571
@@ -1526,7 +1526,7 @@ i on powiedział jakimś ludziom,
 
 382
 00:20:03,029 --> 00:20:05,988
-że "tak, Matka mówi, że raz na jakiś czas to jest w porządku".
+że "tak, Matka mówi, że raz na jakiś czas to\hjest w porządku".
 
 383
 00:20:06,446 --> 00:20:09,613
@@ -1567,11 +1567,11 @@ Więc, jeśli ktoś wysuwa takie pomysły,
 392
 00:20:31,697 --> 00:20:33,154
 powiedzcie im: "Nic z tych rzeczy".
-00:22:10:16 00:22:11:17 O niczym takim nie ma mowy,
+00:22:10:16 00:22:11:17\hO niczym takim nie ma mowy,
 
 393
 00:20:35,071 --> 00:20:37,780
-w Sahaja Yodze nie ma kompromisu, żadnego kompromisu.
+w Sahaja Yodze nie ma kompromisu,\hżadnego\hkompromisu.
 
 394
 00:20:38,196 --> 00:20:39,780
@@ -1952,7 +1952,7 @@ wtedy nie bierzecie sobie na głowę kłopotów.
 488
 00:25:08,988 --> 00:25:11,530
 Więc najlepszym sposobem na uniknięcie tych
-00:26:48:22 00:26:51:06 wszystkich problemów jest używanie waszej nowej świadomości wibracyjnej.
+00:26:48:22 00:26:51:06\hwszystkich problemów jest używanie waszej nowej świadomości wibracyjnej.
 
 489
 00:25:14,613 --> 00:25:16,196
@@ -2372,7 +2372,7 @@ bywało, że wyglądał też jak cokolwiek innego,
 
 593
 00:30:25,488 --> 00:30:27,905
-ponieważ tak wielu guru w nim nad tym pracowało.
+ponieważ tak wielu guru\hw nim nad tym\hpracowało.
 
 594
 00:30:28,321 --> 00:30:31,988
@@ -3605,7 +3605,7 @@ Co robić? Taki wspaniały kraj, tak wielu poszukiwaczy,
 901
 00:47:25,738 --> 00:47:28,238
 ale oni są już zrujnowani – co mam zrobić?
-00:49:05:18 00:49:06:19 Staram się, jak mogę.
+00:49:05:18 00:49:06:19\hStaram się, jak mogę.
 
 902
 00:47:30,154 --> 00:47:32,530
@@ -3614,7 +3614,7 @@ Wszyscy powinniście pomóc i zrozumieć te trudności,
 903
 00:47:32,987 --> 00:47:35,196
 musicie być mili dla nowych ludzi i widzieć,
-00:49:12:17 00:49:15:17 że ich korygujecie.
+00:49:12:17 00:49:15:17\hże ich korygujecie.
 
 904
 00:47:39,738 --> 00:47:45,780
@@ -3786,7 +3786,7 @@ Więc w ten oto sposób, musicie wiedzieć,
 
 946
 00:49:55,071 --> 00:50:00,488
-że jeśli Matka jest w tym taka dokładna, to dlaczego my nie?
+że jeśli Matka jest\hw tym\htaka dokładna, to dlaczego my nie?
 
 947
 00:50:01,363 --> 00:50:04,071
@@ -4482,7 +4482,7 @@ zwane Shumba i Nishumba.
 
 1120
 01:22:33,738 --> 01:22:36,071
-Wszyscy oni powrócili znów na swoje miejsce.
+Wszyscy oni\hpowrócili znów na swoje miejsce.
 
 1121
 01:22:36,446 --> 01:22:40,113
