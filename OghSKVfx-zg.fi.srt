@@ -3517,3 +3517,4 @@ se oli vaikeaa.
 880
 01:06:09,040 --> 01:06:11,500
 Saisinko hieman vettä. Kiitos.
+

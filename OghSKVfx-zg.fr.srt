@@ -532,7 +532,7 @@ des petits fruits à Shri Rama, des petits fruits qu’on appelle des baies.
 
 134
 00:11:03,040 --> 00:11:05,400
-Elle les apporta et Lui donna disant :
+Elle les apporta et Lui donna disant\h:
 
 135
 00:11:05,600 --> 00:11:10,080
@@ -596,7 +596,7 @@ Mais Lakshmana était en colère contre elle : "Qu'est-ce qui se passe?"
 
 150
 00:12:05,160 --> 00:12:09,000
-Alors Sitaji dit : "Oh, tu les aimes tant ?".
+Alors Sitaji dit\h: "Oh, tu les aimes tant\h?".
 
 151
 00:12:09,200 --> 00:12:11,240
@@ -604,7 +604,7 @@ Alors Sitaji dit : "Oh, tu les aimes tant ?".
 
 152
 00:12:11,440 --> 00:12:15,880
-Elle dit : "Non? Je suis ta moitié, tu dois m’en donner."
+Elle dit\h: "Non? Je suis ta moitié, tu dois m’en donner."
 
 153
 00:12:16,080 --> 00:12:19,280
@@ -620,11 +620,11 @@ Alors, Lakshmana s'est senti très jaloux.
 
 156
 00:12:29,480 --> 00:12:33,160
-Il dit : "Belle-sœur, je ne peux pas en avoir un peu?"
+Il dit\h: "Belle-sœur, je ne peux pas en avoir un peu?"
 
 157
 00:12:33,360 --> 00:12:36,920
-Elle répondit : "Non, je ne peux pas t’en donner, demande à ton frère.
+Elle répondit\h: "Non, je ne peux pas t’en donner, demande à ton frère.
 
 158
 00:12:37,120 --> 00:12:39,160
@@ -636,7 +636,7 @@ Pourquoi ne demandes-tu pas à ton frère?"
 
 160
 00:12:41,680 --> 00:12:45,240
-Il s'est alors tourné vers son frère et dit : "Est-ce que je peux en avoir ?"
+Il s'est alors tourné vers son frère et dit\h: "Est-ce que je peux en avoir ?"
 
 161
 00:12:45,440 --> 00:12:52,840
@@ -3537,3 +3537,4 @@ c'est très difficile.
 885
 01:06:09,040 --> 01:06:11,480
 Puis-je avoir un peu d'eau svp. Merci
+
