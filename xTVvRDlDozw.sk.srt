@@ -44,7 +44,7 @@ Preco sa nepostavíš tamto, vidíš tam,
 
 12
 00:09:27,715 --> 00:09:31,965
-Áno tam. A môžeš hovorit nahlas, tak je to lepšie.
+Áno tam. A\hmôžeš hovorit nahlas, tak je to lepšie.
 
 13
 00:09:32,507 --> 00:09:35,549
@@ -72,7 +72,7 @@ zvanej Krita Juga,
 
 19
 00:10:46,424 --> 00:10:53,340
-aby sme pochopili spôsoby a metódy
+aby sme pochopili spôsoby a\hmetódy
 
 20
 00:10:54,424 --> 00:11:02,173
@@ -104,7 +104,7 @@ práce Boha.
 
 27
 00:12:13,798 --> 00:12:18,340
-Ste kanálmi Boha Všemohúceho a Jeho sily.
+Ste kanálmi Boha Všemohúceho a\hJeho sily.
 
 28
 00:12:27,424 --> 00:12:35,465
@@ -124,11 +124,11 @@ vášmu Bohu Všemohúcemu.
 
 32
 00:13:10,881 --> 00:13:14,756
-Všetka vaša dôstojnost, a vaša autorita pochádza od Neho.
+Všetka vaša dôstojnost, a\hvaša autorita pochádza od Neho.
 
 33
 00:13:21,382 --> 00:13:24,048
-A tretou vecou je
+A\htretou vecou je
 
 34
 00:13:24,589 --> 00:13:29,798
@@ -208,7 +208,7 @@ je radostná,
 
 53
 00:15:27,631 --> 00:15:30,589
-a radost nemá túto druhú stránku.
+a\hradost nemá túto druhú stránku.
 
 54
 00:15:37,549 --> 00:15:43,257
@@ -220,7 +220,7 @@ musíme najprv vediet ako ho možno znicit.
 
 56
 00:16:00,507 --> 00:16:03,840
-Ako to býva, ak sa o nieco nestaráme
+Ako to býva, ak sa o\hnieco nestaráme
 
 57
 00:16:04,173 --> 00:16:07,340
@@ -232,19 +232,19 @@ Ak sa nestaráme o,
 
 59
 00:16:20,257 --> 00:16:25,549
-povedzme o tieto krásne kvety, zaniknú.
+povedzme o\htieto krásne kvety, zaniknú.
 
 60
 00:16:33,923 --> 00:16:38,299
-Dokonca aj veci o ktoré sa nestaráme podlahnú skaze.
+Dokonca aj veci o\hktoré sa nestaráme podlahnú skaze.
 
 61
 00:16:43,173 --> 00:16:48,756
-V prvom rade, musíme vediet, že musíme byt starostliví
+V\hprvom rade, musíme vediet, že musíme byt starostliví
 
 62
 00:16:53,798 --> 00:16:57,590
-a pozorní, a ak sa nebudeme o seba starat,
+a\hpozorní, a\hak sa nebudeme o\hseba starat,
 
 63
 00:16:58,007 --> 00:17:00,090
@@ -260,7 +260,7 @@ ale kvôli ochráneniu nášho guru princípu pred znicením.
 
 66
 00:17:30,048 --> 00:17:33,382
-Ak k tomu pristupujeme nedbanlivo a apaticky,
+Ak k\htomu pristupujeme nedbanlivo a apaticky,
 
 67
 00:17:33,756 --> 00:17:37,756
@@ -300,7 +300,7 @@ Ak si precítate v Biblii, kapitolu Matúša,
 
 76
 00:19:01,881 --> 00:19:05,173
-dozviete sa o Islámcoch,
+dozviete sa o\hIslámcoch,
 
 77
 00:19:05,589 --> 00:19:08,299
@@ -308,11 +308,11 @@ ktorí majú svojich nasledovatelov v Riyadh
 
 78
 00:19:08,715 --> 00:19:11,798
-alebo v krajinách Arábie.
+alebo v\hkrajinách Arábie.
 
 79
 00:19:26,589 --> 00:19:32,798
-Ako upevnit v sebe tento princíp,
+Ako upevnit v\hsebe tento princíp,
 
 80
 00:19:33,631 --> 00:19:35,756
@@ -344,7 +344,7 @@ na tom stupni vývoja potrebovali taký strach.
 
 87
 00:20:19,048 --> 00:20:23,715
-V žiadnom prípade nebolo mienené, aby im to ublížilo,
+V\hžiadnom prípade nebolo mienené, aby im to ublížilo,
 
 88
 00:20:24,090 --> 00:20:27,590
@@ -372,7 +372,7 @@ mala by som povedat –boli to hrozne nebezpecné casy.
 
 94
 00:21:12,798 --> 00:21:15,881
-A v tom case ludia aj poslúchali.
+A\hv\htom case ludia aj poslúchali.
 
 95
 00:21:21,424 --> 00:21:26,132
@@ -388,7 +388,7 @@ kedy si ludia mysleli, že je potrebné stat sa asketickými,
 
 98
 00:21:36,589 --> 00:21:40,715
-a zacali sa upevnovat neuveritelnou askézou.
+a\hzacali sa upevnovat neuveritelnou askézou.
 
 99
 00:21:41,132 --> 00:21:42,881
@@ -420,7 +420,7 @@ Druhý stupen nastal, ked to uceníci v sebe
 
 106
 00:22:16,299 --> 00:22:19,507
-prijali, a zacali si hovorit
+prijali, a\hzacali si hovorit
 
 107
 00:22:19,840 --> 00:22:23,215
@@ -464,7 +464,7 @@ upevnit sa, zamotali sa v tom,
 
 117
 00:23:34,173 --> 00:23:37,007
-a pravidlá ci regule sa pre nich stali dôležitejšie
+a\hpravidlá ci regule sa pre nich stali dôležitejšie
 
 118
 00:23:37,382 --> 00:23:39,881
@@ -512,7 +512,7 @@ prostredníctvom vibratorického vedomia.
 
 129
 00:24:56,382 --> 00:25:03,132
-Nachádzate sa v tých najpriaznivejších podmienkach,
+Nachádzate sa v\htých najpriaznivejších podmienkach,
 
 130
 00:25:03,465 --> 00:25:05,756
@@ -540,7 +540,7 @@ perinkou Matkinej lásky.
 
 136
 00:25:57,215 --> 00:26:02,007
-Ale Matkina láska vám v žiadnom prípade nedovolí
+Ale Matkina láska vám v\hžiadnom prípade nedovolí
 
 137
 00:26:02,340 --> 00:26:04,589
@@ -552,15 +552,15 @@ Ako som vám povedala – Guru princíp je velmi delikátna vec,
 
 139
 00:26:17,589 --> 00:26:22,631
-a podlieha zniceniu ak sa sami nesnažíte o jej udržovanie.
+a\hpodlieha zniceniu ak sa sami nesnažíte o\hjej udržovanie.
 
 140
 00:26:33,756 --> 00:26:37,590
-V prvom rade, deštrukcia príde
+V\hprvom rade, deštrukcia príde
 
 141
 00:26:37,965 --> 00:26:38,965
-z hlbky našej
+z\hhlbky našej
 
 142
 00:26:44,507 --> 00:26:48,215
@@ -572,7 +572,7 @@ Chcem povedat, že naša bytost je stvorená piatimi elementmi,
 
 144
 00:27:13,549 --> 00:27:16,590
-a týchto pät elementov môže
+a\htýchto pät elementov môže
 
 145
 00:27:17,007 --> 00:27:19,465
@@ -580,7 +580,7 @@ byt kedykolvek znicených.
 
 146
 00:27:23,465 --> 00:27:27,215
-Ak sa o ktorýkolvek element nestaráme,
+Ak sa o\hktorýkolvek element nestaráme,
 
 147
 00:27:27,840 --> 00:27:29,840
@@ -604,7 +604,7 @@ Niektorí ludia si myslia, že ak ste raz guruom
 
 152
 00:27:54,756 --> 00:27:57,589
-nemusíte sa o nic starat, že sa to zariadi samé.
+nemusíte sa o\hnic starat, že sa to zariadi samé.
 
 153
 00:28:07,756 --> 00:28:09,673
@@ -612,11 +612,11 @@ Nie je to tak.
 
 154
 00:28:10,090 --> 00:28:19,507
-Samozrejme, že Duch sa stará o krásu
+Samozrejme, že Duch sa stará o\hkrásu
 
 155
 00:28:20,048 --> 00:28:22,756
-a zdravie týchto elementov;
+a\hzdravie týchto elementov;
 
 156
 00:28:30,798 --> 00:28:35,923
@@ -640,7 +640,7 @@ Niekto sa môže pýtat preco je rovnováha taká dôležitá?
 
 161
 00:29:08,881 --> 00:29:12,965
-A je dôležité, aby sme boli schopní každému,
+A\hje dôležité, aby sme boli schopní každému,
 
 162
 00:29:13,299 --> 00:29:17,424
@@ -688,7 +688,7 @@ ale si to ešte neuvedomuje.
 
 173
 00:30:26,132 --> 00:30:31,340
-Ako ked povieme, táto oblast je celkom tmavá a my sme slepí.
+Ako ked povieme, táto oblast je celkom tmavá a\hmy sme slepí.
 
 174
 00:30:36,465 --> 00:30:38,631
@@ -708,11 +708,11 @@ Vlastne si myslíme, že tá temnota je pravda,
 
 178
 00:31:00,340 --> 00:31:05,132
-Ale ked vyjde slnko a príde svetlo
+Ale ked vyjde slnko a\hpríde svetlo
 
 179
 00:31:05,465 --> 00:31:08,631
-a vaše oci sa otvoria, zacnete všetko vidiet.
+a\hvaše oci sa otvoria, zacnete všetko vidiet.
 
 180
 00:31:14,881 --> 00:31:17,715
@@ -744,7 +744,7 @@ Ale rovnováha tu zatial nie je.
 
 187
 00:31:55,507 --> 00:32:00,965
-Vaša Matka vás vyzdvihla a urobila vás tým,
+Vaša Matka vás vyzdvihla a\hurobila vás tým,
 
 188
 00:32:01,424 --> 00:32:04,507
@@ -764,11 +764,11 @@ Takže musíte vyskúšat všetky tie metódy,
 
 192
 00:32:28,673 --> 00:32:33,881
-ktoré som vám povedala, a ktoré vysvetlím.
+ktoré som vám povedala, a\hktoré vysvetlím.
 
 193
 00:32:37,215 --> 00:32:40,965
-V prvom rade musíte byt na seba prísni.
+V\hprvom rade musíte byt na seba prísni.
 
 194
 00:32:44,173 --> 00:32:47,507
@@ -780,7 +780,7 @@ Oddelte sa od seba ako duch,
 
 196
 00:32:53,590 --> 00:32:56,923
-a pozrite sa na svoje ego a superego.
+a\hpozrite sa na svoje ego a superego.
 
 197
 00:33:03,465 --> 00:33:05,424
@@ -844,7 +844,7 @@ o štvrtej, spievajú piesne aby sa každý prebudil,
 
 212
 00:34:39,173 --> 00:34:43,465
-a niektorí vyspávajú do desiatej.
+a\hniektorí vyspávajú do desiatej.
 
 213
 00:34:53,549 --> 00:34:56,673
@@ -860,7 +860,7 @@ Ak ste Anglican, chcete mat všetko
 
 216
 00:35:07,549 --> 00:35:12,673
-v anglickom štýle, hrozné, mdlé jedlo!
+v\hanglickom štýle, hrozné, mdlé jedlo!
 
 217
 00:35:23,257 --> 00:35:27,340
@@ -904,15 +904,15 @@ potom noste velmi sýte farby.
 
 227
 00:36:41,798 --> 00:36:45,715
-Prejdite z jedného extrému do druhého, len pre zaciatok.
+Prejdite z\hjedného extrému do druhého, len pre zaciatok.
 
 228
 00:36:49,840 --> 00:36:52,715
-Ale zažila som ludí ktorí išli z jedného extrému do druhého
+Ale zažila som ludí ktorí išli z\hjedného extrému do druhého
 
 229
 00:36:53,048 --> 00:36:56,173
-a zatvrdli aj na druhej strane.
+a\hzatvrdli aj na druhej strane.
 
 230
 00:37:02,173 --> 00:37:05,881
@@ -924,7 +924,7 @@ Clovek, ktorý je avadhuta, ten ktorý je velký majster,
 
 232
 00:37:16,299 --> 00:37:22,923
-nemôže byt nikdy pripútaný k nejakým pripútanostiam.
+nemôže byt nikdy pripútaný k\hnejakým pripútanostiam.
 
 233
 00:37:29,840 --> 00:37:35,215
@@ -932,11 +932,11 @@ Nikdy ho nemôžu ovplyvnovat pravidlá ako “Mám rada toto.”
 
 234
 00:37:41,090 --> 00:37:43,631
-Vidí krásu v sviežej zeleni,
+Vidí krásu v\hsviežej zeleni,
 
 235
 00:37:44,048 --> 00:37:46,631
-a vidí krásu v stromoch,
+a\hvidí krásu v\hstromoch,
 
 236
 00:37:47,048 --> 00:37:50,881
@@ -952,7 +952,7 @@ asketizmu – seba-kázne.
 
 239
 00:38:12,631 --> 00:38:17,424
-V tom, že ak si cešete vlasy, nie ste dobrý;
+V\htom, že ak si cešete vlasy, nie ste dobrý;
 
 240
 00:38:21,673 --> 00:38:26,881
@@ -992,11 +992,11 @@ lebo listy musia íst do Matky Zeme,
 
 249
 00:39:09,424 --> 00:39:13,923
-a slnko sa k nej musí dostat.
+a\hslnko sa k\hnej musí dostat.
 
 250
 00:39:21,798 --> 00:39:25,881
-Nie je k nicomu pripútaná.
+Nie je k\hnicomu pripútaná.
 
 251
 00:39:29,549 --> 00:39:34,090
@@ -1012,7 +1012,7 @@ Ale táto predstava je tiež len mentálna,
 
 254
 00:39:51,173 --> 00:39:54,215
-a to je najhoršia pripútanost.
+a\hto je najhoršia pripútanost.
 
 255
 00:40:01,257 --> 00:40:05,382
@@ -1024,7 +1024,7 @@ je to ten najväcší vtip aký som videla,
 
 257
 00:40:08,090 --> 00:40:12,090
-že sa ludia pripútavajú k mentálnym predstavám.
+že sa ludia pripútavajú k\hmentálnym predstavám.
 
 258
 00:40:23,507 --> 00:40:27,424
@@ -1040,7 +1040,7 @@ Povedzme, že mentálna osoba sa chystá na piknik,
 
 261
 00:40:39,048 --> 00:40:42,507
-na mentálnej úrovni si v hlave predstaví co si vezme, toto
+na mentálnej úrovni si v\hhlave predstaví co si vezme, toto
 
 262
 00:40:42,798 --> 00:40:45,589
@@ -1048,15 +1048,15 @@ tamto, to a hento.
 
 263
 00:40:51,465 --> 00:40:54,549
-Dokonca si môže otvorit zápisník a zapísat si to
+Dokonca si môže otvorit zápisník a\hzapísat si to
 
 264
 00:40:54,840 --> 00:40:58,840
-“Toto a toto si zoberiem zo sebou.”
+“Toto a\htoto si zoberiem zo sebou.”
 
 265
 00:41:03,465 --> 00:41:06,631
-A ked na ten piknik ide uvedomí si že,
+A\hked na ten piknik ide uvedomí si že,
 
 266
 00:41:06,923 --> 00:41:08,340
@@ -1068,7 +1068,7 @@ všetko je v zápisníku!
 
 268
 00:41:20,715 --> 00:41:24,299
-Vaša Matka pekne rozpráva a hovorí k vám,
+Vaša Matka pekne rozpráva a\hhovorí k vám,
 
 269
 00:41:24,673 --> 00:41:28,881
@@ -1080,7 +1080,7 @@ Ako “No, Matka tak hovorí,”
 
 271
 00:41:42,840 --> 00:41:46,589
-a všetci to nadšene rozoberajú,
+a\hvšetci to nadšene rozoberajú,
 
 272
 00:41:46,881 --> 00:41:48,673
@@ -1088,11 +1088,11 @@ to je to; ale nestalo sa to
 
 273
 00:41:48,965 --> 00:41:51,840
-castou a súcastou vašej bytosti.
+castou a\hsúcastou vašej bytosti.
 
 274
 00:42:01,132 --> 00:42:04,382
-Ale v súcasnosti je to velmi bežná pripútanost,
+Ale v\hsúcasnosti je to velmi bežná pripútanost,
 
 275
 00:42:04,715 --> 00:42:07,173
@@ -1120,11 +1120,11 @@ Ako ked mám sem príst,
 
 281
 00:42:48,673 --> 00:42:51,881
-musím príst a pozriet sa na toto miesto.
+musím príst a\hpozriet sa na toto miesto.
 
 282
 00:42:55,340 --> 00:42:58,715
-Ak mám o tom len predstavu, myšlienky,
+Ak mám o\htom len predstavu, myšlienky,
 
 283
 00:42:59,090 --> 00:43:02,965
@@ -1136,7 +1136,7 @@ nie je to pravda.
 
 285
 00:43:11,340 --> 00:43:15,257
-Ked sa stanete vedomými, co sa v podstate udeje je, že
+Ked sa stanete vedomými, co sa v\hpodstate udeje je, že
 
 286
 00:43:15,590 --> 00:43:19,840
@@ -1144,11 +1144,11 @@ to sami uvidíte – tak sa pozrime.
 
 287
 00:43:28,382 --> 00:43:31,299
-Dostante sa z tej mentálne koncepcie,
+Dostante sa z\htej mentálne koncepcie,
 
 288
 00:43:31,673 --> 00:43:35,257
-že o tom už viete.
+že o\htom už viete.
 
 289
 00:43:43,673 --> 00:43:46,090
@@ -1160,7 +1160,7 @@ lebo co viete je len mentálne.
 
 291
 00:43:51,048 --> 00:43:55,382
-Musí to byt castou a súcastou vašej bytosti.
+Musí to byt castou a\hsúcastou vašej bytosti.
 
 292
 00:44:00,215 --> 00:44:03,215
@@ -1204,7 +1204,7 @@ majú vibratorické vedomie.
 
 302
 00:44:50,507 --> 00:44:55,673
-Ale aj v tom môžete byt posadnutí.
+Ale aj v\htom môžete byt posadnutí.
 
 303
 00:44:57,507 --> 00:45:00,257
@@ -1212,11 +1212,11 @@ Videla som ludí , ktorí sa rozprávajú ako
 
 304
 00:45:00,549 --> 00:45:02,590
-velkí Sahadža Jogíni a neboli tam žiadne vibrácie,
+velkí Sahadža Jogíni a\hneboli tam žiadne vibrácie,
 
 305
 00:45:02,923 --> 00:45:06,173
-a oni hovorili aké majú vibrácie.
+a\honi hovorili aké majú vibrácie.
 
 306
 00:45:14,549 --> 00:45:17,798
@@ -1228,7 +1228,7 @@ Takže musíte mat na pamäti, že treba íst dalej a dalej
 
 308
 00:45:23,965 --> 00:45:28,589
-a vidiet viac a viac , a vediet o tom.
+a\hvidiet viac a viac , a\hvediet o tom.
 
 309
 00:45:34,840 --> 00:45:39,007
@@ -1256,11 +1256,11 @@ Musíme si uvedomit
 
 315
 00:46:13,840 --> 00:46:17,215
-v našich rukách je svetlo,
+v\hnašich rukách je svetlo,
 
 316
 00:46:20,382 --> 00:46:23,881
-a to svetlo by sa nemalo triast.
+a\hto svetlo by sa nemalo triast.
 
 317
 00:46:24,673 --> 00:46:28,424
@@ -1268,7 +1268,7 @@ Musíme to svetlo držat pevne,
 
 318
 00:46:28,881 --> 00:46:31,589
-a musíme mat sústredenú pozornost
+a\hmusíme mat sústredenú pozornost
 
 319
 00:46:31,923 --> 00:46:35,299
@@ -1276,7 +1276,7 @@ na udržanie toho svetla.
 
 320
 00:46:40,382 --> 00:46:44,173
-A povedat si, že musíme vidiet,
+A\hpovedat si, že musíme vidiet,
 
 321
 00:46:44,631 --> 00:46:48,299
@@ -1340,7 +1340,7 @@ kedy si poviete “Tak sa na to teda pozrime.”
 
 336
 00:48:07,549 --> 00:48:10,507
-Takže z Nábhi cakry vystúpite
+Takže z\hNábhi cakry vystúpite
 
 337
 00:48:10,840 --> 00:48:14,007
@@ -1368,7 +1368,7 @@ sa posadia s gitarou
 
 343
 00:48:51,589 --> 00:48:58,673
-a zacnú vyspevovat ako zalúbenci!
+a\hzacnú vyspevovat ako zalúbenci!
 
 344
 00:49:11,090 --> 00:49:14,299
@@ -1412,23 +1412,23 @@ budú sa objímat, bozkávat,
 
 354
 00:50:06,840 --> 00:50:11,048
-a budú k sebe velmi, velmi milí,
+a\hbudú k\hsebe velmi, velmi milí,
 
 355
 00:50:11,382 --> 00:50:15,507
-sadnú si spolu a budú spievat piesne ako hipisáci.
+sadnú si spolu a\hbudú spievat piesne ako hipisáci.
 
 356
 00:50:27,549 --> 00:50:34,590
-Vezmú si gitaru a spievajú melódie o láske.
+Vezmú si gitaru a\hspievajú melódie o láske.
 
 357
 00:50:40,299 --> 00:50:45,215
-Toto je vlastne višudhi z kolektívneho hladiska,
+Toto je vlastne višudhi z\hkolektívneho hladiska,
 
 358
 00:50:47,507 --> 00:50:52,673
-a toho sa samozrejme zbavuje velmi tažko,
+a\htoho sa samozrejme zbavuje velmi tažko,
 
 359
 00:50:55,465 --> 00:51:00,798
@@ -1436,7 +1436,7 @@ lebo vám to dáva pocit pohodlia.
 
 360
 00:51:03,465 --> 00:51:10,340
-A tak sú ludia zmätení emóciami,
+A\htak sú ludia zmätení emóciami,
 
 361
 00:51:10,881 --> 00:51:14,549
@@ -1448,7 +1448,7 @@ Radost možno dosiahnut len úplnou odpútanostou,
 
 363
 00:51:28,715 --> 00:51:34,881
-odpútanostou bez ega a superega.
+odpútanostou bez ega a\hsuperega.
 
 364
 00:51:38,048 --> 00:51:43,756
@@ -1460,15 +1460,15 @@ domýšlajú si, že sú guruovia.
 
 366
 00:52:02,132 --> 00:52:04,923
-Zacnú o Sahadža Joge rozprávat,
+Zacnú o\hSahadža Joge rozprávat,
 
 367
 00:52:05,257 --> 00:52:06,590
-vykladat o Sahadža Joge,
+vykladat o\hSahadža Joge,
 
 368
 00:52:06,965 --> 00:52:09,881
-a zacnú si domýšlat, že sa z nich
+a\hzacnú si domýšlat, že sa z nich
 
 369
 00:52:10,215 --> 00:52:13,590
@@ -1476,7 +1476,7 @@ už stal Šrí Krišna.
 
 370
 00:52:22,007 --> 00:52:28,132
-V podstate majú väcšie ego
+V\hpodstate majú väcšie ego
 
 371
 00:52:28,881 --> 00:52:32,673
@@ -1484,15 +1484,15 @@ ako clovek, ktorý
 
 372
 00:52:35,631 --> 00:52:40,257
-nic o Sahadža Joge nevie.
+nic o\hSahadža Joge nevie.
 
 373
 00:52:50,840 --> 00:52:53,590
-Zacnú hovorit s tak neuveritelným egom,
+Zacnú hovorit s\htak neuveritelným egom,
 
 374
 00:52:53,965 --> 00:52:56,424
-že Ja sama mám z nich strach:
+že Ja sama mám z\hnich strach:
 
 375
 00:52:56,756 --> 00:52:58,549
@@ -1500,11 +1500,11 @@ niekedy si myslím,
 
 376
 00:52:58,798 --> 00:53:01,756
-kolko toho o Sahadža Joge vedia?
+kolko toho o\hSahadža Joge vedia?
 
 377
 00:53:13,715 --> 00:53:18,673
-Presadzujú ju tak, že z toho ide hrôza.
+Presadzujú ju tak, že z\htoho ide hrôza.
 
 378
 00:53:24,840 --> 00:53:28,507
@@ -1516,7 +1516,7 @@ ich pocit, že protokol nie je v poriadku
 
 380
 00:53:31,589 --> 00:53:32,965
-a že by sa mal dodržiavat protokol,
+a\hže by sa mal dodržiavat protokol,
 
 381
 00:53:33,299 --> 00:53:34,590
@@ -1528,7 +1528,7 @@ staneme sa strážcami protokolu,
 
 383
 00:53:36,715 --> 00:53:39,756
-a všetky takéto veci.
+a\hvšetky takéto veci.
 
 384
 00:53:45,631 --> 00:53:48,465
@@ -1552,7 +1552,7 @@ ale nevidia sami seba ako padajú to pasce
 
 389
 00:54:13,756 --> 00:54:16,299
-jedného z tých extrémov.
+jedného z\htých extrémov.
 
 390
 00:54:20,257 --> 00:54:25,465
@@ -1584,7 +1584,7 @@ Ale do Jogy prišla pani, ktorá bola posadnutá
 
 397
 00:55:02,756 --> 00:55:04,382
-a skúšala rôzne tantrické triky,
+a\hskúšala rôzne tantrické triky,
 
 398
 00:55:04,673 --> 00:55:07,340
@@ -1620,7 +1620,7 @@ Oni tam nikdy nie sú – všetci bhúti tam sú.
 
 406
 00:56:01,132 --> 00:56:04,465
-Takže neviem ako s nimi jednat, ani ako Guru,
+Takže neviem ako s\hnimi jednat, ani ako Guru,
 
 407
 00:56:04,756 --> 00:56:07,923
@@ -1632,7 +1632,7 @@ ale ak sú tam bhúti, co im mám povedat?
 
 409
 00:56:18,257 --> 00:56:20,715
-Môžem hovorit k Sahadža Jogínom, nie k bhútom,
+Môžem hovorit k\hSahadža Jogínom, nie k bhútom,
 
 410
 00:56:21,048 --> 00:56:24,173
@@ -1648,7 +1648,7 @@ aký teraz Sahadža Jogíni objavili,
 
 413
 00:56:31,507 --> 00:56:35,215
-ktorý je ten najhorší a nikdy predtým tu nebol.
+ktorý je ten najhorší a\hnikdy predtým tu nebol.
 
 414
 00:56:40,631 --> 00:56:42,465
@@ -1656,7 +1656,7 @@ takže niekedy sa mi zdá že to bola chyba
 
 415
 00:56:42,673 --> 00:56:46,215
-zmienit sa o tomto slove “bhút.”
+zmienit sa o\htomto slove “bhút.”
 
 416
 00:56:53,215 --> 00:56:55,590
@@ -1712,7 +1712,7 @@ Pracujú tu rôzne anti-guru triky.
 
 429
 00:58:13,507 --> 00:58:16,923
-Som váš Guru, a je to váš anti Guru
+Som váš Guru, a\hje to váš anti Guru
 
 430
 00:58:17,340 --> 00:58:20,590
@@ -1728,7 +1728,7 @@ Musíte nieco dosiahnut,
 
 433
 00:58:36,007 --> 00:58:38,048
-a vy hráte triky proti sebe samým.
+a\hvy hráte triky proti sebe samým.
 
 434
 00:58:38,382 --> 00:58:41,715
@@ -1772,7 +1772,7 @@ Niekedy sa mi zdá že ku Mne prišli po realizáciu
 
 444
 00:59:41,173 --> 00:59:43,007
-všetci bhúti, a Ja sama sa mám stat
+všetci bhúti, a\hJa sama sa mám stat
 
 445
 00:59:43,340 --> 00:59:47,007
@@ -1824,7 +1824,7 @@ Skúste byt v prítomnosti.
 
 457
 01:00:47,299 --> 01:00:52,257
-Neunikajte z prítomnosti, celte jej.
+Neunikajte z\hprítomnosti, celte jej.
 
 458
 01:00:52,631 --> 01:00:55,590
@@ -1840,7 +1840,7 @@ Len sa pozrite na celú prírodu, celú Božskú silu,
 
 461
 01:01:11,923 --> 01:01:18,173
-o co ste celé veky usilovali
+o\hco ste celé veky usilovali
 
 462
 01:01:18,715 --> 01:01:21,715
@@ -1872,7 +1872,7 @@ Pokúste sa udržat na osi,
 
 469
 01:01:58,090 --> 01:02:02,424
-a potom len sledujete pohyb na obvode, nestaráte sa.
+a\hpotom len sledujete pohyb na obvode, nestaráte sa.
 
 470
 01:02:06,173 --> 01:02:10,007
@@ -1904,7 +1904,7 @@ to bol bhút co to urobil!
 
 477
 01:02:45,715 --> 01:02:49,215
-Prichádzame k bodu kedy si musíme uvedomit,
+Prichádzame k\hbodu kedy si musíme uvedomit,
 
 478
 01:02:49,549 --> 01:02:53,132
@@ -1980,7 +1980,7 @@ Musíte sa zmenit z vnútra,
 
 496
 01:05:07,673 --> 01:05:11,923
-a to svetlo osvietenia z vnútra
+a\hto svetlo osvietenia z vnútra
 
 497
 01:05:12,299 --> 01:05:15,549
@@ -2012,11 +2012,11 @@ Dokonca aj Ja to robím.
 
 504
 01:06:02,590 --> 01:06:05,132
-Ked sa vám nemôžem priblížit z jedného konca
+Ked sa vám nemôžem priblížit z\hjedného konca
 
 505
 01:06:05,507 --> 01:06:08,840
-lebo ste bhútom, priblížim sa vám z druhého konca.
+lebo ste bhútom, priblížim sa vám z\hdruhého konca.
 
 506
 01:06:14,173 --> 01:06:16,507
@@ -2040,7 +2040,7 @@ Ak napríklad poviem niekomu
 
 511
 01:06:38,840 --> 01:06:42,507
-a  tvrdí, že to vykonal bhút.
+a\h tvrdí, že to vykonal bhút.
 
 512
 01:06:48,589 --> 01:06:51,257
@@ -2056,7 +2056,7 @@ No Ja experimentujem.
 
 515
 01:07:06,382 --> 01:07:09,840
-Najskôr zvážim ako sa k vám priblížit.
+Najskôr zvážim ako sa k\hvám priblížit.
 
 516
 01:07:10,382 --> 01:07:14,340
@@ -2076,7 +2076,7 @@ Keby sme sa poucili od islámcov
 
 520
 01:07:30,215 --> 01:07:32,507
-v kapitole od Matúša
+v\hkapitole od Matúša
 
 521
 01:07:32,965 --> 01:07:36,382
@@ -2084,11 +2084,11 @@ všetci tí bhúti by tu neboli.
 
 522
 01:07:42,589 --> 01:07:46,589
-A možno by tu neboli ani žiadny Sahadža Jogíni.
+A\hmožno by tu neboli ani žiadny Sahadža Jogíni.
 
 523
 01:07:50,631 --> 01:07:53,340
-A takáto mentálna projekcia je tak bežná,
+A\htakáto mentálna projekcia je tak bežná,
 
 524
 01:07:53,715 --> 01:07:56,340
@@ -2108,7 +2108,7 @@ Rovnako sa musíte pohrat so sebou,
 
 528
 01:08:15,257 --> 01:08:23,840
-a pokúste sa na sebe experimentovat.
+a\hpokúste sa na sebe experimentovat.
 
 529
 01:08:39,715 --> 01:08:43,798
@@ -2124,15 +2124,15 @@ Ste vskutku štastlivci, že máte Gurua ktorým je Matka.
 
 532
 01:09:05,507 --> 01:09:10,798
-A mojou matkou i Guruom je Matka Zem,
+A\hmojou matkou i\hGuruom je Matka Zem,
 
 533
 01:09:11,257 --> 01:09:15,756
-ktorá Ma ucí ako jednat s ludskými bytostami.
+ktorá Ma ucí ako jednat s\hludskými bytostami.
 
 534
 01:09:24,424 --> 01:09:30,424
-A ona je tá, ktorá Mi aj za tažkých podmienok
+A\hona je tá, ktorá Mi aj za tažkých podmienok
 
 535
 01:09:30,881 --> 01:09:34,299
@@ -2148,7 +2148,7 @@ Bola Mi takou láskavou matkou a guruom.
 
 538
 01:10:06,382 --> 01:10:10,257
-A má tak upokojujúcu povahu.
+A\hmá tak upokojujúcu povahu.
 
 539
 01:10:12,923 --> 01:10:14,424
@@ -2168,7 +2168,7 @@ Je odetá do zelenej,
 
 543
 01:10:32,507 --> 01:10:35,465
-a zelená je princíp Gurua.
+a\hzelená je princíp Gurua.
 
 544
 01:10:40,007 --> 01:10:43,257
@@ -2184,7 +2184,7 @@ pritahuje.
 
 547
 01:10:52,631 --> 01:10:59,424
-Ked sa ludia po nej prechádzajú, ona sa o nich stará.
+Ked sa ludia po nej prechádzajú, ona sa o\hnich stará.
 
 548
 01:11:03,465 --> 01:11:07,173
@@ -2204,7 +2204,7 @@ prejavuje sa,
 
 552
 01:11:25,840 --> 01:11:29,132
-Pozrite na jej prítažlivost a jej starostlivost,
+Pozrite na jej prítažlivost a\hjej starostlivost,
 
 553
 01:11:29,507 --> 01:11:34,382
@@ -2224,7 +2224,7 @@ Keby som chcela mohla by som byt len Duchom,
 
 557
 01:11:54,715 --> 01:11:58,465
-a nestarat sa o nikoho iného.
+a\hnestarat sa o\hnikoho iného.
 
 558
 01:12:03,589 --> 01:12:05,923
@@ -2232,7 +2232,7 @@ Spôsob akým znáša naše hriechy,
 
 559
 01:12:06,340 --> 01:12:12,465
-akým sa o nás stále stará a vyživuje nás,
+akým sa o\hnás stále stará a\hvyživuje nás,
 
 560
 01:12:12,840 --> 01:12:15,881
@@ -2256,7 +2256,7 @@ ako zemetrasenie,
 
 565
 01:12:48,132 --> 01:12:52,340
-no niekedy môže chrlit aj
+no\hniekedy môže chrlit aj
 
 566
 01:12:52,673 --> 01:12:56,173
@@ -2268,7 +2268,7 @@ Produkuje pre nás síru, na liecenie.
 
 568
 01:13:08,881 --> 01:13:13,507
-Ak sa pôda v Anglicku navibruje,
+Ak sa pôda v\hAnglicku navibruje,
 
 569
 01:13:14,007 --> 01:13:18,007
@@ -2276,7 +2276,7 @@ potom môže byt použitá v medicíne.
 
 570
 01:13:24,507 --> 01:13:27,840
-V Indii ludia používajú hlinu v medicíne,
+V\hIndii ludia používajú hlinu v medicíne,
 
 571
 01:13:28,299 --> 01:13:31,173
@@ -2292,7 +2292,7 @@ získat od Matky Zeme,
 
 574
 01:13:43,424 --> 01:13:48,549
-tak sa jej dotknime a poklonme sa jej.
+tak sa jej dotknime a\hpoklonme sa jej.
 
 575
 01:14:04,465 --> 01:14:07,465
@@ -2304,7 +2304,7 @@ Je tak jemná!
 
 577
 01:14:41,257 --> 01:14:46,257
-V Kundalini Šastre je Matka Zem- Kundalini.
+V\hKundalini Šastre je Matka Zem- Kundalini.
 
 578
 01:14:57,715 --> 01:15:01,631
@@ -2316,7 +2316,7 @@ Takže Kundalini je pre nás tá najdôležitejšia vec.
 
 580
 01:15:14,340 --> 01:15:20,132
-Nemusíme sa starat o to co bolo povedané
+Nemusíme sa starat o\hto co bolo povedané
 
 581
 01:15:20,590 --> 01:15:25,840
@@ -2324,7 +2324,7 @@ v Matúšovi, že nesmiete klamat, kradnút;
 
 582
 01:15:26,215 --> 01:15:31,090
-o co sa musíme starat je- udržovat Kundalini na vrchole.
+o\hco sa musíme starat je- udržovat Kundalini na vrchole.
 
 583
 01:15:41,382 --> 01:15:48,048
@@ -2332,7 +2332,7 @@ Takže Guru je osoba, ktorá musí byt absolútne praktická.
 
 584
 01:15:52,424 --> 01:15:56,048
-Musí mat zdravý rozum a byt praktický,
+Musí mat zdravý rozum a\hbyt praktický,
 
 585
 01:15:56,382 --> 01:15:58,881
@@ -2348,11 +2348,11 @@ No mi bežne rozumieme pod slovom „praktický“- cloveka,
 
 588
 01:16:13,257 --> 01:16:16,382
-ktorý je vychytralý a vie ako sa odklonit od strednej cesty
+ktorý je vychytralý a\hvie ako sa odklonit od strednej cesty
 
 589
 01:16:16,673 --> 01:16:20,965
-a podobne, ale to je tá najnepraktickejšia vec vôbec.
+a\hpodobne, ale to je tá najnepraktickejšia vec vôbec.
 
 590
 01:16:29,840 --> 01:16:32,965
@@ -2360,7 +2360,7 @@ Je to absurdné, mimo reality
 
 591
 01:16:33,340 --> 01:16:36,715
-a nie je to spôsob akým sa Guru chová.
+a\hnie je to spôsob akým sa Guru chová.
 
 592
 01:16:42,424 --> 01:16:45,424
@@ -2372,7 +2372,7 @@ by mal gurua viest pri styku s clovekom,
 
 594
 01:16:57,589 --> 01:17:01,299
-a zdravý rozum nie je v žiadnom prípade
+a\hzdravý rozum nie je v\hžiadnom prípade
 
 595
 01:17:01,715 --> 01:17:06,424
@@ -2408,7 +2408,7 @@ Bude velmi ekonomický,
 
 603
 01:17:53,589 --> 01:17:56,299
-vytvorí nieco ako z jasného neba;
+vytvorí nieco ako z\hjasného neba;
 
 604
 01:17:56,589 --> 01:18:00,382
@@ -2424,7 +2424,7 @@ Ale bude tak odpútaný,
 
 607
 01:18:09,590 --> 01:18:12,340
-v tej sekunde ho daruje.
+v\htej sekunde ho daruje.
 
 608
 01:18:20,007 --> 01:18:23,840
@@ -2440,7 +2440,7 @@ získa tú najlacnejšiu, najlepšiu a najkrajšiu.
 
 611
 01:18:39,840 --> 01:18:43,090
-A bude to robit tak intenzívne.
+A\hbude to robit tak intenzívne.
 
 612
 01:18:44,549 --> 01:18:46,007
@@ -2448,11 +2448,11 @@ Ale ked príde na rad dávanie,
 
 613
 01:18:46,340 --> 01:18:49,507
-bude to robit s ešte väcšou intenzitou;
+bude to robit s\hešte väcšou intenzitou;
 
 614
 01:18:53,465 --> 01:18:57,340
-a potom pri dávaní bude dávat rovnako intenzívne.
+a\hpotom pri dávaní bude dávat rovnako intenzívne.
 
 615
 01:18:58,257 --> 01:19:00,923
@@ -2472,7 +2472,7 @@ Získava aby dával,
 
 619
 01:19:21,590 --> 01:19:24,756
-v tom je najviac praktický.
+v\htom je najviac praktický.
 
 620
 01:19:27,673 --> 01:19:32,881
@@ -2492,7 +2492,7 @@ Len Guru má svojich žiakov a žiakov,
 
 624
 01:19:57,257 --> 01:20:01,090
-a žiakov- po celé veky,
+a\hžiakov- po celé veky,
 
 625
 01:20:01,549 --> 01:20:03,715
@@ -2508,11 +2508,11 @@ Odráža sa po celé veky a stárocia.
 
 628
 01:20:28,923 --> 01:20:32,965
-Jedna vlna sa zdvihne a opadne a zmizne;
+Jedna vlna sa zdvihne a\hopadne a zmizne;
 
 629
 01:20:33,340 --> 01:20:37,257
-v tom co robíme, každá vlna sa stratí,
+v\htom co robíme, každá vlna sa stratí,
 
 630
 01:20:37,673 --> 01:20:41,965
@@ -2560,7 +2560,7 @@ slúži svojmu významu.
 
 641
 01:21:59,424 --> 01:22:06,257
-Ale v guru princípe, Božské slúži Guruovi.
+Ale v\hguru princípe, Božské slúži Guruovi.
 
 642
 01:22:13,840 --> 01:22:17,424
@@ -2648,11 +2648,11 @@ Takže to musíte vypracovat takým spôsobom,
 
 663
 01:23:53,507 --> 01:23:57,424
-A máte také štastie,
+A\hmáte také štastie,
 
 664
 01:23:57,798 --> 01:24:01,465
-že môžete vidiet seba a naprávat sa,
+že môžete vidiet seba a\hnaprávat sa,
 
 665
 01:24:01,798 --> 01:24:05,756
@@ -2668,7 +2668,7 @@ Ste svojím vlastným majstrom
 
 668
 01:24:25,048 --> 01:24:28,798
-– a Mne dovolte byt vašou Matkou.
+– a\hMne dovolte byt vašou Matkou.
 
 669
 01:24:30,257 --> 01:24:34,424
@@ -2720,7 +2720,7 @@ príliš mierna na gurua,
 
 681
 01:26:00,132 --> 01:26:03,132
-a nadmieru tolerantná.
+a\hnadmieru tolerantná.
 
 682
 01:26:04,382 --> 01:26:07,257
@@ -2728,7 +2728,7 @@ Takže bude lepšie ked budete na seba prísnejší
 
 683
 01:26:07,589 --> 01:26:12,215
-a dozriete na seba.
+a\hdozriete na seba.
 
 684
 01:26:15,798 --> 01:26:19,631
@@ -2744,7 +2744,7 @@ Vždy na Guru den mám jeden problém,
 
 687
 01:26:45,257 --> 01:26:49,631
-a je to – môžeš prekladat, Gregoire,
+a\hje to – môžeš prekladat, Gregoire,
 
 688
 01:26:49,923 --> 01:26:53,215
@@ -2768,7 +2768,7 @@ Ale kedykolvek vyskúšam tento trik obráti sa proti Mne!
 
 693
 01:27:29,840 --> 01:27:32,673
-Minulý rok v Indii som im povedala
+Minulý rok v\hIndii som im povedala
 
 694
 01:27:33,007 --> 01:27:34,465
@@ -2784,7 +2784,7 @@ nevezmem si sári, nic- ako Matka.“
 
 697
 01:27:49,756 --> 01:27:52,048
-Bola som k nim velmi prísna a povedala som,
+Bola som k\hnim velmi prísna a\hpovedala som,
 
 698
 01:27:52,424 --> 01:27:54,173
@@ -2816,7 +2816,7 @@ Tak som povedala, “Budem velmi tvrdá, ako guru,
 
 705
 01:28:25,756 --> 01:28:30,465
-a nic sa nedá robit, dnes Ma nicím nepresvedcíte.”
+a\hnic sa nedá robit, dnes Ma nicím nepresvedcíte.”
 
 706
 01:28:38,465 --> 01:28:39,881
@@ -2836,11 +2836,11 @@ Len im to povedz!
 
 710
 01:29:03,965 --> 01:29:10,340
-Tak som išla k vodovodnému kohútiku,
+Tak som išla k\hvodovodnému kohútiku,
 
 711
 01:29:10,715 --> 01:29:13,507
-– lebo v Indii nepoužívame umývadlá,
+– lebo v\hIndii nepoužívame umývadlá,
 
 712
 01:29:13,798 --> 01:29:16,840
@@ -2848,11 +2848,11 @@ viete, aby som si umyla ruky.
 
 713
 01:29:28,881 --> 01:29:30,881
-A indické kohútiky sú aké sú, viete
+A\hindické kohútiky sú aké sú, viete
 
 714
 01:29:31,173 --> 01:29:35,549
-povolilo to a ja som bola celá zmácaná.
+povolilo to a\hja som bola celá zmácaná.
 
 715
 01:29:41,798 --> 01:29:43,257
@@ -2868,7 +2868,7 @@ Dnes som sa rozhodla byt ozajstným guruom,
 
 718
 01:30:04,382 --> 01:30:07,299
-a velmi prísnym.
+a\hvelmi prísnym.
 
 719
 01:30:16,840 --> 01:30:18,340
@@ -2880,7 +2880,7 @@ Potom prišiel Warren, aby Mi povedal
 
 721
 01:30:21,007 --> 01:30:22,631
-a tak a tak...“
+a\htak a\htak...“
 
 722
 01:30:23,007 --> 01:30:26,465
@@ -2920,7 +2920,7 @@ prv než sme ho otvorili cítili sme silné vibrácie.”
 
 731
 01:31:22,048 --> 01:31:25,507
-A všetka Moja snaha bola zmárnená!
+A\hvšetka Moja snaha bola zmárnená!
 
 732
 01:31:30,090 --> 01:31:35,090
@@ -2936,7 +2936,7 @@ tak zvaná madhurya.
 
 735
 01:31:52,173 --> 01:31:58,299
-A to je tá ukrytá
+A\hto je tá ukrytá
 
 736
 01:31:58,590 --> 01:32:01,965
@@ -2944,7 +2944,7 @@ radost v živote,
 
 737
 01:32:08,048 --> 01:32:10,549
-a je to to co som prijala.
+a\hje to to co som prijala.
 
 738
 01:32:10,840 --> 01:32:15,424
@@ -2968,7 +2968,7 @@ vdaka Guru Pudži budeme mat Gauri Pudžu.
 
 743
 01:33:42,007 --> 01:33:47,340
-chodidlá Šrí Matadži a radi by mali
+chodidlá Šrí Matadži a\hradi by mali
 
 744
 01:33:47,756 --> 01:33:49,173
@@ -2976,7 +2976,7 @@ túto skúsenost, toto ohromné privilégium,
 
 745
 01:33:49,549 --> 01:33:53,465
-by mali pristúpit k vykonaniu pudže.]
+by mali pristúpit k\hvykonaniu pudže.]
 
 746
 01:33:55,340 --> 01:33:58,132
@@ -2992,7 +2992,7 @@ Ak to ponecháte na nich …
 
 749
 01:34:09,465 --> 01:34:11,798
-A niekto Mi musí povedat ich mená;
+A\hniekto Mi musí povedat ich mená;
 
 750
 01:34:12,090 --> 01:34:13,465
@@ -3036,7 +3036,7 @@ Po dvaja môžu príst.
 
 760
 01:38:56,923 --> 01:38:58,382
-Najlepšie z tej istej krajiny
+Najlepšie z\htej istej krajiny
 
 761
 01:38:58,673 --> 01:39:01,715
@@ -3056,7 +3056,7 @@ Olympia?
 
 765
 01:40:31,048 --> 01:40:34,715
-Aha! V poriadku, to je ono.
+Aha! V\hporiadku, to je ono.
 
 766
 01:41:14,007 --> 01:41:18,007
@@ -3068,7 +3068,7 @@ Aha! Dobre. V poriadku. Masírujte Mi chodidlá.
 
 768
 01:42:21,673 --> 01:42:24,465
-Všetky tieto mená súvisia s rôznymi kvalitami
+Všetky tieto mená súvisia s\hrôznymi kvalitami
 
 769
 01:42:24,756 --> 01:42:26,173
@@ -3132,7 +3132,7 @@ Catherine.
 
 784
 01:44:48,756 --> 01:44:52,299
-Z akej krajiny?
+Z\hakej krajiny?
 
 785
 01:45:27,673 --> 01:45:30,923
@@ -3160,11 +3160,11 @@ Aha! Lepšie?
 
 791
 01:48:01,590 --> 01:48:05,798
-A z akej ste krajiny?
+A\hz\hakej ste krajiny?
 
 792
 01:48:10,840 --> 01:48:13,798
-V poriadku, masírujte Moje chodidlá.
+V\hporiadku, masírujte Moje chodidlá.
 
 793
 01:48:14,173 --> 01:48:17,132
@@ -3188,7 +3188,7 @@ Pozrite na seba. Pozrite na svoje ruky.
 
 798
 01:49:16,840 --> 01:49:21,465
-V poriadku, a co vy?
+V\hporiadku, a\hco vy?
 
 799
 01:49:24,590 --> 01:49:28,673
@@ -3200,7 +3200,7 @@ Maria?
 
 801
 01:49:47,382 --> 01:49:49,424
-Z akej krajiny?
+Z\hakej krajiny?
 
 802
 01:49:50,881 --> 01:49:51,715
@@ -3316,7 +3316,7 @@ Dobre, trite Moje nohy. Trite moje nohy naozaj silno.
 
 830
 01:56:49,007 --> 01:56:53,424
-Boli ste u falošného Gurua?
+Boli ste u\hfalošného Gurua?
 
 831
 01:57:07,173 --> 01:57:08,590
@@ -3328,7 +3328,7 @@ Teraz musíte povedat svoje mená
 
 833
 01:57:51,257 --> 01:57:53,382
-a krajinu, dobre?
+a\hkrajinu, dobre?
 
 834
 01:57:53,673 --> 01:57:57,965
@@ -3420,7 +3420,7 @@ Musím vás príst pozriet. Ako dlho tam budete?
 
 856
 02:02:17,840 --> 02:02:19,340
-V poriadku, pristúpte.
+V\hporiadku, pristúpte.
 
 857
 02:02:19,589 --> 02:02:21,673
@@ -3468,7 +3468,7 @@ Je to dobré. Teraz Mi povedzte svoje meno,
 
 868
 02:03:49,673 --> 02:03:53,090
-a taktiež krajinu z ktorej ste, len Mi povedzte.
+a\htaktiež krajinu z\hktorej ste, len Mi povedzte.
 
 869
 02:03:56,798 --> 02:03:58,132
