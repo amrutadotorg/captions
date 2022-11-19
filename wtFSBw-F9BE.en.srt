@@ -2280,7 +2280,7 @@ Or even worse than that - I would give an analogy:
 
 571
 00:37:27,436 --> 00:37:30,184
- It is like taking all the medicines together
+It is like taking all the medicines together
 
 572
 00:37:30,384 --> 00:37:33,572
@@ -2544,7 +2544,7 @@ There's nothing to be done.
 
 637
 00:40:57,344 --> 00:40:58,760
- It is spontaneous.
+It is spontaneous.
 
 638
 00:40:58,960 --> 00:41:02,078
