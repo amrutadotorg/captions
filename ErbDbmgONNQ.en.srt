@@ -44,7 +44,7 @@ all go in the proper way,
 
 11
 00:01:14,934 --> 00:01:17,996
- they’ll behave in a proper way
+they’ll behave in a proper way
 
 12
 00:01:18,196 --> 00:01:26,847
