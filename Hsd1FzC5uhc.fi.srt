@@ -657,3 +657,4 @@ Minkä toisen laulun haluaisitte laulaa? Haluaisin kuulla.
 165
 00:24:51,208 --> 00:24:55,667
 "The Music of Joy" "Mata Oh Mata"
+
