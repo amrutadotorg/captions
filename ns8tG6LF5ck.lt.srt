@@ -2821,3 +2821,4 @@ o gyvulius valgykite tuos, kurie yra labai maži,
 706
 01:50:51,083 --> 01:50:53,375
 taip yra gerai.
+
