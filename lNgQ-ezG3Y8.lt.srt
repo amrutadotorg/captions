@@ -705,7 +705,7 @@ Neleiskite mintims jus valdyti,
 177
 00:15:42,584 --> 00:15:44,542
 jei jos ateina, sakykite
-00:19:00:06 00:19:04:09 “Yen Neti Neti Vachane” (Tai neegzistuoja, tai neegzistuoja)
+00:19:00:06 00:19:04:09\h“Yen Neti Neti Vachane” (Tai neegzistuoja, tai neegzistuoja)
 
 178
 00:15:49,667 --> 00:15:52,209
