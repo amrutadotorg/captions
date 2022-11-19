@@ -2192,7 +2192,7 @@ Bana gelen komik bir punkçu adamda gördüğüm gibi
 
 549
 00:31:42,125 --> 00:31:43,583
-ve Ben ona dedim ki, "Sen neden böylesin?"
+ve Ben ona dedim ki, "Sen neden böylesin?"     
 
 550
 00:31:44,417 --> 00:31:46,417
@@ -2553,3 +2553,4 @@ büyümenize yardım edildi.
 639
 00:36:45,333 --> 00:36:47,417
 Tanrı hepinizi kutsasın.
+
