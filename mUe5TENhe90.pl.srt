@@ -564,7 +564,7 @@ Wtedy zaczynają odpowiednio widzieć rzeczy.
 
 142
 00:10:31,446 --> 00:10:35,987
-Z jednej strony jest zdiagnozowany szaleniec, trzęsący się szaleniec,
+Z jednej strony jest\hzdiagnozowany szaleniec, trzęsący się szaleniec,
 
 143
 00:10:36,487 --> 00:10:38,862
@@ -2200,7 +2200,7 @@ a oni byli zaskoczeni.
 
 551
 00:37:58,945 --> 00:38:02,987
-Jego motor został całkowicie roztrzaskany
+Jego motor został\hcałkowicie roztrzaskany
 
 552
 00:38:03,362 --> 00:38:04,862
