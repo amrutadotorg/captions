@@ -3805,7 +3805,7 @@ without thinking about race and all that, about...
 
 952
 05:08:37,974 --> 05:08:42,684
- I assure you, and I verily say to you
+I assure you, and I verily say to you
 
 953
 05:08:42,884 --> 05:08:48,763
