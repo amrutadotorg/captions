@@ -72,7 +72,7 @@ otherwise we should just allow the time to take its own course
 
 19
 00:01:13,236 --> 00:01:17,196
-and we should do in our own way.
+and we should move in our own way.
 
 20
 00:01:21,858 --> 00:01:27,006
