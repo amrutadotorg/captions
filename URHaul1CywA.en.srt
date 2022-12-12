@@ -64,7 +64,7 @@ otherwise we should just allow the time to take its own course
 
 17
 00:05:13,808 --> 00:05:18,613
-and we should know in our own way.
+and we should move in our own way.
 
 18
 00:05:22,256 --> 00:05:32,867
