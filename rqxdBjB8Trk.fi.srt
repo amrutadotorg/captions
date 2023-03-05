@@ -1,6 +1,6 @@
 ﻿1
 00:00:02,762 --> 00:00:05,427
-Hieman selitystä meditaatioonne
+Hieman selitystä meditaatiostanne
 
 2
 00:00:06,291 --> 00:00:10,166
@@ -46,7 +46,7 @@ Teidän pitää tulla sahaja-joogiksi.
 11
 00:00:41,205 --> 00:00:45,745
 Jos haluatte tulla sahaja-joogiksi,
-silloin se on saatava toimimaan,
+silloin sen eteen on tehtävä työtä,
 
 12
 00:00:45,935 --> 00:00:48,317
@@ -354,7 +354,7 @@ Miten voitte? Edistyttekö todella?
 78
 00:05:59,785 --> 00:06:04,077
 Vai oletteko huolissanne muista asioista,
-kuten yrityksestänne, ja kaikenlaisesta?
+kuten työstänne, ja kaikenlaisesta?
 
 79
 00:06:04,411 --> 00:06:09,785
@@ -502,7 +502,7 @@ josta se menee ulos eetteriin.
 
 111
 00:08:31,739 --> 00:08:36,292
-Tällainen kuumuus johtuu liiallisen
+Tällainen kuumuus johtuu liian
 futuristisesta elämäntavasta.
 
 112
@@ -549,7 +549,7 @@ ja heistä pitäisi tulla hyvin tunteikkaita.
 
 121
 00:09:16,466 --> 00:09:20,404
-Heidän pitäisi laulaa hartaita lauluja.
+Heidän pitäisi laulaa antaumuksella bhakti-lauluja.
 Heidän ei pitäisi harrastaa Hatha-joogaa.
 
 122
@@ -569,7 +569,7 @@ jossa hoidetaan teidän yhtä puoltanne.
 125
 00:09:34,486 --> 00:09:43,582
 Vasemmalla puolella olevat ihmiset,
-kuten tiedätte, ovat leppoisia,
+kuten tiedätte, ovat mukautuvia,
 
 126
 00:09:43,883 --> 00:09:47,321
@@ -578,7 +578,7 @@ itkevät ja vaikeroivat
 
 127
 00:09:47,361 --> 00:09:53,588
-ja ovat koko ajan häviäjiä.
+ja ovat aina häviäjien puolella.
 
 128
 00:09:54,509 --> 00:09:59,634
@@ -950,7 +950,8 @@ mutta sitten jälkeenpäin,
 
 209
 00:15:49,000 --> 00:15:53,083
-se ei olekaan tietoinen asia, jonka voisimme muistaa tai josta voisimme puhua.
+se ei olekaan tietoinen asia, jonka
+voisimme muistaa tai josta voisimme puhua.
 
 210
 00:15:53,459 --> 00:15:55,264
