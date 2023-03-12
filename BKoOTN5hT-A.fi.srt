@@ -1,674 +1,674 @@
 ﻿1
-00:00:00,766 --> 00:00:02,769
+00:00:00,792 --> 00:00:02,792
 Mitä meditaatio on?
 
 2
-00:00:03,198 --> 00:00:05,198
+00:00:03,209 --> 00:00:05,209
 Mana & prana
 
 3
-00:00:05,603 --> 00:00:07,603
+00:00:05,626 --> 00:00:07,626
 Lontoo, 29.10.1981
 
 4
-00:00:08,309 --> 00:00:13,520
+00:00:08,334 --> 00:00:13,542
 Nyt voisimme käsitellä... Philip,
 
 5
-00:00:13,681 --> 00:00:16,640
+00:00:13,709 --> 00:00:16,667
 mitä voisin kertoa käytännön puolesta,
 
 6
-00:00:17,019 --> 00:00:18,915
+00:00:17,000 --> 00:00:18,959
 meditaatiosta? No hyvä.
 
 7
-00:00:19,122 --> 00:00:25,222
+00:00:19,125 --> 00:00:25,250
 Katsotaanpa, mitä meditaatio on,
 mitä meidän pitää tehdä meditaatiossa.
 
 8
-00:00:28,098 --> 00:00:32,054
+00:00:28,083 --> 00:00:32,042
 Ensinnäkin meillä on vasen puoli,
 
 9
-00:00:33,038 --> 00:00:38,422
+00:00:33,042 --> 00:00:38,459
 jossa on 'mana'-shakti, tunteiden voima.
 Ymmärrättekö?
 
 10
-00:00:38,906 --> 00:00:45,060
+00:00:38,959 --> 00:00:45,083
 Tunteet ovat yhteydessä myös
 oikeaan puoleen, 'pranaan'.
 
 11
-00:00:45,306 --> 00:00:47,663
+00:00:45,334 --> 00:00:47,709
 Jos esimerkiksi joudutte tunnekuohun valtaan,
 
 12
-00:00:47,886 --> 00:00:50,316
+00:00:47,918 --> 00:00:50,334
 niin kuin juuri äsken tapahtui,
 
 13
-00:00:50,546 --> 00:00:56,160
+00:00:50,584 --> 00:00:56,167
 niin 'shva', hengityksemme, kiihtyi
 
 14
-00:00:56,463 --> 00:01:01,644
+00:00:56,500 --> 00:01:01,667
 ja tunsimme, kuinka tavallaan koko keho reagoi,
 
 15
-00:01:01,859 --> 00:01:08,085
+00:01:01,876 --> 00:01:08,083
 ja tunsimme myös 'pranan' reaktion oikealla puolella,
 
 16
-00:01:08,292 --> 00:01:10,285
+00:01:08,292 --> 00:01:10,292
 kuinka se pyrki ilmaisemaan itseään.
 
 17
-00:01:10,515 --> 00:01:14,320
+00:01:10,542 --> 00:01:14,334
 Aloimme kyynelehtiä, se on vesielementti,
 
 18
-00:01:14,582 --> 00:01:19,396
+00:01:14,626 --> 00:01:19,417
 ja kaikki tämä tuli esiin, ja kaikki
 tunteet alkoivat virrata ulos
 
 19
-00:01:19,642 --> 00:01:27,200
+00:01:19,667 --> 00:01:27,209
 ja myös siinä 'prana' oli mukana.
 
 20
-00:01:27,574 --> 00:01:30,176
+00:01:27,584 --> 00:01:30,167
 Sanotaan vaikka, että pelkäätte,
 
 21
-00:01:31,113 --> 00:01:32,407
+00:01:31,125 --> 00:01:32,417
 jos pelkäätte...
 
 22
-00:01:33,980 --> 00:01:37,880
+00:01:33,999 --> 00:01:37,918
 jos pelkäätte liian paljon, mitä silloin tapahtuu?
 
 23
-00:01:38,197 --> 00:01:41,840
+00:01:38,209 --> 00:01:41,876
 Jos pelkäätte, niin silloinkin hengitys
 
 24
-00:01:42,211 --> 00:01:43,155
+00:01:42,209 --> 00:01:43,167
 on kiivasta – eikö niin?
 
 25
-00:01:43,282 --> 00:01:44,835
+00:01:43,292 --> 00:01:44,876
 Eli se on yhteydessä.
 
 26
-00:01:47,905 --> 00:01:50,902
+00:01:47,959 --> 00:01:50,959
 Se on yhteydessä.
 Jos pelkäätte, sillä on yhteys
 
 27
-00:01:51,061 --> 00:01:54,862
+00:01:51,083 --> 00:01:54,918
 teidän 'pranaanne', hengitykseenne,
 
 28
-00:01:54,981 --> 00:02:04,497
+00:01:55,000 --> 00:02:04,500
 ja koko järjestelmä on yhteydessä tunteisiinne,
 fyysinen järjestelmä.
 
 29
-00:02:05,267 --> 00:02:10,181
+00:02:05,292 --> 00:02:10,209
 Jos itkette ja kyynelehditte paljon,
 tai jos olette synkkiä,
 
 30
-00:02:10,252 --> 00:02:13,094
+00:02:10,250 --> 00:02:13,083
 se näkyy myös kasvoistanne,
 Vishuddhi-chakroistanne,
 
 31
-00:02:13,268 --> 00:02:15,538
+00:02:13,292 --> 00:02:15,542
 eikä vain Anahatasta, vaan myös Vishuddhista.
 
 32
-00:02:15,943 --> 00:02:18,563
+00:02:15,999 --> 00:02:18,584
 Sitten myös Agnyaan tulee häiriö.
 
 33
-00:02:18,849 --> 00:02:23,593
+00:02:18,876 --> 00:02:23,626
 Eli kaikki chakrat heijastavat vasenta puolta
 
 34
-00:02:24,339 --> 00:02:27,078
+00:02:24,334 --> 00:02:27,083
 sillä tavalla, että se näkyy myös fyysisesti.
 
 35
-00:02:27,205 --> 00:02:30,160
+00:02:27,209 --> 00:02:30,167
 Se siis osoittaa sen, että molemmat puolet
 ovat vahvasti yhteydessä toisiinsa.
 
 36
-00:02:30,637 --> 00:02:35,920
+00:02:30,667 --> 00:02:35,959
 Teidän pitää siis tavalla tai toisella
 
 37
-00:02:36,375 --> 00:02:38,960
+00:02:36,375 --> 00:02:38,999
 haihduttaa nämä kaksi puolta sisällämme,
 
 38
-00:02:39,148 --> 00:02:41,052
+00:02:39,167 --> 00:02:41,042
 vasen ja oikea puoli,
 
 39
-00:02:41,735 --> 00:02:45,520
+00:02:41,751 --> 00:02:45,542
 sillä jos ette tee sitä, jäätte puolitiehen tähän,
 
 40
-00:02:45,735 --> 00:02:47,709
+00:02:45,751 --> 00:02:47,751
 joten teidän täytyy haihduttaa pois nämä kaksi.
 
 41
-00:02:47,819 --> 00:02:50,768
+00:02:47,834 --> 00:02:50,792
 Ja miten tämä haihduttaminen tapahtuu?
 
 42
-00:02:51,943 --> 00:02:55,396
+00:02:51,999 --> 00:02:55,417
 Mitä voimme tehdä – meditaatiossa?
 
 43
-00:02:57,372 --> 00:02:59,500
-Osaatteko ehdottaa?
+00:02:57,375 --> 00:02:59,542
+Onko ehdotuksia?
 
 44
-00:03:02,640 --> 00:03:05,537
+00:03:02,667 --> 00:03:05,542
 Meillä on siis 'prana' ja 'mana'.
 
 45
-00:03:05,807 --> 00:03:12,587
+00:03:05,834 --> 00:03:12,626
 'Prana' edustaa oikeaa ja
 'mana'-shakti vasenta puolta.
 
 46
-00:03:12,762 --> 00:03:17,839
+00:03:12,792 --> 00:03:17,876
 Eikö niin? Nämä kaksi pitää
 haihduttaa ilmaan, eli hajottaa.
 
 47
-00:03:17,918 --> 00:03:21,515
-Miten me teemme sen? Miten hajotamme ne,
+00:03:17,959 --> 00:03:21,542
+Miten teemme sen? Miten hajotamme ne,
 
 48
-00:03:21,689 --> 00:03:24,451
+00:03:21,709 --> 00:03:24,459
 kun ne ovat yhteydessä toisiinsa?
 
 49
-00:03:26,696 --> 00:03:30,549
+00:03:26,709 --> 00:03:30,584
 Oivalluksen jälkeen, ei ennen sitä.
 
 50
-00:03:41,387 --> 00:03:45,749
+00:03:41,417 --> 00:03:45,792
 Ennen meditaatiota laitamme
 itsemme tasapainoon, eikö niin?
 
 51
-00:03:46,030 --> 00:03:48,984
+00:03:46,042 --> 00:03:49,000
 Millä puolella on enemmän,
 millä vähemmän – sillä hetkellä?
 
 52
-00:03:49,024 --> 00:03:51,719
+00:03:49,042 --> 00:03:51,751
 Jos olette vaikka tunnekuohun vallassa –
 sillä hetkellä,
 
 53
-00:03:51,949 --> 00:03:54,072
+00:03:51,999 --> 00:03:54,083
 silloin nostatte oikeaa puolta vasemmalle.
 
 54
-00:03:54,437 --> 00:03:57,892
-Jos sillä hetkellä vasen puolenne on epätasapainossa,
+00:03:54,459 --> 00:03:57,918
+Jos sillä hetkellä vasemmalla puolella on häiriö;
 
 55
-00:03:58,705 --> 00:04:04,018
-tarkoitan sitä, että jos vasen puoli on jähmettynyt,
+00:03:58,751 --> 00:04:04,000
+häiriöllä tarkoitan sitä, että jos vasen puoli on jähmettynyt,
 
 56
-00:04:04,177 --> 00:04:09,021
+00:04:04,167 --> 00:04:09,042
 niin silloin nostatte vasenta puolta ja
 tasapainotatte itseänne ennen meditaatiota.
 
 57
-00:04:09,344 --> 00:04:13,123
+00:04:09,375 --> 00:04:13,125
 Katsotaanpas kumpi puoli ensinnäkin on heikompi.
 
 58
-00:04:13,861 --> 00:04:16,967
+00:04:13,918 --> 00:04:16,999
 Laita kätesi tällä tavalla.
 
 59
-00:04:17,578 --> 00:04:23,937
+00:04:17,584 --> 00:04:23,959
 Kaikki hyvin? Tuntuuko viileää? Tuntuuko?
 
 60
-00:04:24,437 --> 00:05:06,780
+00:04:24,459 --> 00:05:06,834
 (Shri Mataji puhuu pienelle tytölle.)
 
 61
-00:05:12,288 --> 00:05:16,286
+00:05:12,292 --> 00:05:16,292
 Kun olette saaneet itsenne tasapainoon,
 
 62
-00:05:16,599 --> 00:05:24,452
+00:05:16,626 --> 00:05:24,459
 silloin paras tapa on laittaa huomio tunteisiin,
 
 63
-00:05:24,619 --> 00:05:27,993
+00:05:24,626 --> 00:05:28,000
 'mana'-shaktiin ja tarkkailla niitä.
 
 64
-00:05:28,318 --> 00:05:35,820
+00:05:28,334 --> 00:05:35,876
 Voitte valaista tunteitanne ajattelemalla Äitiänne.
 
 65
-00:05:35,955 --> 00:05:37,737
+00:05:35,999 --> 00:05:37,751
 Voitte valaista ne.
 
 66
-00:05:37,991 --> 00:05:43,942
+00:05:38,000 --> 00:05:43,999
 Vain Hän ratkaisee ongelmanne. Mitä tahansa
 ongelmia 'manassa' onkin, ymmärrättekö?
 
 67
-00:05:44,474 --> 00:05:50,400
+00:05:44,500 --> 00:05:50,417
 Kun sitten olette yhteydessä näihin tunteisiin
 
 68
-00:05:51,378 --> 00:05:59,035
+00:05:51,375 --> 00:05:59,042
 ja alatte katsoa niitä meditaation tilassa,
 
 69
-00:06:00,884 --> 00:06:05,769
+00:06:00,918 --> 00:06:05,792
 niin näette näiden tunteiden nousevan sisällänne,
 
 70
-00:06:06,923 --> 00:06:12,283
+00:06:06,959 --> 00:06:12,292
 ja jos yritätte laittaa nämä tunteet Äidillenne,
 
 71
-00:06:12,609 --> 00:06:15,586
+00:06:12,626 --> 00:06:15,626
 kuten sanotaan: Äidin Lootusjalkojen juureen,
 
 72
-00:06:16,495 --> 00:06:20,755
+00:06:16,500 --> 00:06:20,792
 ne alkavat myös sulattaa näitä tunteita,
 
 73
-00:06:20,850 --> 00:06:29,966
+00:06:20,876 --> 00:06:29,999
 ja niistä tulee tavallaan... laajenevia.
 Ne laajenevat, ymmärrättehän.
 
 74
-00:06:30,196 --> 00:06:33,102
+00:06:30,209 --> 00:06:33,125
 Ulkoistatte sen niin, että
 
 75
-00:06:33,293 --> 00:06:36,413
+00:06:33,292 --> 00:06:36,417
 tunnette hallitsevanne näitä tunteita.
 
 76
-00:06:37,238 --> 00:06:40,280
-Hallitsette niitä ja kun näin hallitsette näitä tunteita,
+00:06:37,250 --> 00:06:40,292
+Hallitsette niitä, ja kun näin hallitsette näitä tunteita,
 
 77
-00:06:40,896 --> 00:06:45,896
+00:06:40,918 --> 00:06:45,918
 tunteenne – jotka ovat laajentuneita,
 valaistuneita – ovat voimallisia.
 
 78
-00:06:47,120 --> 00:06:52,705
+00:06:47,125 --> 00:06:52,751
 Ja kun nämä tunteet tuntuvat tällaisilta,
 
 79
-00:06:53,159 --> 00:06:58,639
+00:06:53,167 --> 00:06:58,667
 niiden syy voidaan selvittää.
 
 80
-00:06:59,606 --> 00:07:02,675
+00:06:59,626 --> 00:07:02,709
 Esimerkiksi juuri äsken olitte
 tunnekuohun vallassa,
 
 81
-00:07:02,778 --> 00:07:07,212
+00:07:02,792 --> 00:07:07,209
 koska puhuin näistä lapsista.
 
 82
-00:07:07,617 --> 00:07:09,964
+00:07:07,626 --> 00:07:09,999
 Totta kai, kukapa ei olisi.
 
 83
-00:07:10,379 --> 00:07:15,160
+00:07:10,375 --> 00:07:15,167
 Nyt kun olette järkyttyneitä siitä, laitatte ongelman
 
 84
-00:07:15,377 --> 00:07:18,135
+00:07:15,375 --> 00:07:18,125
 ja tunteet, jotka nousevat teissä,
 
 85
-00:07:18,422 --> 00:07:23,116
+00:07:18,459 --> 00:07:23,125
 noiden tunteiden aallot, jotka tulevat,
 Äitinne Lootusjalkojen juureen.
 
 86
-00:07:23,730 --> 00:07:29,200
+00:07:23,751 --> 00:07:29,209
 Niinpä tämä voima koskettaa niitä, voidaan sanoa.
 
 87
-00:07:29,755 --> 00:07:32,340
+00:07:29,792 --> 00:07:32,375
 Silloin nämä tunteet valaistuvat,
 
 88
-00:07:33,033 --> 00:07:35,842
+00:07:33,042 --> 00:07:35,876
 ja kun ne valaistuvat,
 
 89
-00:07:36,239 --> 00:07:42,263
+00:07:36,250 --> 00:07:42,292
 niillä on voima ratkaista ongelma.
 Näettekö, mitä tarkoitan?
 
 90
-00:07:42,556 --> 00:07:45,512
+00:07:42,584 --> 00:07:45,542
 Aivan kuin ne olisivat päässeet rantaan,
 jossa ne saavat valoa,
 
 91
-00:07:45,755 --> 00:07:48,292
+00:07:45,792 --> 00:07:48,292
 ja tämä ongelma voidaan ratkaista.
 
 92
-00:07:49,430 --> 00:07:52,637
+00:07:49,459 --> 00:07:52,667
 Koska nyt ette ole yksittäisessä solussa,
 
 93
-00:07:52,792 --> 00:07:56,126
+00:07:52,834 --> 00:07:56,125
 vaan olette laajentuneessa tilassa,
 olette 'samastissa',
 
 94
-00:07:56,468 --> 00:07:58,433
+00:07:56,500 --> 00:07:58,459
 ja koska olette päässeet tuohon asemaan,
 
 95
-00:07:58,472 --> 00:08:02,182
+00:07:58,500 --> 00:08:02,209
 siksi teillä on nämä voimat päästä
 toisen ihmisen kehoon,
 
 96
-00:08:02,380 --> 00:08:06,248
+00:08:02,417 --> 00:08:06,250
 nähdä toisen ihmisen värähtelyt, nostaa Kundaliini.
 
 97
-00:08:06,327 --> 00:08:08,918
+00:08:06,334 --> 00:08:08,959
 Muuten ette olisi pystyneet siihen.
 
 98
-00:08:10,323 --> 00:08:14,800
+00:08:10,334 --> 00:08:14,834
 Teille se on siis hyvin helppoa, koska
 Minäkin olen täällä elävänä edessänne.
 
 99
-00:08:15,570 --> 00:08:18,777
+00:08:15,584 --> 00:08:18,792
 On niin helppoa vain laittaa nämä tunteet sinne,
 
 100
-00:08:18,991 --> 00:08:22,270
+00:08:19,000 --> 00:08:22,292
 jotta ne valaistuvat ja toiveenne toteutuvat,
 
 101
-00:08:22,563 --> 00:08:26,040
+00:08:22,584 --> 00:08:26,042
 koska tunteet eivät ole mitään muuta kuin toiveita.
 
 102
-00:08:26,968 --> 00:08:29,786
+00:08:26,999 --> 00:08:29,834
 Ne ovat täyttymättömiä toiveita.
 
 103
-00:08:31,786 --> 00:08:38,540
+00:08:31,834 --> 00:08:38,584
 Miten se tehdään? On myös sellainen tapa,
 että otatte nämä tunteet
 
 104
-00:08:39,132 --> 00:08:47,842
+00:08:39,125 --> 00:08:47,876
 ja laitatte ne – eli nämä tunteet ovat itse asiassa
 
 105
-00:08:48,152 --> 00:08:53,382
+00:08:48,167 --> 00:08:53,417
 vasen puoli, kuten sanoin, eli halu.
 
 106
-00:08:54,120 --> 00:09:00,797
+00:08:54,125 --> 00:09:00,834
 Niinpä halu, mikä tahansa halu,
 otetaan ja laitetaan 'pranaan'.
 
 107
-00:09:00,916 --> 00:09:03,376
+00:09:00,959 --> 00:09:03,375
 Miten se laitetaan 'pranaan'?
 
 108
-00:09:04,535 --> 00:09:10,147
+00:09:04,542 --> 00:09:10,167
 Kontrolloimalla 'pranaanne' - siksi ihmiset tekevät
 'prana-yamaa' (hengityksen säätelyä), ymmärrättekö?
 
 109
-00:09:10,234 --> 00:09:13,880
+00:09:10,250 --> 00:09:13,918
 Istutte alas mukavasti,
 
 110
-00:09:13,980 --> 00:09:16,245
+00:09:13,999 --> 00:09:16,250
 teillä on joku halu, laitatte huomionne siihen.
 
 111
-00:09:16,396 --> 00:09:18,440
+00:09:16,417 --> 00:09:18,459
 Huomio on hyvin tärkeä, ymmärrättekö?
 
 112
-00:09:18,801 --> 00:09:27,903
+00:09:18,834 --> 00:09:27,959
 Nyt tämä huomio on kiinnitettävä 'pranaan',
 
 113
-00:09:28,237 --> 00:09:32,072
+00:09:28,250 --> 00:09:32,083
 tunteet ovat siellä,
 
 114
-00:09:32,445 --> 00:09:36,688
+00:09:32,459 --> 00:09:36,709
 ja sitten viette ne tunteet huomioonne,
 
 115
-00:09:37,201 --> 00:09:42,680
+00:09:37,209 --> 00:09:42,709
 mikä tarkoittaa, että olette nyt tietoisia niistä.
 
 116
-00:09:43,148 --> 00:09:48,097
+00:09:43,167 --> 00:09:48,083
 Nyt teidän on tarkkailtava hengitystänne.
 
 117
-00:09:48,363 --> 00:09:56,851
+00:09:48,375 --> 00:09:56,876
 Yrittäkää nyt vähentää hengitystä,
 vähentäkää sitä.
 
 118
-00:09:59,382 --> 00:10:08,649
+00:09:59,417 --> 00:10:08,667
 Sillä tavalla, että kun olette hengittäneet ulos,
 odottakaa hetki ja hengittäkää sitten sisään,
 
 119
-00:10:12,815 --> 00:10:16,020
+00:10:12,834 --> 00:10:16,042
 pitkään. Sitten hengittäkää ulos.
 
 120
-00:10:16,763 --> 00:10:21,040
+00:10:16,792 --> 00:10:21,042
 Yhdessä minuutissa hengityksenne
 muuttuu normaalia hitaammaksi.
 
 121
-00:10:21,212 --> 00:10:24,528
+00:10:21,209 --> 00:10:24,542
 Onko selvä? Kokeilkaa. Hengittäkää sisään.
 
 122
-00:10:24,927 --> 00:10:28,872
+00:10:24,959 --> 00:10:28,918
 Ja tunteet, pitäkää huomio tunteissa, ymmärrättekö?
 
 123
-00:10:29,026 --> 00:10:32,701
+00:10:29,042 --> 00:10:32,751
 Niin että yhteys muodostuu.
 
 124
-00:11:01,292 --> 00:11:08,741
+00:11:01,292 --> 00:11:08,792
 Hmm. Onko parempi? Huomaatteko,
 kuinka Kundaliini nousee?
 
 125
-00:11:12,038 --> 00:11:16,657
+00:11:12,042 --> 00:11:16,667
 Kun hengitätte, huomaatte, että väliin jää tila,
 
 126
-00:11:17,252 --> 00:11:19,123
+00:11:17,250 --> 00:11:19,125
 jonka vain jätätte tyhjäksi.
 
 127
-00:11:19,328 --> 00:11:21,295
+00:11:19,334 --> 00:11:21,292
 Hengittäkää sisään!
 
 128
-00:11:22,358 --> 00:11:24,713
+00:11:22,375 --> 00:11:24,751
 Jättäkää nyt tyhjä tila.
 
 129
-00:11:25,617 --> 00:11:28,860
+00:11:25,626 --> 00:11:28,918
 Hengittäkää nyt ulos.
 
 130
-00:11:32,754 --> 00:11:34,900
+00:11:32,792 --> 00:11:34,959
 Jättäkää tyhjä tila.
 
 131
-00:11:39,622 --> 00:11:44,166
+00:11:39,667 --> 00:11:44,167
 Hengittäkää sisään. Pidättäkää hengitystä.
 
 132
-00:11:46,095 --> 00:11:48,900
+00:11:46,083 --> 00:11:48,959
 Sitten vapauttakaa.
 
 133
-00:11:51,579 --> 00:11:55,816
+00:11:51,584 --> 00:11:55,834
 Olkaa hengittämättä.
 Nyt hengittäkää sisään.
 
 134
-00:12:02,962 --> 00:12:09,420
+00:12:02,999 --> 00:12:09,459
 Aloittakaa nyt hengittäminen siten,
 että pysäytätte hengityksenne.
 
 135
-00:12:29,735 --> 00:12:36,896
+00:12:29,751 --> 00:12:36,918
 Huomionne pitäisi olla sydämessä,
 tai se voisi olla tunteissa.
 
 136
-00:12:44,792 --> 00:12:46,321
+00:12:44,834 --> 00:12:46,334
 Nyt on parempi.
 
 137
-00:12:51,313 --> 00:12:54,224
+00:12:51,334 --> 00:12:54,250
 Pidätelkää hengitystä sisällä jonkin aikaa,
 
 138
-00:12:54,549 --> 00:12:58,280
-tuokaa sitten ulos, sitten hetki hengittämättä.
+00:12:54,584 --> 00:12:58,292
+päästäkää se sitten ulos, sitten hetki hengittämättä.
 
 139
-00:12:58,827 --> 00:13:03,643
+00:12:58,876 --> 00:13:03,667
 Ja toistatte uudestaan. Sitten huomaatte,
 että hetken aikaa ette hengitä lainkaan.
 
 140
-00:13:10,410 --> 00:13:21,208
+00:13:10,417 --> 00:13:21,209
 Hmm. Te rauhoitutte. 'Laya' (poishaihtuminen)
 tapahtuu 'pranan' ja 'manan' välissä.
 
 141
-00:13:21,597 --> 00:13:25,270
+00:13:21,626 --> 00:13:25,292
 Molemmat shaktit tulevat yhdeksi.
 
 142
-00:13:27,111 --> 00:13:34,333
+00:13:27,125 --> 00:13:34,334
 Tässä vaiheessa, kun olette hiljaa, ajatelkaa älyänne.
 
 143
-00:13:39,639 --> 00:13:42,140
+00:13:39,667 --> 00:13:42,167
 Se on kadonnut.
 
 144
-00:13:42,972 --> 00:13:45,667
+00:13:42,999 --> 00:13:45,709
 Ajatelkaa, se on kadonnut, sitä ei enää ole.
 
 145
-00:13:45,905 --> 00:13:50,089
+00:13:45,959 --> 00:13:50,083
 Itse asiassa tämä 'laya',
 
 146
-00:13:50,462 --> 00:13:55,416
+00:13:50,500 --> 00:13:55,417
 huomio menee älyyn ja valaisee sen.
 
 147
-00:14:08,287 --> 00:14:12,876
+00:14:08,292 --> 00:14:12,918
 Aha, katsokaa, ajatus ei ole siellä -
 yrittäkää löytää äly sisältänne!
 
 148
-00:14:13,078 --> 00:14:18,161
+00:14:13,083 --> 00:14:18,167
 Katsokaa! Missä on älyni? Yrittäkää löytää se!
 
 149
-00:14:22,811 --> 00:14:28,220
+00:14:22,834 --> 00:14:28,250
 Se ei ole siellä, se ei toimi. Kokeilkaa uudelleen!
 
 150
-00:14:29,650 --> 00:14:33,156
+00:14:29,667 --> 00:14:33,167
 Se toimii, mutta siitä on tullut 'samashti',
 
 151
-00:14:33,386 --> 00:14:36,043
+00:14:33,417 --> 00:14:36,042
 siitä on tullut nyt kollektiivinen.
 
 152
-00:14:38,392 --> 00:14:39,923
+00:14:38,417 --> 00:14:39,959
 Ha!
 
 153
-00:14:50,433 --> 00:14:53,877
+00:14:50,459 --> 00:14:53,918
 Näettekö nyt? Pysyittekö mukana?
 
 154
-00:14:57,703 --> 00:14:59,469
+00:14:57,751 --> 00:14:59,500
 Ei ole ajatuksia.
 
 155
-00:15:01,930 --> 00:15:05,943
+00:15:01,959 --> 00:15:05,999
 Tämä harjoitus antaa teille
 ajatuksettoman tietoisuuden,
 
 156
-00:15:06,022 --> 00:15:09,460
+00:15:06,042 --> 00:15:09,500
 vakiinnuttaa teissä ajatuksettoman tietoisuuden.
 Ajatuksia ei ole.
 
 157
-00:15:10,967 --> 00:15:14,482
+00:15:10,999 --> 00:15:14,500
 Shri Mataji Nirmala Devi
 Mana & prana
 
 158
-00:15:14,736 --> 00:15:17,665
-29.10.1981 Käytännön harjoitus,
+00:15:14,751 --> 00:15:17,709
+29.10.1981 Meditaatioharjoitus,
 Bramham Court Ashram, Englanti
 
