@@ -56,7 +56,7 @@ Syntymäni aikaan
 
 14
 00:08:10,367 --> 00:08:12,777
-Äitini näki unta,
+äitini näki unta,
 
 15
 00:08:14,558 --> 00:08:16,824
@@ -156,7 +156,7 @@ koska hän oli itse oivaltanut sielu –
 
 38
 00:09:52,346 --> 00:09:56,032
-että sen täytyy olla joku,
+että kysymyksessä täytyy olla joku,
 
 39
 00:09:56,776 --> 00:10:02,239
@@ -248,7 +248,7 @@ mikä tarkoittaa samaa; 'immaculata', puhdas.
 59
 00:11:05,397 --> 00:11:09,312
 Kaikki nämä tapahtumat,
-ja että Isäni oli oivaltanut sielu,
+ja että isäni oli oivaltanut sielu,
 
 60
 00:11:09,649 --> 00:11:12,748
@@ -376,7 +376,7 @@ mutta pärjäsin silti hyvin.
 
 90
 00:12:46,435 --> 00:12:50,467
-Mutta minulla oli tapana lukea suurmiesten
+Mutta Minulla oli tapana lukea suurmiesten
 elämäkertoja ja muuta sellaista.
 
 91
@@ -412,7 +412,7 @@ Sitten sanoin isälleni, että
 98
 00:13:12,015 --> 00:13:15,167
 Hän kysyi: "Miksi?"
-Sanoin: "Koska minun on puhuttava lääkäreille."
+Sanoin: "Koska Minun pitää puhua lääkäreille."
 
 99
 00:13:15,587 --> 00:13:18,347
@@ -600,7 +600,7 @@ Minäkin opin kävelemään nopeasti hänen kanssaan.
 
 142
 00:15:36,145 --> 00:15:38,565
-Hänen seurassaan jouduin kävelemään nopeasti.
+Hänen kanssaan piti kävellä nopeasti.
 
 143
 00:15:39,136 --> 00:15:42,556
@@ -889,7 +889,7 @@ antaa Oivallus ihmisjoukoille,
 
 210
 00:19:27,118 --> 00:19:29,589
-koska sinut ristiinnaulitaan," tai
+koska Sinut ristiinnaulitaan," tai
 
 211
 00:19:29,804 --> 00:19:32,444
@@ -1007,7 +1007,7 @@ mutta huomasin, että he olivat hyvin tekopyhiä.
 
 238
 00:20:49,765 --> 00:20:51,446
-Näin niin monta tällaista gurua.
+Näin monta tällaista gurua.
 
 239
 00:20:51,517 --> 00:20:55,306
@@ -1024,7 +1024,7 @@ Kävin myös tapaamassa Rajneeshia.
 
 242
 00:21:01,967 --> 00:21:05,440
-Hän sanoi, että minun pitäisi
+Hän sanoi, että Minun pitäisi
 tulla hänen tilaisuuteensa.
 
 243
@@ -1449,7 +1449,7 @@ joka on nyt sen puheenjohtaja,
 
 340
 00:27:05,701 --> 00:27:10,297
-joka oli antamassa tuomiota
+joka oli tekemässä päätöstä
 Nicaraguaa koskevassa asiassa.
 
 341
@@ -1499,7 +1499,7 @@ että meissä on Kundaliini ja kaikkea sellaista.
 
 352
 00:27:44,399 --> 00:27:46,856
-Mutta jotkut ihmiset tietävät itseoivalluksesta.
+Mutta jotkut ihmiset tietävät Itseoivalluksesta.
 
 353
 00:27:47,150 --> 00:27:49,436
@@ -1616,7 +1616,7 @@ ei se sellaista ole.
 
 378
 00:28:58,980 --> 00:29:01,104
-Mutta mikä tahansa onkaan todellisuutta,
+Mutta kaikki, mikä on todellisuutta,
 
 379
 00:29:01,350 --> 00:29:06,154
@@ -1696,7 +1696,7 @@ Siihen on siis pyrittävä pääsemään.
 
 396
 00:30:04,984 --> 00:30:09,719
-Mutta on ymmärrettävä, ettei sitä voi maksaa.
+Mutta on ymmärrettävä, ettei siitä voi maksaa.
 Sen eteen ei tarvitse ponnistella.
 
 397
@@ -1725,7 +1725,7 @@ Näin tapahtuu, että
 
 403
 00:30:24,595 --> 00:30:27,851
-vaikka annammekin oivalluksen sadalle ihmiselle,
+vaikka annammekin Oivalluksen sadalle ihmiselle,
 
 404
 00:30:27,986 --> 00:30:31,858
@@ -1876,7 +1876,8 @@ väitöskirjansa Sahaja Yogasta,
 
 437
 00:32:33,914 --> 00:32:39,958
-ja hän saa korkeimman tutkinnon, jota sanotaan lääketieteen tohtorin tutkinnoksi,
+ja hän saa korkeimman tutkinnon, jota sanotaan
+lääketieteen tohtorin tutkinnoksi,
 
 438
 00:32:40,244 --> 00:32:44,735
@@ -2050,7 +2051,7 @@ Myös yhteiskunnallisella puolelta voin kertoa, että
 
 478
 00:34:46,908 --> 00:34:50,918
-meillä on avioliittoja - kansainvälisiä avioliittoja.
+meillä on avioliittoja – kansainvälisiä avioliittoja.
 
 479
 00:34:51,267 --> 00:34:55,648
@@ -2089,7 +2090,7 @@ Silloin tällöin ei ehkä onnistu,
 
 487
 00:35:18,073 --> 00:35:20,920
-mutta useimmiten avioeroja ei tapahdu.
+mutta useimmiten, eikä avioeroja tapahdu.
 
 488
 00:35:21,079 --> 00:35:22,826
@@ -2195,7 +2196,7 @@ He ovat mahtavia ihmisiä.
 512
 00:36:29,395 --> 00:36:34,390
 Mutta meidän on ohjattava heitä omalla
-käyttäytymisellämme, sillä miten itse käyttäydymme.
+käyttäytymisellämme, sillä, miten itse käyttäydymme.
 
 513
 00:36:34,558 --> 00:36:36,417
@@ -2410,7 +2411,8 @@ asiat alkavat sujua aivan ensiluokkaisesti.
 
 561
 00:39:15,743 --> 00:39:21,551
-Eikä vain se, vaan myös se, että he voivat nauttia elämän autuudesta.
+Eikä vain se, vaan myös se, että
+he voivat nauttia elämän autuudesta.
 
 562
 00:39:21,694 --> 00:39:24,174
@@ -2430,7 +2432,7 @@ mitä olemme saaneet aikaan kaikella tällä?
 
 566
 00:39:32,395 --> 00:39:35,074
-Pysähtykää hetkeksi miettimään.
+Pitää pysähtyä hetkeksi miettimään.
 
 567
 00:39:36,481 --> 00:39:39,393
@@ -2546,7 +2548,7 @@ Palataanpa takaisin lapsuuteen.
 
 593
 00:41:02,981 --> 00:41:07,259
-Voisitteko selittää - vanhempanne
+Voisitteko selittää – vanhempanne
 
 594
 00:41:07,844 --> 00:41:10,893
@@ -2818,11 +2820,12 @@ Silloin yrittää oppia muista uskonnoista,
 
 655
 00:43:56,377 --> 00:43:59,031
-ja huomaa, että perusolemus on sama kaikissa uskonnoissa.
+ja huomaa, että perusolemus
+on sama kaikissa uskonnoissa.
 
 656
 00:43:59,182 --> 00:44:00,462
-Mitä taisteltavaa siinä on?
+Mistä pitää vielä taistella?
 
 657
 00:44:00,558 --> 00:44:02,396
@@ -2922,7 +2925,7 @@ Olen erittäin kollektiivinen.
 
 678
 00:45:06,600 --> 00:45:10,079
-En ole lapsesta saakka ollut mitenkään valikoiva.
+ Lapsesta saakka en ole ollut mitenkään valikoiva.
 
 679
 00:45:10,318 --> 00:45:12,868
@@ -3146,8 +3149,8 @@ Jos he ovat täysin rahan yläpuolella,
 
 729
 00:48:01,284 --> 00:48:05,532
-vain silloin ihmiset kunnioittavat heitä;
-muuta tietä ei ole.
+vain silloin ihmiset kunnioittavat heitä,
+muuten eivät.
 
 730
 00:48:05,754 --> 00:48:07,880
@@ -3287,8 +3290,7 @@ se on hyvin iloa tuottavaa.
 
 762
 00:49:48,142 --> 00:49:50,287
-Tuntee itsensä niin itsevarmaksi,
-niin onnelliseksi,
+Silloin tuntee olonsa itsevarmaksi ja onnelliseksi,
 
 763
 00:49:50,414 --> 00:49:53,016
@@ -3343,7 +3345,7 @@ Kun ihmiset ovat kuolleet
 
 774
 00:50:20,724 --> 00:50:22,462
-ihmiset kertovat heistä.
+ihmiset puhuvat heistä.
 
 775
 00:50:22,637 --> 00:50:25,199
@@ -3408,7 +3410,7 @@ Näillä ihmisillä on paljon kokemuksia siitä.
 
 789
 00:51:10,478 --> 00:51:13,470
-Eräs nuori nainen, joka oli sahaja-joogini,
+Eräs nuori nainen, joka on sahaja-joogini,
 
 790
 00:51:14,188 --> 00:51:18,991
@@ -3478,7 +3480,7 @@ Mutta ihmiset eivät halua ottaa
 Hänen apuaan vastaan.
 
 805
-00:52:00,856 --> 00:52:04,214
+00:52:00,856 --> 00:52:05,145
 Silloin Jumala sanoo: "Hyvä on, hakatkaa
 päätänne seinään. Minkäs sille mahtaa?"
 
@@ -3496,7 +3498,7 @@ Eilen esimerkiksi tuli se kaveri.
 
 809
 00:52:15,300 --> 00:52:17,280
-Hän oli sitten kuin hakattu koira.
+Hän olikin sitten kuin piesty koira.
 
 810
 00:52:17,377 --> 00:52:20,780
@@ -3731,7 +3733,7 @@ ja Hänellä on poika. Pojalla on oltava Äiti.
 
 862
 00:55:34,611 --> 00:55:36,597
-He eivät halunneet naista sinne, kuvittele.
+Mutta naista ei haluttu sinne, kuvittele.
 
 863
 00:55:36,622 --> 00:55:39,272
