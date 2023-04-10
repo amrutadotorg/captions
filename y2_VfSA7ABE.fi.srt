@@ -1,9 +1,9 @@
 ﻿1
-00:00:03,293 --> 00:00:08,007
-Vaivattomuus on ainoa tie meditaatioon
+00:00:02,396 --> 00:00:08,007
+"Vaivattomuus on ainoa tie meditaatioon"
 
 2
-00:00:08,768 --> 00:00:11,753
+00:00:08,768 --> 00:00:13,435
 Lontoo, Englanti,1980
 
 3
@@ -25,17 +25,17 @@ teillä on ongelma.
 
 7
 00:00:40,735 --> 00:00:44,000
-Olen nähnyt, että jos ihmiset oirehtivat
+Olen nähnyt, että jos ihmiset on tuntemuksia
 meditaation aikana,
 
 8
 00:00:44,125 --> 00:00:46,536
-he rupeavat hoitamaan sitä.
+he rupeavat hoitamaan niitä.
 
 9
 00:00:46,703 --> 00:00:50,083
 Teidän ei tarvitse olla huolissanne.
-Annatte sen vain mennä,
+Annatte niiden vain mennä,
 
 10
 00:00:50,283 --> 00:00:53,459
@@ -46,7 +46,7 @@ ja kaikki hoituu itsestään.
 Se sujuu helposti.
 
 12
-00:01:01,751 --> 00:01:02,999
+00:01:01,536 --> 00:01:02,784
 Hyvä.
 
 13
@@ -78,7 +78,7 @@ Se tietää kaiken.
 
 19
 00:01:37,540 --> 00:01:42,645
-Teidän ei siis tarvitse huolehtia siitä, 
+Teidän ei siis tarvitse huolehtia siitä,
 mitä teidän täytyy tehdä,
 
 20
@@ -148,19 +148,19 @@ Vaivattomuus on ainoa tie meditaatioon,
 
 35
 00:02:41,419 --> 00:02:43,944
-mutta siihen ei pidä suhtautua letargisesti -
+mutta siihen ei pidä suhtautua letargisesti –
 
 36
 00:02:44,000 --> 00:02:46,878
 pitää olla valppaana ja tarkkailla sitä.
 
 37
-00:02:47,042 --> 00:02:49,677
+00:02:47,042 --> 00:02:49,781
 Toinen puoli voi olla se, että
 ihmiset torkahtelevat. Ei!
 
 38
-00:02:49,820 --> 00:02:53,777
+00:02:49,844 --> 00:02:53,777
 Teidän on oltava valppaina.
 Jos nukahdatte, mikään ei toimi.
 
@@ -176,7 +176,7 @@ ehdottoman tietoisia,
 
 41
 00:03:09,042 --> 00:03:13,876
-täysin ponnistelematta – täysin vaivattomasti.
+täysin rentoja – tekemättä mitään.
 
 42
 00:03:14,000 --> 00:03:19,485
@@ -223,7 +223,7 @@ Sitä ei pidä ohjailla. Sille ei pidä tehdä mitään.
 
 52
 00:04:03,991 --> 00:04:08,296
-Älkää yrittäkö mitään, olkaa täysin rauhallisia.
+Olkaa vain rentoja, tekemättä mitään.
 
 53
 00:04:08,526 --> 00:04:12,481
@@ -270,7 +270,7 @@ Mitään mantroja ei tarvitse lausua,
 
 63
 00:04:45,539 --> 00:04:48,334
-mutta jos se on mielestänne mahdotonta –
+mutta jos se on mielestänne mahdotonta,
 voitte sanoa Minun nimeni,
 
 64
@@ -292,8 +292,8 @@ mutta mielessä olevan ajatuksen, tunteen
 
 68
 00:05:03,667 --> 00:05:08,927
-pitäisi olla se, että meidän on nyt ojennettava
-kätemme sille, ja sen pitäisi toimia.
+pitäisi olla se, että meidän on nyt avattava
+kätemme sille, ja se alkaa toimia.
 
 69
 00:05:09,125 --> 00:05:13,904
@@ -302,7 +302,7 @@ Kun tämä tunne on aivan täydellinen,
 70
 00:05:14,825 --> 00:05:19,126
 ei ole tarvetta sanoa mitään mantraa,
-menette sen yläpuolelle.
+nousette sen yläpuolelle.
 
 71
 00:05:21,078 --> 00:05:23,519
@@ -310,7 +310,7 @@ On siis oltava täysin tekemättä mitään,
 
 72
 00:05:23,694 --> 00:05:28,591
-aivan rauhassa. Siitä on kyse.
+yrittämättä mitään. Siitä on kyse.
 
 73
 00:05:37,000 --> 00:05:40,995
@@ -340,7 +340,7 @@ Tällä hetkellä teidän ei tarvitse ajatella ketään muuta.
 
 79
 00:06:03,619 --> 00:06:07,770
-mutta ottakaa se vain vastaan, ottakaa vain vastaan.
+ottakaa vain vastaan, ottakaa vain vastaan.
 
 80
 00:06:07,905 --> 00:06:11,684
@@ -357,7 +357,7 @@ jotka vain ottavat vastaan.
 
 83
 00:06:31,420 --> 00:06:33,953
-Teillä on ongelmia – siksi olette täällä,
+Teillä on ongelmia, siksi olette täällä,
 
 84
 00:06:34,000 --> 00:06:39,126
@@ -392,7 +392,7 @@ molemmat kädet rentoina tällä tavalla.
 
 91
 00:07:14,634 --> 00:07:17,766
-Istukaa mukavasti, ette saisi tuntea
+Istukaa mukavasti. Ette saisi tuntea
 oloanne mitenkään epämukavaksi.
 
 92
@@ -418,14 +418,14 @@ Minun Kundaliiniini, jos voitte.
 Voitte tulla Kundaliniini, ja se tapahtuu.
 
 97
-00:07:36,845 --> 00:07:40,792
+00:07:36,845 --> 00:07:42,024
 Hyvä, juuri noin, käsien pitäisi
-olla näin, suorina.
+olla näin, sormet ojennettuina.
 
 98
 00:07:47,613 --> 00:07:52,498
 Vaivattomuus on siis avainsana,
-eli täysin vaivattomasti,
+täydellinen vaivattomuus,
 
 99
 00:07:52,673 --> 00:07:58,834
