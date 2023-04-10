@@ -48,8 +48,8 @@ polttaa pois kaiken tarpeettoman.
 
 12
 00:01:09,022 --> 00:01:14,641
-Kuten kaikki talossamme olevat
-turhat tavarat me viemme pihalle
+Kuten kaikki talossamme olevat turhat tavarat,
+me viemme pihalle
 
 13
 00:01:14,744 --> 00:01:19,077
@@ -66,7 +66,7 @@ kaikki turhat halut, turhat tekemisen ajatukset,
 
 16
 00:01:30,886 --> 00:01:37,850
-kaikenlaisten turhien tunteiden ja egon kasaantumiset,
+kaikenlaisten turhien tunteiden ja egon kasaantumat,
 
 17
 00:01:37,921 --> 00:01:41,185
@@ -144,11 +144,11 @@ Se voi pitää osan liasta sisällään.
 33
 00:03:16,176 --> 00:03:20,083
 Jos veteen laitetaan väriä,
-se omaksuu sen värin.
+se ottaa värin itseensä.
 
 34
 00:03:20,330 --> 00:03:23,502
-Mutta Kundaliini ei omaksu.
+Mutta Kundaliini ei tee sitä.
 
 35
 00:03:24,637 --> 00:03:28,600
@@ -162,8 +162,8 @@ Hän polttaa sen pois,
 
 37
 00:03:34,240 --> 00:03:37,516
-mutta Hän ei ime sitä itseensä
-- Hän on puhdas.
+mutta Hän ei ime sitä itseensä,
+Hän on puhdas.
 
 38
 00:03:40,259 --> 00:03:42,865
@@ -185,7 +185,7 @@ hopeaa tuleen, ne voi puhdistaa.
 
 42
 00:04:04,859 --> 00:04:08,069
-Niiden puhdas muoto tulee esiin...
+Niiden puhdas muoto tulee esiin.
 Siitä sen tietää.
 
 43
@@ -196,12 +196,12 @@ veteen, ei tapahdu mitään.
 44
 00:04:14,029 --> 00:04:19,603
 Ne voi korkeintaan pestä ulkopuolelta.
-Mutta puhdistus läpikotaisin ei onnistu.
+Mutta perusteellinen puhdistus ei onnistu.
 
 45
 00:04:21,279 --> 00:04:27,700
 Ulkoisesti sen voi tehdä muilla keinoin, mutta
-Kundaliinin puhdistaa kokonaisvaltaisesti.
+Kundaliini puhdistaa kokonaisvaltaisesti.
 
 46
 00:04:29,515 --> 00:04:32,642
@@ -214,7 +214,7 @@ uudet, kirkkaat kasvot.
 
 48
 00:04:41,546 --> 00:04:49,235
-Ne eivät ole valjut eivätkä kovin kuumottavat,
+Ne eivät ole valjut eivätkä punottavat,
 
 49
 00:04:49,807 --> 00:04:54,882
@@ -223,5 +223,5 @@ eivät myöskään kalpeat ja ruman näköiset,
 50
 00:04:55,036 --> 00:05:02,467
 mutta ne muuttuvat säteileviksi.
-Säteilyä, sitä Kundaliini teille antaa.
+Säteilyä, sitä Kundaliini antaa teille.
 
