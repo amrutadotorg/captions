@@ -25,7 +25,7 @@ teillä on ongelma.
 
 7
 00:00:40,735 --> 00:00:44,000
-Olen nähnyt, että jos ihmiset on tuntemuksia
+Olen nähnyt, että jos ihmisillä on tuntemuksia
 meditaation aikana,
 
 8
@@ -43,7 +43,7 @@ ja kaikki hoituu itsestään.
 
 11
 00:00:54,808 --> 00:00:57,655
-Se sujuu helposti.
+Onnistuuko?
 
 12
 00:01:01,536 --> 00:01:02,784
@@ -83,7 +83,7 @@ mitä teidän täytyy tehdä,
 
 20
 00:01:42,867 --> 00:01:45,999
-mikä nimi teidän täytyy sanoa ja
+mikä nimi pitää sanoa ja
 mitä mantroja lausua.
 
 21
