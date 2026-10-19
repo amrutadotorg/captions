@@ -1,0 +1,6 @@
+# yt-dlp error output leaking into the working tree as filenames.
+# These are empty files whose names are error messages; they must never be
+# committed (see the cleanup incident of 2026-10-16).
+/An error occurred:*
+/watch?v=*
+/\ Newen and WMG*
