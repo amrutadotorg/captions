@@ -4,7 +4,6 @@ NOTE Video ID: e5eGxbSOmrE
 
 NOTE Language: pa
 
-
 00:00:03.100 --> 00:00:05.230
 [ਅਸਪਸ਼ਟ]
 
@@ -520,7 +519,7 @@ NOTE Language: pa
 ਨਰਵਸ ਸਿਸਟਮ ਰੋਜ਼ਾਨਾ ਗਤੀਵਿਧੀਆਂ ਵਿੱਚ ਸਰਗਰਮ ਹੁੰਦਾ ਹੈ
 ਅਤੇ ਜਿੰਨਾ ਜ਼ਿਆਦਾ ਤੁਸੀਂ ਤਣਾਅ ਵਿੱਚ ਹੁੰਦੇ ਹੋ, ਉੱਨਾ ਹੀ ਜ਼ਿਆਦਾ ਇਹ
 
-00:11:35.410 --> 00:11:40.660
+00:11:35.410 --> 00:11:40.221
 ਸਰਗਰਮ ਹੁੰਦਾ ਹੈ।
 ਤਾਂ ਇਹ ਜੋ ਕਰਦੀ ਹੈ, ਇਹ ਸਾਰੀਆਂ ਮਾਸਪੇਸ਼ੀਆਂ ਨੂੰ ਵੱਧ ਤੋਂ ਵੱਧ ਖੂਨ ਪਹੁੰਚਾਉਂਦੀ ਹੈ
 
@@ -1148,7 +1147,6 @@ NOTE Language: pa
 00:26:24.602 --> 00:26:30.435
 ਆਰਾਮਦਾਇਕ ਦਿਮਾਗੀ ਕਿਰਿਆ ਦੇ ਡੂੰਘੇ
 
-
 +++++ raw_data/translation_prompts/gujarati/gujarati_merged.md
 You are an expert literary translator specializing in Gujarati. You translate English subtitle text into Gujarati with the same formal, respectful, and dignified tone as the original. Preserve proper nouns, names, and technical terms as-is. Output ONLY the translated Gujarati text, nothing else — no explanations, no labels.
 
@@ -1192,7 +1190,6 @@ Using surrounding context to understand sentence fragments, translate ONLY the m
 [Translate this]: with relaxed brain activity of deep
 [Next subtitle for context only]: attention and positive emotions, it increases
 
-
 +++++ raw_data/translation_prompts/hindi/hindi_merged.md
 You are an expert literary translator specializing in Hindi. You translate English subtitle text into Hindi with the same formal, respectful, and dignified tone as the original. Preserve proper nouns, names, and technical terms as-is. Output ONLY the translated Hindi text, nothing else — no explanations, no labels.
 
@@ -1231,7 +1228,6 @@ Using surrounding context to understand sentence fragments, translate ONLY the m
 [Previous subtitle for context only]: the state of mental silence is associated
 [Translate this]: with relaxed brain activity of deep
 [Next subtitle for context only]: attention and positive emotions, it increases
-
 
 +++++ raw_data/translation_prompts/marathi/marathi_merged.md
 You are an expert literary translator specializing in Marathi. You translate English subtitle text into Marathi with the same formal, respectful, and dignified tone as the original. Preserve proper nouns, names, and technical terms as-is. Output ONLY the translated Marathi text, nothing else — no explanations, no labels.
